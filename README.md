@@ -1,5 +1,5 @@
 # BOMOS
 
-[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS/index.html)
+[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Verdieping/index.html)
 
-[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS/snapshot.html)
+[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Verdieping/snapshot.html)
