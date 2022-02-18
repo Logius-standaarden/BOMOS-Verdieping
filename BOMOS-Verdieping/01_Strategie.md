@@ -1,7 +1,9 @@
-# De ontwikkel- en beheerorganisatie (Activiteit Governance)
+# Strategie
+
+## De ontwikkel- en beheerorganisatie (Activiteit Governance)
 Het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties. Het regelen van besluitvorming is cruciaal.
 
-## Organisatiestructuur
+### Organisatiestructuur
 In het BOMOS activiteitenmodel  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. Figuur 2 schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
 ![Organisatiestructuur](images/organisatiestructuur.png "Organisatiestructuur")  
@@ -31,16 +33,16 @@ De besluitvorming binnen de werkgroep kan afhankelijk zijn van de mogelijke deel
 
 In het figuur is een eenvoudige basisstructuur geschetst van bestuur, uitvoeringsorganisatie en werkgroepen. Facultatief kan daar een adviesorgaan en/of leveranciersgroep aan toegevoegd worden. Naast deze geschetste mogelijkheden zijn er nog vele alternatieven, zowel eenvoudiger als complexer. Welke structuur ook gekozen wordt, bij voorkeur worden de verslagen van de verschillende gremia openbaar ter beschikking gesteld.
 
-## Rollen en activiteiten.
+### Rollen en activiteiten.
 Eerder zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
 
 ![Rollen en Activiteiten](../media/nenactiviteiten2.png)
 
-### KADER: het zorgdomein
+#### KADER: het zorgdomein
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
 ![ Voorbeeld van toewijzing rollen aan stakeholders](../media/nenactiviteiten3.png)
 
-## Beheertaken uitvoering
+### Beheertaken uitvoering
 Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheeren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3 voor mogelijkheden.
 
 ![alt_text](images/beleggen_ontwikkeltaken.png "beleggen van ontwikkeltaken")
@@ -75,7 +77,7 @@ Het beleggen van alle taken bij een bestaande situatie klinkt ideaal, maar er is
 
 Daardoor is het in de praktijk vaak noodzakelijk om een nieuwe organisatie op te richten, als er binnen het domein nog geen organisatie bestaat gericht op standaardisatie. Optie 3, de combinatie van beide, betekent dat bepaalde taken door deze (nieuwe) specifieke domein standaardisatie organisatie worden opgepakt en andere taken door ander type organisaties, conform de beschrijving in deze paragraaf over het uitbesteden van taken.
 
-## De organisatievorm
+### De organisatievorm
 Of het nu slechts een deel van de taken of alle taken door de nieuwe organisatie uitgevoerd moeten gaan worden, de nieuwe organisatie moet in beide gevallen opgericht worden waarvoor een rechtsvorm nodig is. Nederland kent tal van organisatie rechtsvormen. Openheid van de standaard is absoluut een essentieel uitgangspunt. De definitie van openheid schrijft voor dat de (besluitvorming van de) standaard belegd wordt bij een not-for-profit organisatie. Daarmee worden een groot deel van de organisatievormen uitgesloten, en zijn slechts enkel voor de hand liggen, te weten:
 
 1. Stichting
@@ -102,7 +104,7 @@ Dit hoofdstuk beschrijft veelal relatief 'harde' invulling van de organisatie, d
 
 <p class="comment" style="color:red">
 
-### KADER: Template voor beheerdocument van Geonovum
+#### KADER: Template voor beheerdocument van Geonovum
 Om opdrachtgevers meer inzicht te geven in de activiteiten in het beheerproces van standaarden, hebben wij een generiek beheerdocument opgesteld. Hierin staat  wat Geonovum doet in elk activiteitengroep van het BOMOS-model. Voor elke door Geonovum te beheren standaard stelt Geonovum daarnaast een specifiek beheerdocument op. In dit specifieke beheerdocument zijn de aanvullende afspraken vastgelegd voor een standaard. In wezen biedt het specifieke beheerdocument het overzicht van meer- en minderwerk uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum op basis van het generieke en het specifieke beheermodel, onlangs ook een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en beheerde standaard is de benodigde basis inzet berekend. Deze basis gebruiken we vervolgens om een gerichte inschatting te kunnen maken van meer- en minderwerk zoals beschreven in het specifieke beheerdocument. Hierdoor kunnen we beheerkosten realistisch en onderbouwd inschatten.
@@ -115,12 +117,12 @@ Dit is ook voor andere organisaties te gebruiken: om het rekenmodel te kunnen ge
 
 Inhoudelijke visie ontwikkelen over de richting van de standaard in de context: De plek op de horizon op de lange termijn. Een compacte vertaling in bijvoorbeeld een factsheet van deze visie kan ook zeer nuttig zijn in de communicatie rond de standaard en het bevorderen van adoptie van de standaard. Ook moet er aandacht zijn voor innovatie; veel organisaties gebruiken daar hulpmiddelen voor als een radar, of specifiek een tech-radar; daarin worden innovatieve ontwikkeling geplot op een radar op basis van tijd en impact. Dit soort hulpmiddelen zijn ook hier van toepassing. De visie voor een standaard is op zich niet anders dan de visie rond een bedrijf/product, etc. Vandaar dat BOMOS hier geen specifieke invulling voor standaarden aan geeft. De verdere detailering van de in de visie benoemde innovatie onderwerpen zal veelal op tactisch niveau plaatsvinden, bijvoorbeeld als onderdeel van Architectuur.
 
-# De kosten en de opbrengsten (Activiteit: Financien)
+## De kosten en de opbrengsten (Activiteit: Financien)
 Een financieel model voor de lange termijn hebben die opbrengsten garandeert in overeenstemming met de behoefte is het voornaamste doel van deze activiteit.
 Een standaard ontwikkelen en beheren kost structureel geld. De hoeveelheid is sterk afhankelijk van de context en dynamiek van de standaard en het is niet eenvoudig hier generieke uitspraken over te doen. De eerste ontwikkelingen starten vaak met projecten die beginnen met budgetten vanaf 30.000 euro tot vele malen groter. Een eerste project levert ook niet direct een standaard op, maar heeft in een werkgroep de mogelijkheden en scope van een standaard onderzocht. Na de initiële ontwikkeling moet de standaard structureel worden beheerd en doorontwikkeld. Er zijn cases bekend die het beheer met budgetten in de order van 250.000 tot 900.000 euro (per jaar) hebben georganiseerd. Tot op heden is hier weinig onderzoek naar gedaan, met uitzondering van de Ethernet standaard: deze technische standaard heeft $10 miljoen dollar gekost om te ontwikkelen. Andere informatie bekend uit literatuur is dat de opbrengsten van verkoop van ISO standaarden voor de helft voorziet in de kosten die ISO maakt in de ontwikkeling en beheer van de ISO standaarden.
 
 
-## De baten van standaardisatie generiek
+### De baten van standaardisatie generiek
 Er mogen dan weinig cijfers beschikbaar zijn maar er is voldoende economisch onderzoek gedaan naar de vooren nadelen van standaardisatie. Bijgaande tabel geeft een samenvatting:
 
 |  | Positive effects | Negative effects |
@@ -142,7 +144,7 @@ Positieve netwerkeffecten (wordt waardevoller met meer gebruikers)
 *   Schaalvoordeel
 *   Verlagen transactiekosten
 
-## Kosten en opbrengsten
+### Kosten en opbrengsten
 Wel is het mogelijk om te kijken naar de mogelijke kostenposten en opbrengsten van het beheer van standaarden. De balans vat deze samen.
 
 | Debet | Credit |
@@ -157,14 +159,14 @@ Wel is het mogelijk om te kijken naar de mogelijke kostenposten en opbrengsten v
 | Tooling (Licenties) |  |
 | Financieringskosten |  |
 
-### Debet
+#### Debet
 De voornaamste kosten zullen in principe gerelateerd zijn aan de personeelskosten voor de primaire taak van de organisatie; de ontwikkeling van nieuwe functionaliteit en het onderhouden van al bestaande functionaliteit in de standaarden. De standaarden worden gepubliceerd en mogelijk ook promotioneel onder de aandacht gebracht waarvoor communicatiekosten gemaakt worden. Bij communicatiekosten kan men naast de personeelskosten denken aan kosten voor het optuigen van een communicatieplatform, het organiseren van bijeenkomsten, de website en bijvoorbeeld drukwerk.
 
 Vaak worden er specifieke software tools gebruikt zoals datamodelleersoftware waarvoor licentiekosten betaald moeten worden. Een andere potentiële kostenpost is de deelname aan verwante standaardisatieorganisaties waarvoor lidmaatschapskosten worden gerekend. In verschillende communities kan deze post variëren van 0 tot 15% en hoger, van het totale budget. Daarbij zijn dan vaak ook reiskosten noodzakelijk voor de internationale bijeenkomsten. Standaard bedrijfsvoeringkosten zijn ook van toepassing zoals ICTvoorzieningen (kantoorautomatisering), huisvesting en kosten van de accountant voor de jaarrekening. Goodwill kan ook als kostenpost worden beschouwd. Goodwill is dan de investeringen die men in de omgeving moet plegen die niet direct bijdragen aan de standaard zelf, zoals het deelnemen aan bijeenkomsten en accountmanagement. Vaak is dit een investering om goodwill van anderen in return te krijgen (als opbrengst). Tot slot zijn er de financieringskosten waarmee de activiteiten worden bedoeld om inkomsten te genereren voor de standaardisatieactiviteiten. Afhankelijk van het financieringsmodel kunnen dat kosten zijn voor het verwerven van leden tot aan het aanvragen van subsidies en dergelijke.
 
 De verhoudingen kunnen door de tijd verschuiven, bijvoorbeeld in een bepaalde fase van een standaard kan er pas op de plaats gemaakt worden met de ontwikkeling en wordt de focus verlegd op de communicatie om de adoptie van de standaard te bevorderen. In lijn hiermee zullen kosten verschuiven van ontwikkeling naar communicatie.
 
-### Credit
+#### Credit
 Potentiële bronnen van inkomsten zijn bijvoorbeeld stakeholders die geld uit de structurele begroting beschikbaar stellen voor de standaard. Dat kan een ministerie zijn, maar even goed een brancheof belangenorganisatie. Op dezelfde manier kunnen deze organisaties ook tijdelijk voor een bepaald doel (project)financiering beschikbaar stellen. Daarnaast, aangezien standaarden een maatschappelijk en economisch belang hebben, zijn er vaak mogelijkheden voor subsidie. Deze subsidies zijn ook een mogelijke bron van inkomsten; maar het verkrijgen daarvan kan omslachtig zijn, en er kunnen beperkende voorwaarden zijn voor de inzet van het geld.
 
 Structurele financieringsvormen verdienen de voorkeur boven tijdelijke (project) financieringsvormen. Niemand zal namelijk een standaard willen implementeren waarvan het onzeker is of die volgend jaar nog wel beheerd wordt omdat de standaard werkt met aflopende projectfinanciering. Daarnaast is structurele financiering een eis voor opname op de pas-toe of leg-uit lijst met open standaarden van het Forum Standaardisatie.
@@ -177,7 +179,7 @@ Naast de structurele financiering uit de begroting van een belangrijke stakehold
 
 Voor een volwassen standaard is het eenvoudiger om inkomsten te genereren uit de standaard zelf of aanverwante diensten, maar daarbij moet men voorzichtig te werk gaan om zo min mogelijk weerstand tegen de standaard te creëren. Een standaard die zichzelf kan financieren uit inkomsten, bijvoorbeeld door lidmaatschapsgeld en licentie-inkomsten, kan nog steeds een open standaard zijn. Winst maken is uit den boze. Om dit te voorkomen kan de organisatievorm een belangrijke rol spelen.
 
-## Geschiktheid van opbrengsten bronnen
+### Geschiktheid van opbrengsten bronnen
 
 De vorige paragraaf schetste een beeld van potentiële opbrengsten. De keuze van welke bronnen voor opbrengsten aangeboord worden is situationeel, maar deze paragraaf tracht te ondersteunen bij het maken van de keuzes voor geschikte bronnen van inkomsten.
 
@@ -206,7 +208,7 @@ Daarnaast hanteren we een drietal uitgangspunten:
 
 Op basis van deze uitgangspunten hebben licenties vanwege de beperkte openheid, maar vooral omdat het adoptie belemmerend werkt, een twijfelachtige status. Dit geldt zowel voor betalen voor het specificatiedocument, als wel op betalen voor gebruik van de standaard. Gezien de ongewenstheid wordt dit niet beschouwd als potentiële opbrengsten bron voor een open standaard.
 
-### Ad 1. Onderscheid tussen ontwikkeling en beheer
+#### Ad 1. Onderscheid tussen ontwikkeling en beheer
 Een onderscheid tussen initiële ontwikkeling en lopend beheer is relevant omdat de eerste over het algemeen eenvoudiger te financieren is dan de tweede. Opdrachtgevers zijn in de meeste gevallen wel geneigd om een project te financieren rond een bepaald probleem waarin een standaard de oplossing is. Als de standaard eenmaal ontwikkeld is in het project, dan is het echter een stuk lastiger om de continue financiering te vinden voor het beheer. Regelmatig haken de initiële opdrachtgevers af, of op zijn minst is er veel overtuiging nodig voor nut en noodzaak voor continue financiering. Uitleggen wat onder lopend beheer valt is dan ook noodzakelijk: de standaard aanpassen aan de veranderende omgeving. Bijvoorbeeld wetgeving is veranderd, afhankelijke standaarden zijn veranderd, of innovaties op technisch vlak. Lopend beheer kan wel leiden tot een nieuwe versie van een standaard. (Overigens soms, bijvoorbeeld door het NEN, wordt beheer nauwer gedefinieerd als het beschikbaar houden op een website, en kan beheer niet leiden tot een nieuwe versie van een standaard)
 
 Projectfinanciering en subsidie zijn op zich prima voor incidentele zaken zoals de initiële ontwikkeling maar ook specifieke uitbreiding van de standaard. Echter aangezien ze niet structureel zijn, is het minder handig deze bronnen in te zetten voor het beheer van een standaard. Structureel op de begroting (bijv. financiering door overheid) is natuurlijk een ideaal scenario, maar niet voor elke beheerorganisatie weggelegd. Bij het ontbreken hiervan wordt het nagenoeg noodzakelijk om een lidmaatschapsmodel te bestuderen. De gewenstheid van het lidmaatschapsmodel (soms ook contributie of participanten genoemd aangezien een stichting geen leden mag hebben) is afhankelijk van de voordelen die exclusief voor de leden gelden, en het kostenaspect. Als iedereen kan participeren tegen gediversifieerde tarieven dan is dit een acceptabel alternatief. Bijvoorbeeld op type organisatie en omzet. Het lidmaatschapsgeld mag voor geen enkele deelnemer een grote barriÃ¨re vormen. Als er geen voordelen aan het lidmaatschap verbonden zijn zal niemand geneigd zijn om deel te nemen.
@@ -219,7 +221,7 @@ Voordelen van een lidmaatschap liggen op een tweetal punten:
 Sommige standaardisatieorganisaties maken in hun tarieven onderscheid tussen sturende leden en deelnemende leden. Dit begint wel twijfelachtig te zijn in relatie tot openheid. Ook wordt soms getracht veel opbrengsten bij leveranciers te behalen maar dit kan de adoptie van de standaard schaden.
 
 
-### Ad 2. Mate van volwassenheid
+#### Ad 2. Mate van volwassenheid
 Als een standaard een grote mate van volwassenheid heeft, gekenmerkt door brede adoptie van de standaard, dan is dienstverlening door de beheerorganisatie ook een potentiële inkomstenbron. Te denken valt aan verschillende vormen van dienstverlening:
 
 *   certificering
@@ -236,7 +238,7 @@ Kort samengevat zal dienstverlening een inkomstenbron zijn die naar mate de stan
 
 Overigens zijn de kosten van het beheren van een standaard ook niet gelijk door de jaren heen. Sommige kostenposten kunnen flink veranderen. Tegenwoordig zien we posten als tactisch beheer flink stijgen, vooral door de relaties tussen de vele (internationale) standaarden die afstemming vergen. Indien de adoptie van de standaard succesvol is zal ook een post als implementatieondersteuning flink kunnen stijgen.
 
-## Kostenbesparingen bij standaardisatie
+### Kostenbesparingen bij standaardisatie
 Natuurlijk wordt de vraag gesteld of standaarden niet goedkoper kunnen worden ontwikkeld en beheerd. Dat is niet eenvoudig want veel standaardisatie-initiatieven, in het bijzonder ook in industriestandaardisatie, hebben de volgende kenmerken:
 
 *  minimale kostenoriëntatie
@@ -268,7 +270,7 @@ Besparingen door middel van innovatieve aanpakken in het ontwikkelproces kunnen 
 
 Echter open source software ontwikkelen is niet gelijk aan open standaard ontwikkeling. Hetzelfde proces hanteren is dus een valkuil. Bij standaarden gaat het om complexe materie en functionaliteit, waarbij wederzijds begrip en ook vertrouwen van groot belang zijn. Directe communicatie, face-to-face en telefonische conferenties zullen hier belangrijk zijn. Efficiëncy betekent de juiste mate van face-to-face, teleconferenties, en eventueel mailinglist  gebruik, onder andere voor het afhandelen van de technische zaken. In andere woorden: innovatieve ontwikkelaanpakken zoals de pressure cooker en gebruik van Web 2.0 (zie hoofdstuk 7) kunnen zeker besparingen opleveren, maar zullen kostbare face-to-face meetings niet vervangen.
 
-## De business case
+### De business case
 De business case van standaardisatie is een veel gehoord onderwerp. Voordat het besluit tot investering genomen kan worden is eerst inzicht in de business case noodzakelijk. Eigenlijk gaat het om verschillende business cases:
 
 1. De business case van de standaard (oftewel de keten)
@@ -281,7 +283,7 @@ Kwantitatieve onderzoeken naar de business case van standaardisatie zijn lastig 
 
 Bijzondere aandacht verdient ook business case type 3: Vervangende standaard/ nieuwe versie. Hiervoor is het relatief eenvoudig de business case op te stellen, maar deze is in de praktijk niet positief te krijgen. Bijvoorbeeld rond e-facturatie: Als een organisatie al e-factureert met bijvoorbeeld UBL of SETU, dan is de business case naar een nieuwe standaard (UN/CEFACT Cross Industry Invoice) niet of nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er geen positieve business case voor de nieuwe/andere standaard is, zolang er geen interoperabiliteitsprobleem is. EÃ©n van wereldwijd meest succesvolle standaard, RosettaNet (www.rosettanet.org), illustreert dit ook: ondanks dat deze standaard al jaren een XML versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI versie, en nog steeds een lage adoptie van de XML versie.
 
-## Het opstellen van een business case
+### Het opstellen van een business case
 Ondanks de geschetste moeilijkheden en de verschillende poging-en die al gedaan zijn, proberen we toch een aanpak te schetsen die inzicht kan bieden in de business case. De aanpak in deze paragraaf beschreven is gebruikt om een business case voor een semantische standaard in de juweliersbranche op te stellen: Stappenplan:
 
 1. Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
@@ -291,7 +293,7 @@ Ondanks de geschetste moeilijkheden en de verschillende poging-en die al gedaan 
 De eerste drie stappen worden toegelicht:
 
 
-### Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
+#### Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
 De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie paragraaf 7.4).
 
 Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholder moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenarioâ€™s duidelijk zijn.
@@ -299,10 +301,10 @@ Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
 
-### Bepaal de kosten en baten in de keten op basis van het raamwerk.
+#### Bepaal de kosten en baten in de keten op basis van het raamwerk.
 In stap 2 wordt een kosten-baten model opgesteld. Wat zijn in generieke zin de eenmalige investeringen, de operationele kosten en de baten die van toepassing zijn op de standaard. Voor vele standaarden zal dat redelijk gelijk  zijn, vandaar dat gestart kan worden met het model uit de juweliersbranche, en deze vervolgens aan te passen waar nodig. Het model uit de juweliersbranche is hieronder weergegeven.
 
-### Verdeel de kosten en baten naar verschillende stakeholders.
+#### Verdeel de kosten en baten naar verschillende stakeholders.
 De verschillende kosten en baten zullen niet op alle stakeholders betrekking hebben, en ook de mate zal verschillen. In deze stap worden de kosten en baten uit het raamwerk van stap 2 een niveau dieper gespecificeerd, en toegekend aan de stakeholder met een gedefinieerde relatie.
 
 Op basis van dit eenvoudige stappenplan kan toch op een eenvoudige manier inzichten in de business case van een standaard ontstaan, zonder blind te focussen op de getallen. Uiteraard kan na stap 3 een poging gedaan worden om de geïdentificeerde kosten en baten uit te gaan drukken in geld.

@@ -1,8 +1,9 @@
+# Tactiek
 
-# De open invulling van een standaard (Activiteit Community)
+## De open invulling van een standaard (Activiteit Community)
 
 Openheid is een belangrijk aspect van een duurzame standaard. Maar wat betekent dat voor de beheerorganisatie?
-Dat kunnen we nader beschouwen door naar een definitie of model van een open standaard te kijken. Echter door de jaren heen is er veel discussie geweest rond de definitie van openheid. Veelal richt de discussie zich op de beschikbaarheid (gratis of nominale bedrag voor aanschaf), gebruiksrechten (het wel/niet toestaan van Intellectual Property Rights (IPR)/Royalty Free en standaardisatieproces (wel/niet gratis participatie). Het model van Krechmer geeft een neutraal en brede blik op openheid, vandaar dat we het in BOMOS hanteren. 
+Dat kunnen we nader beschouwen door naar een definitie of model van een open standaard te kijken. Echter door de jaren heen is er veel discussie geweest rond de definitie van openheid. Veelal richt de discussie zich op de beschikbaarheid (gratis of nominale bedrag voor aanschaf), gebruiksrechten (het wel/niet toestaan van Intellectual Property Rights (IPR)/Royalty Free en standaardisatieproces (wel/niet gratis participatie). Het model van Krechmer geeft een neutraal en brede blik op openheid, vandaar dat we het in BOMOS hanteren.
 
 ### Krechmer's open standaarden model: '10 requirements'
 
@@ -120,7 +121,6 @@ De technische standaarden zijn randvoorwaardelijk, maar de echte uitdaging ligt 
 Om het nog complexer te maken zijn er standaarden die gebruikt worden om standaarden te maken, denk bijvoorbeeld aan de standaard UML, als taal om diagrammen te tekenen die bijvoorbeeld het proces en data-model van een standaard bevatten.
 
 ### De relatie met internationale standaarden
-
 BOMOS focust zich op de semantisch standaarden. Semantische standaarden kennen een ongekende complexiteit in vergelijking met andere standaarden en worden anders ontwikkeld en beheerd. Het merendeel van de IT-standaarden wordt al buiten de officiële standaardisatieorganisaties (zoals ISO en NEN) ontwikkeld, namelijk in zogenoemde industrieconsortia zoals W3C en OASIS. Wanneer we naar semantische standaarden kijken, gaat het echter nog een stap verder aangezien die grotendeels door een eigen organisatie ontwikkeld worden.
 
 De praktijk laat zien dat alleen een onderscheid tussen horizontale en verticale standaarden te beperkt is. Internationale verticale standaarden hebben vaak nog een specifieke invulling nodig om bijvoorbeeld in de context van een land (zoals Nederland) perfect te kunnen aansluiten bij de bedrijfsprocessen in die context. Dit is noodzakelijk om interoperabiliteit te kunnen behalen. Op nationaal niveau ontstaan dan standaarden, ook wel afspraken of toepassingsprofielen genoemd, die een verdere invulling bevatten van een internationale standaard. Daarnaast worden er ook regelmatig specifieke codelijstjes voor de nationale context toegevoegd. Dit leidt tot de volgende classificatie:
@@ -138,18 +138,14 @@ Tijdens de adoptiefase is nog wel eens een gehoorde opmerking dat men alleen de 
 
 Belangrijk aandachtspunt daarbij is dat in een situatie van bijvoorbeeld een internationale verticale standaard in combinatie met een nationaal toepassingsprofiel, dat voor beide een andere naam wordt gehanteerd om verwarring in de praktijk voorkomen.
 
-
 ### Voorbeelden van gelaagdheid van standaarden
-
 XBRL is een voorbeeld van een internationale verticale standaard (in de financiële sector) waarvoor nationale taxonomiën zijn opgesteld, bijvoorbeeld de US GAAP of in Nederland door het SBR programma.
 
 In het kader van e-factureren heeft de Nederlandse overheid gekozen voor een internationale horizontale standaard (UBL), en heeft men vervolgens zelf een factuurmodel ontwikkeld om de vrijheidsgraden te beperken. Dus ook hier is er sprake van een nationaal toepassingsprofiel om uiteindelijk interoperabiliteit te kunnen bereiken.
 
 Tot slot, ook binnen de standaarden zelf kan weer gelaagdheid ontstaan, op verschillende manieren. Tussen verticalen sector modellen en horizontale standaarden, en daarnaast worden ook andere (bv. technische) standaarden vaak samen toegevoegd om een totaal oplossing te bieden voor interoperabiliteit.
 
-
 ### Sector overstijgende interoperabiliteit: Verzuiling
-
 Door de sector-specifieke aanpak van de semantische standaarden ontstaat de angst voor verzuiling van sectoren. Interoperabiliteit over sectoren heen wordt niet opgelost, en wordt zelfs mogelijk steeds lastiger. Het potentiële probleem is alom bekend, en oplossingen worden daarvoor bedacht maar tot op heden stranden deze in zeer lage adoptie en gebrek aan draagvlak en ondersteuning. Dat kan twee oorzaken hebben;
 
 1. Het probleem van sectoroverstijgende interoperabiliteit wordt nog niet als nijpend beschouwd aangezien binnen de sector nog grotere uitdagingen liggen.
@@ -177,7 +173,6 @@ Dit probleem kan ondervangen worden door de werkgroep/pressure cooker onder te b
 Dit laatste is met name nuttig als de formele standaard veel breder (of voor een ander domein) van toepassing is maar dat de keuzes ook prima van toepassing zijn op 'onze' standaard. Wel leidt het tot vraagstukken rondom de openheid van het eindresultaat. Het NEN hanteert als vuistregel dat 10% overgenomen mag worden na overleg met het NEN. Dit laatste is ook noodzakelijk zodat NEN kan controleren of er geen patenten worden geschonden die op de formele standaarden kunnen rusten.
 
 **De kosten voor de implementaties:** Als verwezen wordt naar een bestaande formele standaard, dan zal elke leverancier die de standaard wil implementeren deze formele standaard moeten aanschaffen. De eigen standaard kan dan wel open en gratis beschikbaar zijn, maar door de verwijzing creëren we toch een adoptiedrempel, en mogelijk risico dat de standaard verkeerd geïmplementeerd wordt omdat men tijdens de implementatie besluit de formele standaard niet aan te schaffen. Dus worden alle implementatie-partijen opgezadeld met kosten en wordt zo toch een adoptie en interoperabiliteits-drempel gecreëerd, wat niet de bedoeling was.
-
 
 ### Strategieën voor omgang met lokalisatie profielen
 Als we in een nationale, sectorspecifieke context, een internationale standaard willen gebruiken, dan creëren we een belangrijke afhankelijkheid. De invulling van de relatie tussen de nationale en internationale standaard kan op verschillende manieren worden ingevuld, afhankelijk van de context en de gekozen strategie. Idealiter wordt gewoon de internationale standaard volledig geadopteerd, maar in de praktijk weten we dat een internationale standaard bijna nooit een op een overgenomen kan worden; soms zijn veranderingen beperkt: slechts wat extra zaken die voor de specifieke nationale context toegevoegd moeten worden om interoperabiliteit te kunnen bereiken.
@@ -395,7 +390,7 @@ Voor een standaardisatie-organisatie zijn dit aangrijpingspunten om de adoptie b
 3. Via financiële middelen kan de migratie naar een standaard meer prioriteit krijgen in het portfolio management proces.
 4. Tenslotte kan door bijvoorbeeld het bieden van modelbestekken de adoptie worden versneld op het gebied inkoop.
 
-## KWALITEITSBELEID EN BENCHMARKING
+## Kwaliteitsbeleid en benchmarking
 
 ### Kwaliteit van standaarden
 
@@ -416,7 +411,6 @@ Overigens laten de uitkomsten ook zien dat standaardisatieontwikkelaars zeker ge
 Een grotere waarschijnlijkheid is de relatie tussen het budget en de kwaliteit van standaarden. Standaarden worden vaak met een miniem budget ontwikkeld wat ongetwijfeld consequenties heeft voor de kwaliteit, bijvoorbeeld doordat het budget op is de standaard wordt opgeleverd terwijl eigenlijk nog een ronde van review en verwerking een betere standaard zou opleveren.
 
 Een andere mogelijke reden is het gebrek aan standaardisatie-expertise, aangezien het nog te weinig als 'vak' wordt gezien. Ook het polderen bij het standaardiseren met werkgroepen draagt niet positief bij. Regelmatig worden te veel opties in standaarden opgenomen om alle deelnemers in werkgroepen tegemoet te komen. Het resultaat is een te complexe standaard die in de praktijk slecht implementeerbaar is en leidt tot niet interoperabele implementaties die allemaal wel voldoen aan de standaard.
-
 
 #### Een kwaliteitsinstrument
 Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken. Dit is complexe materie wat nog in de kinderschoenen staat. Voorlopig is er een eerste versie van een kwaliteitsmodel beschikbaar.
@@ -569,4 +563,4 @@ Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de inter
 #### De praktijk
 Terwijl validatie zeer gebruikelijk is geldt dit zeker niet voor certificatie. Over het algemeen wordt dit als 'gevaarlijk' gezien, en zou alleen toegepast moeten worden als het zeer zorgvuldig is ingericht. Het betekent immers nogal wat: een leverancier die het certificaat niet krijgt kan daarmee nadelige gevolgen ondervinden in de markt. De leverancier kan overgaan tot rechtszaken om het certificaat te bemachtigen. Dat leidt tot kosten voor de beheerorganisatie en negatieve publiciteit. Daarnaast is de standaardisatieorganisatie in veel gevallen afhankelijk van de kennis van leveranciers in de werkgroepen voor de totstandkoming van de standaard. Mogelijkerwijs staakt de leverancier ook de medewerking aan de werkgroep. De standaardisatieorganisatie kan zijn neutraliteit verliezen, wat schadelijk is voor adoptie en verdere ontwikkeling van de standaard.
 
-Daardoor zijn er meerdere semantische standaardisatieorganisaties die certificering overwogen hebben, maar tot op heden wordt certificering weinig toegepast. 
+Daardoor zijn er meerdere semantische standaardisatieorganisaties die certificering overwogen hebben, maar tot op heden wordt certificering weinig toegepast.
