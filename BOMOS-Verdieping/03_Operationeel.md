@@ -131,14 +131,16 @@ Het gebruik van de pressure cooker wordt in standaardisatie-land nog niet veel g
 ## Voorbeeld: Documentatie (en Publicatie) met Git en Respec
 Er is een breder keuze aan digitale applicaties die gebruikt kunnen worden voor standaarden beheer, al zijn ze hier niet altijd voor bedoeld. Samenwerkingsapplicaties voor documentbeheer of softwareontwikkeling kunnen worden toegepast om beheerders en betrokkenen toegang te geven tot documentatie of zelfs om gebruikers de documentatie bij te laten werken.
 
-Een voorbeeld is het gebruik van Git en Respec voor het operationeel beheer. Git is een applicatie voor wijzigngsbeheer bij softwareontwikkeling. Er is een aantal webomgevingen voor samenwerking aan code die gebruik maken van git zoals [https://github.com] en [https://gitlab.com].
+Een voorbeeld is het gebruik van Git en Respec voor het operationeel beheer. Git is een applicatie voor wijzigingsbeheer bij softwareontwikkeling. Er is een aantal webomgevingen voor samenwerking aan code die gebruik maken van git zoals [https://github.com] en [https://gitlab.com].
 
 Respec is een applicatie om van documenten om te zetten in documentatie die online gepubliceerd kan worden. Het beheer van specificaties verloopt steeds vaker via een automatisch proces. Waar het in het verleden nog gebruikelijk was om losse documenten te delen binnen werkgroepen, stappen steeds meer beheerorganisaties over naar (git) repositories om teksten in te beheren. Hoewel deze omgevingen van oorsprong bedoeld zijn om programma code in te beheren, zijn deze ook goed bruikbaar voor het beheer van ‘leesbare’ tekst. Door gebruik van een responsive layout kan de documentatie onafhankelijk van schermgrootte leesbaar getoond worden. Respec maakt automatisch een inhoudsopgave waarmee een gebruiker snel door de documentatie kan browsen. Respec is specifiek bedoeld voor technische documentatie en het sluit goed aan bij applicaties voor softwareontwikkeling zoals Git.
 
 ### Git en Github
-
 Door gebruik te maken van dezelfde gereedschappen als voor het beheer van programmacode kan het beheerproces automatisch ondersteund worden. Documentatie wordt ondergebracht in een online _repository_. Een repository is meer dan een archief voor code. Binnen Github en Gitlab, online omgevingen voor Git repositories, kunnen issues ingediend worden door gebruikers, zijn projectmanagementtools beschikbaar en kunnen automatische acties op een repository uitgevoerd worden. Het is in Github mogelijk om controles uit te voeren, bijvoorbeeld op basis van toegankelijkheid of op ontbrekende verwijzingen.
 
-### Issuebeheer
+### Wijzigingsbeheer
+In een Git omgeving zoals Github kunnen ook verzoeken tot wijzigingen (genaamd _issues_ in git) ingediend worden, die dan weer tot wijziging in de code kunnen leiden. Issues kunnen in principe door iedere gebruiker worden ingediend. Een wijzigingsverzoek wordt verwerkt door de beheerder van de repository. Een issue kan worden toegewezen aan een ontwikkelaar en worden door de beheerder geagendeerd voor overleggen door ze te labelen. Door een _issue_ een label _Technische overleg_ te geven kan gefilterd worden op alle issues die relevant zijn voor dat overleg.  
 
-In een Git omgeving zoals Github kunnen ook issues ingediend worden, die dan weer tot wijziging in de code kunnen leiden. Issues kunnen in principe door iedere gebruiker worden ingediend. Een issue wordt verwerkt door de beheerder van de repository. Een issue kan worden toegewezen aan een ontwikkelaar.
+Omdat de wijzigingen op de documentatie bijgehouden wordt met git kunnen deze gerelateerd worden aan het wijzigingsvoorstel waar ze bij horen. Hierdoor bevatten de issues een overzicht van alle wijzigingen die daaruit voortkomen.
+
+Binnen Github kunnen de lijsten met lopende wijzigingen bestemd voor een specifiek overleg automatisch gegenereerd worden.
