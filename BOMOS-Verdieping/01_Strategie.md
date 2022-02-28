@@ -36,11 +36,11 @@ In het figuur is een eenvoudige basisstructuur geschetst van bestuur, uitvoering
 ### Rollen en activiteiten.
 Eerder zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
 
-![Rollen en Activiteiten](../media/nenactiviteiten2.png)
+![Rollen en Activiteiten](BOMOS-Verdieping/media/nenactiviteiten2.png)
 
 #### KADER: het zorgdomein
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
-![ Voorbeeld van toewijzing rollen aan stakeholders](../media/nenactiviteiten3.png)
+![ Voorbeeld van toewijzing rollen aan stakeholders](BOMOS-Verdieping/media/nenactiviteiten3.png)
 
 ### Beheertaken uitvoering
 Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheeren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3 voor mogelijkheden.
