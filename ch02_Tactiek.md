@@ -110,7 +110,7 @@ Zoals eerder geschetst is interoperabiliteit het doel en zijn standaarden het mi
 
 Om interoperabiliteit (uitwisselbaarheid) te bewerkstelligen tussen organisaties of systemen is een complexe set van standaarden nodig. Dit maakt de materie uitermate lastig want het gaat niet meer om het kiezen of beheren van één standaard, maar het gaat om een set van standaarden die op sommige gebieden sterk aan elkaar gerelateerd zijn. Een onderscheid is daarbij te maken in standaarden voor technische zaken en standaarden voor de semantiek van informatie-uitwisseling. Het interoperabiliteitsraamwerk in onderstaand laat dit zien; tussen haakjes staan voorbeelden van standaarden waarmee dit kan worden ingevuld.
 
-![alt_text](BOMOS-Verdieping/images/gelaagdheid_van_standaarden.png "De gelaagdheid van standaarden")
+![alt_text](images/gelaagdheid_van_standaarden.png "De gelaagdheid van standaarden")
 
 Voor technische interoperabiliteit moeten er keuzes gemaakt worden, waarbij vaak gekozen wordt voor een technische filosofie waarbij een familie van standaarden hoort; Echt veel keuzes zijn er eigenlijk niet. Bijvoorbeeld als communicatiemechanisme is het Internet met als standaarden TCP/IP, HTTP, etc. voor de hand liggend. Op het gebied van messaging (transport) mechanisme is er misschien meer keuze, maar tegenwoordig is Web service als familie hier ook voor de hand liggend. De keuze voor Web services brengt een keuze voor de individuele standaarden (zoals SOAP, WSDL, etc.) met zich mee. Een voorbeeld van een alternatief is de familie van ebXML standaarden. Overigens is de keuze voor deze technische standaarden alleen niet voldoende. Om interoperabiliteit te bereiken zijn doorgaans nog profielen nodig bovenop deze standaarden waarin beschreven staat hoe de opties in de standaarden ingevuld moeten worden. Ook al is dit niet domeinspecifiek wordt dit nu vaak per domein ingevuld, vooral om gebruikers een complete interoperabiliteitsoplossing te kunnen bieden in combinatie met de semantische standaarden.
 
@@ -192,7 +192,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 *   Zaken uit de standaard halen (Ommissions) â€¢ Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
 
-![alt_text](BOMOS-Verdieping/images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
+![alt_text](images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
 
 De strategieën:
 
@@ -320,7 +320,7 @@ Een hoge individuele adoptiekans leidt doorgaans tot een communicatief middel. I
 
 Een gemiddelde individuele adoptiekans leidt doorgaans tot een financieel middel. Er is een duwtje in de rug nodig om over te gaan tot adoptie van de standaard. Een lage individuele adoptiekans leidt doorgaans tot een juridisch middel. Zonder dwang zal een organisatie waarschijnlijk niet overgaan tot adoptie van de standaard.
 
-![alt_text](BOMOS-Verdieping/images/adoptiekeuzes.png "Adoptiekeuzes")
+![alt_text](images/adoptiekeuzes.png "Adoptiekeuzes")
 
 ### Plugfest
 Een zogenoemd 'plugfest' of 'plugtest' (ook wel 'connectathon' genoemd) is een adoptiemiddel op het gebied van samenwerken & faciliteren. De kern van een plugfest is om leveranciers die de standaard geïmplementeerd hebben bij elkaar te laten komen, en interoperabiliteit tussen de leveranciers/systemen ter plekke gaan testen aan de hand van scenario's.
@@ -432,7 +432,7 @@ Het kwaliteitsmodel in figuur 19 laat niet de volledig uitwerking voor elk kwali
 #### Het kwaliteitsinstrument gebruiken
 De relatie tussen interoperabiliteit en standaarden is die van doel-middel. Zonder het kwaliteitsaspect in ogenschouw te nemen worden standaarden te veel gezien als heilige graal. De standaard wordt het doel, in plaats van een middel om op een effectieve en efficiënte manier interoperabiliteit te bereiken. Een aandachtsverschuiving naar de kwaliteit van standaarden voorkomt dat standaarden een doel op zich worden en zal de relatie tussen standaarden en interoperabiliteit versterken.
 
-![alt_text](BOMOS-Verdieping/images/kwaliteitsinstrumenten.png "Kwaliteitsinstrumenten")
+![alt_text](images/kwaliteitsinstrumenten.png "Kwaliteitsinstrumenten")
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard te bekijken. Bij de ontwikkeling wordt ook gekeken naar de kosten van een kwaliteitsmeting, waarbij vooral de uren relevant en kostbaar zijn. Uitgangspunt is dat de kwaliteitsmeting in slechts een paar uur uitgevoerd kan worden, zodat de kosten beperkt zijn en opbrengst dan ook al snel de kosten zal overtreffen. Het is met name geschikt voor de standaardisatie-ontwikkelaar zelf die de eigen standaard goed kent en het model als denkkader kan gebruiken om de eigen standaard mee te analyseren.
 

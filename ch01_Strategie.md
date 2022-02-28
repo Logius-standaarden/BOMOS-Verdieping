@@ -6,7 +6,7 @@ Het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm
 ### Organisatiestructuur
 In het BOMOS activiteitenmodel  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. Figuur 2 schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
-![Organisatiestructuur](BOMOS-Verdieping/images/organisatiestructuur.png "Organisatiestructuur")  
+![Organisatiestructuur](images/organisatiestructuur.png "Organisatiestructuur")  
 Figuur 2 - Organisatiestructuur
 
 Het bestuur geeft opdracht aan een (not-for-profit) uitvoeringsorganisatie die verantwoordelijk is voor een groot deel van de beheertaken. Het bestuur verenigt de behoeften in dezen van zijn achterban en heeft het mandaat namens dezen te besluiten over zaken die de betreffende standaarden betreffen. Bestuur en uitvoeringsorganisatie werken bij voorkeur met wederzijdse eenhoofdige aanspreekpunten. Het bestuur is voornamelijk belast met de taak 'besluitvorming'. In de praktijk komt het bestuur een paar keer per jaar bij elkaar, wat geen belemmering mag zijn voor de gewenste besluitvorming. Het bestuur moet de uitvoeringsorganisatie voldoende mandaat geven. In de praktijk zien we dat sommige besluiten ook schriftelijk (e-mail) aan bestuursleden voorgelegd kunnen worden voor goedkeuring, of dat de verantwoordelijkheid van bepaalde activiteiten (bijv. communicatie) bij een enkel bestuurslid worden belegd. Dit maakt het eenvoudiger om bilateraal overleg tussen de uitvoeringsorganisatie en het verantwoordelijke bestuurslid te voeren en ook besluiten tussentijds te nemen (en kan als alternatief dienen voor de wederzijdse eenhoofdige aanspreekpunten).
@@ -45,7 +45,7 @@ Het zorgdomein is een complexe situatie met stakeholders en partijen die een bel
 ### Beheertaken uitvoering
 Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheeren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3 voor mogelijkheden.
 
-![alt_text](BOMOS-Verdieping/images/beleggen_ontwikkeltaken.png "beleggen van ontwikkeltaken")
+![alt_text](images/beleggen_ontwikkeltaken.png "beleggen van ontwikkeltaken")
 
 Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid (zie hoofdstuk 8). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
 
