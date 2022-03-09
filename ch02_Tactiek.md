@@ -564,7 +564,8 @@ Overigens is de techniek die validatie van semantische standaarden mogelijk maak
 
 Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de interoperabiliteit doelstelling, en daarnaast op een andere manier certificatie) in te richten voor adoptie of financiële doelstellingen. De volgende tabel laat zien waar de verschillende concepten voor gebruikt kunnen worden.
 
-|    Middel:   |    Wanneer geschikt:                | Risico/Inspanning/Opbrengst: |
+|    Middel    |    Wanneer geschikt                 | Risico/Inspanning/Opbrengst  |
+| :--- | :--- | :--- |
 | Certificeren | De markt moet gaan bewegen.         | Risico: Hoog |
 |              | Ervaring is opgedaan met validatie. | Inspanning: Hoog |
 |              | Partijen zijn die compliancy claimen, maar het mogelijkerwijs niet zijn.	| Opbrengst: Continu |
