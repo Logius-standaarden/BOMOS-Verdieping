@@ -321,13 +321,14 @@ Ondanks de geschetste moeilijkheden en de verschillende poging-en die al gedaan 
 De eerste drie stappen worden toegelicht:
 
 
-#### Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
+#### Beschrijf huidige situaties en toekomstscenarios en identificeer stakeholders.
 De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie paragraaf 7.4).
 
 Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholder moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenarioâ€™s duidelijk zijn.
 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
+![Scenarios juweliersbranche](images/scenarios-juweliers.png "Scenarios juweliersbranche")
 
 #### Bepaal de kosten en baten in de keten op basis van het raamwerk.
 In stap 2 wordt een kosten-baten model opgesteld. Wat zijn in generieke zin de eenmalige investeringen, de operationele kosten en de baten die van toepassing zijn op de standaard. Voor vele standaarden zal dat redelijk gelijk  zijn, vandaar dat gestart kan worden met het model uit de juweliersbranche, en deze vervolgens aan te passen waar nodig. Het model uit de juweliersbranche is hieronder weergegeven.
