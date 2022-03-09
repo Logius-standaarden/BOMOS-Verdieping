@@ -332,6 +332,8 @@ Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbe
 #### Bepaal de kosten en baten in de keten op basis van het raamwerk.
 In stap 2 wordt een kosten-baten model opgesteld. Wat zijn in generieke zin de eenmalige investeringen, de operationele kosten en de baten die van toepassing zijn op de standaard. Voor vele standaarden zal dat redelijk gelijk  zijn, vandaar dat gestart kan worden met het model uit de juweliersbranche, en deze vervolgens aan te passen waar nodig. Het model uit de juweliersbranche is hieronder weergegeven.
 
+![Batenmodel juweliersbranche](images/model-juweliers.png "Batenmodel juweliersbranche")
+
 #### Verdeel de kosten en baten naar verschillende stakeholders.
 De verschillende kosten en baten zullen niet op alle stakeholders betrekking hebben, en ook de mate zal verschillen. In deze stap worden de kosten en baten uit het raamwerk van stap 2 een niveau dieper gespecificeerd, en toegekend aan de stakeholder met een gedefinieerde relatie.
 
