@@ -1,1 +1,1 @@
-<p>Dit document is bedoeld om een algemene toelichting te geven over het BOMOS model.</p>
+<p>Dit document geeft een verdieping en een aantal best practices voor het BOMOS model.</p>
