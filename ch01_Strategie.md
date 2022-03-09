@@ -35,7 +35,36 @@ In het figuur is een eenvoudige basisstructuur geschetst van bestuur, uitvoering
 ### Rollen en activiteiten.
 Eerder zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
 
-![Rollen en Activiteiten](media/nenactiviteiten2.png)
+| Rol | BOMOS activiteit |
+|-----|------------------|
+| Houder | Governance    |
+|        | Visie         |
+|        | Rechtenbeleid |
+|        | Adoptie en erkennig (beleid)|
+|        | Opleiding (beleid)          |
+|        | Kwaliteitsbeleid benchmarking(beleid) |
+|        | Community (vaststellen) |
+|        | Klachtenafhandeling     |
+|        | Implementatieondersteuning (beleid) |
+|-----|------------------|
+| Financier | Financiën |
+|-----|------------------|
+| Autorisator | Architectuur (vaststellen) |
+|             | Initiatie (belsuitvorming) |
+|-----|------------------|
+| Expert | Architectuur (uitvoeren en advisering) |
+|        | Initiatie (advies) |
+|-----|------------------|
+| Functioneel beheerder | |
+|-----|------------------|
+| Technsich beheerder   | |
+|-----|------------------|
+| Distributeur | |
+|-----|------------------|
+| Gebruiker  | |
+
+
+<!-- ![Rollen en Activiteiten](media/nenactiviteiten2.png) -->
 
 #### KADER: het zorgdomein
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
