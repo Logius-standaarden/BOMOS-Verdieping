@@ -562,7 +562,24 @@ Overigens is de techniek die validatie van semantische standaarden mogelijk maak
 </aside>
 
 
-Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de interoperabiliteit doelstelling, en daarnaast op een andere manier certificatie) in te richten voor adoptie of financiële doelstellingen. De volgende figuur laat zien waar de verschillende concepten voor gebruikt kunnen worden.
+Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de interoperabiliteit doelstelling, en daarnaast op een andere manier certificatie) in te richten voor adoptie of financiële doelstellingen. De volgende tabel laat zien waar de verschillende concepten voor gebruikt kunnen worden.
+
+|    Middel:   |    Wanneer geschikt:                | Risico/Inspanning/Opbrengst: |
+| Certificeren | De markt moet gaan bewegen.         | Risico: Hoog |
+|              | Ervaring is opgedaan met validatie. | Inspanning: Hoog |
+|              | Partijen zijn die compliancy claimen, maar het mogelijkerwijs niet zijn.	| Opbrengst: Continu |
+| Plugfest (adoptie-doelstelling) | Als adoptie redelijk gaat, maar nog een paar partijen achterblijven. | Risico: Middel |
+|                                 | Bij een relatief nieuwe standaard. | Inspanning: Middel  |
+|                                 |                                    | Opbrengst: Eenmalig |
+| Validatie-service / Helpdesk    | De markt continu wil ondersteunen. | Risico: Laag |
+|                                 | De kwaliteit van de implementaties wilt gaan verhogen. | Inspanning: Middel |
+|                                 |                                    | Opbrengst: Continu | 
+| Plugfest (interoperabiliteit-doelstelling) | De markt wil ondersteunen. | Risico: Laag    |
+|                                            | Een beeld krijgen of de standaard in de praktijk voldoet en hoe die gebruikt wordt. | Inspanning: Middel |
+|                                            |                            | Opbrengst: Eenmalig |
+| Pilot ondersteuning | Eerste oefeningen met de standaard.                   | Risico: Laag |
+|                     | Nog mogelijkheden zijn om de standaard aan te passen. | Inspanning: Laag |
+|                     | Belangrijk project, als voorloper voor andere projecten. | Opbrengst: Eenmalig |
 
 #### De praktijk
 Terwijl validatie zeer gebruikelijk is geldt dit zeker niet voor certificatie. Over het algemeen wordt dit als 'gevaarlijk' gezien, en zou alleen toegepast moeten worden als het zeer zorgvuldig is ingericht. Het betekent immers nogal wat: een leverancier die het certificaat niet krijgt kan daarmee nadelige gevolgen ondervinden in de markt. De leverancier kan overgaan tot rechtszaken om het certificaat te bemachtigen. Dat leidt tot kosten voor de beheerorganisatie en negatieve publiciteit. Daarnaast is de standaardisatieorganisatie in veel gevallen afhankelijk van de kennis van leveranciers in de werkgroepen voor de totstandkoming van de standaard. Mogelijkerwijs staakt de leverancier ook de medewerking aan de werkgroep. De standaardisatieorganisatie kan zijn neutraliteit verliezen, wat schadelijk is voor adoptie en verdere ontwikkeling van de standaard.
