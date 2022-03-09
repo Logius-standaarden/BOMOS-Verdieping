@@ -32,7 +32,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // A YYYY-MM-DD date. The publication date of the present document.
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2020-??-??",
+  publishDate: "2020-04-01",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   //previousPublishDate: "2017-09-20",
@@ -99,7 +99,6 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   // Controls if linked "§" section markers are added to a document
   addSectionLinks: true,
-  
   
   alternateFormats: [
     {
