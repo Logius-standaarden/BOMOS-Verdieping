@@ -262,7 +262,7 @@ Tot slot is implementatieondersteuning een middel, dat kan in lichte mate door h
 
 Kort samengevat zal dienstverlening een inkomstenbron zijn die naar mate de standaard volwassener wordt meer mogelijkheden gaat bieden voor inkomsten. Een inkomstenbron die in de praktijk niet veel voorkomt, maar voor de toekomst niet uitgesloten moet worden is de donatie. Vooral structurele donaties zijn een prettige financieringsvorm. Dit leidt tot het volgende model:
 
-![alt_text](BOMOS-Verdieping/images/opbrengstenmodel.png "Opbrengstenmodel")
+![Opbrengstenmodel](images/opbrengstenmodel.png "Opbrengstenmodel")
 
 Overigens zijn de kosten van het beheren van een standaard ook niet gelijk door de jaren heen. Sommige kostenposten kunnen flink veranderen. Tegenwoordig zien we posten als tactisch beheer flink stijgen, vooral door de relaties tussen de vele (internationale) standaarden die afstemming vergen. Indien de adoptie van de standaard succesvol is zal ook een post als implementatieondersteuning flink kunnen stijgen.
 
