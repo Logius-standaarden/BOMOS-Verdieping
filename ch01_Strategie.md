@@ -73,7 +73,7 @@ Het zorgdomein is een complexe situatie met stakeholders en partijen die een bel
 ### Beheertaken uitvoering
 Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheeren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3 voor mogelijkheden.
 
-![alt_text](images/beleggen_ontwikkeltaken.png "beleggen van ontwikkeltaken")
+![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
 
 Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid (zie hoofdstuk 8). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
 
