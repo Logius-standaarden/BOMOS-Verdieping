@@ -1,16 +1,17 @@
 # Strategie
+In deze sectie worden onderwerpen verdiept die gerelateerd zijn aan strategische onderwerpen uit het Beheer- en Ontwikkelmodel. 
 
 ## De ontwikkel- en beheerorganisatie (Activiteit Governance)
-Het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties. Het regelen van besluitvorming is cruciaal.
+Deze activiteit bevat o.a. het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties. Het regelen van besluitvorming is cruciaal.
 
 ### Organisatiestructuur
-In het BOMOS activiteitenmodel  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. [Onderstaande figuur](#Organisatiestructuur) schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
+In het BOMOS activiteitendiagram  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. [Onderstaande figuur](#Organisatiestructuur) schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
 ![Organisatiestructuur](images/organisatiestructuur.png "Organisatiestructuur")
 
 Het bestuur geeft opdracht aan een (not-for-profit) uitvoeringsorganisatie die verantwoordelijk is voor een groot deel van de beheertaken. Het bestuur verenigt de behoeften in dezen van zijn achterban en heeft het mandaat namens dezen te besluiten over zaken die de betreffende standaarden betreffen. Bestuur en uitvoeringsorganisatie werken bij voorkeur met wederzijdse eenhoofdige aanspreekpunten. Het bestuur is voornamelijk belast met de taak 'besluitvorming'. In de praktijk komt het bestuur een paar keer per jaar bij elkaar, wat geen belemmering mag zijn voor de gewenste besluitvorming. Het bestuur moet de uitvoeringsorganisatie voldoende mandaat geven. In de praktijk zien we dat sommige besluiten ook schriftelijk (e-mail) aan bestuursleden voorgelegd kunnen worden voor goedkeuring, of dat de verantwoordelijkheid van bepaalde activiteiten (bijv. communicatie) bij een enkel bestuurslid worden belegd. Dit maakt het eenvoudiger om bilateraal overleg tussen de uitvoeringsorganisatie en het verantwoordelijke bestuurslid te voeren en ook besluiten tussentijds te nemen (en kan als alternatief dienen voor de wederzijdse eenhoofdige aanspreekpunten).
 
-De kern is dat duidelijk moet zijn vastgelegd welke besluiten in de bestuursvergadering genomen dienen te worden; welke schriftelijk (e-mail) voorgelegd kunnen worden, welke door een specifiek bestuurslid genomen kunnen worden, en voor welke besluiten het mandaat bij  de uitvoeringsorganisatie ligt. In de praktijk worden vaak jaarplannen gebruikt voor de opdrachtformulering van het bestuur aan de uitvoeringsorganisatie. Op basis van rapportages over het jaarplan legt de uitvoeringsorganisatie dan verantwoording af aan het bestuur. Het jaarplan beschrijft welke taken uitgevoerd moeten worden; welke werkgroepen er zijn of opgestart moeten worden, wat de doelen voor de werkgroep zijn, etc. Het jaarplan wordt goedgekeurd door het bestuur en is daarmee de opdracht voor de uitvoeringsorganisatie. Het BOMOS activiteitel model kan als kapstok dienen om de taken in het jaarplan te benoemen. Het jaarplan maakt het ook goed mogelijk om afspraken te maken over uit te besteden taken. Feitelijke standaardontwikkeling vindt plaats in werkgroepen waarin de gebruikers van de standaarden participeren. De werkgroepen worden door de uitvoeringsorganisatie gecoördineerd. Veelal worden ook de daadwerkelijke uitwerkingen opgesteld door de uitvoeringsorganisatie op basis van discussies in de werkgroepen. De uitkomst van de werkgroep, een nieuwe versie van een standaard, kan door het bestuur vastgesteld worden en uitgebracht worden als nieuwe versie. De besluitvorming, wie (bestuur/werkgroep) bepaalt wat, moet helder geregeld zijn.
+De kern is dat duidelijk moet zijn vastgelegd welke besluiten in de bestuursvergadering genomen dienen te worden; welke schriftelijk (e-mail) voorgelegd kunnen worden, welke door een specifiek bestuurslid genomen kunnen worden, en voor welke besluiten het mandaat bij  de uitvoeringsorganisatie ligt. In de praktijk worden vaak jaarplannen gebruikt voor de opdrachtformulering van het bestuur aan de uitvoeringsorganisatie. Op basis van rapportages over het jaarplan legt de uitvoeringsorganisatie dan verantwoording af aan het bestuur. Het jaarplan beschrijft welke taken uitgevoerd moeten worden; welke werkgroepen er zijn of opgestart moeten worden, wat de doelen voor de werkgroep zijn, etc. Het jaarplan wordt goedgekeurd door het bestuur en is daarmee de opdracht voor de uitvoeringsorganisatie. Het Beheer- en Ontwikkelmodel kan als kapstok dienen om de taken in het jaarplan te benoemen. Het jaarplan maakt het ook goed mogelijk om afspraken te maken over uit te besteden taken. Feitelijke standaardontwikkeling vindt plaats in werkgroepen waarin de gebruikers van de standaarden participeren. De werkgroepen worden door de uitvoeringsorganisatie gecoördineerd. Veelal worden ook de daadwerkelijke uitwerkingen opgesteld door de uitvoeringsorganisatie op basis van discussies in de werkgroepen. De uitkomst van de werkgroep, een nieuwe versie van een standaard, kan door het bestuur vastgesteld worden en uitgebracht worden als nieuwe versie. De besluitvorming, wie (bestuur/werkgroep) bepaalt wat, moet helder geregeld zijn.
 
 Bij voorkeur wordt onderscheid gemaakt tussen verschillende zwaartes van wijzigingen in standaarden, zodat de lichtste wijzigingen door de betreffende werkgroep of de uitvoeringsorganisatie zelf kunnen worden afgehandeld en alleen de meest fundamentele wijzigingen betrokkenheid van het bestuur vragen, tot aan een bestuursbesluit. Een werkgroep die continu overruled wordt door het bestuur is niet werkbaar.
 
@@ -18,13 +19,13 @@ Eventueel kan een adviesorgaan opgericht worden om het bestuur met gevraagd en o
 
 Een typische inhoudelijke categorische afbakening van werkgroepen vindt plaats langs de volgende (gelaagde) lijnen:
 
-*   architectuur
-*   processen/services
-*   data/gegevens/berichten
-*   technische standaard/transactiestandaard
-*   beveiliging
+*   Architectuur.
+*   Processen/services.
+*   Data/gegevens/berichten.
+*   Technische standaard/transactiestandaard.
+*   Beveiliging.
 
-Een andere veel gebruikte afbakening is op basis van het probleemdomein, bijvoorbeeld de SETU kent een tweetal werkgroepen, te weten Bemiddeling en Verwerking. De werkgroep Bemiddeling houdt zich bezig met de standaarden van offerteaanvraag tot aan de plaatsing van een uitzendkracht, terwijl de werkgroep Verwerking de standaarden van plaatsing tot aan factuur tot haar scope rekent. In de praktijk zullen bij complexere standaarden bepaalde categoriën werkgroepen (bijv. 'gegevens') weer onderverdeeld worden in werkgroepen per probleemdomein (bijv. 'facturatie'), waarmee een combinatie van beide indelingen wordt gerealiseerd.
+Een andere veel gebruikte afbakening is op basis van het probleemdomein, bijvoorbeeld SETU heeft gewerkt met een tweetal werkgroepen, te weten Bemiddeling en Verwerking. De werkgroep Bemiddeling houdt zich bezig met de standaarden van offerteaanvraag tot aan de plaatsing van een uitzendkracht, terwijl de werkgroep Verwerking de standaarden van plaatsing tot aan factuur tot haar scope rekent. In de praktijk zullen bij complexere standaarden bepaalde categorieën werkgroepen (bijv. 'gegevens') weer onderverdeeld worden in werkgroepen per probleemdomein (bijv. 'facturatie'), waarmee een combinatie van beide indelingen wordt gerealiseerd.
 
 Bijzondere aandacht verdienen de leveranciers. Dit is regelmatig een heet hangijzer bij non-profit beheerorganisaties. Voor het welslagen van een standaard (zonder juiste implementatie geen werkende standaard') vaak cruciaal, maar leveranciers kunnen ook conflicterende belangen hebben. In beginsel kunnen leveranciers gewoon als deelnemer in de standaard acteren en rollen in de werkgroepen vervullen tot aan deelname in het bestuur. De praktijk laat zien dat softwareleveranciers veelal zeer nuttige bijdragen leveren in werkgroepen waardoor het zeker aan te raden is om leveranciers toegang tot de werkgroepen te verlenen. Vaak heerst er angst dat leveranciers te nadrukkelijk een stempel gaan drukken op de standaard. Een aparte leveranciersgroep zoals aangegeven in [bovenstaande figuur](#Organisatiestructuur) is dan een optie waarmee de leveranciers enerzijds een platform wordt geboden terwijl ze anderzijds buiten de werkgroepen en bestuur kunnen worden gehouden. Softwareleveranciers zijn dan verenigd in een leveranciersgroep, die de uitvoeringsorganisatie van advies kunnen voorzien en overleg kunnen voeren met het adviesorgaan.
 
@@ -33,7 +34,7 @@ De besluitvorming binnen de werkgroep kan afhankelijk zijn van de mogelijke deel
 In het figuur is een eenvoudige basisstructuur geschetst van bestuur, uitvoeringsorganisatie en werkgroepen. Facultatief kan daar een adviesorgaan en/of leveranciersgroep aan toegevoegd worden. Naast deze geschetste mogelijkheden zijn er nog vele alternatieven, zowel eenvoudiger als complexer. Welke structuur ook gekozen wordt, bij voorkeur worden de verslagen van de verschillende gremia openbaar ter beschikking gesteld.
 
 ### Rollen en activiteiten.
-Eerder zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
+In deel 1 _linkEdwin deel 1 2.6.3)_ zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
 
 | Rol | BOMOS activiteit |
 |-----|------------------|
@@ -67,41 +68,42 @@ Eerder zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn 
 <p class="comment" style="color:red">
   
 #### KADER: het zorgdomein
+__edwin dit kan met zo'n note ipv kader__  
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
 ![ Voorbeeld van toewijzing rollen aan stakeholders](media/nenactiviteiten3.png)
 
 </p>
 
 ### Beheertaken uitvoering
-Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheeren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3 voor mogelijkheden.
+Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3_edwin_figuurlinks_ voor mogelijkheden.
 
 ![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
 
-Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid (zie hoofdstuk 8). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
+Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid (_edwinlink naar 8.1_). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
 
-Een eerste voor de hand liggende mogelijkheid is het beleggen van de beheertaken bij formele standaardisatieorganisaties. De wereld is hier wel veranderd in vergelijking met twintig jaar geleden toen het merendeel van de standaarden door deze formele organisaties werd ontwikkeld. In de huidige tijd wordt het merendeel van de standaarden buiten de formele standaardisatieorganisaties ontwikkeld in allerlei vormen van consortia, en dat aantal blijft groeien. Voor de semantische standaarden speelt dit in extreme mate. Deels heeft dit te maken met de traagheid van processen bij formele standaardisatieorganisaties, maar voornamelijk het gebrek aan inhoudelijke kennis en expertise. Voor semantische standaarden is domeinkennis essentieel.
+Een eerste voor de hand liggende mogelijkheid is het beleggen van de beheertaken bij formele standaardisatieorganisaties. De wereld is hier wel veranderd in vergelijking met dertig jaar geleden toen het merendeel van de standaarden door deze formele organisaties werd ontwikkeld. In de huidige tijd wordt het merendeel van de standaarden buiten de formele standaardisatieorganisaties ontwikkeld in allerlei vormen van consortia, en dat aantal blijft groeien. Ook zien we weer steeds meer complexe samenwerkingsverbanden tussen standardisatie-organisaties ontstaan.  Voor de semantische standaarden speelt dit in extreme mate. Deels heeft dit te maken met de traagheid van processen bij formele standaardisatieorganisaties, maar voornamelijk het gebrek aan inhoudelijke kennis en expertise. Voor semantische standaarden is domeinkennis essentieel.
 
 Dit wil niet zeggen dat formele standaardisatieorganisaties geen waarde hebben, integendeel. Op een aantal punten hebben ze potentieel een belangrijke toegevoegde waarde. Bijvoorbeeld om de status van de standaard te verhogen. Zo is NEN3610 ontwikkeld door Geonovum, maar voor extra status ook uitgebracht als NEN-norm. Daarnaast is secretariële ondersteuning voor werkgroepen ook een prima taak die extern belegd kan worden.
 
 De inhoudelijke kennis zal echter altijd zelf georganiseerd moeten worden. Onderzoeksorganisaties, zoals universiteiten en instituten, zijn een andere mogelijkheid om taken bij te beleggen. Voordeel is de schat aan inhoudelijke kennis, maar mogelijk ook een gebrek aan domeinkennis of kennis van het specifieke gebruik. Het tegenovergestelde is het geval bij brancheorganisaties; voordeel hier is de uitmuntende domeinkennis, maar nadeel is juist een gebrek aan inhoudelijke standaardisatie/ICT kennis. Vaak zijn (semantische) standaarden voor brancheorganisaties een ver van hun bed show. Het onderwerp wordt al snel afgedaan als iets van techneuten, wat het in de kern niet is; juist voor semantiek is domeinkennis van groot belang.
 
-Een eigen organisatie oprichten is een mogelijkheid, evenals commerciële dienstverleners inschakelen. Dat laatste is wel op gespannen voet met de openheidprincipes. De eigen organisatie is de meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen domeinen kennen inmiddels eigen organisaties die kennis hebben van zowel het domein als standaardisatie, bijvoorbeeld (Geonovum, EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van hun werk behoren de strategische beheeractiviteiten zoals geÃ¯dentificeerd in het model, en in grote mate ook de tactische en operationele activiteiten. In deze situatie zijn bepaalde activiteiten eenvoudig en zelfs beter om uit te besteden.
+Een eigen organisatie oprichten is een mogelijkheid, evenals commerciële dienstverleners inschakelen. Dat laatste is wel op gespannen voet met de openheidprincipes. De eigen organisatie is de meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen domeinen kennen inmiddels eigen organisaties die kennis hebben van zowel het domein als standaardisatie, bijvoorbeeld (Geonovum, EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van hun werk behoren de strategische beheeractiviteiten zoals geïdentificeerd in het model, en in grote mate ook de tactische en operationele activiteiten. In deze situatie zijn bepaalde activiteiten eenvoudig en zelfs beter om uit te besteden.
 
 Een aantal suggesties:
 
-**Moduleontwikkeling:** Moduleontwikkeling is riskant om binnen de ontwikkel- en beheerorganisatie te laten plaatsvinden. Daarmee wordt men ook leverancier en concurrent van partijen in de gemeenschap. Beter is om moduleontwikkeling te stimuleren buiten de ontwikkel- en beheerorganisatie,mogelijk in de vorm van open source software. Dit kan andere leveranciers ook bewegen om de standaard te gaan ondersteunen en/of betrokken te raken bij de ontwikkeling daarvan. De beste aanpak is afhankelijk van de kenmerken van de gemeenschap.
+**Moduleontwikkeling _linkedwin naar deel 1 2.6.2_:** Moduleontwikkeling is riskant om binnen de ontwikkel- en beheerorganisatie te laten plaatsvinden. Daarmee wordt men ook leverancier en concurrent van partijen in de gemeenschap. Beter is om moduleontwikkeling te stimuleren buiten de ontwikkel- en beheerorganisatie, mogelijk in de vorm van open source software. Dit kan andere leveranciers ook bewegen om de standaard te gaan ondersteunen en/of betrokken te raken bij de ontwikkeling daarvan. De beste aanpak is afhankelijk van de kenmerken van de community.
 
-**Certificeren:** Essentieel bij certificeren is de onafhankelijkheid van de certificerende instelling. Gebruikelijk is dat de ontwikkel- en beheerorgasatie het toetsingskader opstelt, en vervolgens de daadwerkelijke toetsing (op basis van het toetsingskader) uitbesteedt aan externe partijen die zich specifiek richten op het toetsen en certificeren.
+**Certificeren _linkedwin naar deel 1 2.6.2_:** Essentieel bij certificeren is de onafhankelijkheid van de certificerende instelling. Gebruikelijk is dat de ontwikkel- en beheerorganisatie het toetsingskader opstelt, en vervolgens de daadwerkelijke toetsing (op basis van het toetsingskader) uitbesteedt aan externe partijen die zich specifiek richten op het toetsen en certificeren.
 
-**Architectuur/Roadmapping/Benchmarking**; Ondersteuning en uitvoering hiervoor past uitstekend bij een research-organisatie in brede zin (Naast kennisinstituten, ook organisaties zoals CBS voor benchmarking). Met name voor benchmarking geldt dat dit beter bij een externe organisatie belegd kan worden.
+**Architectuur/Roadmapping/Benchmarking _linkedwin naar deel 1 2.6.2_**; Ondersteuning en uitvoering hiervoor past uitstekend bij een research-organisatie in brede zin (Naast kennisinstituten, ook organisaties zoals CBS voor benchmarking). Met name voor benchmarking geldt dat dit beter bij een externe organisatie belegd kan worden.
 
-**Communicatie:** Past vaak goed bij een brancheorganisatie die al een communicatieapparaat heeft ingericht. Uiteraard moet er dan wel een brancheorganisatie zijn die naadloos aansluit bij de standaard en die bereid is de communicatie als belangrijke taak mee te nemen. Communicatie rondom het beheer- en ontwikkelproces van een standaard vraagt om specifieke kennis van dat beheer en heeft een specifieke doelgroep zoals softwareleveranciers. Dit dient door een brancheorganisatie onderkend te worden. Andere opties zijn communcatieafdelingen van een andere partner organisatie.
+**Communicatie _linkedwin naar deel 1 2.6.2_:** Past vaak goed bij een brancheorganisatie die al een communicatieapparaat heeft ingericht. Uiteraard moet er dan wel een brancheorganisatie zijn die naadloos aansluit bij de standaard en die bereid is de communicatie als belangrijke taak mee te nemen. Communicatie rondom het beheer- en ontwikkelproces van een standaard vraagt om specifieke kennis van dat beheer en heeft een specifieke doelgroep zoals softwareleveranciers. Dit dient door een brancheorganisatie onderkend te worden. Andere opties zijn communicatieafdelingen van een andere partner organisatie.
 
 Op hoofdniveau kunnen we concluderen dat er de keuze is om de ontwikkel- en beheertaken te beleggen bij:
 
-1. Bestaande organisaties
-2. Nieuwe organisaties
-3. Combinatie van beiden
+1. Bestaande organisaties.
+2. Nieuwe organisaties.
+3. Combinatie van beiden.
 
 Het beleggen van alle taken bij een bestaande situatie klinkt ideaal, maar er is geen organisatie die alleenstaand voor het complete takenpakket is toegerust. Ook organisaties als NEN, Forum Standaardisatie, etc. zijn daar niet op ingericht.
 
@@ -110,21 +112,21 @@ Daardoor is het in de praktijk vaak noodzakelijk om een nieuwe organisatie op te
 ### De organisatievorm
 Of het nu slechts een deel van de taken of alle taken door de nieuwe organisatie uitgevoerd moeten gaan worden, de nieuwe organisatie moet in beide gevallen opgericht worden waarvoor een rechtsvorm nodig is. Nederland kent tal van organisatie rechtsvormen. Openheid van de standaard is absoluut een essentieel uitgangspunt. De definitie van openheid schrijft voor dat de (besluitvorming van de) standaard belegd wordt bij een not-for-profit organisatie. Daarmee worden een groot deel van de organisatievormen uitgesloten, en zijn slechts enkel voor de hand liggen, te weten:
 
-1. Stichting
-2. Vereniging
-3. Overheidsorganisatie (als verzamelterm)
+1. Stichting.
+2. Vereniging.
+3. Overheidsorganisatie (als verzamelterm).
 
 **De stichting:** Een stichting is een rechtspersoon en wordt opgericht bij notariële akte, door één of meerdere natuurlijke of rechtspersonen. In de regel heeft een bestuur een voorzitter, secretaris en penningmeester. Het bestuur is het enige verplichte orgaan van een stichting. Daarnaast kan er nog een raad van toezicht zijn, die toezicht houdt op het stichtingsbestuur. In tegenstelling tot een vereniging heeft een stichting geen leden. Een stichting kan wel donateurs hebben, maar die hebben geen zeggenschap. Een stichting kan ook vrijwilligers hebben.
 
 <aside class="example">
-Kader input: voorbeelden van beheerorganisaties en hun organisatievorm
+Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen tijdens review
 </aside>
 
-**De vereniging:** Een vereniging is een rechtspersoon voor de Nederlandse wet. Een vereniging wordt meestal opgericht door bij de notaris hiervan een akte op te maken. Dit is niet noodzakelijk, maar zonder notaris heeft de vereniging beperkte rechtsbevoegdheid (de bestuurders zijn hoofdelijk aansprakelijk). Wanneer een vereniging bij de notaris opgericht is, zijn er ook statuten. Hierin staat tenminste het doel van de vereniging, de verplichtingen van de leden, het bijeenroepen van de algemene (leden)vergadering en het benoemen/ontslaan van de bestuurders. Een vereniging heeft een doel dat nagestreefd wordt. Dit doel mag niet het verdelen van winst onder de leden zijn. Wat niet wil zeggen dat er geen winst gemaakt mag worden, maar deze moet ingezet worden voor een bepaald doel (zoals het doel van de vereniging, kennisdeling, verbetering van de kwaliteit, liefdadigheid, etc.). Een vereniging heeft leden. Dit zijn mensen die lid zijn van de vereniging omdat zij het doel steunen. De leden betalen meestal contributie om de vereniging draaiend te houden. Leden hebben invloed in het beleid van de vereniging via een algemene (leden)vergadering (ALV). Zoâ€™n vergadering wordt minstens jaarlijks gehouden en elk lid is hiervoor uitgenodigd en stemgerechtigd. De ALV heeft alle bevoegdheden die niet door de wet of de statuten geregeld zijn en is dus het hoogste orgaan van de vereniging.
+**De vereniging:** Een vereniging is een rechtspersoon voor de Nederlandse wet. Een vereniging wordt meestal opgericht door bij de notaris hiervan een akte op te maken. Dit is niet noodzakelijk, maar zonder notaris heeft de vereniging beperkte rechtsbevoegdheid (de bestuurders zijn hoofdelijk aansprakelijk). Wanneer een vereniging bij de notaris opgericht is, zijn er ook statuten. Hierin staat tenminste het doel van de vereniging, de verplichtingen van de leden, het bijeenroepen van de algemene (leden)vergadering en het benoemen/ontslaan van de bestuurders. Een vereniging heeft een doel dat nagestreefd wordt. Dit doel mag niet het verdelen van winst onder de leden zijn. Wat niet wil zeggen dat er geen winst gemaakt mag worden, maar deze moet ingezet worden voor een bepaald doel (zoals het doel van de vereniging, kennisdeling, verbetering van de kwaliteit, liefdadigheid, etc.). Een vereniging heeft leden. Dit zijn mensen die lid zijn van de vereniging omdat zij het doel steunen. De leden betalen meestal contributie om de vereniging draaiend te houden. Leden hebben invloed in het beleid van de vereniging via een algemene (leden)vergadering (ALV). Zo'n vergadering wordt minstens jaarlijks gehouden en elk lid is hiervoor uitgenodigd en stemgerechtigd. De ALV heeft alle bevoegdheden die niet door de wet of de statuten geregeld zijn en is dus het hoogste orgaan van de vereniging.
 
 **De overheidsorganisatie:** Er zijn verschillende vormen van overheidsorganisaties, waardoor een korte bespreking onmogelijk is. Het inzetten van een overheidsorganisatie zou op verschillende manieren kunnen: één overheidsorganisatie als beheerorganisatie voor alle aan de overheid gerelateerde standaarden, of per standaard één overheidsorganisatie. Daarnaast kan een enkele overheidsorganisatie de uitvoering van het beheer op zich nemen, maar kunnen meerdere overheden zich ook verenigen. Dit kan bijvoorbeeld in een vereniging. De keuze van de rechtsvorm dient weloverwogen te gebeuren, waarbij ook zaken als de eenvoud van het opzetten moet worden meegenomen. Bij een stichting speelt dat het mogelijk lastig is voor overheidspartijen om aan een stichting deel te nemen, en dat een stichting geen leden mag hebben. Bij een vereniging speelt de grote macht van de ALV. Met een stichting en vereniging is het wel eenvoudig om openheid aan te tonen. Bij zowel de stichting als de vereniging zijn de statuten belangrijk; deze regelen in feite het mandaat van de rollen in de organisatie.
 
-Ondanks het feit dat een stichting geen leden kan hebben spreekt men bij HL7 Nederland wel over leden, maar hanteert men strikt formeel de term _aangeslotenen_. SETU kent geen leden, maar wel participanten. Een samenwerkingsverband zonder rechtsvorm kan in de praktijk goed werken voor het beheer maar kan in praktische zaken weer nadelig zijn doordat het samenwerkingsverband als zodanig geen bevoegdheden heeft tot het aangaan van overeenkomsten; hierbij zal altijd één van de partners deze overeenkomst moeten aangaan. Mogelijke nadelen die hieraan kleven zijn het verlies van identiteit; het gebonden zijn aan regels en beperkingen van de partner; minder slagvaardigheid etc. Het voordeel van een dergelijke organisatievorm is dat deze eenvoudig is in te richten en op te heffen zonder juridische consequenties. De organisatieinrichting kan in enige mate de vrijblijvendheid reduceren of op zijn minst expliciteren. De vrijblijvendheid van de deelnemers in standaarden is zeker een serieus aandachtspunt in het kader van een duurzaam toegepaste standaard.
+Ondanks het feit dat een stichting geen leden kan hebben spreekt men bij HL7 Nederland wel over leden, maar hanteert men strikt formeel de term _aangeslotenen_. SETU kent geen leden, maar wel participanten. Een samenwerkingsverband zonder rechtsvorm kan in de praktijk goed werken voor het beheer maar kan in praktische zaken weer nadelig zijn doordat het samenwerkingsverband als zodanig geen bevoegdheden heeft tot het aangaan van overeenkomsten; hierbij zal altijd één van de partners deze overeenkomst moeten aangaan. Mogelijke nadelen die hieraan kleven zijn het verlies van identiteit; het gebonden zijn aan regels en beperkingen van de partner; minder slagvaardigheid etc. Het voordeel van een dergelijke organisatievorm is dat deze eenvoudig is in te richten en op te heffen zonder juridische consequenties. De organisatie-inrichting kan in enige mate de vrijblijvendheid reduceren of op zijn minst expliciteren. De vrijblijvendheid van de deelnemers in standaarden is zeker een serieus aandachtspunt in het kader van een duurzaam toegepaste standaard.
 
 <aside class="note">
 **Naast 'harde' invulling ook aandacht voor 'zachte' facetten**
@@ -134,26 +136,31 @@ Dit hoofdstuk beschrijft veelal relatief 'harde' invulling van de organisatie, d
 
 <p class="comment" style="color:red">
 
-#### KADER: Template voor beheerdocument van Geonovum
-Om opdrachtgevers meer inzicht te geven in de activiteiten in het beheerproces van standaarden, hebben wij een generiek beheerdocument opgesteld. Hierin staat  wat Geonovum doet in elk activiteitengroep van het BOMOS-model. Voor elke door Geonovum te beheren standaard stelt Geonovum daarnaast een specifiek beheerdocument op. In dit specifieke beheerdocument zijn de aanvullende afspraken vastgelegd voor een standaard. In wezen biedt het specifieke beheerdocument het overzicht van meer- en minderwerk uitgaand van het generieke beheerdocument.
+<aside class="example">
+Template voor beheerdocument van Geonovum
+ Om opdrachtgevers meer inzicht te geven in de activiteiten in het beheerproces van standaarden, heeft Geonovum een generiek beheerdocument opgesteld. Hierin staat  wat Geonovum doet in elk activiteitengroep van het BOMOS-model. Voor elke door Geonovum te beheren standaard stelt Geonovum daarnaast een specifiek beheerdocument op. In dit specifieke beheerdocument zijn de aanvullende afspraken vastgelegd voor een standaard. In wezen biedt het specifieke beheerdocument het overzicht van meer- en minderwerk uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum op basis van het generieke en het specifieke beheermodel, onlangs ook een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en beheerde standaard is de benodigde basis inzet berekend. Deze basis gebruiken we vervolgens om een gerichte inschatting te kunnen maken van meer- en minderwerk zoals beschreven in het specifieke beheerdocument. Hierdoor kunnen we beheerkosten realistisch en onderbouwd inschatten.
 
 Dit is ook voor andere organisaties te gebruiken: om het rekenmodel te kunnen gebruiken, kunnen zij een eigen generiek beheerplan maken, en voor de door hen beheerde standaarden een specifiek beheerplan. Die twee documenten zijn dan input voor het bijbehorende rekenmodel.
 
+ 
+</aside>
+  
+ 
 </p>
 
 ### Visie
 
 Inhoudelijke visie ontwikkelen over de richting van de standaard in de context: De plek op de horizon op de lange termijn. Een compacte vertaling in bijvoorbeeld een factsheet van deze visie kan ook zeer nuttig zijn in de communicatie rond de standaard en het bevorderen van adoptie van de standaard. Ook moet er aandacht zijn voor innovatie; veel organisaties gebruiken daar hulpmiddelen voor als een radar, of specifiek een tech-radar; daarin worden innovatieve ontwikkeling geplot op een radar op basis van tijd en impact. Dit soort hulpmiddelen zijn ook hier van toepassing. De visie voor een standaard is op zich niet anders dan de visie rond een bedrijf/product, etc. Vandaar dat BOMOS hier geen specifieke invulling voor standaarden aan geeft. De verdere detailering van de in de visie benoemde innovatie onderwerpen zal veelal op tactisch niveau plaatsvinden, bijvoorbeeld als onderdeel van Architectuur.
 
-## De kosten en de opbrengsten (Activiteit: Financien)
+## De kosten en de opbrengsten (Activiteit: Financiën)
 Een financieel model voor de lange termijn hebben die opbrengsten garandeert in overeenstemming met de behoefte is het voornaamste doel van deze activiteit.
 Een standaard ontwikkelen en beheren kost structureel geld. De hoeveelheid is sterk afhankelijk van de context en dynamiek van de standaard en het is niet eenvoudig hier generieke uitspraken over te doen. De eerste ontwikkelingen starten vaak met projecten die beginnen met budgetten vanaf 30.000 euro tot vele malen groter. Een eerste project levert ook niet direct een standaard op, maar heeft in een werkgroep de mogelijkheden en scope van een standaard onderzocht. Na de initiële ontwikkeling moet de standaard structureel worden beheerd en doorontwikkeld. Er zijn cases bekend die het beheer met budgetten in de order van 250.000 tot 900.000 euro (per jaar) hebben georganiseerd. Tot op heden is hier weinig onderzoek naar gedaan, met uitzondering van de Ethernet standaard: deze technische standaard heeft $10 miljoen dollar gekost om te ontwikkelen. Andere informatie bekend uit literatuur is dat de opbrengsten van verkoop van ISO standaarden voor de helft voorziet in de kosten die ISO maakt in de ontwikkeling en beheer van de ISO standaarden.
 
 
 ### De baten van standaardisatie generiek
-Er mogen dan weinig cijfers beschikbaar zijn maar er is voldoende economisch onderzoek gedaan naar de vooren nadelen van standaardisatie. Bijgaande tabel geeft een samenvatting:
+Er mogen dan weinig cijfers beschikbaar zijn maar er is voldoende economisch onderzoek gedaan naar de vooren nadelen van standaardisatie. Bijgaande tabel geeft een samenvatting (op basis van Blind, K. (2004). The economics of standards; theory, evidence, policy):
 
 |  | Positive effects | Negative effects |
 | :--- | :--- | :--- |
@@ -167,12 +174,11 @@ Er mogen dan weinig cijfers beschikbaar zijn maar er is voldoende economisch ond
 
 Voor semantische (domein) standaarden zijn met name relevant:
 
-Positieve netwerkeffecten (wordt waardevoller met meer gebruikers)
-
-*   Voorkomen van vendor lock-ins
-*   Toename variëteit in producten en diensten
-*   Schaalvoordeel
-*   Verlagen transactiekosten
+*   Positieve netwerkeffecten (wordt waardevoller met meer gebruikers).
+*   Voorkomen van vendor lock-ins.
+*   Toename variëteit in producten en diensten.
+*   Schaalvoordeel.
+*   Verlagen transactiekosten.
 
 ### Kosten en opbrengsten
 Wel is het mogelijk om te kijken naar de mogelijke kostenposten en opbrengsten van het beheer van standaarden. De balans vat deze samen.
@@ -185,19 +191,19 @@ Wel is het mogelijk om te kijken naar de mogelijke kostenposten en opbrengsten v
 | Lidmaatschapskosten (+reiskosten) | Subsidie |
 | Bedrijfsvoering (accountant) | Dienstverlening |
 | Huisvesting | Licenties |
-| Goodwill | Licenties |
+| Goodwill |  |
 | Tooling (Licenties) |  |
 | Financieringskosten |  |
 
 #### Debet
 De voornaamste kosten zullen in principe gerelateerd zijn aan de personeelskosten voor de primaire taak van de organisatie; de ontwikkeling van nieuwe functionaliteit en het onderhouden van al bestaande functionaliteit in de standaarden. De standaarden worden gepubliceerd en mogelijk ook promotioneel onder de aandacht gebracht waarvoor communicatiekosten gemaakt worden. Bij communicatiekosten kan men naast de personeelskosten denken aan kosten voor het optuigen van een communicatieplatform, het organiseren van bijeenkomsten, de website en bijvoorbeeld drukwerk.
 
-Vaak worden er specifieke software tools gebruikt zoals datamodelleersoftware waarvoor licentiekosten betaald moeten worden. Een andere potentiële kostenpost is de deelname aan verwante standaardisatieorganisaties waarvoor lidmaatschapskosten worden gerekend. In verschillende communities kan deze post variëren van 0 tot 15% en hoger, van het totale budget. Daarbij zijn dan vaak ook reiskosten noodzakelijk voor de internationale bijeenkomsten. Standaard bedrijfsvoeringkosten zijn ook van toepassing zoals ICTvoorzieningen (kantoorautomatisering), huisvesting en kosten van de accountant voor de jaarrekening. Goodwill kan ook als kostenpost worden beschouwd. Goodwill is dan de investeringen die men in de omgeving moet plegen die niet direct bijdragen aan de standaard zelf, zoals het deelnemen aan bijeenkomsten en accountmanagement. Vaak is dit een investering om goodwill van anderen in return te krijgen (als opbrengst). Tot slot zijn er de financieringskosten waarmee de activiteiten worden bedoeld om inkomsten te genereren voor de standaardisatieactiviteiten. Afhankelijk van het financieringsmodel kunnen dat kosten zijn voor het verwerven van leden tot aan het aanvragen van subsidies en dergelijke.
+Vaak worden er specifieke software tools gebruikt zoals datamodelleersoftware waarvoor licentiekosten betaald moeten worden. Een andere potentiële kostenpost is de deelname aan verwante standaardisatieorganisaties waarvoor lidmaatschapskosten worden gerekend. In verschillende communities kan deze post variëren van 0 tot 15% en hoger, van het totale budget. Daarbij zijn dan vaak ook reiskosten noodzakelijk voor de internationale bijeenkomsten. Standaard bedrijfsvoeringkosten zijn ook van toepassing zoals ICT voorzieningen (kantoorautomatisering), huisvesting en kosten van de accountant voor de jaarrekening. Goodwill kan ook als kostenpost worden beschouwd. Goodwill is dan de investeringen die men in de omgeving moet plegen die niet direct bijdragen aan de standaard zelf, zoals het deelnemen aan bijeenkomsten en accountmanagement. Vaak is dit een investering om goodwill van anderen in return te krijgen (als opbrengst). Tot slot zijn er de financieringskosten waarmee de activiteiten worden bedoeld om inkomsten te genereren voor de standaardisatieactiviteiten. Afhankelijk van het financieringsmodel kunnen dat kosten zijn voor het verwerven van leden tot aan het aanvragen van subsidies en dergelijke.
 
 De verhoudingen kunnen door de tijd verschuiven, bijvoorbeeld in een bepaalde fase van een standaard kan er pas op de plaats gemaakt worden met de ontwikkeling en wordt de focus verlegd op de communicatie om de adoptie van de standaard te bevorderen. In lijn hiermee zullen kosten verschuiven van ontwikkeling naar communicatie.
 
 #### Credit
-Potentiële bronnen van inkomsten zijn bijvoorbeeld stakeholders die geld uit de structurele begroting beschikbaar stellen voor de standaard. Dat kan een ministerie zijn, maar even goed een brancheof belangenorganisatie. Op dezelfde manier kunnen deze organisaties ook tijdelijk voor een bepaald doel (project)financiering beschikbaar stellen. Daarnaast, aangezien standaarden een maatschappelijk en economisch belang hebben, zijn er vaak mogelijkheden voor subsidie. Deze subsidies zijn ook een mogelijke bron van inkomsten; maar het verkrijgen daarvan kan omslachtig zijn, en er kunnen beperkende voorwaarden zijn voor de inzet van het geld.
+Potentiële bronnen van inkomsten zijn bijvoorbeeld stakeholders die geld uit de structurele begroting beschikbaar stellen voor de standaard. Dat kan een ministerie zijn, maar even goed een branche of belangenorganisatie. Op dezelfde manier kunnen deze organisaties ook tijdelijk voor een bepaald doel (project)financiering beschikbaar stellen. Daarnaast, aangezien standaarden een maatschappelijk en economisch belang hebben, zijn er vaak mogelijkheden voor subsidie. Deze subsidies zijn ook een mogelijke bron van inkomsten; maar het verkrijgen daarvan kan omslachtig zijn, en er kunnen beperkende voorwaarden zijn voor de inzet van het geld.
 
 Structurele financieringsvormen verdienen de voorkeur boven tijdelijke (project) financieringsvormen. Niemand zal namelijk een standaard willen implementeren waarvan het onzeker is of die volgend jaar nog wel beheerd wordt omdat de standaard werkt met aflopende projectfinanciering. Daarnaast is structurele financiering een eis voor opname op de pas-toe of leg-uit lijst met open standaarden van het Forum Standaardisatie.
 
@@ -207,7 +213,7 @@ Dienstverlening gerelateerd aan de standaard is een andere mogelijkheid. Te denk
 
 Naast de structurele financiering uit de begroting van een belangrijke stakeholder is de meest voor de hand liggende inkomstenbron een (lidmaatschaps)bijdrage van de stakeholders. Hiervoor kan op basis van de trits 'belang-betaling-zeggenschap' de kosten verhaald worden bij dezelfde partijen waar ook de baten liggen. Verschillende typen organisaties kunnen verschillende bijdrage voor tarieven hebben gerelateerd aan de potentiële opbrengsten van de stakeholder door het gebruik van de standaard. Het spreekt voor zich dat een partij die een wezenlijke bijdrage levert aan het beheer van een standaard daar ook invloed op zal willen uitoefenen. Een risico daarbij is dat het belang (en dus de zeggenschap) gelijkgeschakeld wordt met de financiële bijdrage. Dit heeft ook consequenties voor de openheid.
 
-Voor een volwassen standaard is het eenvoudiger om inkomsten te genereren uit de standaard zelf of aanverwante diensten, maar daarbij moet men voorzichtig te werk gaan om zo min mogelijk weerstand tegen de standaard te creëren. Een standaard die zichzelf kan financieren uit inkomsten, bijvoorbeeld door lidmaatschapsgeld en licentie-inkomsten, kan nog steeds een open standaard zijn. Winst maken is uit den boze. Om dit te voorkomen kan de organisatievorm een belangrijke rol spelen.
+Voor een volwassen standaard is het eenvoudiger om inkomsten te genereren uit de standaard zelf of aanverwante diensten, maar daarbij moet men voorzichtig te werk gaan om zo min mogelijk weerstand tegen de standaard te creëren. Een standaard die zichzelf kan financieren uit inkomsten, bijvoorbeeld door lidmaatschapsgeld en licentie-inkomsten, kan nog steeds een open standaard zijn. Winst maken is uit den boze. Om dit te voorkomen kan de organisatievorm een belangrijke rol spelen. In de praktijk is het lastig om het free riders (wel meeprofiteren zonder bijdrage) probleem goed te adresseren.
 
 ### Geschiktheid van opbrengsten bronnen
 
@@ -215,26 +221,22 @@ De vorige paragraaf schetste een beeld van potentiële opbrengsten. De keuze van
 
 De geschiktheid van een type opbrengst wordt algemeen geldend bepaald door:
 
-*  kosten en opbrengsten in evenwicht brengend
-*  open en transparantimage_tooltip
-*  voldoende breed draagvlak
+*  Kosten en opbrengsten in evenwicht brengend.
+*  Open en transparant.
+*  Voldoende breed draagvlak.
 
 In andere woorden, opbrengstbronnen die geen draagvlak hebben, niet transparant zijn en de beheerorganisatie winstgevend maken zijn niet geschikt.
 
 Om geschikte bronnen van inkomsten te bepalen is een onderscheid in verschillende situaties noodzakelijk:
 
-1. Onderscheid tussen ontwikkeling en beheer
-2. Mate van volwassenheid: onderscheid tussen een bewezen standaard en een standaard in de beginfase van de levenscyclus
-
-<p class="comment" style="color:red">
-[TODO: HAAKJE/VERWIJZING NAAR BOMOS 2i]
-</p>
+1. Onderscheid tussen ontwikkeling en beheer.
+2. Mate van volwassenheid: onderscheid tussen een bewezen standaard en een standaard in de beginfase van de levenscyclus.
 
 Daarnaast hanteren we een drietal uitgangspunten:
 
-*  aansluiten bij open standaard (toegankelijk)
-*  adoptie niet belemmerend
-*  waar het voordeel zit, vindt betaling plaats.
+*  Aansluiten bij open standaard (toegankelijk).
+*  Adoptie niet belemmerend.
+*  Waar het voordeel zit, vindt betaling plaats.
 
 Op basis van deze uitgangspunten hebben licenties vanwege de beperkte openheid, maar vooral omdat het adoptie belemmerend werkt, een twijfelachtige status. Dit geldt zowel voor betalen voor het specificatiedocument, als wel op betalen voor gebruik van de standaard. Gezien de ongewenstheid wordt dit niet beschouwd als potentiële opbrengsten bron voor een open standaard.
 
