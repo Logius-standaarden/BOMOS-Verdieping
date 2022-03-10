@@ -149,10 +149,10 @@ Tot slot, ook binnen de standaarden zelf kan weer gelaagdheid ontstaan, op versc
 ### Sector overstijgende interoperabiliteit: Verzuiling
 Door de sector-specifieke aanpak van de semantische standaarden ontstaat de angst voor verzuiling van sectoren. Interoperabiliteit over sectoren heen wordt niet opgelost, en wordt zelfs mogelijk steeds lastiger. Het potentiële probleem is alom bekend, en oplossingen worden daarvoor bedacht maar tot op heden stranden deze in zeer lage adoptie en gebrek aan draagvlak en ondersteuning. Dat kan twee oorzaken hebben;
 
-1. Het probleem van sectoroverstijgende interoperabiliteit wordt nog niet als nijpend beschouwd aangezien binnen de sector nog grotere uitdagingen liggen.
-2. De voorgestelde technische oplossingen zijn vaak uitermate complex. Bijvoorbeeld een technisch fraaie oplossing is de UN/CEFACT Core Components standaard. Deze standaard is meer dan tien jaar oud, maar kan op het gebied van adoptie nog wel een boost gebruiken.
+1. Het probleem van sector overstijgende interoperabiliteit wordt nog niet als nijpend beschouwd aangezien binnen de sector nog grotere uitdagingen liggen.
+2. De voorgestelde technische oplossingen zijn vaak uitermate complex. Bijvoorbeeld een technisch fraaie oplossing is de UN/CEFACT Core Components standaard. Deze standaard is meer dan tien jaar oud, maar is uiteindelijk nooit breed geadopteerd.
 
-De kern van de oplossing zit hem waarschijnlijk niet in de techniek, maar in de beheerorganisaties actief in de verschillende domeinen. Deze zullen minder verkokerd moeten optreden en meer moeten samenwerken met de collega beheer-organisaties in aanverwante sectoren. Daar is de laatste jaren dan ook al verbetering in opgetreden. Mede ook op basis van het 'open' gedachtegoed, want in een 'open world' (zie deel over openheid) zijn er geen concurrerende standaarden en sluiten standaarden perfect op elkaar aan.
+De kern van de oplossing zit hem waarschijnlijk niet in de techniek, maar in de beheerorganisaties actief in de verschillende domeinen. Deze zullen minder verkokerd moeten optreden en meer moeten samenwerken met de collega beheer-organisaties in aanverwante sectoren. Daar is de laatste jaren dan ook al verbetering in opgetreden. Mede ook op basis van het 'open' gedachtegoed, want in een 'open world' (_linkedwin naar 3.1_) zijn er geen concurrerende standaarden en sluiten standaarden perfect op elkaar aan.
 
 ### De relatie met formele standaarden
 
@@ -160,9 +160,9 @@ De vorige paragrafen maken helder dat semantische standaarden in de meeste geval
 
 Bij formele standaarden zijn er een aantal pijnpunten:
 
-**Het niet kunnen inzien van de formele standaarden:** Een aantal keren werd in de sessies melding gemaakt dat een bestaande formele standaard mogelijk al een (deel)oplossing bevat. Echter niemand weet het zeker want niemand heeft de standaard ingezien omdat er kosten aan verbonden zijn. Ook al kunnen de kosten beperkt zijn, de drempel is te hoog. Nu moest door de begeleider na afloop van de dag de standaard maar aangeschaft worden, om er soms na drie minuten achter te komen dat de standaard niet bruikbaar was. Dit staat snelle voortgang (in de pressure cooker) in de weg. In de praktijk blijkt (bijv. bij Geonovum en SETU) dat zelfs een 'gratis registratie' al als een te hoge drempel wordt ervaren.
+**Het niet kunnen inzien van de formele standaarden:** Een aantal keren werd in de pressure cooker sessie melding gemaakt dat een bestaande formele standaard mogelijk al een (deel)oplossing bevat. Echter niemand weet het zeker want niemand heeft de standaard ingezien omdat er kosten aan verbonden zijn. Ook al kunnen de kosten beperkt zijn, de drempel is te hoog. Nu moest door de begeleider na afloop van de dag de standaard maar aangeschaft worden, om er soms na drie minuten achter te komen dat de standaard niet bruikbaar was. Dit staat snelle voortgang (in de pressure cooker) in de weg. In de praktijk blijkt (bijv. bij Geonovum en SETU) dat zelfs een 'gratis registratie' al als een te hoge drempel wordt ervaren.
 
-**De kosten tijdens het ontwikkelen van standaarden:** De kosten voor een formele standaard zijn gemiddeld grofweg 100 euro per standaard. Relatief een klein bedrag bij de ontwikkeling van een nieuwe standaard, soms hooguit zonde als direct na aanschaf blijkt dat die niet relevant is. Maar een groter probleem is het aantal, bijna nooit is het een standaard die aangeschaft moet worden. In het geval van de pressure cooker voor de afvalsector ging het naast de aanschaf van een DIN standaard, ook om de aanschaf van NEN-, ENen ISO-standaarden, waarbij een ISO standaard uit vier delen bestaat die los aangeschaft dienen te worden. Dan nemen de kosten, maar ook de frustratie over het gedoe verder toe. Dit gedoe heeft vaak ook met inkoop-proces binnen een organisatie te maken. Al snel ontstaat een _laat maar, zal toch wel niet nuttig zijn_ gevoel.
+**De kosten tijdens het ontwikkelen van standaarden:** De kosten voor aanschaf van een formele standaard (specificatiedocument) zijn gemiddeld grofweg 100 euro per standaard. Relatief een klein bedrag bij de ontwikkeling van een nieuwe standaard, soms hooguit zonde als direct na aanschaf blijkt dat die niet relevant is. Maar een groter probleem is het aantal; bijna nooit is het één standaard die aangeschaft moet worden. In het geval van de pressure cooker voor de afvalsector ging het naast de aanschaf van een DIN standaard, ook om de aanschaf van NEN-, en ISO-standaarden, waarbij een ISO standaard uit vier delen bestaat die los aangeschaft dienen te worden. Dan nemen de kosten, maar ook de frustratie over het gedoe verder toe. Dit gedoe heeft vaak ook met inkoop-proces binnen een organisatie te maken. Al snel ontstaat een _laat maar, zal toch wel niet nuttig zijn_ gevoel.
 
 Dit probleem kan ondervangen worden door de werkgroep/pressure cooker onder te brengen bij het NEN, aangezien NEN werkgroepen onbeperkt inzage hebben in de standaarden. Echter aan het onderbrengen van de werkgroep bij NEN zijn ook kosten verbonden.
 
@@ -180,17 +180,18 @@ Als we in een nationale, sectorspecifieke context, een internationale standaard 
 
 De volgende situaties kunnen zich voordoen:
 
-*  De specifieke context vergt uitbreidingen/aanpassingen aan de standaard
-*  Er zitten vele overbodige zaken in de standaard die zorgen voor extra complexiteit die niet nodig is voor de specifieke context
-*  Er worden fouten gevonden in de internationale standaard
-*  Er missen zaken in de standaard die niet specifiek zijn voor de context
-*  Er is behoefte aan een nieuwe standaard
+*  De specifieke context vergt uitbreidingen/aanpassingen aan de standaard.
+*  Er zitten vele overbodige zaken in de standaard die zorgen voor extra complexiteit die niet nodig is voor de specifieke context.
+*  Er worden fouten gevonden in de internationale standaard.
+*  Er missen zaken in de standaard die niet specifiek zijn voor de context.
+*  Er is behoefte aan een nieuwe standaard.
 
 Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 
 *   Aanpassen in de internationale standaard (en brengen de aanpassingen niet terug naar de internationale standaard) (Adaptations)
 *   Toegestane uitbreidingen aan de standaard invullen (Extensions)
-*   Zaken uit de standaard halen (Ommissions) â€¢ Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
+*   Zaken uit de standaard halen (Ommissions) 
+*   Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
 
 ![alt_text](images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
@@ -208,9 +209,9 @@ De strategieën:
 Met name om interoperabiliteit internationaal mogelijk te maken is het verstandig om zoveel mogelijk in lijn te blijven met de internationale standaarden en een strategie te kiezen aan de rechterkant van het figuur, waar mogelijk compliant profiling. Echter dat vergt afstemming met de internationale standaard, waaraan kosten verbonden zijn, ondermeer door het bezoeken van de internationale standaardisatie bijeenkomsten. Een noodzakelijkheid om interoperabiliteit in internationale context na te streven.
 
 ### De Linked Data standaarden voor semantisch modelleren
-Linked Data heeft een lange weg doorgemaakt, maar is inmiddels de defacto standaard voor semantisch modelleren. De standaarden en technologiën die hieronder vallen -- zoals RDF, SPARQL en OWL -- worden steeds meer in de praktijk geadopteerd. Dat begon in de academische wereld maar heeft zich de afgelopen jaren uitgebreid naar de publieke sector en het bedrijfsleven.
+Linked Data heeft een lange weg doorgemaakt, maar is inmiddels de defacto standaard voor semantisch modelleren. De standaarden en technologieën die hieronder vallen, zoals RDF, SPARQL en OWL, worden steeds meer in de praktijk geadopteerd. Dat begon in de academische wereld maar heeft zich de afgelopen jaren uitgebreid naar de publieke sector en het bedrijfsleven.
 
-Linked Data brengt veranderingen in de semantische standaardisatiediscipline die BOMOS omschrijft. Het gaat niet enkel om het gebruik van nieuwe technologieën en hulpmiddelen. Linked Data betekent een andere benadering tot semantische interoperabiliteit: de nadruk verschuift van het standaardiseren van berichten (of 'transacties') naar het standaardiseren van de onderliggende domeinbeschrijving; de taal. Met vocabulaires en ontologieen wordt de taal in een domein gestandaardiseerd, maar ook relaties tussen domein-ontologieen kunnen gelegd worden, waardoor Linked Data de grenzen van sectoren weet te doorbreken en een middel voor domein-overstijgende interoperabiliteit is geworden. Daarnaast voldoen de Linked Data standaarden aan de open standaarden criteria, en een aantal zijn dan ook opgenomen op de pas-toe of leg-uit lijst van de Nederlandse Overheid.
+Linked Data brengt veranderingen in de semantische standaardisatiediscipline die BOMOS omschrijft. Het gaat niet enkel om het gebruik van nieuwe technologieën en hulpmiddelen. Linked Data betekent een andere benadering tot semantische interoperabiliteit: de nadruk verschuift van het standaardiseren van berichten (of 'transacties') naar het standaardiseren van de onderliggende domeinbeschrijving; de taal. Met vocabulaires en ontologieen wordt de taal in een domein gestandaardiseerd, maar ook relaties tussen domein-ontologieën kunnen gelegd worden, waardoor Linked Data de grenzen van sectoren weet te doorbreken en een middel voor domein-overstijgende interoperabiliteit is geworden. Daarnaast voldoen de Linked Data standaarden aan de open standaarden criteria, en een aantal zijn dan ook opgenomen op de pas-toe of leg-uit lijst van de Nederlandse Overheid.
 
 
 ## Stimuleren van het gebruik van standaarden (Activiteit Adoptie & Erkenning)
@@ -220,11 +221,11 @@ Veel standaardisatieorganisaties zoeken naar mogelijkheden om het gebruik van hu
 Uit werkgroepen van het Forum Standaardisatie komt een aantal kritieke succesfactoren naar voren die bij de adoptie van verschillende standaarden een rol hebben gespeeld:
 
 1. De standaard moet volwassen zijn; anders durft niemand te investeren.
-2. Adoptie van een standaard vergt tijd, soms meerdere jaren.
-3. De voordelen moeten voor iedereen helder zijn, voor het bedrijfsproces, maatschappelijk en financieel;
+2. Geduld: Adoptie van een standaard vergt tijd, soms meerdere jaren.
+3. De voordelen moeten voor iedereen helder zijn, voor het bedrijfsproces, maatschappelijk en financieel; er is draagvlak. 
 4. Er moet een betrokken probleemeigenaar zijn, juist ook omdat adoptie vele jaren duurt; Ã©cht commitment is onontbeerlijk.
 5. Er is een kritieke massa van gebruikers nodig.
-6. Een dominante partij of een dominant proces kan adoptie sterk stimuleren.
+6. Een leidende partij of een leidend proces kan adoptie sterk stimuleren.
 7. Er moet een actieve community zijn die betrokken is bij ontwikkeling en gebruik van de standaard.
 8. Er is geld nodig voor ondersteuning, opleiding, beloning etc.
 9. Gebruik een goede mix van adoptiemiddelen.
@@ -249,46 +250,46 @@ Meestal is er niet één altijd passende strategie. De keuze zal afhangen van de
 
 Voorbeelden van adoptiemiddelen:
 
-*   Informeren/adviseren
-    *   Informatie-event organiseren
-    *   Voorlichtingsdagen
-    *   Presentatie op een congres
-    *   Artikelen in magazines
-    *   Advies over gebruik van de standaard
-*   Betrekken en beïnvloeden
-    *   Collectieve business case opstellen en verspreiden
-    *   Documenteren cases
-    *   Publiceren overzicht met gebruikers
-    *   Open standaardisatieproces
-    *   Oprichten klankbordgroep
-    *   Community building
-    *   Oprichten samenwerkingsplatform
-    *   Afstemmen softwareleveranciers van gebruikers
-*   Samenwerken en faciliteren
-    *   Testbed voor implementatie van de standaard
-    *   Uitvoeren van gezamenlijke pilots
-    *   Plugfest organiseren
-    *   Partnerschappen realiseren
-    *   Validators
-    *   Business case tool
-    *   Referentie implementaties
-*   Ontlasten en subsidiëren
-    *   Subsidie voor invoering
-    *   Financiering implementatie bij software leveranciers
-    *   Opstellen van een specifiek plan van aanpak
-    *   Het invoeren van een eigen implementatie die als 'broker' fungeert
-    *   Certificering
-    *   Gratis implementatie ondersteuning
-*   Onderhandelen en contracteren
-    *   Bestuurlijke verankering bij gebruikers
-    *   Opstellen convenant
-    *   Contract opstellen tussen sturende actor en ketenpartijen
-*   Opdragen en verplichten
-    *   Opleggen via de lijst met open standaarden voor 'pas toe of leg uit'
-    *   Wettelijke dwang
+*   Informeren/adviseren.
+    *   Informatie-event organiseren.
+    *   Voorlichtingsdagen.
+    *   Presentatie op een congres.
+    *   Artikelen in magazines.
+    *   Advies over gebruik van de standaard.
+*   Betrekken en beïnvloeden.
+    *   Collectieve business case opstellen en verspreiden.
+    *   Documenteren cases.
+    *   Publiceren overzicht met gebruikers.
+    *   Open standaardisatieproces.
+    *   Oprichten klankbordgroep.
+    *   Community building.
+    *   Oprichten samenwerkingsplatform.
+    *   Afstemmen softwareleveranciers van gebruikers.
+*   Samenwerken en faciliteren.
+    *   Testbed voor implementatie van de standaard.
+    *   Uitvoeren van gezamenlijke pilots.
+    *   Plugfest organiseren.
+    *   Partnerschappen realiseren.
+    *   Validators.
+    *   Business case tool.
+    *   Referentie implementaties.
+*   Ontlasten en subsidiëren.
+    *   Subsidie voor invoering.
+    *   Financiering implementatie bij software leveranciers.
+    *   Opstellen van een specifiek plan van aanpak.
+    *   Het invoeren van een eigen implementatie die als 'broker' fungeert.
+    *   Certificering.
+    *   Gratis implementatie ondersteuning.
+*   Onderhandelen en contracteren.
+    *   Bestuurlijke verankering bij gebruikers.
+    *   Opstellen convenant.
+    *   Contract opstellen tussen sturende actor en ketenpartijen.
+*   Opdragen en verplichten.
+    *   Opleggen via de lijst met open standaarden voor 'pas toe of leg uit'.
+    *   Wettelijke dwang.
 
 ### Stappenplan
-Het Integratie Adoptie Instrument beschrijft vijf stappen om de juiste keuzes te kunnen maken voor adoptie in een bepaalde sector organisaties:
+We beschrijven vijf stappen om de juiste keuzes te kunnen maken voor adoptie in een bepaalde sector organisaties:
 
 #### Stap 1: Geschiktheid
 Er moet een goede 'match' zijn tussen de standaard en de vragen in de betreffende sector:
@@ -339,7 +340,7 @@ Vanuit een standaardisatie-organisatie bekeken kan het organiseren van een plugf
 **adoptie:** leveranciers kunnen zich onderscheiden door te participeren aan een plugfest. Door publiek uit te nodigen kan de standaard ook onder aandacht van eindgebruikers gebracht worden.
 
 #### Een voorbeeld: plugfesten in de onderwijspraktijk
-In het onderwijsveld is een plugfest georganiseerd rondom de Digitale leermaterialen standaarden. Beide malen is het plugfest zowel door leveranciers als door eindgebruikers goed bezocht. Voorafgaand aan het plugfest is nauw contact met participerende leveranciers onderhouden en is hen gevraagd alvast leermaterialen aan te leveren. Deze materialen zijn door Kennisnet vooraf getoetst en op basis van de resultaten kregen leveranciers een tweede mogelijkheid een verbeterd pakket met leermateriaal aan te leveren. De scores van de tweede toets zijn tijdens het evenement bekend gemaakt. Tijdens het plugfest zijn leveranciers in staat gesteld te laten zien hoe goed zij leermaterialen die in de standaard zijn opgeslagen kunnen gebruiken in hun software. Tegelijkertijd was er de mogelijkheid voor gebruikers om te kijken of hun eigen materiaal in verschillende applicaties van verschillende leveranciers werkte. Bijna alle leveranciers die de eerste keer meededen hebben ook de tweede keer geparticipeerd. Er zijn zelfs leveranciers bijgekomen. De winnaars van het plugfest nemen de uitslag op in promotie-uitingen van hun bedrijf.
+In het onderwijsveld is een plugfest georganiseerd rondom de digitale leermaterialen standaarden. Het plugfest werd door zowel leveranciers als door eindgebruikers goed bezocht. Voorafgaand aan het plugfest is nauw contact met participerende leveranciers onderhouden en is hen gevraagd alvast leermaterialen aan te leveren. Deze materialen zijn door Kennisnet vooraf getoetst en op basis van de resultaten kregen leveranciers een tweede mogelijkheid een verbeterd pakket met leermateriaal aan te leveren. De scores van de tweede toets zijn tijdens het evenement bekend gemaakt. Tijdens het plugfest zijn leveranciers in staat gesteld te laten zien hoe goed zij leermaterialen die in de standaard zijn opgeslagen kunnen gebruiken in hun software. Tegelijkertijd was er de mogelijkheid voor gebruikers om te kijken of hun eigen materiaal in verschillende applicaties van verschillende leveranciers werkte. Bijna alle leveranciers die de eerste keer meededen hebben ook de tweede keer geparticipeerd. Er zijn zelfs leveranciers bijgekomen. De winnaars van het plugfest namen de uitslag op in promotie-uitingen van hun bedrijf.
 
 #### Leerpunten, aandachtspunten, do's and don'ts
 **Kies**: Een plugfest gericht op interoperabiliteit is een compleet ander plugfest dan die gericht op adoptie/transparantie. Een plugfest gericht op interoperabiliteit kan bijvoorbeeld besloten zijn, gericht op ondersteuning richting leveranciers, en passend in de vroege levensfase van een standaard. Een plugfest gericht op adoptie is zeer open, met publiciteit, gericht op transparantie en passend in een volwassen levensfase van een standaard. Een keuze is dan ook noodzakelijk.
@@ -357,22 +358,22 @@ Een andere manier om te kijken naar de adoptie van een standaard is door te anal
 
 **Relatieve voordelen** dragen bij aan de adoptie van een standaard. Een organisatie heeft voordeel bij het gebruik van een standaard. Deze voordelen kunnen zichtbaarder gemaakt worden door:
 
-* voordelen te communiceren
-* business cases te tonen
-* best practices te ontwikkelen
+* Voordelen te communiceren.
+* Business cases te tonen.
+* Best practices te ontwikkelen.
 
 Hoge **adoptie kosten** hebben een negatieve invloed. Getracht kan worden deze kosten te verminderen. Bijvoorbeeld door:
 
-* Subsidie te verlenen
+* Subsidie te verlenen.
 * Implementaties makkelijker te maken, bijvoorbeeld door hulpmiddelen beschikbaar te stellen.
 
 **Institutionele effecten** hebben betrekking op afspraken vanuit de wet of in een sector, die een meer of minder verplichtend karakter hebben voor het gebruik van de standaard. Instrumenten zijn ondermeer:
 
-* Contractuele afspraken maken met gebruikers
-* Opnemen in wettelijke afspraken of via de lijst voor 'pas toe of leg uit'
-* Andere juridische verplichtingen
+* Contractuele afspraken maken met gebruikers.
+* Opnemen in wettelijke afspraken of via de lijst voor 'pas toe of leg uit'.
+* Andere juridische verplichtingen.
 
-Een belangrijk, vaak vergeten factor is Community ideologie. Een sterke community rondom een standaard kan bijdragen aan de adoptie. Door de community te versterken en zo mogelijke 'evangelisten' te zoeken kan de adoptie versterkt worden.
+Een belangrijk, vaak vergeten factor is community ideologie. Een sterke community rondom een standaard kan bijdragen aan de adoptie. Door de community te versterken en zo mogelijke 'evangelisten' te zoeken kan de adoptie versterkt worden.
 
 Een toenemend gebruik versterkt zichzelf vanwege netwerkeffecten. Dit kan daarom ook onderdeel uitmaken van de adoptiestrategie. Bijvoorbeeld door een grote organisatie te strikken die gebruik gaat maken van de standaard, door het organiseren van partnerships, gratis implementaties of het organiseren van een plugfest.
 
@@ -381,7 +382,7 @@ Een standaardisatie-organisatie heeft doorgaans vooral een netwerkperspectief op
 
 **Compliance management:** waarin een organisatie definieert hoe het met verplichte standaarden omgaat.  
 **Het IT-beleid:** waarin een organisatie de grote lijnen op het gebied ICT en open standaarden definieert. Architectuur management: de modellen en principes (waaronder de toe te passen standaarden) waaruit het ICT-landschap is opgebouwd.  
-**Portfolio management:** de kwaliteitscriteria van projecten, de inzet van middelen voor ICT-innovatie en â€“vernieuwingsprojecten. Dit is bijvoorbeeld van belang voor het toekennen van middelen aan een migratie naar een bepaalde (nieuwe) open standaard.  
+**Portfolio management:** de kwaliteitscriteria van projecten, de inzet van middelen voor ICT-innovatie en vernieuwingsprojecten. Dit is bijvoorbeeld van belang voor het toekennen van middelen aan een migratie naar een bepaalde (nieuwe) open standaard.  
 **Inkoop en leveranciersmanagement:** de eisen die aan leveranciers worden gesteld.
 
 Voor een standaardisatie-organisatie zijn dit aangrijpingspunten om de adoptie binnen een specifieke partij te stimuleren. Daar zit ook de samenhang met de adoptiemiddelen die een standaardisatie-organisatie kan inzetten. Bijvoorbeeld:
@@ -418,11 +419,11 @@ Een grotere waarschijnlijkheid is de relatie tussen het budget en de kwaliteit v
 Een andere mogelijke reden is het gebrek aan standaardisatie-expertise, aangezien het nog te weinig als 'vak' wordt gezien. Ook het polderen bij het standaardiseren met werkgroepen draagt niet positief bij. Regelmatig worden te veel opties in standaarden opgenomen om alle deelnemers in werkgroepen tegemoet te komen. Het resultaat is een te complexe standaard die in de praktijk slecht implementeerbaar is en leidt tot niet interoperabele implementaties die allemaal wel voldoen aan de standaard.
 
 #### Een kwaliteitsinstrument
-Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken. Dit is complexe materie wat nog in de kinderschoenen staat. Voorlopig is er een eerste versie van een kwaliteitsmodel beschikbaar.
+Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken. 
 
-Deze eerste versie is gebaseerd op voornamelijk het domein van softwareengineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in figuur 19 weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts.
+Deze eerste versie is gebaseerd op voornamelijk het domein van software-engineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in onderstaande figuur weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin (2012), Quality of Semantic Standards). 
 
-De hoofdcategoriën zijn:
+De hoofdcategorieën zijn:
 
 **Effectiviteit:** de mate waarin de standaard in de specifieke situatie de functies biedt en implementeert die expliciet of impliciet vereist zijn.  
 **Betrouwbaarheid:** de mate waarin een standaard een op een gespecificeerd niveau blijft presteren onder specifieke condities zoals foutieve implementaties of verschillen in implementaties tussen partijen.  
@@ -430,9 +431,9 @@ De hoofdcategoriën zijn:
 **Portabiliteit:** de mate waarin een standaard de mogelijkheid heeft om in verschillende omgevingen ingezet te worden.  
 **Onderhoudbaarheid:** de mate waarin een standaard eenvoudig aangepast kan worden aan een veranderende situatie.  
 **Adoptiegraad**: de mate waarin de standaard is geaccepteerd door verschillende partijen.  
-**Openheid:** de mate waarin de standaard voldoet aan openheidscriteria op het gebied van intellectueel eigendom en (onderhoudsen beheer)processen.
+**Openheid:** de mate waarin de standaard voldoet aan openheidscriteria op het gebied van intellectueel eigendom en (onderhouds en beheer)processen.
 
-Het kwaliteitsmodel in figuur 19 laat niet de volledig uitwerking voor elk kwaliteitsattribuut zien. Ter illustratie: het kwaliteitsattribuut Volwassenheid (onder Betrouwbaarheid) bevat meerdere attributen, zoals bijvoorbeeld Stabiliteit. Deze attributen kunnen weer meerdere metrieken bevatten, en daarnaast wordt vastgelegd hoe de waarde van de metriek bijdraagt aan de uiteindelijke waarde voor het attribuut. Een eenvoudig voorbeeld: het attribuut Stabiliteit heeft als metriek de hoeveelheid releases van een standaard in de afgelopen vijf jaar. Een potentiële meting van één release (in vijf jaar) kan door middel van het scoringsmechanisme leiden tot de waarde 'zeer stabiel' voor het attribuut Stabiliteit.
+Het kwaliteitsmodel in het figuur laat niet de volledig uitwerking voor elk kwaliteitsattribuut zien. Ter illustratie: het kwaliteitsattribuut Volwassenheid (onder Betrouwbaarheid) bevat meerdere attributen, zoals bijvoorbeeld Stabiliteit. Deze attributen kunnen weer meerdere metrieken bevatten, en daarnaast wordt vastgelegd hoe de waarde van de metriek bijdraagt aan de uiteindelijke waarde voor het attribuut. Een eenvoudig voorbeeld: het attribuut Stabiliteit heeft als metriek de hoeveelheid releases van een standaard in de afgelopen vijf jaar. Een potentiële meting van één release (in vijf jaar) kan door middel van het scoringsmechanisme leiden tot de waarde 'zeer stabiel' voor het attribuut Stabiliteit.
 
 #### Het kwaliteitsinstrument gebruiken
 De relatie tussen interoperabiliteit en standaarden is die van doel-middel. Zonder het kwaliteitsaspect in ogenschouw te nemen worden standaarden te veel gezien als heilige graal. De standaard wordt het doel, in plaats van een middel om op een effectieve en efficiënte manier interoperabiliteit te bereiken. Een aandachtsverschuiving naar de kwaliteit van standaarden voorkomt dat standaarden een doel op zich worden en zal de relatie tussen standaarden en interoperabiliteit versterken.
@@ -443,13 +444,13 @@ Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een sta
 
  De belangrijkste vraag is wat het gebruik van het kwaliteitsinstrument voor standaarden oplevert. Kort samengevat:
 
-* een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is op de kwaliteit van een standaard
-* ideeën voor verbetering van de standaard
-* ideeën voor aanpassingen in het standaardisatieproces
+* een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is op de kwaliteit van een standaard.
+* ideeën voor verbetering van de standaard.
+* ideeën voor aanpassingen in het standaardisatieproces.
 
 Het helpt de standaardisatieontwikkelaar om met een frisse blik naar de standaard te kijken en daarbij een gevoel te krijgen hoe de kwaliteit te beïnvloeden is. Gedurende het gebruik zal de standaardisatieontwikkelaar ideeën ontwikkelen hoe de standaard te verbeteren is of mogelijkheden zien om het standaardisatieproces te veranderen om een hogere kwaliteit te bereiken.
 
-In ultieme vorm is het kwaliteitsinstrument een meetinstrument (zoals een thermometer) voor standaarden, dat wil zeggen een compleet gereedschap inclusief 'tool' en 'gebruikshandleiding'. Op dit moment ligt er een bruikbaar kwaliteitsmodel, met een stevig fundament, dat als 'bril' kan worden gebruikt om standaarden in de praktijk mee te toetsen.
+In ultieme vorm is het kwaliteitsinstrument een meetinstrument (zoals een thermometer) voor standaarden, dat wil zeggen een compleet gereedschap inclusief 'tool' en 'gebruikshandleiding'. Maar ook alleen het kwaliteitsmodel, met een stevig fundament, kan als 'bril' worden gebruikt om standaarden in de praktijk mee te toetsen.
 
 ### Kwaliteit van implementaties
 De kwaliteit van de standaard kan nog zo goed zijn, als de kwaliteit van de implementaties achterblijft wordt er ook geen interoperabiliteit bereikt. Deze sectie gaat in op mogelijke vormen certificering, compliancy testing, validatie, en andere vormen van toetsen van het toepassen van de standaard, met daarbij eventueel een beloning. Certificering hanteren we als containerbegrip voor alle vormen hiervan.
@@ -463,7 +464,7 @@ Vanuit een standaardisatie-organisatie bekeken kan certificering een positieve b
 
 **Adoptie bevorderen.** Early adopters de kans geven zich er positief mee te onderscheiden. Voor leveranciers kan het noodzaak worden om een certificaat te verkrijgen omdat ze anders buiten de markt vallen. Certificaat kan dan bijvoorbeeld gevraagd worden in aanbestedingen.
 
-**Financiën.** Certificering kan ingezet worden als potentiële bron van inkomsten om het beheer van standaarden te financieren. Uitgangspunt hierbij is gebruikers van de standaard betalen voor de ontwikkeling hiervan.
+**Financieën.** Certificering kan ingezet worden als potentiële bron van inkomsten om het beheer van standaarden te financieren. Uitgangspunt hierbij is gebruikers van de standaard betalen voor de ontwikkeling hiervan.
 
 Dit zijn verschillende doelstellingen die niet altijd verenigbaar zijn: bijvoorbeeld de uitvoering van een interoperabiliteitscertificaat zal grondiger uitgevoerd moeten worden dan een adoptie-certificaat. Dat betekent dat de kosten voor uitvoering hoger zullen liggen waardoor er minder 'winst' gemaakt kan worden op het certificaat, en daardoor een kleinere bijdrage voor de financiën van een standaardisatie-organisatie zal opleveren, en eerder kosten-neutraal zal zijn.
 
@@ -481,7 +482,7 @@ Bij een certificeringtraject is er altijd iets of iemand dat gecertificeerd word
 
 **Projecten:** Semantische standaarden worden vaak ingezet in de uitwisseling van informatie. Een project tussen twee (of meer organisaties), waarin eventueel ook producten worden ingezet, kan dan gecertificeerd worden.
 
-**Producten:** Voor veel standaarden is het cruciaal dat de standaard is geÃ¯mplementeerd in producten en diensten die aangeboden worden op de markt. Door aanschaf van een gecertificeerd product kan een organisatie eenvoudig gebruik maken van de standaard.
+**Producten:** Voor veel standaarden is het cruciaal dat de standaard is geïmplementeerd in producten en diensten die aangeboden worden op de markt. Door aanschaf van een gecertificeerd product kan een organisatie eenvoudig gebruik maken van de standaard.
 
 **Implementatieproces:** Als het proces (de aanpak) gecertificeerd is dan geeft dat vertrouwen in het resultaat van dat proces. In het geval bij standaardisatie zou een projectaanpak voor gebruik van de standaard in projecten kunnen certificeren, wat vertrouwen geeft dat het projectresultaat een succesvolle implementatie van de standaard bevat.
 
@@ -490,16 +491,16 @@ Bij een certificeringtraject is er altijd iets of iemand dat gecertificeerd word
 Bij het toekennen van het certificaat hoort meestal het gebruik maken van een logo dat door de beheerorganisatie wordt uitgegeven. Openheid en het voorkomen van intellectueel eigendomsrecht betekent niet dat er geen beschermd logo gebruikt mag worden. Uiteraard staat dat openheid niet in de weg.
 
 #### Waarop kan worden gecertificeerd?
-Er bestaat een spanningsveld tussen het aantal soorten certificaten dat uitgereikt wordt en omvang van gestelde eisen per certificaat. Enerzijds is het wenselijk om het aantal soorten certificaten beperkt te houden, dit om te voorkomen dat een organisatie vele certificeringtrajecten moet doorlopen (bovendien daalt de 'waarde' van een certificaat bij een toenemend aantal soorten). Anderzijds is het niet wenselijk dat een organisatie Ã¡lle onderdelen van de te ontwikkelen standaarden moet kunnen ondersteunen om gecertificeerd te kunnen worden. Een algemeen certificaat kan weinig zeggend zijn, terwijl bij twintig specifieke certificaten niemand er meer iets van begrijpt.
+Er bestaat een spanningsveld tussen het aantal soorten certificaten dat uitgereikt wordt en omvang van gestelde eisen per certificaat. Enerzijds is het wenselijk om het aantal soorten certificaten beperkt te houden, dit om te voorkomen dat een organisatie vele certificeringtrajecten moet doorlopen (bovendien daalt de 'waarde' van een certificaat bij een toenemend aantal soorten). Anderzijds is het niet wenselijk dat een organisatie alle onderdelen van de te ontwikkelen standaarden moet kunnen ondersteunen om gecertificeerd te kunnen worden. Een algemeen certificaat kan weinig zeggend zijn, terwijl bij twintig specifieke certificaten niemand er meer iets van begrijpt.
 
 In de meeste situaties bestaat een semantische standaard uit een familie van standaarden. Een afweging die gemaakt moet worden is op welk niveau de certificering wordt ingevoerd: voor de gehele set of voor een deel functionaliteit (vaak: de standaard). Daarbij moet ook bedacht worden dat ieder versienummer van een standaard dan een certificaat krijgt: het aantal explodeert al snel.
 
-Een grote hoeveelheid aan certificaten is niet verstandig als adoptie het doelstelling is voor certificering aangezien de herkenbaarheid en waarde van het certificaat dan afneemt. Daarnaast moet er ook een stimulans zijn om bijvoorbeeld een nieuwe versie te implementeren, bijvoorbeeld door de uitgifte van een nieuw certificaat. Een deel van de oplossing om bijvoorbeeld de hoeveelheid certificaten een halt toe te roepen, is een bepaalde geldigheidsduur van het certificaat. Bijvoorbeeld in plaats van SETU timecard v1.2 certificaat uit te geven, zou SETU timecard 2010 certificaat (waarin is aangegeven dat SETU timecard v.1.2 de versie van de standaard is) een alternatief kunnen zijn dat zijn waarde verliest in 2011 of 2012. Hiermee wordt de versieproblematiek ondervangen.
+Een grote hoeveelheid aan certificaten is niet verstandig als adoptie het doelstelling is voor certificering aangezien de herkenbaarheid en waarde van het certificaat dan afneemt. Daarnaast moet er ook een stimulans zijn om bijvoorbeeld een nieuwe versie te implementeren, bijvoorbeeld door de uitgifte van een nieuw certificaat. Een deel van de oplossing om bijvoorbeeld de hoeveelheid certificaten een halt toe te roepen, is een bepaalde geldigheidsduur van het certificaat. Bijvoorbeeld in plaats van SETU timecard v1.2 certificaat uit te geven, zou SETU timecard 2020 certificaat (waarin is aangegeven dat SETU timecard v.1.2 de versie van de standaard is) een alternatief kunnen zijn dat zijn waarde verliest in 2021 of 2022. Hiermee wordt de versieproblematiek ondervangen.
 
 Overigens is er een gevaar van doorschieten: bijvoorbeeld als er nieuwe versies van een standaard uitgebracht moeten worden om de financiën van de beheerorganisatie op orde te brengen.
 
 #### Wie geeft het certificaat uit en wie doet de toetsing?
-Voor het uitgeven van het certificaat zijn er logische kandidaten: de standaardisatie-beheer organiatie, de branche-organisatie, formele standaardisatieorganisaties (NEN), onafhankelijke kennisinstelling-en (zoals bv. TNO), certificeringsinstellingen (bv. DNV) of andere belangenbehartigers. Er is een belangrijk onderscheid tussen de toetser en de uitgever. Beide rollen kan bij dezelfde partij zijn belegd, maar kan ook opgedeeld worden tussen verschillende partijen wat een onafhankelijkheid en betrouwbaarheid waarborgt. Dat laatste verdient de aanbeveling want de betrouwbaarheid van een certificaat is van groot belang. De uitgever heeft eindverantwoordelijkheid en geeft de certificaten uit, en stelt het toetsingskader op. De uitvoering van de toets (op basis van het toetsingskader) kan dan door een andere en zelfs meerdere partijen worden uitgevoerd. Het stelt wel eisen aan het toetsingskader, immers onafhankelijk van de toetser zou het resultaat van de toets gelijk moeten zijn.
+Voor het uitgeven van het certificaat zijn er logische kandidaten: de standaardisatie-beheer organisatie, de branche-organisatie, formele standaardisatieorganisaties (NEN), onafhankelijke kennisinstellingen (zoals bv. TNO), certificeringsinstellingen (bv. DNV) of andere belangenbehartigers. Er is een belangrijk onderscheid tussen de toetser en de uitgever. Beide rollen kan bij dezelfde partij zijn belegd, maar kan ook opgedeeld worden tussen verschillende partijen wat een onafhankelijkheid en betrouwbaarheid waarborgt. Dat laatste verdient de aanbeveling want de betrouwbaarheid van een certificaat is van groot belang. De uitgever heeft eindverantwoordelijkheid en geeft de certificaten uit, en stelt het toetsingskader op. De uitvoering van de toets (op basis van het toetsingskader) kan dan door een andere en zelfs meerdere partijen worden uitgevoerd. Het stelt wel eisen aan het toetsingskader, immers onafhankelijk van de toetser zou het resultaat van de toets gelijk moeten zijn.
 
 In veel gevallen zou de uitgever en opsteller van het toetsingskader de standaard beheerorganisatie kunnen zijn al dan niet in samenwerking met de branche-organisatie. De uitvoering kan dan belegd worden bij een onafhankelijke kennisinstelling, certificeringsorganisatie, of bij meerdere consultancybureaus. Als de toetsing licht van aard is, dan is de splitsing minder logisch.
 
@@ -510,7 +511,7 @@ Het pakket van eisen is de publieke versie van het toetsingskader, en geeft aan 
 Daarnaast moet er een beroepsprocedure zijn met een partij als aanspreekpunt indien er een meningsverschil is over de al dan niet toekenning van een certificaat.
 
 #### Waarop wordt getoetst?
-Conformance aan een standaard is niet triviaal. De meeste semantische standaarden zijn uitgedrukt in XML Schema. Om uitspraken over conformance te doen is het niet voldoende om te controleren of de XML instantie technisch valideert ten opzichte van het XML Schema. Dit laatste is technisch prima uit te voeren (ook al moeten er wel meerdere XML schema validators gebruikt worden voor goede resultaten), maar zegt niks over de vraag of de juiste informatie ook op de juiste plek is ingevuld. Immers als Amsterdam de waarde is van het element 'Achternaam' en 'Jansen' de waarde van het element 'Woonplaats', dan zal dit technisch prima valideren (tenzij woonplaats een waarde moet bevatten uit een lijst), maar toch voldoet het hoogstwaarschijnlijk niet aan de standaard. Deze semantische validatie is een lastig uit te voeren. Voorgaand voorbeeld was misschien helder, maar stel dat het zou gaan om de elementen 'geboorteplaats' en 'woonplaats', dan is correct gebruik niet te controleren zonder bewijsstukken of iets dergelijks.
+Conformance aan een standaard is niet triviaal. Veel semantische standaarden zijn uitgedrukt in XML Schema. Om uitspraken over conformance te doen is het niet voldoende om te controleren of de XML instantie technisch valideert ten opzichte van het XML Schema. Dit laatste is technisch prima uit te voeren (ook al moeten er wel meerdere XML schema validators gebruikt worden voor goede resultaten), maar zegt niks over de vraag of de juiste informatie ook op de juiste plek is ingevuld. Immers als Amsterdam de waarde is van het element 'Achternaam' en 'Jansen' de waarde van het element 'Woonplaats', dan zal dit technisch prima valideren (tenzij woonplaats een waarde moet bevatten uit een lijst), maar toch voldoet het hoogstwaarschijnlijk niet aan de standaard. Deze semantische validatie is een lastig uit te voeren. Voorgaand voorbeeld was misschien helder, maar stel dat het zou gaan om de elementen 'geboorteplaats' en 'woonplaats', dan is correct gebruik niet te controleren zonder bewijsstukken of iets dergelijks. Nu JSON dominant als uitwisselingsformaat defacto standaard is geworden kan validatie plaatsvinden door middel van SHACL validatiergels.
 
 Daarnaast is verschil in harde (onbetwistbare en betekenisvol op het gebied van interoperabiliteit) toetsing en zachte toetsing (betwistbaar of betekenisloos op het gebied van interoperabiliteit.) Bijvoorbeeld een zachte toetsing is de belofte van een organisatie om de standaard te implementeren door ondertekening van een convenant: dit is niet betwistbaar (convenant is wel/ niet ondertekend), maar betekent op dit moment niet veel op het gebied van interoperabiliteit. Het moge duidelijk zijn dat zachte toetsing relatief eenvoudig is en harde toetsing complexer.
 
@@ -523,7 +524,7 @@ Personen zijn bijvoorbeeld eenvoudiger toetsbaar op basis van een examen. Organi
 
 Andere variaties zijn er op het gebied dat voor een organisatie-certificaat bijvoorbeeld de organisatie alleen de standaard mag gebruiken (en geen alternatieven), of in een aantal (percentage) gevallen de standaard inzet, of minimaal één geval (dan is men 'in staat').
 
-Sommige certificaten vereisen dat er een aantal XML instanties (voorbeelden) worden ingeleverd die vervolgens worden gevalideerd. Uiteraard moet er dan nagedacht worden over wat een goede hoeveelheid voorbeelden is, en daarnaast moet men zich wel realiseren dat men de bron van de voorbeelden niet kan garanderen: bijvoorbeeld misschien komen ze wel niet uit het te certificeren systeem, maar zijn ze met de hand aangemaakt.
+Sommige certificaten vereisen dat er een aantal instanties (voorbeelden) worden ingeleverd die vervolgens worden gevalideerd. Uiteraard moet er dan nagedacht worden over wat een goede hoeveelheid voorbeelden is, en daarnaast moet men zich wel realiseren dat men de bron van de voorbeelden niet kan garanderen: bijvoorbeeld misschien komen ze wel niet uit het te certificeren systeem, maar zijn ze met de hand aangemaakt.
 
 
 #### Hulpmiddel voor keuzes rond certificaten
@@ -533,20 +534,21 @@ De figuur laat vrij eenvoudig zien dat doelstellingen rond adoptie en financiën
 
 #### Andere vormen van certificering
 
-Een nadeel van certificering is de impact die het heeft op de markt. Dit houdt in dat rekening gehouden moet worden met juridische zaken (bijvoorbeeld een leverancier die de beheerorganisatie gaat aanklagen omdat het ook een certificaat wil), maar ook dat beheerorganisatie zijn onafhankelijkheid en daardoor draagvlak verliest. Of als opmaat, of om geen risico's te nemen wordt er vaak gebruik gemaakt van een alternatief. Naast certificering is er validatie. In feite is certificering het geven van een stempel na succesvolle validatie. Echter als het certificeringdoel wegvalt kunnen er lagere eisen gesteld worden aan validatie. Ondanks het wegvallen van het 'stempel' kan validatie toch deels voor dezelfde doelstellingen gebruikt worden:
+Een voor- maar ook nadeel van certificering is de impact die het heeft op de markt. Dit houdt in dat rekening gehouden moet worden met juridische zaken (bijvoorbeeld een leverancier die de beheerorganisatie gaat aanklagen omdat het ook een certificaat wil), maar ook dat beheerorganisatie zijn onafhankelijkheid en daardoor draagvlak verliest. Of als opmaat, of om geen risico's te nemen wordt er vaak gebruik gemaakt van een alternatief. Naast certificering is er validatie. In feite is certificering het geven van een stempel na succesvolle validatie. Echter als het certificeringdoel wegvalt kunnen er lagere eisen gesteld worden aan validatie. Ondanks het wegvallen van het 'stempel' kan validatie toch deels voor dezelfde doelstellingen gebruikt worden:
 
 **Interoperabiliteit:** In principe kan dezelfde test voor certificatie ook als validatie worden uitgevoerd, maar dan zonder stempel.  
 **Financiën:** Ook voor een service gericht op validatie kan geld gevraagd worden. Echter dat zal nooit veel meer zijn dan de daadwerkelijke kosten van validatie, waarmee het geen cash cow zal worden.  
 **Adoptie:** Het beschikbaar hebben van een helpdesk waarin validatie vragen gesteld kunnen worden helpt de adoptie. Echter certificering zal een veel groter effect hebben op de adoptie.
 
-Vooral de interoperabiliteit doelstelling is prima te realiseren met validatie, en wordt door veel beheerorganisaties al ingezet. Tooling is hiervoor laagdrempelig beschikbaar (bijvoorbeeld de eValidator, of het zelf configureren van open source tools).
+Vooral de interoperabiliteit doelstelling is prima te realiseren met validatie, en wordt door veel beheerorganisaties al ingezet. Tooling is hiervoor laagdrempelig beschikbaar.
 
-Met een plugfest wordt interoperabiliteit in de keten getoond door te laten zien dat de samenwerking tussen meerdere systemen werkt die aan elkaar geplugt zijn. Een plugfest met adoptie doelstelling is een openbare demonstratie van interoperabiliteit door meerdere leveranciers, en is ook een vorm van publieke validatie waarbij de resultaten een vorm van certificering zijn; immers de winnaar zal de winst gaan uitdragen in commerciële uitingen. Zowel certificering als plugfest hebben als doel transparantie richting de markt, om de markt in beweging te brengen. Maar een plugfest kan ook gebruikt worden voor een interoperabiliteit doelstelling, daarmee krijgt het plugfest een besloten karakter en worden de resultaten niet gepubliceerd. Voor meer informatie over plugfests zie hoofdstuk 11.
+Met een plugfest wordt interoperabiliteit in de keten getoond door te laten zien dat de samenwerking tussen meerdere systemen werkt die aan elkaar geplugd zijn. Een plugfest met adoptie doelstelling is een openbare demonstratie van interoperabiliteit door meerdere leveranciers, en is ook een vorm van publieke validatie waarbij de resultaten een vorm van certificering zijn; immers de winnaar zal de winst gaan uitdragen in commerciële uitingen. Zowel certificering als plugfest hebben als doel transparantie richting de markt, om de markt in beweging te brengen. Maar een plugfest kan ook gebruikt worden voor een interoperabiliteit doelstelling, daarmee krijgt het plugfest een besloten karakter en worden de resultaten niet gepubliceerd. Voor meer informatie over plugfests zie _linkedwin 3.3.4_.
 
 Validatie kijkt ook naar individuele systemen maar dan zonder doel van transparantie van de markt maar als doel ondersteuning richting organisaties en projecten. Tot slot kunnen er pilot projects gestart worden om interoperabiliteit in de keten te testen.
 
+_linkedwin hier graag noot van maken_
 <aside class="comment">
-KADER: Validatie
+KADER: Validatie 
 
 De meeste beheerorganisaties bieden hulpmiddelen voor het valideren van het gebruik van standaarden, zoals:
 
@@ -563,7 +565,7 @@ Overigens is de techniek die validatie van semantische standaarden mogelijk maak
 </aside>
 
 
-Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de interoperabiliteit doelstelling, en daarnaast op een andere manier certificatie) in te richten voor adoptie of financiële doelstellingen. De volgende tabel laat zien waar de verschillende concepten voor gebruikt kunnen worden.
+Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de interoperabiliteit doelstelling, en daarnaast op een andere manier certificatie in te richten voor adoptie of financiële doelstellingen. De volgende tabel laat zien waar de verschillende concepten voor gebruikt kunnen worden.
 
 |    Middel    |    Wanneer geschikt                 | Risico/Inspanning/Opbrengst  |
 | :--- | :--- | :--- |
