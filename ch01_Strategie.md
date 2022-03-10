@@ -243,7 +243,7 @@ Op basis van deze uitgangspunten hebben licenties vanwege de beperkte openheid, 
 #### Ad 1. Onderscheid tussen ontwikkeling en beheer
 Een onderscheid tussen initiële ontwikkeling en lopend beheer is relevant omdat de eerste over het algemeen eenvoudiger te financieren is dan de tweede. Opdrachtgevers zijn in de meeste gevallen wel geneigd om een project te financieren rond een bepaald probleem waarin een standaard de oplossing is. Als de standaard eenmaal ontwikkeld is in het project, dan is het echter een stuk lastiger om de continue financiering te vinden voor het beheer. Regelmatig haken de initiële opdrachtgevers af, of op zijn minst is er veel overtuiging nodig voor nut en noodzaak voor continue financiering. Uitleggen wat onder lopend beheer valt is dan ook noodzakelijk: de standaard aanpassen aan de veranderende omgeving. Bijvoorbeeld wetgeving is veranderd, afhankelijke standaarden zijn veranderd, of innovaties op technisch vlak. Lopend beheer kan wel leiden tot een nieuwe versie van een standaard. (Overigens soms, bijvoorbeeld door het NEN, wordt beheer nauwer gedefinieerd als het beschikbaar houden op een website, en kan beheer niet leiden tot een nieuwe versie van een standaard)
 
-Projectfinanciering en subsidie zijn op zich prima voor incidentele zaken zoals de initiële ontwikkeling maar ook specifieke uitbreiding van de standaard. Echter aangezien ze niet structureel zijn, is het minder handig deze bronnen in te zetten voor het beheer van een standaard. Structureel op de begroting (bijv. financiering door overheid) is natuurlijk een ideaal scenario, maar niet voor elke beheerorganisatie weggelegd. Bij het ontbreken hiervan wordt het nagenoeg noodzakelijk om een lidmaatschapsmodel te bestuderen. De gewenstheid van het lidmaatschapsmodel (soms ook contributie of participanten genoemd aangezien een stichting geen leden mag hebben) is afhankelijk van de voordelen die exclusief voor de leden gelden, en het kostenaspect. Als iedereen kan participeren tegen gediversifieerde tarieven dan is dit een acceptabel alternatief. Bijvoorbeeld op type organisatie en omzet. Het lidmaatschapsgeld mag voor geen enkele deelnemer een grote barriÃ¨re vormen. Als er geen voordelen aan het lidmaatschap verbonden zijn zal niemand geneigd zijn om deel te nemen.
+Projectfinanciering en subsidie zijn op zich prima voor incidentele zaken zoals de initiële ontwikkeling maar ook specifieke uitbreiding van de standaard. Echter aangezien ze niet structureel zijn, is het minder handig deze bronnen in te zetten voor het beheer van een standaard. Structureel op de begroting (bijv. financiering door overheid) is natuurlijk een ideaal scenario, maar niet voor elke beheerorganisatie weggelegd. Bij het ontbreken hiervan wordt het nagenoeg noodzakelijk om een lidmaatschapsmodel te bestuderen. De gewenstheid van het lidmaatschapsmodel (soms ook contributie of participanten genoemd aangezien een stichting geen leden mag hebben) is afhankelijk van de voordelen die exclusief voor de leden gelden, en het kostenaspect. Als iedereen kan participeren tegen gediversifieerde tarieven dan is dit een acceptabel alternatief. Bijvoorbeeld op type organisatie en omzet. Het lidmaatschapsgeld mag voor geen enkele deelnemer een grote barrière vormen. Als er geen voordelen aan het lidmaatschap verbonden zijn zal niemand geneigd zijn om deel te nemen.
 
 Voordelen van een lidmaatschap liggen op een tweetal punten:
 
@@ -260,9 +260,7 @@ Als een standaard een grote mate van volwassenheid heeft, gekenmerkt door brede 
 *   opleiding
 *   implementatieondersteuning
 
-Certificering kan op verschillende manieren ingezet worden, ook als middel om financiële opbrengsten te genereren (zie hoofdstuk 13 certificeren). In het kader van opleidingen kan bijvoorbeeld gedacht worden aan het geven van opleidingsdagen tot aan complete cursussen over de standaard. De marge op de cursus kan een inkomstenbron zijn, helemaal gecombineerd met certificeren (het volgen van een opleiding verplicht stellen voor het certificaat).
-
-Tot slot is implementatieondersteuning een middel, dat kan in lichte mate door het geven van betaalde adviezen over correct gebruik van de standaard, tot aan het uitvoeren van complete implementatietrajecten. Hiermee wordt de beheerorganisatie ook een marktpartij en daar kleven nadelen aan.
+Certificering (_linkedwin naar 3.4.2_ kan op verschillende manieren ingezet worden, ook als middel om financiële opbrengsten te genereren. In het kader van opleidingen kan bijvoorbeeld gedacht worden aan het geven van opleidingsdagen tot aan complete cursussen over de standaard. De marge op de cursus kan een inkomstenbron zijn, helemaal gecombineerd met certificeren (het volgen van een opleiding verplicht stellen voor het certificaat). Tot slot is implementatie-ondersteuning een middel, dat kan in lichte mate door het geven van betaalde adviezen over correct gebruik van de standaard, tot aan het uitvoeren van complete implementatietrajecten. Hiermee wordt de beheerorganisatie ook een marktpartij en daar kleven nadelen aan.
 
 Kort samengevat zal dienstverlening een inkomstenbron zijn die naar mate de standaard volwassener wordt meer mogelijkheden gaat bieden voor inkomsten. Een inkomstenbron die in de praktijk niet veel voorkomt, maar voor de toekomst niet uitgesloten moet worden is de donatie. Vooral structurele donaties zijn een prettige financieringsvorm. Dit leidt tot het volgende model:
 
@@ -271,36 +269,34 @@ Kort samengevat zal dienstverlening een inkomstenbron zijn die naar mate de stan
 Overigens zijn de kosten van het beheren van een standaard ook niet gelijk door de jaren heen. Sommige kostenposten kunnen flink veranderen. Tegenwoordig zien we posten als tactisch beheer flink stijgen, vooral door de relaties tussen de vele (internationale) standaarden die afstemming vergen. Indien de adoptie van de standaard succesvol is zal ook een post als implementatieondersteuning flink kunnen stijgen.
 
 ### Kostenbesparingen bij standaardisatie
-Natuurlijk wordt de vraag gesteld of standaarden niet goedkoper kunnen worden ontwikkeld en beheerd. Dat is niet eenvoudig want veel standaardisatie-initiatieven, in het bijzonder ook in industriestandaardisatie, hebben de volgende kenmerken:
+Natuurlijk wordt de vraag gesteld of standaarden niet goedkoper kunnen worden ontwikkelt en beheert. Dat is niet eenvoudig want veel standaardisatie-initiatieven, in het bijzonder ook in industriestandaardisatie, hebben de volgende kenmerken:
 
-*  minimale kostenoriëntatie
-*  hobbyisme in de positieve zin van het woord
+*  Minimale kostenoriëntatie.
+*  Hobbyisme in de positieve zin van het woord.
 
 Dat wil zeggen dat er veelal geen vet zit op de budgetten, en dat standaardisatieorganisaties keuzes moet maken in wat wel en niet uitvoerbaar is binnen het budget. Een relevante vraag is dan ook hoe verstandig de minimale kostenoriëntatie is in relatie tot de kwaliteit van de standaard en ook de adoptie van een standaard.
 
 Een complexe standaard ontwikkelen kan miljoenen kosten, de voornaamste kosten zijn niet voor de ontwikkelen beheerorganisatie, maar voor de individuele deelnemers zoals:
 
-*  de tijd van de vrijwilligers
-*  de reis en vergaderkosten
-*  memberships fees en kosten voor aanschaf andere standaarden
+*  De tijd van de experts (vrijwilligers).
+*  De reis en vergaderkosten.
+*  Memberships fees en kosten voor aanschaf andere standaarden.
 
 Efficiëntie kan mogelijk behaald worden in de doorlooptijd van het standaardisatie-proces. Tijd is geld en het ontwikkelproces voor standaarden is regelmatig extreem tijdrovend. Een tijdsbesparing in het ontwikkelproces kan veel kosten besparen. Voorbeeld hiervoor is de pressure cooker in de afvalbranche, waarin in een week het fundament voor de standaarden is gelegd.
 
-De verschillende standaardisatieorganisaties per sector willen nog wel eens het wiel opnieuw gaan uitvinden, meestal uit onwetendheid, wat ook inefficiëntie tot gevolg heeft. Bijvoorbeeld de ontwikkelen beheerprocessen kunnen waarschijnlijk gekopieerd worden van een andere standaard in plaats van deze zelf te ontwikkelen. Daarnaast bijvoorbeeld is de kern van een validatie-service hetzelfde voor elke XML gebaseerde standaard; toch bouwen nog veel beheerorganisaties hun eigen validatie-service. Algemeen kan gesteld worden dat door middel van online tools de inzet van de vrijwilligers efficiënter gemaakt worden. Onderstaande tabel 30 geeft als samenvatting een aantal suggesties weer om standaardisatie efficiënt in te vullen:
+De verschillende standaardisatieorganisaties per sector willen nog wel eens het wiel opnieuw gaan uitvinden, meestal uit onwetendheid, wat ook inefficiëntie tot gevolg heeft. Bijvoorbeeld de ontwikkelen beheerprocessen kunnen waarschijnlijk gekopieerd worden van een andere standaard in plaats van deze zelf te ontwikkelen. Daarnaast bijvoorbeeld is de kern van een validatie-service hetzelfde voor elke XML (of JSON) gebaseerde standaard; toch bouwen nog veel beheerorganisaties hun eigen validatie-service. Algemeen kan gesteld worden dat door middel van online tools de inzet van de vrijwilligers efficiënter gemaakt worden. Onderstaande tabel 30 _linkedwin_ geeft als samenvatting een aantal suggesties weer om standaardisatie efficiënt in te vullen:
 
 | Onderdeel in standaardisatie proces: | Efficiënter te maken door: |
 | :--- | :--- |
 | Formeren handvest | Een specifiek en gedetailleerd handvest wat strak bepaald wat in/uit scope van het standaardisatie initiatief is. |
 | Opzetten ontwikkel en beheerprocessen | Hergebruik van beschrijvingen (bv. gebruik van procedure document van andere standaardisatieorganisaties) |
-| Inrichting beheerorganisatie | Hergebruik van tools zoals gebruik van eValidator, maar ook tools om standaarden te maken (Bijvoorbeeld de Standard Developer Kit gebruikt bij SWIFT.) |
+| Inrichting beheerorganisatie | Hergebruik van (validatie) tools, maar ook tools om standaarden te maken  |
 | Voorbereiding | Optimale en strakke planning met verdeling van de werkzaamheden. Ook duidelijke wensen en eisen aan de oplossing definiëren om “scope creep” te voorkomen. (“scope creep” is het fenomeen dat tijdens het ontwikkelproces de scope van de standaard geleidelijk verschuift.) Daarnaast al in een vroeg stadium de bronnen (andere standaarden) die potentieel hergebruikt kunnen worden identificeren.  |
 | Ontwikkelproces | Innovatieve ontwikkelaanpakken voor standaarden (bv. gebruik van een pressure cooker), maar ook tools zoals een wiki om gezamenlijk aan te werken. |
 | Review van de standaard | Efficiënt review proces en gebruik van templates voor het verzamelen van opmerkingen.  |
 | Vaststellen van de standaard | Online tools voor het stemmen. |
 
-Besparingen door middel van innovatieve aanpakken in het ontwikkelproces kunnen ook een valkuil zijn. Een grote kostenpost zijn de face-to-face meetings. Besparingen hierop zijn telefonische conferenties of mailinglists and IRC chats. Met name in de open source gemeenschap is de mening dat face-to-face meetings overbodig zijn en dat asynchrone communicatie voldoende moet zijn, ook om wereldwijd met alle tijdzones te kunnen opereren.
-
-Echter open source software ontwikkelen is niet gelijk aan open standaard ontwikkeling. Hetzelfde proces hanteren is dus een valkuil. Bij standaarden gaat het om complexe materie en functionaliteit, waarbij wederzijds begrip en ook vertrouwen van groot belang zijn. Directe communicatie, face-to-face en telefonische conferenties zullen hier belangrijk zijn. Efficiëncy betekent de juiste mate van face-to-face, teleconferenties, en eventueel mailinglist  gebruik, onder andere voor het afhandelen van de technische zaken. In andere woorden: innovatieve ontwikkelaanpakken zoals de pressure cooker en gebruik van Web 2.0 (zie hoofdstuk 7) kunnen zeker besparingen opleveren, maar zullen kostbare face-to-face meetings niet vervangen.
+Besparingen door middel van innovatieve aanpakken in het ontwikkelproces kunnen ook een valkuil zijn. Een grote kostenpost zijn de face-to-face meetings. Besparingen hierop zijn de vele online mogelijkheden zoals online videoconferencing, fora, mailinglijsten, etc. Met name in de open source gemeenschap is de mening dat face-to-face meetings overbodig zijn en dat asynchrone communicatie voldoende moet zijn, ook om wereldwijd met alle tijdzones te kunnen opereren. Echter open source software ontwikkelen is niet gelijk aan open standaard ontwikkeling. Hetzelfde proces hanteren is dus een valkuil. Bij standaarden gaat het om complexe materie en functionaliteit, waarbij wederzijds begrip en ook vertrouwen van groot belang zijn. Directe communicatie, face-to-face, is belangrijk. In de COVID pandemie zijn de online ontwikkelingen snel gegaan, en ook geaccepteerd geraakt; uiteraard is het wel verstandig om hiervan te profiteren. Efficiëntie betekent de juiste mate van face-to-face, online meetings, en ander gebruik van online tools voor communicatie en het afhandelen van de technische zaken. In andere woorden: innovatieve ontwikkelaanpakken zoals de pressure cooker en gebruik van het Web _edwinlink 4.2_ kunnen zeker besparingen opleveren, maar zullen kostbare face-to-face meetings niet vervangen.
 
 ### De business case
 De business case van standaardisatie is een veel gehoord onderwerp. Voordat het besluit tot investering genomen kan worden is eerst inzicht in de business case noodzakelijk. Eigenlijk gaat het om verschillende business cases:
@@ -309,37 +305,37 @@ De business case van standaardisatie is een veel gehoord onderwerp. Voordat het 
 2. De business case van een individuele organisatie om de standaard te implementeren
 3. De business case van een nieuwe versie van een standaard.
 
-De eerste business case is voor de overheid interessant om beleid rond standaardisatie op af te stemmen. Uiteraard is deze business case ook relevant voor de standaardisatie-organisatie, maar een individuele organisatie kan er niet veel mee. Deze heeft een andere business case nodig, specifiek voor haar rol in de keten.
+De eerste business case is voor de overheid interessant om beleid rond standaardisatie op af te stemmen. Vaak onderdeel van beleid rond een groter maatschappelijk of economische vraagstuk. Uiteraard is deze business case ook relevant voor de standaardisatie-organisatie, maar een individuele organisatie kan er niet veel mee. Deze heeft een andere business case nodig, specifiek voor haar rol in de keten.
 
 Kwantitatieve onderzoeken naar de business case van standaardisatie zijn lastig uit te voeren en leiden niet altijd tot nuttige inzichten. Dit neemt niet weg dat kwalitatief onderzoek wel relevant kan zijn en wel goed uitvoerbaar is. Alleen al het inzicht te weten bij welke partijen de voordelen zitten en het identificeren van de organisaties die geen voordelen hebben is waardevol. Daarnaast is het waardevol om te weten welke partijen relatief meer voordeel hebben dan andere partijen ook al hebben ze dezelfde rol. Zo kan bijvoorbeeld de marktleider minder voordeel hebben ten opzichte van de runner-up, net zoals een organisatie die een moderne back-office heeft mogelijk meer voordeel kan hebben. Op basis van deze inzichten kan potentieel het gedrag van de deelnemers in de werkgroepen worden verklaard. De kwantitatieve business case is lastig omdat standaarden geen doel zijn maar een middel om het doel van interoperabiliteit te behalen. De business case gaat dan feitelijk ook om interoperabiliteit. In lijn hiermee zijn er in de praktijk vaak geen projecten die als doel hebben een standaard te implementeren, maar juist projecten die interoperabiliteit voor bijvoorbeeld inkoop realiseren. Dit betekent dat de business case van het project breder is dan de standaard. Bijvoorbeeld regelmatig zien we projecten die van een papieren uitwisseling overstappen naar een digitale gestandaardiseerde uitwisseling waarbij ook procesoptimalisatie gaat plaatsvinden. De standaard is daarmee een (belangrijk) onderdeel geworden van een veel groter project. Het is daarbij lastig toe te wijzen welke opbrengsten en kosten aan de standaard toekomen binnen het grotere project. Daarbij is er ook sprake van kwalitatieve baten, die vervolgens kwantitatief uitgedrukt moeten worden.
 
-Bijzondere aandacht verdient ook business case type 3: Vervangende standaard/ nieuwe versie. Hiervoor is het relatief eenvoudig de business case op te stellen, maar deze is in de praktijk niet positief te krijgen. Bijvoorbeeld rond e-facturatie: Als een organisatie al e-factureert met bijvoorbeeld UBL of SETU, dan is de business case naar een nieuwe standaard (UN/CEFACT Cross Industry Invoice) niet of nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er geen positieve business case voor de nieuwe/andere standaard is, zolang er geen interoperabiliteitsprobleem is. EÃ©n van wereldwijd meest succesvolle standaard, RosettaNet (www.rosettanet.org), illustreert dit ook: ondanks dat deze standaard al jaren een XML versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI versie, en nog steeds een lage adoptie van de XML versie.
+Bijzondere aandacht verdient ook business case type 3: Vervangende standaard/ nieuwe versie. Hiervoor is het relatief eenvoudig de business case op te stellen, maar deze is in de praktijk niet positief te krijgen. Bijvoorbeeld rond e-facturatie: Als een organisatie al e-factureert met bijvoorbeeld UBL of SETU, dan is de business case naar een nieuwe standaard (UN/CEFACT Cross Industry Invoice) niet of nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er geen positieve business case voor de nieuwe/andere standaard is, zolang er geen interoperabiliteitsprobleem is. Eén van wereldwijd meest succesvolle standaard, RosettaNet (www.rosettanet.org), illustreert dit ook: ondanks dat deze standaard al jaren een XML versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI versie, en lang een lage adoptie van de XML versie heeft gehad.
 
 ### Het opstellen van een business case
-Ondanks de geschetste moeilijkheden en de verschillende poging-en die al gedaan zijn, proberen we toch een aanpak te schetsen die inzicht kan bieden in de business case. De aanpak in deze paragraaf beschreven is gebruikt om een business case voor een semantische standaard in de juweliersbranche op te stellen: Stappenplan:
+Ondanks de geschetste moeilijkheden en de verschillende pogingen die al gedaan zijn, proberen we toch een aanpak te schetsen die inzicht kan bieden in de business case. De aanpak in deze paragraaf beschreven is gebruikt om een business case voor een semantische standaard in de juweliersbranche op te stellen: Stappenplan:
 
-1. Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
+1. Beschrijf huidige situaties en toekomstscenario's en identificeer stakeholders.
 2. Bepaal de kosten en baten in de keten op basis van het raamwerk.
-3. Verdeel de kosten en baten naar verschillende stakeholders (Probeer de kosten en baten per stakeholder te kwantificeren.)
+3. Verdeel de kosten en baten naar verschillende stakeholders (Probeer de kosten en baten per stakeholder te kwantificeren).
 
 De eerste drie stappen worden toegelicht:
 
 
-#### Beschrijf huidige situaties en toekomstscenarios en identificeer stakeholders.
-De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie paragraaf 7.4).
+#### Stap 1 - Beschrijf huidige situaties en toekomstscenario's en identificeer stakeholders.
+De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie _linkedwin 4.1.4_).
 
-Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholder moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenarioâ€™s duidelijk zijn.
+Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholders moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenario's duidelijk zijn.
 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
 ![Scenarios juweliersbranche](images/scenarios-juweliers.png "Scenarios juweliersbranche")
 
-#### Bepaal de kosten en baten in de keten op basis van het raamwerk.
+#### Stap 2 - Bepaal de kosten en baten in de keten op basis van het raamwerk.
 In stap 2 wordt een kosten-baten model opgesteld. Wat zijn in generieke zin de eenmalige investeringen, de operationele kosten en de baten die van toepassing zijn op de standaard. Voor vele standaarden zal dat redelijk gelijk  zijn, vandaar dat gestart kan worden met het model uit de juweliersbranche, en deze vervolgens aan te passen waar nodig. Het model uit de juweliersbranche is hieronder weergegeven.
 
 ![Batenmodel juweliersbranche](images/model-juweliers.png "Batenmodel juweliersbranche")
 
-#### Verdeel de kosten en baten naar verschillende stakeholders.
+#### Stap 3- Verdeel de kosten en baten naar verschillende stakeholders.
 De verschillende kosten en baten zullen niet op alle stakeholders betrekking hebben, en ook de mate zal verschillen. In deze stap worden de kosten en baten uit het raamwerk van stap 2 een niveau dieper gespecificeerd, en toegekend aan de stakeholder met een gedefinieerde relatie.
 
 Op basis van dit eenvoudige stappenplan kan toch op een eenvoudige manier inzichten in de business case van een standaard ontstaan, zonder blind te focussen op de getallen. Uiteraard kan na stap 3 een poging gedaan worden om de geïdentificeerde kosten en baten uit te gaan drukken in geld.
