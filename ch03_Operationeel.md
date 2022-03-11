@@ -1,4 +1,5 @@
 # Operationeel
+In deze sectie worden onderwerpen verdiept die gerelateerd zijn aan strategische onderwerpen uit het Beheer- en Ontwikkelmodel.
 
 ## Proces voor de ontwikkeling en het beheer van een standaard (Hoofdactiviteit: Operationeel)
 
@@ -15,7 +16,7 @@ Misschien wel de belangrijkste stap is het verzamelen van wensen en eisen. Dit m
 
 Kenmerk voor een open standaard is dat iedereen zijn of haar wensen kan indienen. Deze groep is idealiter zo groot mogelijk – dit vergroot immers het draagvlak van de standaard. Wel kan het zo zijn dat er door het bestuur van de standaardisatieorganisatie bepaalde richtingen zijn uitgezet die hiervoor een beperking vormen. Deze beperking kan bijvoorbeeld betrekking hebben op de overall functionele scope van de standaard. Er zijn verschillende mogelijkheden om wensen en eisen te verzamelen:
 
-*   Het inrichten van een omgeving (zoals een website, git repository of wiki) waar gebruikers ideeën kunnen achterlaten. Gebruikers kunnen daar ook met elkaar discussiëren over ideeën of wijzigingsvoorstellen.
+*   Het inrichten van een omgeving (zoals een website, miro board, git repository of wiki) waar gebruikers ideeën kunnen achterlaten. Gebruikers kunnen daar ook met elkaar discussiëren over ideeën of wijzigingsvoorstellen.
 *   Via een formele consultatie. Hierbij wordt een formele vraag gesteld aan partijen rondom de standaard over toekomstige ontwikkelingen, wensen of eisen.
 *   Door het organiseren van workshops of discussiebijeenkomsten met stakeholders uit de gemeenschap. Tijdens deze bijeenkomsten kunnen lopende ontwikkelingen worden besproken. Zo kan er bijvoorbeeld een nieuwe ontwikkeling zijn bij één van de deelnemers, die ook voor anderen relevant is. Deze ontwikkeling kan dan aanleiding geven tot uitbreiding van de standaard.
 
@@ -23,7 +24,7 @@ Welke vorm ook gekozen wordt, of combinatie van vormen: uiteindelijk moet dit pr
 
 Het verzamelen van wensen en eisen is een doorlopend proces. Wel kan het soms zinvol zijn om vanuit de beheerorganisatie partijen in de gemeenschap actief te wijzen op de mogelijkheid om wensen en eisen aan te leveren.
 
-Bij het opstellen van een nieuwe standaard kan een ‘pressure cooker’ proces worden gevolgd, waarin in korte tijd met een aantal sleutelspelers de eerste aanzet voor de standaard wordt gegeven. Aan het eind van dit hoofdstuk is een voorbeeld hiervan opgenomen.
+Bij het opstellen van een nieuwe standaard kan een ‘pressure cooker’ proces worden gevolgd, waarin in korte tijd met een aantal sleutelspelers de eerste aanzet voor de standaard wordt gegeven. 
 
 ### Voorbereiden veranderingsvoorstellen
 Niet ieder idee of wens leidt automatisch tot een veranderingsvoorstel voor de standaard. Grofweg zijn er de volgende mogelijkheden:
@@ -74,7 +75,7 @@ Werkgroepen zijn een belangrijk instrument voor het verzamelen, voorbereiden en 
 | 6a | Producenten / leveranciers van aanhangende producten en diensten | Bij productnormalisatie betreft dit producenten / leveranciers van producten die als grondstof, halffabrikaat of rest-/afvalstof in de productketen voorkomen. Bij dienstennormalisatie betreft het de aanbieders van aanvullende diensten. |
 | 6b | Brancheorganisaties van producenten / leveranciers van aanhangende producten en diensten |  |
 | 7 | Onderzoek- en kennisinstellingen | Instellingen die zonder direct commercieel belang kennisleverancier zijn of onderzoek verrichten. Bijv. onderwijsinstellingen, laboratoria, onderzoeksinstellingen.  |
-| 8 | Controlerende instanties | Bijv. inspectiediensten, certificeringinstellinge |
+| 8 | Controlerende instanties | Bijv. inspectiediensten, certificeringinstellingen |
 | 9 | Wetgevende instanties | Overheden |
 | 10 | Bestaande/nieuwe initiatiefnemers | Partijen die alternatieve initiatieven ondernemen vergelijkbaar met NEN. (normen, certificatieschema’s, richtlijnen etc.) |
 | 11 | Contextbepalers groter geheel | Organisaties (bijv. stichtingen, platforms) die op generieke wijze betrokken zijn. |
@@ -100,7 +101,7 @@ Tip: minimaliseer het aantal wijzigingen. Het is wenselijk het aantal wijziginge
 ### Relatie met andere standaarden
 In veel gevallen is er een relatie met een andere standaard. Bijvoorbeeld een internationale standaard waarvoor een toepassingsprofiel is ontwikkeld. Naast wijzigingen vanuit de eigen community moet in een dergelijk geval ook rekening gehouden worden met wijziging van de onderliggende (internationale) standaard.
 
-Het is van belang dit in het wijzigingsproces te onderkennen. Drie aspecte zijn daarbij met name van belang:
+Het is van belang dit in het wijzigingsproces te onderkennen. Drie aspecten zijn daarbij met name van belang:
 
 *   Er moet afgesproken worden in hoeverre er een vaste relatie is tussen de ‘eigen’ standaard en de gerelateerde of onderliggende standaard: mag willekeurig een versie worden gebruikt? Of wordt een bepaalde versie voorgeschreven?
 *   Bij wijzigingen van de internationale/onderliggende standaard moet worden bepaald of dit impact heeft op eigen standaard.
@@ -108,7 +109,8 @@ Het is van belang dit in het wijzigingsproces te onderkennen. Drie aspecte zijn 
 
 In een ander deel wordt dieper ingegaan op de relatie met andere standaarden.
 
-## Voorbeeld: Pressure Cooker – een standaard in een week in de afvalbranche
+_linkedwin kan je hier een voorbeeld/noot van maken?_
+Voorbeeld: Pressure Cooker – een standaard in een week in de afvalbranche
 
 Een veel gehoorde opmerking is dat standaarden ontwikkelen een langzaam proces is dat jaren kan duren. Dat is er van oudsher ingeslopen, maar wie zegt dat men het oude traditionele proces van standaardisatie moet doorlopen?
 
@@ -128,19 +130,20 @@ Belangrijke leerpunten zijn:
 
 Het gebruik van de pressure cooker wordt in standaardisatie-land nog niet veel gebruikt, hoewel het idee wel afkomstig is van internationale standaardisatie-bijeenkomsten waarin de werkgroepleden zich ook soms ook een aantal dagen buigen over een standaard. Met een ‘pressure cooker’ kan hiermee de lengte van het standaardisatie-proces flink worden bekort. Daarnaast kan de ontwikkeling van standaarden hierdoor ook efficiënter – en dus: goedkoper - worden, en dat is natuurlijk mooi meegenomen.
 
-## Voorbeeld: Documentatie (en Publicatie) met Git en Respec
+_linkedwin kan je hier ook een voorbeeld/noot van maken?_
+Voorbeeld: Documentatie (en Publicatie) met Git en Respec
 Er is een breder keuze aan digitale applicaties die gebruikt kunnen worden voor standaarden beheer, al zijn ze hier niet altijd voor bedoeld. Samenwerkingsapplicaties voor documentbeheer of softwareontwikkeling kunnen worden toegepast om beheerders en betrokkenen toegang te geven tot documentatie of zelfs om gebruikers de documentatie bij te laten werken.
 
-Een voorbeeld is het gebruik van Git en Respec voor het operationeel beheer. Git is een applicatie voor wijzigingsbeheer bij softwareontwikkeling. Iedere wijziging wordt opgeslagen in een database nadat het door de auteur voorzien is van commentaar. Hierdoor kunnen versies van verschillende tijdstippen vergeleken worden en kan de verantwoording nagelezen worden. Daarnaast is er ondersteuning voor parallellopende versies waardoor er bijvoorbeeld gewerkt kan worden aan een ingrijpende wijziging zonder dat onderhoud aan de huidige werkversie verstoord wordt. Er is een aantal webomgevingen voor samenwerking aan code die gebruik maken van git zoals [Github](https://github.com) en [Gitlab](https://gitlab.com). Een gebruiker kan ook zelf op basis van de beschikbare Git open source software een Git omgeving maken en daarmee onafhankelijk blijven van de grote Git platforms. De Git platforms zoals Githu en Gitlab bieden hostingopties en een webinterface voor het doorvoeren en inzien van wijzigingen naast ondersteuning voor lokaal geïnstalleerde git-applicaties.
+Een voorbeeld is het gebruik van Git en Respec voor het operationeel beheer. Git is een applicatie voor wijzigingsbeheer bij softwareontwikkeling. Iedere wijziging wordt opgeslagen in een database nadat het door de auteur voorzien is van commentaar. Hierdoor kunnen versies van verschillende tijdstippen vergeleken worden en kan de verantwoording nagelezen worden. Daarnaast is er ondersteuning voor parallellopende versies waardoor er bijvoorbeeld gewerkt kan worden aan een ingrijpende wijziging zonder dat onderhoud aan de huidige werkversie verstoord wordt. Er is een aantal webomgevingen voor samenwerking aan code die gebruik maken van git zoals [Github](https://github.com), [Gitlab](https://gitlab.com) en [Gitea](https://gitea.io). Een gebruiker kan ook zelf op basis van de beschikbare Git open source software een Git omgeving maken en daarmee onafhankelijk blijven van de grote Git platforms. De Git platforms zoals Github en Gitlab bieden hostingopties en een webinterface voor het doorvoeren en inzien van wijzigingen naast ondersteuning voor lokaal geïnstalleerde git-applicaties.
 
-Respec is een applicatie om van documenten om te zetten in documentatie die online gepubliceerd kan worden. Het beheer van specificaties verloopt steeds vaker via een automatisch proces. Waar het in het verleden nog gebruikelijk was om losse documenten te delen binnen werkgroepen, stappen steeds meer beheerorganisaties over naar (git) repositories om teksten in te beheren. Hoewel deze omgevingen van oorsprong bedoeld zijn om programma code in te beheren, zijn deze ook goed bruikbaar voor het beheer van ‘leesbare’ tekst. Door gebruik van een responsive layout kan de documentatie onafhankelijk van schermgrootte leesbaar getoond worden. Respec maakt automatisch een inhoudsopgave waarmee een gebruiker snel door de documentatie kan browsen. Respec is specifiek bedoeld voor technische documentatie en het sluit goed aan bij applicaties voor softwareontwikkeling zoals Git.
+Respec is een applicatie om bestanden om te zetten in documentatie die online gepubliceerd kan worden. Het beheer van specificaties verloopt steeds vaker via een automatisch proces. Waar het in het verleden nog gebruikelijk was om losse documenten te delen binnen werkgroepen, stappen steeds meer beheerorganisaties over naar (git) repositories om teksten in te beheren. Hoewel deze omgevingen van oorsprong bedoeld zijn om programma code in te beheren, zijn deze ook goed bruikbaar voor het beheer van ‘leesbare’ tekst. Door gebruik van een responsive layout kan de documentatie onafhankelijk van schermgrootte leesbaar getoond worden. Respec maakt automatisch een inhoudsopgave waarmee een gebruiker snel door de documentatie kan browsen. Respec is specifiek bedoeld voor technische documentatie en het sluit goed aan bij applicaties voor softwareontwikkeling zoals Git.
 
 ### Git en Git platforms
 Door gebruik te maken van dezelfde gereedschappen als voor het beheer van programmacode kan het beheerproces automatisch ondersteund worden. Documentatie wordt ondergebracht in een online _repository_. Een repository is meer dan een archief voor code. Binnen Git platforms zoals Github en Gitlab kunnen issues ingediend worden door gebruikers, zijn projectmanagementtools beschikbaar en kunnen automatische acties op een repository uitgevoerd worden. Het is ook mogelijk om automatische controles uit te voeren op de code in een repository, bijvoorbeeld op basis van toegankelijkheid of op ontbrekende verwijzingen.
 
 ### Wijzigingsverzoeken
-In een Git platform zoals Github kunnen ook verzoeken tot wijzigingen (genaamd _issues_ in git) ingediend worden, die dan weer tot wijziging in de code kunnen leiden. Issues kunnen in principe door iedere gebruiker worden ingediend. Een wijzigingsverzoek wordt verwerkt door de beheerder van de repository. Een issue kan worden toegewezen aan een ontwikkelaar en worden door de beheerder geagendeerd voor overleggen door ze te labelen. Door een _issue_ een label _Technische overleg_ te geven kan gefilterd worden op alle issues die relevant zijn voor dat overleg. Daarnaast worden wijzigingsvoorstellen gelabeled met scope (klein of groot) en wat voor wijziging het betreft (correctie, documentatie, wijziging etc.).
+In een Git platform zoals Github kunnen ook verzoeken tot wijzigingen (genaamd _issues_ in git) ingediend worden, die dan weer tot wijziging in de code kunnen leiden. Issues kunnen in principe door iedere gebruiker worden ingediend. Een wijzigingsverzoek wordt verwerkt door de beheerder van de repository. Een issue kan worden toegewezen aan een ontwikkelaar en worden door de beheerder geagendeerd voor overleggen door ze te labelen. Door een _issue_ een label _Technische overleg_ te geven kan gefilterd worden op alle issues die relevant zijn voor dat overleg. Daarnaast worden wijzigingsvoorstellen gelabeld met scope (klein of groot) en wat voor wijziging het betreft (correctie, documentatie, wijziging etc.).
 
 Omdat de wijzigingen op de documentatie bijgehouden wordt met git kunnen deze gerelateerd worden aan het wijzigingsvoorstel waar ze bij horen. Hierdoor bevatten de issues een overzicht van alle wijzigingen die daaruit voortkomen.
 
-Binnen Github kunnen de lijsten met lopende wijzigingen bestemd voor een specifiek overleg automatisch gegenereerd worden Vooral wanneer een beheerder een groot aantal repositories in beheer heeft is het handig de wijzigingsvoorstellen met zo'n automatisch proces overzichtelijk te houden.
+Binnen Github kunnen de lijsten met lopende wijzigingen bestemd voor een specifiek overleg automatisch gegenereerd worden. Vooral wanneer een beheerder een groot aantal repositories in beheer heeft is het handig de wijzigingsvoorstellen met zo'n automatisch proces overzichtelijk te houden.
