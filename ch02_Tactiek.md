@@ -93,7 +93,7 @@ Het model op de volgende pagina is een invulling van de 10 criteria van Krechmer
 | 10 | Open change | Wijzigingen in de standaard op basis van openheid | 1 | Uitbrengen nieuwe versie | Wie bepaalt wanneer aan een nieuwe versie van een standaard gewerkt gaat worden, en wanneer deze uitgebracht gaat worden? Ook hiervoor geldt consensus | 0/1/2 |
 |    |   |   | 2 | Inbrengen wijzigingsverzoeken | Wie kunnen er wijzigingsverzoeken indienen, en worden die eerlijk (op basis van een vastgestelde procedure) behandeld? Hiervoor zouden geen partijen uitgesloten moeten worden. | 0/1/2 |
 
-Het Forum Standaardisatie toetst standaarden op onder meer openheid voor opname op de pas-toe of leg-uit lijst. In deze bredere toets zijn de criteria van Krechmer ook verwerkt. Het model hier gepresenteerd is een verdieping, bedoeld als handreiking om openheid vorm te geven en kan niet gebruikt worden in het formele proces van opname voor de lijst van pas-toe of leg-uit. Meer informatie over de toetsingscriteria is te vinden via de website van het Forum.[_linkedwin naar https://www.forumstandaardisatie.nl/node/229#:~:text='Pas%20toe'%20betekent%20dat%20op,moet%20u%20die%20standaard%20toepassen._]
+Het Forum Standaardisatie toetst standaarden op onder meer openheid voor opname op de pas-toe of leg-uit lijst. In deze bredere toets zijn de criteria van Krechmer ook verwerkt. Het model hier gepresenteerd is een verdieping, bedoeld als handreiking om openheid vorm te geven en kan niet gebruikt worden in het formele proces van opname voor de lijst van pas-toe of leg-uit. Meer informatie over de toetsingscriteria is te vinden via [de website van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/node/229).
 
 ### Open invulling met Open Source Software
 
@@ -152,7 +152,7 @@ Door de sector-specifieke aanpak van de semantische standaarden ontstaat de angs
 1. Het probleem van sector overstijgende interoperabiliteit wordt nog niet als nijpend beschouwd aangezien binnen de sector nog grotere uitdagingen liggen.
 2. De voorgestelde technische oplossingen zijn vaak uitermate complex. Bijvoorbeeld een technisch fraaie oplossing is de UN/CEFACT Core Components standaard. Deze standaard is meer dan tien jaar oud, maar is uiteindelijk nooit breed geadopteerd.
 
-De kern van de oplossing zit hem waarschijnlijk niet in de techniek, maar in de beheerorganisaties actief in de verschillende domeinen. Deze zullen minder verkokerd moeten optreden en meer moeten samenwerken met de collega beheer-organisaties in aanverwante sectoren. Daar is de laatste jaren dan ook al verbetering in opgetreden. Mede ook op basis van het 'open' gedachtegoed, want in een 'open world' (_linkedwin naar 3.1_) zijn er geen concurrerende standaarden en sluiten standaarden perfect op elkaar aan.
+De kern van de oplossing zit hem waarschijnlijk niet in de techniek, maar in de beheerorganisaties actief in de verschillende domeinen. Deze zullen minder verkokerd moeten optreden en meer moeten samenwerken met de collega beheer-organisaties in aanverwante sectoren. Daar is de laatste jaren dan ook al verbetering in opgetreden. Mede ook op basis van het 'open' gedachtegoed, want in een _one world_ ([zie sectie over openheid](https://logius-standaarden.github.io/BOMOS-Verdieping/index.html#de-open-invulling-van-een-standaard-activiteit-community)) zijn er geen concurrerende standaarden en sluiten standaarden perfect op elkaar aan.
 
 ### De relatie met formele standaarden
 
@@ -190,7 +190,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 
 *   Aanpassen in de internationale standaard (en brengen de aanpassingen niet terug naar de internationale standaard) (Adaptations)
 *   Toegestane uitbreidingen aan de standaard invullen (Extensions)
-*   Zaken uit de standaard halen (Ommissions) 
+*   Zaken uit de standaard halen (Ommissions)
 *   Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
 
@@ -222,7 +222,7 @@ Uit werkgroepen van het Forum Standaardisatie komt een aantal kritieke succesfac
 
 1. De standaard moet volwassen zijn; anders durft niemand te investeren.
 2. Geduld: Adoptie van een standaard vergt tijd, soms meerdere jaren.
-3. De voordelen moeten voor iedereen helder zijn, voor het bedrijfsproces, maatschappelijk en financieel; er is draagvlak. 
+3. De voordelen moeten voor iedereen helder zijn, voor het bedrijfsproces, maatschappelijk en financieel; er is draagvlak.
 4. Er moet een betrokken probleemeigenaar zijn, juist ook omdat adoptie vele jaren duurt; Ã©cht commitment is onontbeerlijk.
 5. Er is een kritieke massa van gebruikers nodig.
 6. Een leidende partij of een leidend proces kan adoptie sterk stimuleren.
@@ -419,9 +419,9 @@ Een grotere waarschijnlijkheid is de relatie tussen het budget en de kwaliteit v
 Een andere mogelijke reden is het gebrek aan standaardisatie-expertise, aangezien het nog te weinig als 'vak' wordt gezien. Ook het polderen bij het standaardiseren met werkgroepen draagt niet positief bij. Regelmatig worden te veel opties in standaarden opgenomen om alle deelnemers in werkgroepen tegemoet te komen. Het resultaat is een te complexe standaard die in de praktijk slecht implementeerbaar is en leidt tot niet interoperabele implementaties die allemaal wel voldoen aan de standaard.
 
 #### Een kwaliteitsinstrument
-Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken. 
+Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken.
 
-Deze eerste versie is gebaseerd op voornamelijk het domein van software-engineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in onderstaande figuur weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin (2012), Quality of Semantic Standards). 
+Deze eerste versie is gebaseerd op voornamelijk het domein van software-engineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in onderstaande figuur weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin (2012), Quality of Semantic Standards).
 
 De hoofdcategorieën zijn:
 
@@ -542,13 +542,12 @@ Een voor- maar ook nadeel van certificering is de impact die het heeft op de mar
 
 Vooral de interoperabiliteit doelstelling is prima te realiseren met validatie, en wordt door veel beheerorganisaties al ingezet. Tooling is hiervoor laagdrempelig beschikbaar.
 
-Met een plugfest wordt interoperabiliteit in de keten getoond door te laten zien dat de samenwerking tussen meerdere systemen werkt die aan elkaar geplugd zijn. Een plugfest met adoptie doelstelling is een openbare demonstratie van interoperabiliteit door meerdere leveranciers, en is ook een vorm van publieke validatie waarbij de resultaten een vorm van certificering zijn; immers de winnaar zal de winst gaan uitdragen in commerciële uitingen. Zowel certificering als plugfest hebben als doel transparantie richting de markt, om de markt in beweging te brengen. Maar een plugfest kan ook gebruikt worden voor een interoperabiliteit doelstelling, daarmee krijgt het plugfest een besloten karakter en worden de resultaten niet gepubliceerd. Voor meer informatie over plugfests zie _linkedwin 3.3.4_.
+Met een plugfest wordt interoperabiliteit in de keten getoond door te laten zien dat de samenwerking tussen meerdere systemen werkt die aan elkaar geplugd zijn. Een plugfest met adoptie doelstelling is een openbare demonstratie van interoperabiliteit door meerdere leveranciers, en is ook een vorm van publieke validatie waarbij de resultaten een vorm van certificering zijn; immers de winnaar zal de winst gaan uitdragen in commerciële uitingen. Zowel certificering als plugfest hebben als doel transparantie richting de markt, om de markt in beweging te brengen. Maar een plugfest kan ook gebruikt worden voor een interoperabiliteit doelstelling, daarmee krijgt het plugfest een besloten karakter en worden de resultaten niet gepubliceerd. [Voor meer informatie over plugfests zie sectie Plugfest](https://logius-standaarden.github.io/BOMOS-Verdieping/index.html#plugfest).
 
 Validatie kijkt ook naar individuele systemen maar dan zonder doel van transparantie van de markt maar als doel ondersteuning richting organisaties en projecten. Tot slot kunnen er pilot projects gestart worden om interoperabiliteit in de keten te testen.
 
-_linkedwin hier graag noot van maken_
-<aside class="comment">
-KADER: Validatie 
+<aside class="note">
+<b>Validatie</b>
 
 De meeste beheerorganisaties bieden hulpmiddelen voor het valideren van het gebruik van standaarden, zoals:
 
@@ -577,7 +576,7 @@ Overigens zou het dus goed mogelijk zijn om validatie te gebruiken voor de inter
 |                                 |                                    | Opbrengst: Eenmalig |
 | Validatie-service / Helpdesk    | De markt continu wil ondersteunen. | Risico: Laag |
 |                                 | De kwaliteit van de implementaties wilt gaan verhogen. | Inspanning: Middel |
-|                                 |                                    | Opbrengst: Continu | 
+|                                 |                                    | Opbrengst: Continu |
 | Plugfest (interoperabiliteit-doelstelling) | De markt wil ondersteunen. | Risico: Laag    |
 |                                            | Een beeld krijgen of de standaard in de praktijk voldoet en hoe die gebruikt wordt. | Inspanning: Middel |
 |                                            |                            | Opbrengst: Eenmalig |
