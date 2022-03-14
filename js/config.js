@@ -22,7 +22,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // BD: "Beheerdocumentatie"
   // BP: "Best Practice"
   specType: "ST",
-  
+
   // The specification's publish domain, which is used to publish the specification
   // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
   pubDomain: "bomos",
@@ -61,7 +61,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
       companyURL: "https://www.utwente.nl/",
     },
     {
-      name: "Erwin Kaats.",
+      name: "Erwin Kaats",
       company: "Logius",
       companyURL: "https://www.logius.nl/",
     },
@@ -99,14 +99,14 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   // Controls if linked "§" section markers are added to a document
   addSectionLinks: true,
-  
+
   alternateFormats: [
     {
       label: "pdf",
       uri: "BOMOS-Verdieping.pdf",
     },
   ],
-  
+
   // url van de issue lijst in de github repository waar je in werkt
   //issueBase: "https://github.com/centrumvoorstandaarden/.../issues/",
   // in localBiblio kun je bibliografische items opnemen. In de tekst kun je dan tussen blokhaken verwijzen naar de korte naam bv [NEN3610].
