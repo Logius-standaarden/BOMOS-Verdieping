@@ -1,5 +1,5 @@
 # Strategie
-In deze sectie worden onderwerpen verdiept die gerelateerd zijn aan strategische onderwerpen uit het Beheer- en Ontwikkelmodel. 
+In deze sectie worden onderwerpen verdiept die gerelateerd zijn aan strategische onderwerpen uit het Beheer- en Ontwikkelmodel.
 
 ## De ontwikkel- en beheerorganisatie (Activiteit Governance)
 Deze activiteit bevat o.a. het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties. Het regelen van besluitvorming is cruciaal.
@@ -34,7 +34,7 @@ De besluitvorming binnen de werkgroep kan afhankelijk zijn van de mogelijke deel
 In het figuur is een eenvoudige basisstructuur geschetst van bestuur, uitvoeringsorganisatie en werkgroepen. Facultatief kan daar een adviesorgaan en/of leveranciersgroep aan toegevoegd worden. Naast deze geschetste mogelijkheden zijn er nog vele alternatieven, zowel eenvoudiger als complexer. Welke structuur ook gekozen wordt, bij voorkeur worden de verslagen van de verschillende gremia openbaar ter beschikking gesteld.
 
 ### Rollen en activiteiten.
-In deel 1 _linkEdwin deel 1 2.6.3)_ zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd, en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
+In [deel 1 zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#activiteiten-en-rollen), en zijn ze gekoppeld aan de hoofdactiviteiten van BOMOS. Omgekeerd kijken we er nu in meer detail naar. Onderstaande tabel geeft vanuit de rollen aan in welke BOMOS activiteiten ze betrokken kunnen zijn; dat laat ook zien dat een 1-op-1 koppeling tussen rol en activiteit niet werkt.
 
 | Rol | BOMOS activiteit |
 |-----|------------------|
@@ -65,21 +65,19 @@ In deel 1 _linkEdwin deel 1 2.6.3)_ zijn de rollen voor het ontwikkel- en beheer
 |              | Publicatie |
 | Gebruiker  | Geconsulteerd operationeel |
 
-<p class="comment" style="color:red">
-  
-#### KADER: het zorgdomein
-__edwin dit kan met zo'n note ipv kader__  
+<aside class="note">
+<b>Het zorgdomein></b>
+
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
 ![ Voorbeeld van toewijzing rollen aan stakeholders](media/nenactiviteiten3.png)
-
-</p>
+</aside>
 
 ### Beheertaken uitvoering
-Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Zie figuur 3_edwin_figuurlinks_ voor mogelijkheden.
+Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Onderstaande figuur noemt hier (andere) standaardisatieorganisaties, research-organisaties en brancheorganisaties.
 
 ![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
 
-Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid (_edwinlink naar 8.1_). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
+Het model maakt onderscheid tussen not-for-profit en profit organisaties. Dit onderscheid is relevant in het kader van openheid ()[zie sectie over openheid](#de-open-invulling-van-een-standaard-activiteit-community)). Indien het beheer van een standaard is belegd bij een profit-organisatie kan er geen sprake zijn van een open standaard! Dat wil niet zeggen dat commerciële organisaties geen open standaarden kunnen ontwikkelen in opdracht van een bestuur (organisatie), of na ontwikkeling doneren aan een not-forprofit beheerorganisatie. Het ontwikkelen en beheren van standaarden dient altijd not-for-profit te gebeuren, waarbij een not-for profit organisatie wel het meest voor de hand liggend is.
 
 Een eerste voor de hand liggende mogelijkheid is het beleggen van de beheertaken bij formele standaardisatieorganisaties. De wereld is hier wel veranderd in vergelijking met dertig jaar geleden toen het merendeel van de standaarden door deze formele organisaties werd ontwikkeld. In de huidige tijd wordt het merendeel van de standaarden buiten de formele standaardisatieorganisaties ontwikkeld in allerlei vormen van consortia, en dat aantal blijft groeien. Ook zien we weer steeds meer complexe samenwerkingsverbanden tussen standardisatie-organisaties ontstaan.  Voor de semantische standaarden speelt dit in extreme mate. Deels heeft dit te maken met de traagheid van processen bij formele standaardisatieorganisaties, maar voornamelijk het gebrek aan inhoudelijke kennis en expertise. Voor semantische standaarden is domeinkennis essentieel.
 
@@ -91,13 +89,13 @@ Een eigen organisatie oprichten is een mogelijkheid, evenals commerciële dienst
 
 Een aantal suggesties:
 
-**Moduleontwikkeling _linkedwin naar deel 1 2.6.2_:** Moduleontwikkeling is riskant om binnen de ontwikkel- en beheerorganisatie te laten plaatsvinden. Daarmee wordt men ook leverancier en concurrent van partijen in de gemeenschap. Beter is om moduleontwikkeling te stimuleren buiten de ontwikkel- en beheerorganisatie, mogelijk in de vorm van open source software. Dit kan andere leveranciers ook bewegen om de standaard te gaan ondersteunen en/of betrokken te raken bij de ontwikkeling daarvan. De beste aanpak is afhankelijk van de kenmerken van de community.
+[**Moduleontwikkeling**](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#de-onderwerpen-uit-het-model); Moduleontwikkeling is riskant om binnen de ontwikkel- en beheerorganisatie te laten plaatsvinden. Daarmee wordt men ook leverancier en concurrent van partijen in de gemeenschap. Beter is om moduleontwikkeling te stimuleren buiten de ontwikkel- en beheerorganisatie, mogelijk in de vorm van open source software. Dit kan andere leveranciers ook bewegen om de standaard te gaan ondersteunen en/of betrokken te raken bij de ontwikkeling daarvan. De beste aanpak is afhankelijk van de kenmerken van de community.
 
-**Certificeren _linkedwin naar deel 1 2.6.2_:** Essentieel bij certificeren is de onafhankelijkheid van de certificerende instelling. Gebruikelijk is dat de ontwikkel- en beheerorganisatie het toetsingskader opstelt, en vervolgens de daadwerkelijke toetsing (op basis van het toetsingskader) uitbesteedt aan externe partijen die zich specifiek richten op het toetsen en certificeren.
+[**Certificeren**](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#de-onderwerpen-uit-het-model); Essentieel bij certificeren is de onafhankelijkheid van de certificerende instelling. Gebruikelijk is dat de ontwikkel- en beheerorganisatie het toetsingskader opstelt, en vervolgens de daadwerkelijke toetsing (op basis van het toetsingskader) uitbesteedt aan externe partijen die zich specifiek richten op het toetsen en certificeren.
 
-**Architectuur/Roadmapping/Benchmarking _linkedwin naar deel 1 2.6.2_**; Ondersteuning en uitvoering hiervoor past uitstekend bij een research-organisatie in brede zin (Naast kennisinstituten, ook organisaties zoals CBS voor benchmarking). Met name voor benchmarking geldt dat dit beter bij een externe organisatie belegd kan worden.
+[**Architectuur/Roadmapping/Benchmarking**](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#de-onderwerpen-uit-het-model); Ondersteuning en uitvoering hiervoor past uitstekend bij een research-organisatie in brede zin (Naast kennisinstituten, ook organisaties zoals CBS voor benchmarking). Met name voor benchmarking geldt dat dit beter bij een externe organisatie belegd kan worden.
 
-**Communicatie _linkedwin naar deel 1 2.6.2_:** Past vaak goed bij een brancheorganisatie die al een communicatieapparaat heeft ingericht. Uiteraard moet er dan wel een brancheorganisatie zijn die naadloos aansluit bij de standaard en die bereid is de communicatie als belangrijke taak mee te nemen. Communicatie rondom het beheer- en ontwikkelproces van een standaard vraagt om specifieke kennis van dat beheer en heeft een specifieke doelgroep zoals softwareleveranciers. Dit dient door een brancheorganisatie onderkend te worden. Andere opties zijn communicatieafdelingen van een andere partner organisatie.
+[**Communicatie**](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#de-onderwerpen-uit-het-model); Past vaak goed bij een brancheorganisatie die al een communicatieapparaat heeft ingericht. Uiteraard moet er dan wel een brancheorganisatie zijn die naadloos aansluit bij de standaard en die bereid is de communicatie als belangrijke taak mee te nemen. Communicatie rondom het beheer- en ontwikkelproces van een standaard vraagt om specifieke kennis van dat beheer en heeft een specifieke doelgroep zoals softwareleveranciers. Dit dient door een brancheorganisatie onderkend te worden. Andere opties zijn communicatieafdelingen van een andere partner organisatie.
 
 Op hoofdniveau kunnen we concluderen dat er de keuze is om de ontwikkel- en beheertaken te beleggen bij:
 
@@ -129,7 +127,7 @@ Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen 
 Ondanks het feit dat een stichting geen leden kan hebben spreekt men bij HL7 Nederland wel over leden, maar hanteert men strikt formeel de term _aangeslotenen_. SETU kent geen leden, maar wel participanten. Een samenwerkingsverband zonder rechtsvorm kan in de praktijk goed werken voor het beheer maar kan in praktische zaken weer nadelig zijn doordat het samenwerkingsverband als zodanig geen bevoegdheden heeft tot het aangaan van overeenkomsten; hierbij zal altijd één van de partners deze overeenkomst moeten aangaan. Mogelijke nadelen die hieraan kleven zijn het verlies van identiteit; het gebonden zijn aan regels en beperkingen van de partner; minder slagvaardigheid etc. Het voordeel van een dergelijke organisatievorm is dat deze eenvoudig is in te richten en op te heffen zonder juridische consequenties. De organisatie-inrichting kan in enige mate de vrijblijvendheid reduceren of op zijn minst expliciteren. De vrijblijvendheid van de deelnemers in standaarden is zeker een serieus aandachtspunt in het kader van een duurzaam toegepaste standaard.
 
 <aside class="note">
-**Naast 'harde' invulling ook aandacht voor 'zachte' facetten**
+<b>Naast 'harde' invulling ook aandacht voor 'zachte' facetten</b>
 
 Dit hoofdstuk beschrijft veelal relatief 'harde' invulling van de organisatie, de valkuil is om de 'zachte' facetten uit het oog te verliezen. Bij standaardisatie zijn vaak ook de zachte factoren van groot belang voor het succes van een standaard. Het smeden van een consortium waarin partijen elkaar vertrouwen en constructief kunnen samenwerken zonder dat elk incident gelijk een bom legt onder het voort-bestaan van het consortium is een bijzonder sociaal en organisch proces.
 </aside>
@@ -137,17 +135,18 @@ Dit hoofdstuk beschrijft veelal relatief 'harde' invulling van de organisatie, d
 <p class="comment" style="color:red">
 
 <aside class="example">
-Template voor beheerdocument van Geonovum
- Om opdrachtgevers meer inzicht te geven in de activiteiten in het beheerproces van standaarden, heeft Geonovum een generiek beheerdocument opgesteld. Hierin staat  wat Geonovum doet in elk activiteitengroep van het BOMOS-model. Voor elke door Geonovum te beheren standaard stelt Geonovum daarnaast een specifiek beheerdocument op. In dit specifieke beheerdocument zijn de aanvullende afspraken vastgelegd voor een standaard. In wezen biedt het specifieke beheerdocument het overzicht van meer- en minderwerk uitgaand van het generieke beheerdocument.
+<b>Template voor beheerdocument van Geonovum</b>
+
+Om opdrachtgevers meer inzicht te geven in de activiteiten in het beheerproces van standaarden, heeft Geonovum een generiek beheerdocument opgesteld. Hierin staat  wat Geonovum doet in elk activiteitengroep van het BOMOS-model. Voor elke door Geonovum te beheren standaard stelt Geonovum daarnaast een specifiek beheerdocument op. In dit specifieke beheerdocument zijn de aanvullende afspraken vastgelegd voor een standaard. In wezen biedt het specifieke beheerdocument het overzicht van meer- en minderwerk uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum op basis van het generieke en het specifieke beheermodel, onlangs ook een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en beheerde standaard is de benodigde basis inzet berekend. Deze basis gebruiken we vervolgens om een gerichte inschatting te kunnen maken van meer- en minderwerk zoals beschreven in het specifieke beheerdocument. Hierdoor kunnen we beheerkosten realistisch en onderbouwd inschatten.
 
 Dit is ook voor andere organisaties te gebruiken: om het rekenmodel te kunnen gebruiken, kunnen zij een eigen generiek beheerplan maken, en voor de door hen beheerde standaarden een specifiek beheerplan. Die twee documenten zijn dan input voor het bijbehorende rekenmodel.
 
- 
+
 </aside>
-  
- 
+
+
 </p>
 
 ### Visie
@@ -260,7 +259,7 @@ Als een standaard een grote mate van volwassenheid heeft, gekenmerkt door brede 
 *   opleiding
 *   implementatieondersteuning
 
-Certificering (_linkedwin naar 3.4.2_ kan op verschillende manieren ingezet worden, ook als middel om financiële opbrengsten te genereren. In het kader van opleidingen kan bijvoorbeeld gedacht worden aan het geven van opleidingsdagen tot aan complete cursussen over de standaard. De marge op de cursus kan een inkomstenbron zijn, helemaal gecombineerd met certificeren (het volgen van een opleiding verplicht stellen voor het certificaat). Tot slot is implementatie-ondersteuning een middel, dat kan in lichte mate door het geven van betaalde adviezen over correct gebruik van de standaard, tot aan het uitvoeren van complete implementatietrajecten. Hiermee wordt de beheerorganisatie ook een marktpartij en daar kleven nadelen aan.
+[Certificering](#kwaliteit-van-implementaties) kan op verschillende manieren ingezet worden, ook als middel om financiële opbrengsten te genereren. In het kader van opleidingen kan bijvoorbeeld gedacht worden aan het geven van opleidingsdagen tot aan complete cursussen over de standaard. De marge op de cursus kan een inkomstenbron zijn, helemaal gecombineerd met certificeren (het volgen van een opleiding verplicht stellen voor het certificaat). Tot slot is implementatie-ondersteuning een middel, dat kan in lichte mate door het geven van betaalde adviezen over correct gebruik van de standaard, tot aan het uitvoeren van complete implementatietrajecten. Hiermee wordt de beheerorganisatie ook een marktpartij en daar kleven nadelen aan.
 
 Kort samengevat zal dienstverlening een inkomstenbron zijn die naar mate de standaard volwassener wordt meer mogelijkheden gaat bieden voor inkomsten. Een inkomstenbron die in de praktijk niet veel voorkomt, maar voor de toekomst niet uitgesloten moet worden is de donatie. Vooral structurele donaties zijn een prettige financieringsvorm. Dit leidt tot het volgende model:
 
@@ -284,7 +283,7 @@ Een complexe standaard ontwikkelen kan miljoenen kosten, de voornaamste kosten z
 
 Efficiëntie kan mogelijk behaald worden in de doorlooptijd van het standaardisatie-proces. Tijd is geld en het ontwikkelproces voor standaarden is regelmatig extreem tijdrovend. Een tijdsbesparing in het ontwikkelproces kan veel kosten besparen. Voorbeeld hiervoor is de pressure cooker in de afvalbranche, waarin in een week het fundament voor de standaarden is gelegd.
 
-De verschillende standaardisatieorganisaties per sector willen nog wel eens het wiel opnieuw gaan uitvinden, meestal uit onwetendheid, wat ook inefficiëntie tot gevolg heeft. Bijvoorbeeld de ontwikkelen beheerprocessen kunnen waarschijnlijk gekopieerd worden van een andere standaard in plaats van deze zelf te ontwikkelen. Daarnaast bijvoorbeeld is de kern van een validatie-service hetzelfde voor elke XML (of JSON) gebaseerde standaard; toch bouwen nog veel beheerorganisaties hun eigen validatie-service. Algemeen kan gesteld worden dat door middel van online tools de inzet van de vrijwilligers efficiënter gemaakt worden. Onderstaande tabel 30 _linkedwin_ geeft als samenvatting een aantal suggesties weer om standaardisatie efficiënt in te vullen:
+De verschillende standaardisatieorganisaties per sector willen nog wel eens het wiel opnieuw gaan uitvinden, meestal uit onwetendheid, wat ook inefficiëntie tot gevolg heeft. Bijvoorbeeld de ontwikkelen beheerprocessen kunnen waarschijnlijk gekopieerd worden van een andere standaard in plaats van deze zelf te ontwikkelen. Daarnaast bijvoorbeeld is de kern van een validatie-service hetzelfde voor elke XML (of JSON) gebaseerde standaard; toch bouwen nog veel beheerorganisaties hun eigen validatie-service. Algemeen kan gesteld worden dat door middel van online tools de inzet van de vrijwilligers efficiënter gemaakt worden. Onderstaande tabel 30 geeft als samenvatting een aantal suggesties weer om standaardisatie efficiënt in te vullen:
 
 | Onderdeel in standaardisatie proces: | Efficiënter te maken door: |
 | :--- | :--- |
@@ -296,7 +295,7 @@ De verschillende standaardisatieorganisaties per sector willen nog wel eens het 
 | Review van de standaard | Efficiënt review proces en gebruik van templates voor het verzamelen van opmerkingen.  |
 | Vaststellen van de standaard | Online tools voor het stemmen. |
 
-Besparingen door middel van innovatieve aanpakken in het ontwikkelproces kunnen ook een valkuil zijn. Een grote kostenpost zijn de face-to-face meetings. Besparingen hierop zijn de vele online mogelijkheden zoals online videoconferencing, fora, mailinglijsten, etc. Met name in de open source gemeenschap is de mening dat face-to-face meetings overbodig zijn en dat asynchrone communicatie voldoende moet zijn, ook om wereldwijd met alle tijdzones te kunnen opereren. Echter open source software ontwikkelen is niet gelijk aan open standaard ontwikkeling. Hetzelfde proces hanteren is dus een valkuil. Bij standaarden gaat het om complexe materie en functionaliteit, waarbij wederzijds begrip en ook vertrouwen van groot belang zijn. Directe communicatie, face-to-face, is belangrijk. In de COVID pandemie zijn de online ontwikkelingen snel gegaan, en ook geaccepteerd geraakt; uiteraard is het wel verstandig om hiervan te profiteren. Efficiëntie betekent de juiste mate van face-to-face, online meetings, en ander gebruik van online tools voor communicatie en het afhandelen van de technische zaken. In andere woorden: innovatieve ontwikkelaanpakken zoals de pressure cooker en gebruik van het Web _edwinlink 4.2_ kunnen zeker besparingen opleveren, maar zullen kostbare face-to-face meetings niet vervangen.
+Besparingen door middel van innovatieve aanpakken in het ontwikkelproces kunnen ook een valkuil zijn. Een grote kostenpost zijn de face-to-face meetings. Besparingen hierop zijn de vele online mogelijkheden zoals online videoconferencing, fora, mailinglijsten, etc. Met name in de open source gemeenschap is de mening dat face-to-face meetings overbodig zijn en dat asynchrone communicatie voldoende moet zijn, ook om wereldwijd met alle tijdzones te kunnen opereren. Echter open source software ontwikkelen is niet gelijk aan open standaard ontwikkeling. Hetzelfde proces hanteren is dus een valkuil. Bij standaarden gaat het om complexe materie en functionaliteit, waarbij wederzijds begrip en ook vertrouwen van groot belang zijn. Directe communicatie, face-to-face, is belangrijk. In de COVID pandemie zijn de online ontwikkelingen snel gegaan, en ook geaccepteerd geraakt; uiteraard is het wel verstandig om hiervan te profiteren. Efficiëntie betekent de juiste mate van face-to-face, online meetings, en ander gebruik van online tools voor communicatie en het afhandelen van de technische zaken. In andere woorden: innovatieve ontwikkelaanpakken zoals [de pressure cooker en gebruik van het Web](#Voorbeelden-uit-de-operationele-praktijk) kunnen zeker besparingen opleveren, maar zullen kostbare face-to-face meetings niet vervangen.
 
 ### De business case
 De business case van standaardisatie is een veel gehoord onderwerp. Voordat het besluit tot investering genomen kan worden is eerst inzicht in de business case noodzakelijk. Eigenlijk gaat het om verschillende business cases:
@@ -322,7 +321,7 @@ De eerste drie stappen worden toegelicht:
 
 
 #### Stap 1 - Beschrijf huidige situaties en toekomstscenario's en identificeer stakeholders.
-De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie _linkedwin 4.1.4_).
+De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden ([zie sectie Werkgroep en stakeholders](#werkgroepen-en-stakeholders)).
 
 Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholders moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenario's duidelijk zijn.
 
