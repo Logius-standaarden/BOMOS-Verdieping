@@ -24,7 +24,7 @@ Welke vorm ook gekozen wordt, of combinatie van vormen: uiteindelijk moet dit pr
 
 Het verzamelen van wensen en eisen is een doorlopend proces. Wel kan het soms zinvol zijn om vanuit de beheerorganisatie partijen in de gemeenschap actief te wijzen op de mogelijkheid om wensen en eisen aan te leveren.
 
-Bij het opstellen van een nieuwe standaard kan een ‘pressure cooker’ proces worden gevolgd, waarin in korte tijd met een aantal sleutelspelers de eerste aanzet voor de standaard wordt gegeven.
+Bij het opstellen van een nieuwe standaard kan een _pressure cooker_ proces worden gevolgd, waarin in korte tijd met een aantal sleutelspelers de eerste aanzet voor de standaard wordt gegeven.
 
 ### Voorbereiden veranderingsvoorstellen
 Niet ieder idee of wens leidt automatisch tot een veranderingsvoorstel voor de standaard. Grofweg zijn er de volgende mogelijkheden:
