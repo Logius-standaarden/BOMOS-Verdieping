@@ -421,7 +421,7 @@ Een andere mogelijke reden is het gebrek aan standaardisatie-expertise, aangezie
 #### Een kwaliteitsinstrument
 Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te ontwikkelen is veel kennis nodig: wat is een kwalitatief goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die te meten? Maar ook over het onderwerp zelf: wat is een semantische standaard? Uit welke componenten bestaat een semantische standaard? Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien, maar ook waar we hem in kunnen steken.
 
-Deze eerste versie is gebaseerd op voornamelijk het domein van software-engineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in onderstaande figuur weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin (2012), Quality of Semantic Standards).
+Deze eerste versie is gebaseerd op voornamelijk het domein van software-engineering, waar kwaliteit al jaren onder de aandacht is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126) die de kwaliteit van software beschrijven. Op basis hiervan is het in [onderstaande figuur](#fig-kwaliteitsinstrumenten) weergegeven kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin (2012), Quality of Semantic Standards).
 
 De hoofdcategorieën zijn:
 
@@ -438,7 +438,7 @@ Het kwaliteitsmodel in het figuur laat niet de volledig uitwerking voor elk kwal
 #### Het kwaliteitsinstrument gebruiken
 De relatie tussen interoperabiliteit en standaarden is die van doel-middel. Zonder het kwaliteitsaspect in ogenschouw te nemen worden standaarden te veel gezien als heilige graal. De standaard wordt het doel, in plaats van een middel om op een effectieve en efficiënte manier interoperabiliteit te bereiken. Een aandachtsverschuiving naar de kwaliteit van standaarden voorkomt dat standaarden een doel op zich worden en zal de relatie tussen standaarden en interoperabiliteit versterken.
 
-![alt_text](images/kwaliteitsinstrumenten.png "Kwaliteitsinstrumenten")
+![Kwaliteitsinstrumenten](images/kwaliteitsinstrumenten.png "Kwaliteitsinstrumenten")
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard te bekijken. Bij de ontwikkeling wordt ook gekeken naar de kosten van een kwaliteitsmeting, waarbij vooral de uren relevant en kostbaar zijn. Uitgangspunt is dat de kwaliteitsmeting in slechts een paar uur uitgevoerd kan worden, zodat de kosten beperkt zijn en opbrengst dan ook al snel de kosten zal overtreffen. Het is met name geschikt voor de standaardisatie-ontwikkelaar zelf die de eigen standaard goed kent en het model als denkkader kan gebruiken om de eigen standaard mee te analyseren.
 
@@ -526,8 +526,8 @@ Andere variaties zijn er op het gebied dat voor een organisatie-certificaat bijv
 
 Sommige certificaten vereisen dat er een aantal instanties (voorbeelden) worden ingeleverd die vervolgens worden gevalideerd. Uiteraard moet er dan nagedacht worden over wat een goede hoeveelheid voorbeelden is, en daarnaast moet men zich wel realiseren dat men de bron van de voorbeelden niet kan garanderen: bijvoorbeeld misschien komen ze wel niet uit het te certificeren systeem, maar zijn ze met de hand aangemaakt.
 
-
 #### Hulpmiddel voor keuzes rond certificaten
+
 In deze sectie is tot nu laten zien dat certificering complex is, en er meerdere keuzes gemaakt kunnen worden.
 
 De figuur laat vrij eenvoudig zien dat doelstellingen rond adoptie en financiën in enige mate te combineren zijn, maar dat met name een interoperabiliteit doelstelling een andere invulling van certificering nodig maakt in vergelijking met de andere doelstellingen.

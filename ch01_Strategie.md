@@ -5,7 +5,7 @@ In deze sectie worden onderwerpen verdiept die gerelateerd zijn aan strategische
 Deze activiteit bevat o.a. het beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties. Het regelen van besluitvorming is cruciaal.
 
 ### Organisatiestructuur
-In het BOMOS activiteitendiagram  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. Onderstaande figuur schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
+In het BOMOS activiteitendiagram  zijn de verschillende activiteiten opgesomd die kunnen plaatsvinden in een standaardisatiegemeenschap. [Onderstaande figuur](#fig-organisatiestructuur) schetst een globale organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de scheiding tussen inhoudelijke activiteiten in de uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
 ![Organisatiestructuur](images/organisatiestructuur.png "Organisatiestructuur")
 
@@ -27,7 +27,7 @@ Een typische inhoudelijke categorische afbakening van werkgroepen vindt plaats l
 
 Een andere veel gebruikte afbakening is op basis van het probleemdomein, bijvoorbeeld SETU heeft gewerkt met een tweetal werkgroepen, te weten Bemiddeling en Verwerking. De werkgroep Bemiddeling houdt zich bezig met de standaarden van offerteaanvraag tot aan de plaatsing van een uitzendkracht, terwijl de werkgroep Verwerking de standaarden van plaatsing tot aan factuur tot haar scope rekent. In de praktijk zullen bij complexere standaarden bepaalde categorieën werkgroepen (bijv. 'gegevens') weer onderverdeeld worden in werkgroepen per probleemdomein (bijv. 'facturatie'), waarmee een combinatie van beide indelingen wordt gerealiseerd.
 
-Bijzondere aandacht verdienen de leveranciers. Dit is regelmatig een heet hangijzer bij non-profit beheerorganisaties. Voor het welslagen van een standaard (zonder juiste implementatie geen werkende standaard') vaak cruciaal, maar leveranciers kunnen ook conflicterende belangen hebben. In beginsel kunnen leveranciers gewoon als deelnemer in de standaard acteren en rollen in de werkgroepen vervullen tot aan deelname in het bestuur. De praktijk laat zien dat softwareleveranciers veelal zeer nuttige bijdragen leveren in werkgroepen waardoor het zeker aan te raden is om leveranciers toegang tot de werkgroepen te verlenen. Vaak heerst er angst dat leveranciers te nadrukkelijk een stempel gaan drukken op de standaard. Een aparte leveranciersgroep zoals aangegeven in bovenstaande figuur is dan een optie waarmee de leveranciers enerzijds een platform wordt geboden terwijl ze anderzijds buiten de werkgroepen en bestuur kunnen worden gehouden. Softwareleveranciers zijn dan verenigd in een leveranciersgroep, die de uitvoeringsorganisatie van advies kunnen voorzien en overleg kunnen voeren met het adviesorgaan.
+Bijzondere aandacht verdienen de leveranciers. Dit is regelmatig een heet hangijzer bij non-profit beheerorganisaties. Voor het welslagen van een standaard (zonder juiste implementatie geen werkende standaard') vaak cruciaal, maar leveranciers kunnen ook conflicterende belangen hebben. In beginsel kunnen leveranciers gewoon als deelnemer in de standaard acteren en rollen in de werkgroepen vervullen tot aan deelname in het bestuur. De praktijk laat zien dat softwareleveranciers veelal zeer nuttige bijdragen leveren in werkgroepen waardoor het zeker aan te raden is om leveranciers toegang tot de werkgroepen te verlenen. Vaak heerst er angst dat leveranciers te nadrukkelijk een stempel gaan drukken op de standaard. Een aparte leveranciersgroep zoals aangegeven in [bovenstaande figuur](#fig-organisatiestructuur) is dan een optie waarmee de leveranciers enerzijds een platform wordt geboden terwijl ze anderzijds buiten de werkgroepen en bestuur kunnen worden gehouden. Softwareleveranciers zijn dan verenigd in een leveranciersgroep, die de uitvoeringsorganisatie van advies kunnen voorzien en overleg kunnen voeren met het adviesorgaan.
 
 De besluitvorming binnen de werkgroep kan afhankelijk zijn van de mogelijke deelname van leveranciers, en ook afhankelijk zijn van de opstelling van de leveranciers. In de praktijk zal de keuze voor de mate van invloed ook afhangen van de manier waarop de gemeenschap is georganiseerd; indien de ontwikkeling van de standaard gedreven wordt vanuit het belang van de softwareleveranciers dan zullen deze een grotere invloed (willen) uitoefenen op 'hun' standaard. Wordt de ontwikkeling gedreven vanuit een (overheids-)gebruikersbehoefte dan zullen deze een grotere invloed (willen) uitoefenen.
 
@@ -73,7 +73,7 @@ Het zorgdomein is een complexe situatie met stakeholders en partijen die een bel
 </aside>
 
 ### Beheertaken uitvoering
-Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. Onderstaande figuur noemt hier (andere) standaardisatieorganisaties, research-organisaties en brancheorganisaties.
+Voor de invulling van ontwikkelen beheertaken in een organisatiestructuur zijn verschillende mogelijkheden, variërend van het beleggen bij een standaardisatieorganisatie tot het volledig zelf invullen in een eigen organisatie. Het is geen doel op zich om voor elke standaard een eigen beheren ontwikkelorganisatie op te tuigen. De praktijk laat zien dat weinig bestaande organisaties zijn berekend op het complete takenpakket, waardoor toch vele standaardisatiecommunities hebben besloten een eigen organisatie op te tuigen. Een deel van de taken wordt dan belegd bij de eigen organisatie, maar een deel van de taken kan ook belegd worden bij andere soorten organisaties. [Onderstaande figuur](#fig-beleggen-van-ontwikkeltaken) noemt hier (andere) standaardisatieorganisaties, research-organisaties en brancheorganisaties.
 
 ![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
 
@@ -143,9 +143,7 @@ Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum op basis 
 
 Dit is ook voor andere organisaties te gebruiken: om het rekenmodel te kunnen gebruiken, kunnen zij een eigen generiek beheerplan maken, en voor de door hen beheerde standaarden een specifiek beheerplan. Die twee documenten zijn dan input voor het bijbehorende rekenmodel.
 
-
 </aside>
-
 
 </p>
 
