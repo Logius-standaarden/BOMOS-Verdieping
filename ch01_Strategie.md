@@ -191,7 +191,7 @@ met de namen van de stakeholders/partijen wordt een helder inzicht
 gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN
 7522-2021)
 
-![Voorbeeld van toewijzing rollen aan stakeholders](media/nenactiviteiten3.png "Voorbeeld van toewijzing rollen aan stakeholders")
+![Voorbeeld van toewijzing rollen aan stakeholders](images/nenactiviteiten3.png "Voorbeeld van toewijzing rollen aan stakeholders")
 </aside>
 
 ### Beheertaken uitvoering
