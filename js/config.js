@@ -32,7 +32,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // A YYYY-MM-DD date. The publication date of the present document.
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2020-04-01",
+  publishDate: "2020-04-05",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   //previousPublishDate: "2017-09-20",
@@ -116,6 +116,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   nl_markdownTableClass: "logius",
   nl_markdownEmbedImageInFigure: true,
   nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
+  nl_organisationPublishURL: "https://publicatie.centrumvoorstandaarden.nl/",
   nl_logo: {
     src: "https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg",
     //src: "http://localhost:8081/respec/style/logos/figure-logius.svg",
