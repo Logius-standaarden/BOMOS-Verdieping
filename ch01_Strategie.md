@@ -69,7 +69,7 @@ In [deel 1 zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd](http
 <b>Rollen en stakeholders in de zorg</b>
 
 Het zorgdomein is een complexe situatie met stakeholders en partijen die een belang hebben in de standaardisatie ontwikkeling. Door het leggen van relaties tussen de rollen, en de invulling van de rollen met de namen van de stakeholders/partijen wordt een helder inzicht gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN 7522-2021)
-![ Voorbeeld van toewijzing rollen aan stakeholders](media/nenactiviteiten3.png)
+![Voorbeeld van toewijzing rollen aan stakeholders](media/nenactiviteiten3.png)
 </aside>
 
 ### Beheertaken uitvoering
