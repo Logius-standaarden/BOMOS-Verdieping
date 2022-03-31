@@ -604,7 +604,7 @@ standaarden een rol hebben gespeeld:
 1. De standaard moet volwassen zijn; anders durft niemand te investeren.
 2. Geduld: Adoptie van een standaard vergt tijd, soms meerdere jaren.
 3. De voordelen moeten voor iedereen helder zijn, voor het bedrijfsproces, maatschappelijk en financieel; er is draagvlak.
-4. Er moet een betrokken probleemeigenaar zijn, juist ook omdat adoptie vele jaren duurt; Ã©cht commitment is onontbeerlijk.
+4. Er moet een betrokken probleemeigenaar zijn, juist ook omdat adoptie vele jaren duurt; echt commitment is onontbeerlijk.
 5. Er is een kritieke massa van gebruikers nodig.
 6. Een leidende partij of een leidend proces kan adoptie sterk stimuleren.
 7. Er moet een actieve community zijn die betrokken is bij ontwikkeling en gebruik van de standaard.
