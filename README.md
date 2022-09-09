@@ -7,7 +7,7 @@ waaruit de documentatie gegeneerd wordt.
 - [BOMOS Fundament](https://www.github.com/Logius-standaarden/BOMOS-Fundament)
   beschrijft de basis en achtergronden van BOMOS.
 - [BOMOS Verdieping](https://www.github.com/Logius-standaarden/BOMOS-Verdieping),
-  hierin worden de modules nader uitgewerkt.
+  hierin worden de modules nader uitgewerkt. **Deze repository**
 - [BOMOS Stelsels](https://www.github.com/Logius-standaarden/BOMOS-Stelsels),
   aanvullende module over stelselbeheer.
 - [BOMOS Linked Data](https://www.github.com/Logius-standaarden/BOMOS-LinkedData),
