@@ -9,7 +9,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
   // TG: Versie teruggetrokken
   // BASIS, GN-BASIS: 'geen status'
-  specStatus: "DEF",
+  specStatus: "WV",
 
   // SpecType currently supported
   // NO: "Norm"
@@ -21,7 +21,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // AL: "Algemeen"
   // BD: "Beheerdocumentatie"
   // BP: "Best Practice"
-  specType: "ST",
+  specType: "HR",
 
   // The specification's publish domain, which is used to publish the specification
   // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
@@ -32,13 +32,13 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // A YYYY-MM-DD date. The publication date of the present document.
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2020-04-01",
+  publishDate: "2022-06-07",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   //previousPublishDate: "2017-09-20",
 
   publishVersion: "3.0.0",
-  // previousPublishVersion: "1.1",
+  previousPublishVersion: "2i",
 
   // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
   // A YYYY-MM-DD date. When a previousPublishDate is specified, this is typically required as well in order to generate the "Previous Version"
@@ -61,11 +61,11 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
       companyURL: "https://www.utwente.nl/",
     },
     {
-      name: "Erwin Kaats",
+      name: "Gül Işik",
       company: "Logius",
       companyURL: "https://www.logius.nl/",
     },
-        {
+    {
       name: "Edwin Wisse",
       company: "Logius",
       companyURL: "https://www.logius.nl/",
@@ -76,46 +76,31 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
       name: "Erwin Folmer",
       company: "Universiteit Twente",
       companyURL: "https://www.utwente.nl/",
-    },
-    {
-      name: "Wouter van den Berg",
-      company: "TNO",
-      companyURL: "https://www.tno.nl/",
-    },
-    {
-      name: "Erwin Kaats",
-      company: "Logius",
-      companyURL: "https://www.logius.nl/",
-    },
-    {
-      name: "Edwin Wisse",
-      company: "Logius",
-      companyURL: "https://www.logius.nl/",
     }
   ],
-  // shortName = korte naam voor in de url van het document, gebruik alleen letters, cijfers en eventueel '-'
-  shortName: "bomos",
   // url van de github repository waar je in werkt
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   // Controls if linked "§" section markers are added to a document
   addSectionLinks: true,
-
+  // Lints for accessibility issues using axe-core
+  a11y: false,
+  // PDF version
   alternateFormats: [
     {
       label: "pdf",
       uri: "BOMOS-Verdieping.pdf",
     },
   ],
-
   // url van de issue lijst in de github repository waar je in werkt
   //issueBase: "https://github.com/centrumvoorstandaarden/.../issues/",
   // in localBiblio kun je bibliografische items opnemen. In de tekst kun je dan tussen blokhaken verwijzen naar de korte naam bv [NEN3610].
   nl_markdownSplitH1sections: false,
   nl_organisationName: "Logius",
   nl_organisationPrefix: "LS-",
-  nl_markdownTableClass: "logius",
+  nl_markdownTableClass: "dkkvs",
   nl_markdownEmbedImageInFigure: true,
   nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
+  nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
   nl_logo: {
     src: "https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg",
     //src: "http://localhost:8081/respec/style/logos/figure-logius.svg",
