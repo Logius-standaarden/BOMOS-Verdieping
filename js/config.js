@@ -9,7 +9,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
   // TG: Versie teruggetrokken
   // BASIS, GN-BASIS: 'geen status'
-  specStatus: "VV",
+  specStatus: "DEF",
 
   // SpecType currently supported
   // NO: "Norm"
