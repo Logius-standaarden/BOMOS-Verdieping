@@ -356,7 +356,8 @@ de hand liggen, te weten:
   stichting kan ook vrijwilligers hebben.
 
 <aside class="example">
-Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen tijdens review
+_Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen tijdens review._ 
+Geonovum, SIKB en RIONED zijn voorbeelden van stichtingen die (onder meer) standaarden beheren.
 </aside>
 
 **De vereniging:** Een vereniging is een rechtspersoon voor de
@@ -417,6 +418,20 @@ de vrijblijvendheid reduceren of op zijn minst expliciteren. De
 vrijblijvendheid van de deelnemers in standaarden is zeker een serieus
 aandachtspunt in het kader van een duurzaam toegepaste standaard.
 
+<p class="comment" style="color:red">
+<aside class="example">
+<b>Het CCvD Datastandaarden</b>
+
+Besluitvorming over wijzigingen op een standaard of over de strategie 
+voor een standaard zal over het algemeen bij de beheerorganisatie liggen. 
+Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan 
+_naast_ de beheerorganisatie. Een voorbeeld is het CCvD Datastandaarden. 
+Dit is een gezamelijk overleg waarin IHW, SIKB en RIONED gezamenlijk de
+grote wijzigingen op hun standaarden bespreken en hun (strategische) plannen
+bespreken. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
+sterk overlappen. Één standaard is zelfs in gezamenlijk beheer bij SIKB en IHW.
+</aside>
+
 <aside class="note">
 <b>Naast 'harde' invulling ook aandacht voor 'zachte' facetten</b>
 
@@ -427,10 +442,10 @@ groot belang voor het succes van een standaard. Het smeden van een
 consortium waarin partijen elkaar vertrouwen en constructief kunnen
 samenwerken zonder dat elk incident gelijk een bom legt onder het
 voort-bestaan van het consortium is een bijzonder sociaal en organisch
-proces.  </aside>
+proces.  
+</aside>
 
 <p class="comment" style="color:red">
-
 <aside class="example">
 <b>Template voor beheerdocument van Geonovum</b>
 
@@ -499,7 +514,6 @@ standaard heeft $10 miljoen dollar gekost om te ontwikkelen. Andere
 informatie bekend uit literatuur is dat de opbrengsten van verkoop van
 ISO standaarden voor de helft voorziet in de kosten die ISO maakt in
 de ontwikkeling en beheer van de ISO standaarden.
-
 
 ### De baten van standaardisatie generiek
 
