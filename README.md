@@ -15,6 +15,8 @@ waaruit de documentatie gegeneerd wordt.
 - [BOMOS Beheermodel](https://www.github.com/Logius-standaarden/BOMOS-Beheermodel),
   wat het beheer van BOMOS beschrijft
 
+  De gepubliceerde (vastgestelde) versie staat online:
+  - [Vastgestelde versie 07 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
   De ontwikkelversies van dit document staan online:
   - [Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Verdieping/index.html)
   - [Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Verdieping/snapshot.html)
