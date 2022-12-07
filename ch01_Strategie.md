@@ -426,10 +426,11 @@ Besluitvorming over wijzigingen op een standaard of over de strategie
 voor een standaard zal over het algemeen bij de beheerorganisatie liggen. 
 Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan 
 _naast_ de beheerorganisatie. Een voorbeeld is het CCvD Datastandaarden. 
-Dit is een gezamelijk overleg waarin IHW, SIKB en RIONED gezamenlijk de
+Dit is een gezamenlijk overleg waarin IHW, SIKB en RIONED gezamenlijk de
 grote wijzigingen op hun standaarden bespreken en hun (strategische) plannen
 bespreken. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
 sterk overlappen. Één standaard is zelfs in gezamenlijk beheer bij SIKB en IHW.
+Gezamenlijke besluitvorming over een nieuwe versie is in dit geval noodzakelijk.
 </aside>
 
 <aside class="note">
