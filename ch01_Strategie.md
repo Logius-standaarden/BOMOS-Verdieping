@@ -356,8 +356,10 @@ de hand liggen, te weten:
   stichting kan ook vrijwilligers hebben.
 
 <aside class="example">
-_Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen tijdens review._ 
-Geonovum, SIKB en RIONED zijn voorbeelden van stichtingen die (onder meer) standaarden beheren.
+_Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: 
+ophalen tijdens review._ Geonovum, Stichting Kwaliteitsborging Bodemmbeheer 
+(SIKB) en stichting RIONED zijn voorbeelden van stichtingen die (onder meer) 
+standaarden beheren.
 </aside>
 
 **De vereniging:** Een vereniging is een rechtspersoon voor de
