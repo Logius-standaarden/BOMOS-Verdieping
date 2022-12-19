@@ -1010,10 +1010,10 @@ het kwaliteitsmodel:
 
 Als we specifieker naar productkwaliteit gaan kijken, dan kunnen we in 
 meer detail de volgende vragen mee beantwoorden:
-    1. Is de afgedekte functionaliteit van de standaard toepasselijk? – 
-    Heeft het de capaciteit om het interoperabiliteitsprobleem op te lossen?
-    2. Is de standaard stabiel? – Kan het geïmplementeerd en gebruikt worden zonder barrières?
-    3. Is de standaard duurzaam? – Is de standaard klaar voor de toekomst?
+    
+1. Is de afgedekte functionaliteit van de standaard toepasselijk? – Heeft het de capaciteit om het interoperabiliteitsprobleem op te lossen?
+2. Is de standaard stabiel? – Kan het geïmplementeerd en gebruikt worden zonder barrières?
+3. Is de standaard duurzaam? – Is de standaard klaar voor de toekomst?
 
 In onderstaande tabel zijn de eerste twee (van drie) decompositie lagen van 
 productkwaliteit opgenomen, inclusief definities en toelichting. Het geeft al 
@@ -1041,9 +1041,9 @@ veel handvaten om de kwaliteit van een standaard mee onder de loep te nemen.
 
 De meer gedetailleerde vragen die gerelateerd zijn aan proceskwaliteit zijn:
 
-    1. Is het Ontwikkel en Beheerproces professioneel georganiseerd? 
-    2. Hoe wordt de standaard aangeboden aan de buitenwereld?
-    3. Hoe passend is de organisatie structuur bij de standaard?
+1. Is het Ontwikkel en Beheerproces professioneel georganiseerd? 
+2. Hoe wordt de standaard aangeboden aan de buitenwereld?
+3. Hoe passend is de organisatie structuur bij de standaard?
 
 In de volgende tabel zijn de eerste twee (van drie) decompositie lagen van 
 proceskwaliteit opgenomen, inclusief definities en toelichting.
@@ -1074,8 +1074,8 @@ Kwaliteit in gebruik wordt gemeten in de omgeving/context van de standaard:
 wordt het gebruikt, of heeft het die potentie, door de stakeholders. 
 De twee meest prominente vragen:
 
-    1. Is de standaard geaccepteerd as oplossing in de praktijk?
-    2. Leidt het gebruik van de standaard ook tot interoperabiliteit in de praktijk?
+1. Is de standaard geaccepteerd as oplossing in de praktijk?
+2. Leidt het gebruik van de standaard ook tot interoperabiliteit in de praktijk?
 
 Ook hier zijn in onderstaande tabel de eerste twee (van drie) decompositie 
 lagen van kwaliteit in gebruik opgenomen, inclusief definities en toelichting. 
@@ -1089,7 +1089,7 @@ lagen van kwaliteit in gebruik opgenomen, inclusief definities en toelichting.
 | **C1.3 Recognition**        | The extent to which the standards receive external recognition. | The credibility. |
 | **C2. Interoperability**    | The ability of two or more systems or components to exchange information and to use the information that has been exchanged. (Legner & Lebreton, 2007) | The capability of the standard to achieve meaningful communication between systems. |
 | **C2.1 Maturity**           | The capability of the standard to be a stable and proven solution. | A mature standard will positively influence interoperability. |
-| **C2.2 Correctness**        | Extent to which an implementation of a standard satisfies its specifications and fulfills the user's mission objectives. (McCall et al., 1977) | Also called "Free of Error".                                                                                                                     |
+| **C2.2 Correctness**        | Extent to which an implementation of a standard satisfies its specifications and fulfills the user's mission objectives. (McCall et al., 1977) | Also called "Free of Error". |
 | **C2.3 Cost & Benefits**    | The extent to which the benefits cover the costs of standardization.  | Although not necessary for all stakeholders, the total use of the standard should have a positive business case.  |
 
 #### Het kwaliteitsinstrument gebruiken
@@ -1122,10 +1122,10 @@ te identificeren.
 
 Wat zou het gebruik van het kwaliteitsinstrument voor standaarden kunnen opleveren. Kort samengevat:
 
-•	een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is 
+-	een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is 
   op de kwaliteit van een standaard.
-•	ideeën voor verbetering van de standaard.
-•	ideeën voor aanpassingen in het standaardisatieproces.
+-	ideeën voor verbetering van de standaard.
+-	ideeën voor aanpassingen in het standaardisatieproces.
 
 Het helpt de standaardisatieontwikkelaar om met een frisse blik naar de standaard te 
 kijken en daarbij een gevoel te krijgen hoe de kwaliteit te beïnvloeden is. Gedurende 
@@ -1190,9 +1190,9 @@ financiën van een standaardisatie-organisatie zal opleveren, en eerder
 kosten-neutraal zal zijn.
 
 Samenvattend kan certificering ingezet worden als:
-* Interoperabiliteits-instrument
-* Adoptie-instrument
-* Financieel instrument
+- Interoperabiliteits-instrument
+- Adoptie-instrument
+- Financieel instrument
 
 #### Wie of wat kan worden gecertificeerd?
 
