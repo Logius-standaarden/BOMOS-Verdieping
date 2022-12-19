@@ -425,12 +425,20 @@ aandachtspunt in het kader van een duurzaam toegepaste standaard.
 Besluitvorming over wijzigingen op een standaard of over de strategie 
 voor een standaard zal over het algemeen bij de beheerorganisatie liggen. 
 Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan 
-_naast_ de beheerorganisatie. Een voorbeeld is het CCvD Datastandaarden. 
-Dit is een gezamenlijk overleg waarin IHW, SIKB en RIONED gezamenlijk de
-grote wijzigingen op hun standaarden bespreken en hun (strategische) plannen
-bespreken. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
+_naast_ de beheerorganisatie. Een voorbeeld is het Centraal College 
+van Deskundigen Datastandaarden (CCvD-Datastandaarden). Dit is een 
+gezamenlijk overleg met stakeholders waarin het Informatiehuis Water (IHW), 
+Stichting Kwaliteitsborging Bodemmbeheer (SIKB) en stichting RIONED 
+gezamenlijk de wijzigingen op hun standaarden en hun (strategische) plannen
+vaststellen. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
 sterk overlappen. Één standaard is zelfs in gezamenlijk beheer bij SIKB en IHW.
-Gezamenlijke besluitvorming over een nieuwe versie is in dit geval noodzakelijk.
+Gezamenlijke vaststelling van nieuwe versies is in dit geval noodzakelijk.
+
+Nieuwe versies van de standaarden worden na vaststelling door het 
+CCvD Datastandaarden nog wel bekrachtigd door de besturen van de 
+beheerorganisaties. Het CCvD is immers geen _eigenaar_ van de standaarden 
+en kan geen nieuwe versie of strategie (formeel) vaststellen. 
+Boven het CCvD staan de besturen van de deelnemende beheerorganisaties. 
 </aside>
 
 <aside class="note">
