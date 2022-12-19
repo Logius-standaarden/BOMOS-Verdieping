@@ -953,92 +953,190 @@ komen. Het resultaat is een te complexe standaard die in de praktijk
 slecht implementeerbaar is en leidt tot niet interoperabele
 implementaties die allemaal wel voldoen aan de standaard.
 
-#### Een kwaliteitsinstrument
+#### Het kwaliteitsinstrument
 
-Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard
-inzichtelijk kunnen maken eruit? Om een kwaliteitsinstrument te
-ontwikkelen is veel kennis nodig: wat is een kwalitatief goede
-standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn die
-te meten? Maar ook over het onderwerp zelf: wat is een semantische
-standaard? Uit welke componenten bestaat een semantische standaard?
-Want daar zal de kwaliteitsthermometer in gestoken moeten worden. Het
-is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan zien,
-maar ook waar we hem in kunnen steken.
+Hoe ziet zo’n instrument waarmee we de kwaliteit van een standaard 
+inzichtelijk kunnen maken eruit? Een kwaliteitsinstrument voor standaarden 
+is een complex onderwerp; dan moeten we ook weten; wat is een kwalitatief 
+goede standaard? Welke kwaliteitsaspecten zijn van invloed, en hoe zijn 
+die te meten? Maar ook over het onderwerp zelf: wat is een semantische 
+standaard? Uit welke componenten bestaat een semantische standaard? 
+Want daar zal de kwaliteitsthermometer in gestoken moeten worden. 
+Het is noodzakelijk te weten hoe de kwaliteitsthermometer eruit kan 
+zien, maar ook waar we hem in kunnen steken.
 
-Deze eerste versie is gebaseerd op voornamelijk het domein van
-software-engineering, waar kwaliteit al jaren onder de aandacht
-is. Dat heeft geleid tot meerdere ISO-standaarden (met name ISO 9126)
-die de kwaliteit van software beschrijven. Op basis hiervan is het in
-[onderstaande figuur](#fig-kwaliteitsinstrumenten) weergegeven
-kwaliteitsmodel voor semantische standaarden gedestilleerd en getoetst
-met experts. Een uitgebreider en gevalideerd kwaliteitsmodel is ook
-beschikbaar als wetenschappelijk document (Proefschrift: Folmer, Erwin
-(2012), Quality of Semantic Standards).
+Het kwaliteitsmodel dat we in BOMOS aanreiken, is gebaseerd op het 
+promotieonderzoek van Erwin Folmer. Het is specifiek gericht op 
+semantische standaarden, maar leunt sterk op kwaliteits-onderzoek en 
+standaarden op het gebied van software ontwikkeling; een domein waar 
+veel kwaliteitsonderzoek heeft plaatsgevonden. Het kwaliteitsmodel is 
+gevalideerd met experts en in verschillende situaties gebruikt.
 
-De hoofdcategorieën zijn:
+Het kwaliteitsmodel zoals hier gepresenteerd is niet het volledige 
+kwaliteitsmodel. Het volledige kwaliteitsmodel gaat nog een laag dieper 
+met kwaliteitsconcepten, en geeft ook suggesties voor het uitvoeren van 
+metingen, tot aan een procesmodel voor het gebruik van dit kwaliteitsmodel 
+zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel 
+(en instrument) is onderdeel van het proefschrift “Quality of Semantic Standards” [[[folmer2012]]].
 
-**Effectiviteit:** de mate waarin de standaard in de specifieke situatie de functies biedt en implementeert die expliciet of impliciet vereist zijn.  
-**Betrouwbaarheid:** de mate waarin een standaard een op een gespecificeerd niveau blijft presteren onder specifieke condities zoals foutieve implementaties of verschillen in implementaties tussen partijen.  
-**Bruikbaarheid:** de mate waarin een standaard begrepen, geleerd en gebruikt/ toegepast kan worden door gebruikers in de specifieke situatie.  
-**Portabiliteit:** de mate waarin een standaard de mogelijkheid heeft om in verschillende omgevingen ingezet te worden.  
-**Onderhoudbaarheid:** de mate waarin een standaard eenvoudig aangepast kan worden aan een veranderende situatie.  
-**Adoptiegraad**: de mate waarin de standaard is geaccepteerd door verschillende partijen.  
-**Openheid:** de mate waarin de standaard voldoet aan openheidscriteria op het gebied van intellectueel eigendom en (onderhouds en beheer)processen.
+![Het kwaliteitmodel]()
 
-Het kwaliteitsmodel in het figuur laat niet de volledig uitwerking
-voor elk kwaliteitsattribuut zien. Ter illustratie: het
-kwaliteitsattribuut Volwassenheid (onder Betrouwbaarheid) bevat
-meerdere attributen, zoals bijvoorbeeld Stabiliteit. Deze attributen
-kunnen weer meerdere metrieken bevatten, en daarnaast wordt vastgelegd
-hoe de waarde van de metriek bijdraagt aan de uiteindelijke waarde
-voor het attribuut. Een eenvoudig voorbeeld: het attribuut Stabiliteit
-heeft als metriek de hoeveelheid releases van een standaard in de
-afgelopen vijf jaar. Een potentiële meting van één release (in vijf
-jaar) kan door middel van het scoringsmechanisme leiden tot de waarde
-'zeer stabiel' voor het attribuut Stabiliteit.
+Het kwaliteitsmodel maakt een belangrijk onderscheid tussen productkwaliteit, 
+proceskwaliteit en kwaliteit in gebruik. Productkwaliteit gaat over de 
+producten/deliverables van het standaardisatieproces, en kan dan ook gemeten 
+worden in de inhoud van die producten, met name het standaard specificatie 
+document, maar bijvoorbeeld ook technische afgeleiden. Het is de intrinsieke 
+kwaliteit van de standaard.  Proceskwaliteit gaat allereerst over de 
+totstandkoming van de standaard, en vervolgens over het beheerproces. 
+Proceskwaliteit meet je in de beheerorganisatie van de standaard 
+(veelal SDO (Standard Development Organization) of SSO (Standard Setting 
+Organization) genoemd.  Tot slot is het belangrijk te weten of de standard 
+wel in de praktijk een implementeerbare en werkbare oplossing is, dat is 
+onderdeel van kwaliteit in gebruik.
+
+Deze driedelige structuur maakt de inzet van het model flexibel. Het is 
+niet nodig het gehele model in te zetten, maar op basis van de vraag kan 
+het relevante deel in het model gekozen worden. De volgende typische 
+vragen zijn te beantwoorden met het respectievelijk genoemde deel van 
+het kwaliteitsmodel:
+
+1. Wat is de intrinsieke kwaliteit van de standaard? – Onderdeel A.
+2. Wat is de implementeerbaarheid van de standaard? – Onderdeel A en B.
+3. Wat is de duurzaamheid (toekomstvastheid) van de standaard? – Onderdeel B en A (deels).
+4. Zou ik de standaard moeten selecteren? – Onderdeel C (voornamelijk).
+5. Is de standaard een goede oplossing voor het interoperabiliteitsprobleem? – Alle onderdelen.
+
+**A. Productkwaliteit**
+
+Als we specifieker naar productkwaliteit gaan kijken, dan kunnen we in 
+meer detail de volgende vragen mee beantwoorden:
+    1. Is de afgedekte functionaliteit van de standaard toepasselijk? – 
+    Heeft het de capaciteit om het interoperabiliteitsprobleem op te lossen?
+    2. Is de standaard stabiel? – Kan het geïmplementeerd en gebruikt worden zonder barrières?
+    3. Is de standaard duurzaam? – Is de standaard klaar voor de toekomst?
+
+In onderstaande tabel zijn de eerste twee (van drie) decompositie lagen van 
+productkwaliteit opgenomen, inclusief definities en toelichting. Het geeft al 
+veel handvaten om de kwaliteit van een standaard mee onder de loep te nemen.
+
+| **Measurable Concept**   | **Definition**  | **Remarks**  |
+|--------------------------|-----------------|--------------|
+| **A. Product Quality**     | The total attributes of a standard that determine its ability to satisfy stated and implied needs when used under specified conditions. | This includes both internal and external quality in ISO terms. |
+| **A1. Functionality**      | The capability of the standard to provide functions which meet stated and implied needs when the standard is used under specified conditions. | The specification fulfills the functional needs of the intended job. |
+| **A1.1 Completeness**      | The extent to which a standard is of sufficient breadth, depth, and scope for the task at hand. | This includes other terms like relevancy and suitability, and is the functional view on the content of the specification. The task at hand is aimed at solving an interoperability problem.                     |
+| **A1.2 Accuracy** | The capability of the standard to provide true data with the needed degree of precision. | The level of needed specificity and precision in both semantic meaning and technical syntax. (This does not cover, but relates to, the quality of the content: consistency (A1.3)) |
+| **A1.3 Consistency**       | The extent of consistency in using the same values (vocabulary control) and elements to convey similar concepts and meaning in a standard. | The degree of coherence and freedom of contradiction within the standard (ISO 25012). The quality of the content of the different models. |
+| **A1.4 Compliancy**        | The capability of the standard to adhere to other standards, conventions or regulations in laws, but also to define what compliancy implies for this standard. | The compliancy when other standards are implemented, and how the conformance to this standard can be assured. |
+| **A2. Usability**          | The capability of the standard has to be understood, learnt, used and attractive to the user, when used under specified conditions. | Also contains terms like implementability and readability, and is needed so as to estimate the efforts required for implementation. |
+| **A2.1 Understandability** | The capability of the standard to enable the user to understand the standard for usage for particular tasks and conditions of use. | To enable it to be read and interpreted by users. |
+| **A2.2. Testability**      | The capability of the standard to be validated. | Intended to avoid faulty implementations. |
+| **A2.3 Openness**          | The implementation of open characteristics within the standard. | Includes "open specification". |
+| **A2.4 Complexity**        | The complexity of the technical solution proposed by the standard. | The complexity of the technical representation of the standard. |
+| **A3. Durability**         | The capability of the standard to have a long lasting life cycle; Connecting to current situations and future proofs.  | Includes concepts like changeability and flexibility. |
+| **A3.1 Adaptability**      | The capability of the standard to be adapted for different specified environments without applying actions or means other than those provided for this purpose for the considered standard. | Includes customizability. |
+| **A3.2 Maintainability**   | The capability of the standard to be modified in an efficient manner. | Modifications may include corrections, improvements or adaptation to changes in the environment, requirements or functional specifications. This also covers **re-usability, replaceability and co-existence.** |
+| **A3.3 Advancedness**      | The state of the art notion of the standard, in relation to current practice and future innovation. | Advancedness in relation to the outside environment in stakeholder organizations. Currentness: Fits the timeframe.   |
+
+**B. Proceskwaliteit**
+
+De meer gedetailleerde vragen die gerelateerd zijn aan proceskwaliteit zijn:
+
+    1. Is het Ontwikkel en Beheerproces professioneel georganiseerd? 
+    2. Hoe wordt de standaard aangeboden aan de buitenwereld?
+    3. Hoe passend is de organisatie structuur bij de standaard?
+
+In de volgende tabel zijn de eerste twee (van drie) decompositie lagen van 
+proceskwaliteit opgenomen, inclusief definities en toelichting.
+
+| **Measurable Concept**            | **Definition** | **Remarks/Synonyms/Direction for measures** |
+|-----------------------------------|----------------|---------------------------------------------|
+| **B. Process Quality**            | The quality of the sequence of interdependent and linked procedures that resulted in the standard. | Organizational quality. |
+| **B1. Development & Maintenance** | The professionalism of how the standard development and the maintenance are organized. | This concept is based on BOMOS. [[[folmer2011]]] |
+| **B1.1 D&M Process**              | The capability of the D&M process to suit a standardization environment. | The D&M should guide developers in achieving quality. |
+| **B1.2 Versioning**               | The capability of the standard to have versioning in place that combines stability and the possibility to make changes. | Explicit version management is required to raise the appropriate expectations. |
+| **B2. Communication**             | The totality of communication activities related to the standard. | The presentation of the standard to the outside world. |
+| **B2.1 Support**                  | The availability of knowledgeable support. | Support aimed at helping stakeholders with (the choice of) implementing the standard. |
+| **B2.2 Adoption Strategy**        | The availability of a promotion strategy to strive for successful adoption in practice. | Adoption will not go automatically but needs to be striven for. |
+| **B3. Organization**              | The capability of the organizational structure to effectively set standards.  | Perhaps there is a network of organizations involved. |
+| **B3.1 Governance**               | The organization of decision making within the governance. | Relates to the openness of the standard.                                              |
+| **B3.2 Fitness**                  | The suitability of the development organization for the job.  | The capability of the organization to support the standard appropriately. |
+| **B3.3 Financial**                | The capabilities to be financially neutral and stable for years to come. | Relates to the openness of the standard, and the adoption potential. |
+
+**C. Kwaliteit in gebruik**
+
+Het specificatie document van de standaard kan een top kwaliteit hebben 
+(productkwaliteit), de standaardisatie organisatie professioneel ingericht 
+(proceskwaliteit), en toch kan de standaard in de praktijk niet het gewenste 
+resultaat opleveren. Dat is wat het onderdeel kwaliteit in gebruik inzichtelijk 
+wil maken. 
+
+Kwaliteit in gebruik wordt gemeten in de omgeving/context van de standaard: 
+wordt het gebruikt, of heeft het die potentie, door de stakeholders. 
+De twee meest prominente vragen:
+
+    1. Is de standaard geaccepteerd as oplossing in de praktijk?
+    2. Leidt het gebruik van de standaard ook tot interoperabiliteit in de praktijk?
+
+Ook hier zijn in onderstaande tabel de eerste twee (van drie) decompositie 
+lagen van kwaliteit in gebruik opgenomen, inclusief definities en toelichting. 
+
+| **Measurable Concept**      | **Definition**   | **Remarks/Synonyms**   |
+|-----------------------------|------------------|------------------------|
+| **C. Quality in Practice**  | The extent to which a standard can be used by specified users to meet their needs to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use. (ISO 14598) | Quality in use.   |
+| **C1. Acceptance**          | The adoption of the standard within the domain.   | Adoption/acceptance in practice.   |
+| **C1.1 Solution Providers** | The extent to which solutions providers have adopted the standard. | Solution providers provide products and service that are used by the end users. The adoption by solution providers is a multiplier for adoption. |
+| **C1.2 End Users**          | The extent to which the end users have adopted the standard.  | The actual use of the standard.                                                                                                                  |
+| **C1.3 Recognition**        | The extent to which the standards receive external recognition. | The credibility. |
+| **C2. Interoperability**    | The ability of two or more systems or components to exchange information and to use the information that has been exchanged. (Legner & Lebreton, 2007) | The capability of the standard to achieve meaningful communication between systems. |
+| **C2.1 Maturity**           | The capability of the standard to be a stable and proven solution. | A mature standard will positively influence interoperability. |
+| **C2.2 Correctness**        | Extent to which an implementation of a standard satisfies its specifications and fulfills the user's mission objectives. (McCall et al., 1977) | Also called "Free of Error".                                                                                                                     |
+| **C2.3 Cost & Benefits**    | The extent to which the benefits cover the costs of standardization.  | Although not necessary for all stakeholders, the total use of the standard should have a positive business case.  |
 
 #### Het kwaliteitsinstrument gebruiken
 
-De relatie tussen interoperabiliteit en standaarden is die van
-doel-middel. Zonder het kwaliteitsaspect in ogenschouw te nemen worden
-standaarden te veel gezien als heilige graal. De standaard wordt het
-doel, in plaats van een middel om op een effectieve en efficiënte
-manier interoperabiliteit te bereiken. Een aandachtsverschuiving naar
-de kwaliteit van standaarden voorkomt dat standaarden een doel op zich
-worden en zal de relatie tussen standaarden en interoperabiliteit
-versterken.
+De relatie tussen interoperabiliteit en standaarden is die van doel-middel. 
+Zonder het kwaliteitsaspect in ogenschouw te nemen worden standaarden te veel 
+gezien als heilige graal. De standaard wordt het doel, in plaats van een middel 
+om op een effectieve en efficiënte manier interoperabiliteit te bereiken. 
+Een aandachtsverschuiving naar de kwaliteit van standaarden voorkomt dat 
+standaarden een doel op zich worden en zal de relatie tussen standaarden en 
+interoperabiliteit versterken.
 
-![Kwaliteitsinstrumenten](images/kwaliteitsinstrumenten.png "Kwaliteitsinstrumenten")
+Dit kwaliteitsmodel, in onderstaand figuur samengevat kan daarvoor een bruikbaar 
+hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete 
+instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
+instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit
-van een standaard te bekijken. Bij de ontwikkeling wordt ook gekeken
-naar de kosten van een kwaliteitsmeting, waarbij vooral de uren
-relevant en kostbaar zijn. Uitgangspunt is dat de kwaliteitsmeting in
-slechts een paar uur uitgevoerd kan worden, zodat de kosten beperkt
-zijn en opbrengst dan ook al snel de kosten zal overtreffen. Het is
-met name geschikt voor de standaardisatie-ontwikkelaar zelf die de
-eigen standaard goed kent en het model als denkkader kan gebruiken om
-de eigen standaard mee te analyseren.
+![Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau]()
 
- De belangrijkste vraag is wat het gebruik van het
- kwaliteitsinstrument voor standaarden oplevert. Kort samengevat:
+Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard 
+te bekijken. Maar het moet wel kosteneffectief worden ingezet. In veel gevallen is het 
+gewenst dat een kwaliteitsmeting in enkele uren uitgevoerd kan worden. In dat geval 
+zijn de kosten vrij beperkt, en zullen de opbrengsten de kosten al snel overtreffen. 
 
-* een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is op de kwaliteit van een standaard.
-* ideeën voor verbetering van de standaard.
-* ideeën voor aanpassingen in het standaardisatieproces.
+Inzet van het kwaliteitsmodel kan ook heel geschikt zijn als zelf-evaluatie door de 
+standaardisatie-ontwikkelaar die de eigen standaard goed kent en het model als 
+denkkader kan gebruiken om de eigen standaard mee te analyseren. Immers het kwaliteitsmodel 
+is niet bedoeld om goed/fout aan te geven, maar puur bedoelt om mogelijke verbeteringen 
+te identificeren.
 
-Het helpt de standaardisatieontwikkelaar om met een frisse blik naar
-de standaard te kijken en daarbij een gevoel te krijgen hoe de
-kwaliteit te beïnvloeden is. Gedurende het gebruik zal de
-standaardisatieontwikkelaar ideeën ontwikkelen hoe de standaard te
-verbeteren is of mogelijkheden zien om het standaardisatieproces te
-veranderen om een hogere kwaliteit te bereiken.
+Wat zou het gebruik van het kwaliteitsinstrument voor standaarden kunnen opleveren. Kort samengevat:
 
-In ultieme vorm is het kwaliteitsinstrument een meetinstrument (zoals
-een thermometer) voor standaarden, dat wil zeggen een compleet
-gereedschap inclusief 'tool' en 'gebruikshandleiding'. Maar ook alleen
-het kwaliteitsmodel, met een stevig fundament, kan als 'bril' worden
-gebruikt om standaarden in de praktijk mee te toetsen.
+•	een model om naar de standaard te kijken: een frisse blik / inzicht in wat van invloed is 
+  op de kwaliteit van een standaard.
+•	ideeën voor verbetering van de standaard.
+•	ideeën voor aanpassingen in het standaardisatieproces.
+
+Het helpt de standaardisatieontwikkelaar om met een frisse blik naar de standaard te 
+kijken en daarbij een gevoel te krijgen hoe de kwaliteit te beïnvloeden is. Gedurende 
+het gebruik zal de standaardisatieontwikkelaar ideeën ontwikkelen hoe de standaard te 
+verbeteren is of mogelijkheden zien om het standaardisatieproces te veranderen om een 
+hogere kwaliteit te bereiken.
+
+In de complete vorm is het kwaliteitsinstrument een meetinstrument (zoals een 
+thermometer) voor standaarden, dat wil zeggen een compleet gereedschap inclusief 
+'tool' en 'gebruikshandleiding'. Maar ook alleen het kwaliteitsmodel, met een stevig 
+fundament, kan als 'bril' worden gebruikt om standaarden in de praktijk mee te toetsen.
 
 ### Kwaliteit van implementaties
 
