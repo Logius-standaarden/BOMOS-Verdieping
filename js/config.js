@@ -131,7 +131,7 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
         href: "https://ris.utwente.nl/ws/portalfiles/portal/6064223/thesis_E_Folmer.pdf",
         title: "Quality of Semantic Standards",
         authors: ["Erwin Folmer"],
-        date: "2012"
+        date: "2012",
         publisher: "Universiteit Twente",
       },
   },
