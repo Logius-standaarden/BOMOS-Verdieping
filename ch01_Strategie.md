@@ -357,7 +357,7 @@ de hand liggen, te weten:
 
 <aside class="example">
 _Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: 
-ophalen tijdens review._ Geonovum, Stichting Kwaliteitsborging Bodemmbeheer 
+ophalen tijdens review._ Geonovum, Stichting Kwaliteitsborging Bodembeheer 
 (SIKB) en stichting RIONED zijn voorbeelden van stichtingen die (onder meer) 
 standaarden beheren.
 </aside>
@@ -430,7 +430,7 @@ Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan
 _naast_ de beheerorganisatie. Een voorbeeld is het Centraal College 
 van Deskundigen Datastandaarden (CCvD-Datastandaarden). Dit is een 
 gezamenlijk overleg met stakeholders waarin het Informatiehuis Water (IHW), 
-Stichting Kwaliteitsborging Bodemmbeheer (SIKB) en stichting RIONED 
+Stichting Kwaliteitsborging Bodembeheer (SIKB) en stichting RIONED 
 gezamenlijk de wijzigingen op hun standaarden en hun (strategische) plannen
 vaststellen. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
 sterk overlappen. Één standaard is zelfs in gezamenlijk beheer bij SIKB en IHW.
