@@ -982,13 +982,7 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 ![Het kwaliteitmodel]( "Het kwaliteitmodel")
 
 <figure id="kwaliteitmodel">
-```mermaid 
-graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+  <pre class="mermaid"> graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner); </pre>
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
 
