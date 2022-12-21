@@ -982,7 +982,7 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 <figure id="kwaliteitmodel">
 ```mermaid
 graph TD;
-    kwaliteit(Kwaliteitsmodel van semantische standaard");
+    kwaliteit(Kwaliteitsmodel van semantische standaard);
     product(A. Product kwaliteit);
     proces(B. Proces kwaliteit);
     praktijk(C. Kwaliteit in de praktijk);
