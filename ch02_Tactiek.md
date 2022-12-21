@@ -1130,18 +1130,18 @@ instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nem
 
 ```mermaid
 graph TD;
-    kwaliteit(Kwaliteitsmodel van semantische standaard);
-    product(A. Product kwaliteit);
-    proces(B. Proces kwaliteit);
-    praktijk(C. Kwaliteit in de praktijk);
+    kwaliteit(Kwaliteitsmodel van<br>semantische<br>standaard);
+    product(A. Product<br>kwaliteit);
+    proces(B. Proces<br>kwaliteit);
+    praktijk(C. Kwaliteit in<br>de praktijk);
     functionaliteit(A1. Functionaliteit);
     bruikbaarheid(A2. Bruikbaarheid);
     duurzaamheid(A3. Duurzaamheid);
-    ontwikkeling(B1. Ontwikkeling & onderhoud);
+    ontwikkeling(B1. Ontwikkeling<br>& onderhoud);
     communicatie(B2. Communicatie);
     organisatie(B3. Organisatie);
     acceptatie(C1. Acceptatie);
-    interoperabiliteit(C2. Interoperabiliteit);
+    interoperabiliteit(C2. Inter-<br>operabiliteit);
     kwaliteit-->product;
     kwaliteit-->proces;
     kwaliteit-->praktijk;
