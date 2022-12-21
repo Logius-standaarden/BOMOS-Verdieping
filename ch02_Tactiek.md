@@ -980,7 +980,6 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 (en instrument) is onderdeel van het proefschrift “Quality of Semantic Standards” [[[folmer2012]]].
 
 <figure id="kwaliteitmodel">
-  <div class="mermaid"> 
 ```mermaid
 graph LR;
     A-->B;
@@ -988,7 +987,6 @@ graph LR;
     B-->D;
     C-->D;
 ```
-  </div>
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
 
