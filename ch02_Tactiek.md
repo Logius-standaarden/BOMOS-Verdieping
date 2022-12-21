@@ -1126,7 +1126,31 @@ hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete
 instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
 instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-![Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau]("Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau")
+<figure id="samenvatting_kwaliteitmodel">
+
+```mermaid
+graph TD;
+    kwaliteit(Kwaliteitsmodel van semantische standaard);
+    product(A. Product kwaliteit);
+    proces(B. Proces kwaliteit);
+    praktijk(C. Kwaliteit in de praktijk);
+    functionaliteit(A1. Functionaliteit);
+    bruikbaarheid(A2. Bruikbaarheid);
+    duurzaamheid(A3. Duurzaamheid);
+    ontwikkeling(B1. Ontwikkeling & onderhoud);
+    communicatie(B2. Communicatie);
+    organisatie(B3. Organisatie);
+    acceptatie(C1. Acceptatie);
+    interoperabiliteit(C2. Interoperabiliteit);
+    kwaliteit-->product;
+    kwaliteit-->proces;
+    kwaliteit-->praktijk;
+    product-->functionaliteit&bruikbaarheid&duurzaamheid;
+    proces-->ontwikkeling&communicatie&acceptatie;
+    praktijk-->acceptatie&interoperabiliteit;
+```
+  <figcaption>Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau</figcaption>
+</figure>
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard 
 te bekijken. Maar het moet wel kosteneffectief worden ingezet. In veel gevallen is het 
