@@ -981,11 +981,20 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 
 <figure id="kwaliteitmodel">
 ```mermaid
-graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TD;
+    kwaliteit(Kwaliteitsmodel van semantische standaard");
+    product(A. Product kwaliteit);
+    proces(B. Proces kwaliteit);
+    praktijk(C. Kwaliteit in de praktijk);
+    standaard((Maatregel in inhoud, de standaard));
+    organisatie((Maatregel in ontwikkeling en onderhoud, de organisatie));
+    implementatie((Maatregel in toepassing, de implementatie));
+    kwaliteit-->product;
+    kwaliteit-->proces;
+    kwaliteit-->praktijk;
+    product-->standaard;
+    proces-->organisatie;
+    praktijk-->implementatie;
 ```
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
