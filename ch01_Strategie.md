@@ -987,3 +987,11 @@ manier inzichten in de business case van een standaard ontstaan,
 zonder blind te focussen op de getallen. Uiteraard kan na stap 3 een
 poging gedaan worden om de geïdentificeerde kosten en baten uit te
 gaan drukken in geld.
+
+### BOMOS rekenmodel
+Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum op basis van het generieke en het specifieke beheermodel een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en beheerde standaard is de benodigde basis inzet berekend. Deze basis gebruikt Geonovum vervolgens om een gerichte inschatting te kunnen maken van meer- en minderwerk zoals beschreven in het specifieke beheerdocument:xxxxx . Hierdoor kunnen beheerkosten realistisch en onderbouwd worden ingeschat. 
+Het rekenmodel is in een kennissessie gepresenteerd bij het Forum Standaardisatie. De door Geonovum ontwikkelde implementatie van BOMOS werd door andere beheerorganisaties als praktisch en waardvol ervaren. Andere organisaties kunnen ook van deze werkwijze profiteren. Het rekenmodel kan voor het eigen generieke of specifieke beheerplan gebruikt worden om de koste voor beheer inzichtelijk te maken, voor de door hen beheerde standaarden. 
+
+Rekenmodel kun je hier terugvinden: xxxxx
+
+
