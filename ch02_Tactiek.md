@@ -981,11 +981,13 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 
 <figure id="kwaliteitmodel">
   <div class="mermaid"> 
+```mermaid
 graph LR;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
   </div>
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
