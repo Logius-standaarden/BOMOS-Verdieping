@@ -135,4 +135,6 @@ var respecConfig = {  // this template doesn''t use all possible config paramete
         publisher: "Universiteit Twente",
       },
   },
+  // zorgt dat het converten van mermaid strings naar SVG op het juiste moment gebeurt
+  postProcess: [window.respecMermaid.createFigures],
 };
