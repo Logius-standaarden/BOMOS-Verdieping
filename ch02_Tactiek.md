@@ -1146,13 +1146,13 @@ graph TD;
     kwaliteit-->proces;
     kwaliteit-->praktijk;
     product-->functionaliteit;
-    product-->bruikbaarheid;
-    product-->duurzaamheid;
+    product--->bruikbaarheid;
+    product---->duurzaamheid;
     proces-->ontwikkeling;
-    proces-->communicatie;
-    proces-->acceptatie;
+    proces--->communicatie;
+    proces---->organisatie;
     praktijk-->acceptatie;
-    praktijk-->interoperabiliteit;
+    praktijk--->interoperabiliteit;
 ```
   <figcaption>Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau</figcaption>
 </figure>
