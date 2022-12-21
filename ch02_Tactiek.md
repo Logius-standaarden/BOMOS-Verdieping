@@ -549,7 +549,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 *   Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
 
-![alt_text](images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
+![Adoptiepaden van een standaard](images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
 
 De strategieën:
 
@@ -979,7 +979,18 @@ metingen, tot aan een procesmodel voor het gebruik van dit kwaliteitsmodel
 zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel 
 (en instrument) is onderdeel van het proefschrift “Quality of Semantic Standards” [[[folmer2012]]].
 
-![Het kwaliteitmodel]()
+![Het kwaliteitmodel]( "Het kwaliteitmodel")
+
+<figure id="kwaliteitmodel">
+```mermaid 
+graph LR;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+  <figcaption>Het kwaliteitmodel</figcaption>
+</figure>
 
 Het kwaliteitsmodel maakt een belangrijk onderscheid tussen productkwaliteit, 
 proceskwaliteit en kwaliteit in gebruik. Productkwaliteit gaat over de 
@@ -1107,7 +1118,7 @@ hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete
 instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
 instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-![Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau]()
+![Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau]("Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau")
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard 
 te bekijken. Maar het moet wel kosteneffectief worden ingezet. In veel gevallen is het 
