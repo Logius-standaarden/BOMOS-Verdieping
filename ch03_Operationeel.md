@@ -45,6 +45,40 @@ Door dit te laten doen door een secretariaat of ondersteunende experts kan de ui
 ### Beoordeling en besluitvorming
 Periodiek moet de lijst met _requests for change_/_wijzigingsverzoeken_ worden doorlopen. Daarbij moeten de wijzigingsverzoeken worden beoordeeld en moet worden besloten of een wijziging wordt doorgevoerd in de standaard.
 
+<aside class="example">
+<b>Het hele proces via git bij Logius</b)>
+
+Zoals hierboven gezegd in 
+[verzamelen van eisen en wensen](#verzamelen-van-wensen-en-eisen) 
+kan _git_ gebruikt worden als een kanaal om gebruikers 
+wijzigingsvoorstellen in te laten dienen. Maar het kan ook goed 
+toegepast worden in de stappen daarna, tot en met besluitvorming toe. 
+Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
+operationele proces. 
+
+Allereerst wordt alle documentatie gepubliceerd via github. Gebruikers 
+kunnen bij een document over een standaard een vraag of idee of een 
+voorstel tot wijziging indienen. De beheerorganisatie beantwoordt de 
+vraag of neemt het voorstel tot wijziging in behandeling. Daarbij wordt 
+aan een voorstel (een _issue_ in github terminologie) een aantal 
+_labels_ toegekend door de beheerder. Hiermee wordt de _scope_ 
+aangegeven, betreft het een kleine of grote wijziging. Daarnaast zijn er 
+labels voor de verschillende overleggen waarin advies aan stakeholders 
+wordt gevraagd en uiteindelijk besluitvorming plaatsvindt. Bijvoorbeeld: 
+door het label _technisch overleg_ aan een issue toe te kennen wordt het 
+voorstel opgenomen in de agenda voor het volgende technich overleg. De 
+automatisering die github biedt maakt het mogelijk een agenda 
+automatisch te genereren uit de issues met het relevante label. 
+
+Door issues zo door het hele proces binnen git te houden is het 
+eenvoudig om een overzicht te maken van alle voorstellen en van die 
+voorstellen die speciale aandacht nodig hebben. Daarnaast worden alle 
+voorstellen op deze manier volledig open behandeld. Iedere gebruiker kan 
+gedurende het hele behandelingproces opmerkingen op een voorstel geven. 
+Participatie van gebruikers is zo niet beperkt tot de overleggen maar 
+kan gedurende het hele proces.
+</aside>
+
 #### Manier van besluitvorming
 Er zijn verschillende manieren waarop de besluitvorming georganiseerd kan worden. Een open standaard vereist dat er sprake is van ofwel meerderheidsbesluitvorming ofwel consensus. Bij consensus moet iedereen het eens zijn over de voorgestelde wijziging. Bij meerderheidsbesluitvorming moet minimaal de helft plus één akkoord zijn met een voorgestelde wijziging.
 
