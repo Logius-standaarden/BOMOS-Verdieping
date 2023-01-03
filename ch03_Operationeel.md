@@ -153,7 +153,7 @@ toegepast worden in de stappen daarna, tot en met besluitvorming toe.
 Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
 operationele proces. 
 
-Allereerst wordt alle documentatie gepubliceerd via github. Gebruikers 
+Allereerst wordt alle documentatie gepubliceerd via github (zie [hierboven](#documentatie-en-publicatie-met-git-en-respec). Gebruikers 
 kunnen bij een document over een standaard een vraag of idee of een 
 voorstel tot wijziging indienen. De beheerorganisatie beantwoordt de 
 vraag of neemt het voorstel tot wijziging in behandeling. Daarbij wordt 
