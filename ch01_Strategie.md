@@ -458,7 +458,7 @@ proces.
 
 <p class="comment" style="color:red">
 <aside class="example">
-<b>Template voor beheerdocument van Geonovum</b>
+<b>Template voor beheerdocument en rekenmodel van Geonovum</b>
 
 Om opdrachtgevers meer inzicht te geven in de activiteiten in het
 beheerproces van standaarden, heeft Geonovum een generiek
@@ -472,7 +472,7 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](_HIER_LINK_NAAR_HET_REKENMODEL) ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
