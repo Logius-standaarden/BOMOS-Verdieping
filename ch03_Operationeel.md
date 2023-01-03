@@ -46,7 +46,7 @@ Door dit te laten doen door een secretariaat of ondersteunende experts kan de ui
 Periodiek moet de lijst met _requests for change_/_wijzigingsverzoeken_ worden doorlopen. Daarbij moeten de wijzigingsverzoeken worden beoordeeld en moet worden besloten of een wijziging wordt doorgevoerd in de standaard.
 
 <aside class="example">
-<b>Het hele proces via git bij Logius</b)>
+<b>Het hele proces via git bij Logius</b>
 
 Zoals hierboven gezegd in 
 [verzamelen van eisen en wensen](#verzamelen-van-wensen-en-eisen) 
