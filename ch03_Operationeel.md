@@ -45,40 +45,6 @@ Door dit te laten doen door een secretariaat of ondersteunende experts kan de ui
 ### Beoordeling en besluitvorming
 Periodiek moet de lijst met _requests for change_/_wijzigingsverzoeken_ worden doorlopen. Daarbij moeten de wijzigingsverzoeken worden beoordeeld en moet worden besloten of een wijziging wordt doorgevoerd in de standaard.
 
-<aside class="example">
-<b>Het hele proces via git bij Logius</b>
-
-Zoals hierboven gezegd in 
-[verzamelen van eisen en wensen](#verzamelen-van-wensen-en-eisen) 
-kan _git_ gebruikt worden als een kanaal om gebruikers 
-wijzigingsvoorstellen in te laten dienen. Maar het kan ook goed 
-toegepast worden in de stappen daarna, tot en met besluitvorming toe. 
-Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
-operationele proces. 
-
-Allereerst wordt alle documentatie gepubliceerd via github. Gebruikers 
-kunnen bij een document over een standaard een vraag of idee of een 
-voorstel tot wijziging indienen. De beheerorganisatie beantwoordt de 
-vraag of neemt het voorstel tot wijziging in behandeling. Daarbij wordt 
-aan een voorstel (een _issue_ in github terminologie) een aantal 
-_labels_ toegekend door de beheerder. Hiermee wordt de _scope_ 
-aangegeven, betreft het een kleine of grote wijziging. Daarnaast zijn er 
-labels voor de verschillende overleggen waarin advies aan stakeholders 
-wordt gevraagd en uiteindelijk besluitvorming plaatsvindt. Bijvoorbeeld: 
-door het label _technisch overleg_ aan een issue toe te kennen wordt het 
-voorstel opgenomen in de agenda voor het volgende technich overleg. De 
-automatisering die github biedt maakt het mogelijk een agenda 
-automatisch te genereren uit de issues met het relevante label. 
-
-Door issues zo door het hele proces binnen git te houden is het 
-eenvoudig om een overzicht te maken van alle voorstellen en van die 
-voorstellen die speciale aandacht nodig hebben. Daarnaast worden alle 
-voorstellen op deze manier volledig open behandeld. Iedere gebruiker kan 
-gedurende het hele behandelingproces opmerkingen op een voorstel geven. 
-Participatie van gebruikers is zo niet beperkt tot de overleggen maar 
-kan gedurende het hele proces.
-</aside>
-
 #### Manier van besluitvorming
 Er zijn verschillende manieren waarop de besluitvorming georganiseerd kan worden. Een open standaard vereist dat er sprake is van ofwel meerderheidsbesluitvorming ofwel consensus. Bij consensus moet iedereen het eens zijn over de voorgestelde wijziging. Bij meerderheidsbesluitvorming moet minimaal de helft plus één akkoord zijn met een voorgestelde wijziging.
 
@@ -175,6 +141,40 @@ Respec is een applicatie om bestanden om te zetten in documentatie die online ge
 
 #### Git en Git platforms
 Door gebruik te maken van dezelfde gereedschappen als voor het beheer van programmacode kan het beheerproces automatisch ondersteund worden. Documentatie wordt ondergebracht in een online _repository_. Een repository is meer dan een archief voor code. Binnen Git platforms zoals Github en Gitlab kunnen issues ingediend worden door gebruikers, zijn projectmanagementtools beschikbaar en kunnen automatische acties op een repository uitgevoerd worden. Het is ook mogelijk om automatische controles uit te voeren op de code in een repository, bijvoorbeeld op basis van toegankelijkheid of op ontbrekende verwijzingen.
+
+<aside class="example">
+<b>Het hele proces via git bij Logius</b>
+
+Zoals hierboven gezegd in 
+[verzamelen van eisen en wensen](#verzamelen-van-wensen-en-eisen) 
+kan _git_ gebruikt worden als een kanaal om gebruikers 
+wijzigingsvoorstellen in te laten dienen. Maar het kan ook goed 
+toegepast worden in de stappen daarna, tot en met besluitvorming toe. 
+Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
+operationele proces. 
+
+Allereerst wordt alle documentatie gepubliceerd via github. Gebruikers 
+kunnen bij een document over een standaard een vraag of idee of een 
+voorstel tot wijziging indienen. De beheerorganisatie beantwoordt de 
+vraag of neemt het voorstel tot wijziging in behandeling. Daarbij wordt 
+aan een voorstel (een _issue_ in github terminologie) een aantal 
+_labels_ toegekend door de beheerder. Hiermee wordt de _scope_ 
+aangegeven, betreft het een kleine of grote wijziging. Daarnaast zijn er 
+labels voor de verschillende overleggen waarin advies aan stakeholders 
+wordt gevraagd en uiteindelijk besluitvorming plaatsvindt. Bijvoorbeeld: 
+door het label _technisch overleg_ aan een issue toe te kennen wordt het 
+voorstel opgenomen in de agenda voor het volgende technich overleg. De 
+automatisering die github biedt maakt het mogelijk een agenda 
+automatisch te genereren uit de issues met het relevante label. 
+
+Door issues zo door het hele proces binnen git te houden is het 
+eenvoudig om een overzicht te maken van alle voorstellen en van die 
+voorstellen die speciale aandacht nodig hebben. Daarnaast worden alle 
+voorstellen op deze manier volledig open behandeld. Iedere gebruiker kan 
+gedurende het hele behandelingproces opmerkingen op een voorstel geven. 
+Participatie van gebruikers is zo niet beperkt tot de overleggen maar 
+kan gedurende het hele proces.
+</aside>
 
 #### Wijzigingsverzoeken
 In een Git platform zoals Github kunnen ook verzoeken tot wijzigingen (genaamd _issues_ in git) ingediend worden, die dan weer tot wijziging in de code kunnen leiden. Issues kunnen in principe door iedere gebruiker worden ingediend. Een wijzigingsverzoek wordt verwerkt door de beheerder van de repository. Een issue kan worden toegewezen aan een ontwikkelaar en worden door de beheerder geagendeerd voor overleggen door ze te labelen. Door een _issue_ een label _Technische overleg_ te geven kan gefilterd worden op alle issues die relevant zijn voor dat overleg. Daarnaast worden wijzigingsvoorstellen gelabeld met scope (klein of groot) en wat voor wijziging het betreft (correctie, documentatie, wijziging etc.).
