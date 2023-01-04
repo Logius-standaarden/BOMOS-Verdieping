@@ -232,25 +232,7 @@ figuur](#fig-beleggen-van-ontwikkeltaken) noemt hier (andere)
 standaardisatieorganisaties, research-organisaties en
 brancheorganisaties.
 
-<figure id="beleggen beheertaken">
 
-```mermaid
-graph TB
-  beheer(Beheer- en ontwikkeltaken)
-  subgraph non-profit
-    standaard(Standaardisatie<br>organisaties)
-    research(Research<br>organisaties)
-    branch(Branch<br>organisaties)
-    eigen(Eigen<br>organisatie)
-  end
-  subgraph for-profit
-    commercieel(Commercieele<br>dienstverleners)
-  end
-  beheer-- kunnen belegd worden bij -->non-profit
-  beheer-- kunnen belegd worden bij -->for-profit
-```
-  <figcaption>Beleggen van beheer- en ontwikkeltaken</figcaption>
-</figure>
 
 Het model maakt onderscheid tussen not-for-profit en profit
 organisaties. Dit onderscheid is relevant in het kader van openheid
