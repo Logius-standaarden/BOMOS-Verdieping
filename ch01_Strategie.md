@@ -235,19 +235,19 @@ brancheorganisaties.
 <figure id="beleggen beheertaken">
 
 ```mermaid
-graph TD;
+graph TB;
   beheer(Beheer- en ontwikkeltaken);
-  subgraph not-for-profit;
+  subgraph nonprofit;
     standaard(Standaardisatie<br>organisaties);
     research(Research<br>organisaties);
     branch(Branch<br>organisaties);
     eigen(Eigen<br>organisatie);
   end;
-  subgraph for-profit;
+  subgraph profit;
     commercieel(Commercieele<br>dienstverleners);
   end;
-  beheer-- kunnen belegd worden bij -->not-for-profit;
-  beheer-- kunnen belegd worden bij -->for-profit;
+  beheer-- kunnen belegd worden bij -->nonprofit;
+  beheer-- kunnen belegd worden bij -->profit;
 ```
   <figcaption>Beleggen van beheer- en ontwikkeltaken</figcaption>
 </figure>
