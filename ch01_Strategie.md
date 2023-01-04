@@ -23,22 +23,22 @@ uitvoeringsorganisatie en de besluitvorming door het bestuur.
 <figure id="samenvatting_kwaliteitmodel">
 
 ```mermaid
-graph TD;
-    bestuur(Bestuur);
-    advies(Adviesorgaan);
-    uitvoering(Uitvoeringsorganisatie);
-    leveranciers(Leveranciersgroep);
-    werkgroepA(Werkgroep A);
-    werkgroepZ(Werkgroep Z);
+graph TB
+    bestuur(Bestuur)
+    advies(Adviesorgaan)
+    uitvoering(Uitvoeringsorganisatie)
+    leveranciers(Leveranciersgroep)
+    werkgroepA(Werkgroep A)
+    werkgroepZ(Werkgroep Z)
 
-    advies-- advies -->bestuur;
-    bestuur-- opdracht -->uitvoering;
-    uitvoering-- verantwoording -->bestuur;
-    uitvoering-- voorstel -->advies;
-    leveranciers-- overleg --> advies;
-    uitvoering<-- advies -->leveranciers;
-    uitvoering-- opdracht -->werkgroepA;
-    uitvoering-- opdracht -->werkgroepZ;
+    advies-- advies -->bestuur
+    bestuur-- opdracht -->uitvoering
+    uitvoering-- verantwoording -->bestuur
+    uitvoering-- voorstel -->advies
+    leveranciers-- overleg --> advies
+    uitvoering<-- advies -->leveranciers
+    uitvoering-- opdracht -->werkgroepA
+    uitvoering-- opdracht -->werkgroepZ
 ```
 <figcaption>Organisatiestructuur</figcaption>
 </figure>
@@ -235,19 +235,19 @@ brancheorganisaties.
 <figure id="beleggen beheertaken">
 
 ```mermaid
-graph TB;
-  beheer(Beheer- en ontwikkeltaken);
-  subgraph nonprofit;
-    standaard(Standaardisatie<br>organisaties);
-    research(Research<br>organisaties);
-    branch(Branch<br>organisaties);
-    eigen(Eigen<br>organisatie);
-  end;
-  subgraph profit;
-    commercieel(Commercieele<br>dienstverleners);
-  end;
-  beheer-- kunnen belegd worden bij -->nonprofit;
-  beheer-- kunnen belegd worden bij -->profit;
+graph TB
+  beheer(Beheer- en ontwikkeltaken)
+  subgraph non-profit
+    standaard(Standaardisatie<br>organisaties)
+    research(Research<br>organisaties)
+    branch(Branch<br>organisaties)
+    eigen(Eigen<br>organisatie)
+  end
+  subgraph for-profit
+    commercieel(Commercieele<br>dienstverleners)
+  end
+  beheer-- kunnen belegd worden bij -->non-profit
+  beheer-- kunnen belegd worden bij -->for-profit
 ```
   <figcaption>Beleggen van beheer- en ontwikkeltaken</figcaption>
 </figure>
