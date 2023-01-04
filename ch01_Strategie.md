@@ -43,7 +43,6 @@ graph TD;
 <figcaption>Organisatiestructuur</figcaption>
 </figure>
 
-
 Het bestuur geeft opdracht aan een (not-for-profit)
 uitvoeringsorganisatie die verantwoordelijk is voor een groot deel van
 de beheertaken. Het bestuur verenigt de behoeften in dezen van zijn
@@ -233,7 +232,25 @@ figuur](#fig-beleggen-van-ontwikkeltaken) noemt hier (andere)
 standaardisatieorganisaties, research-organisaties en
 brancheorganisaties.
 
-![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
+<figure id="beleggen beheertaken">
+
+```mermaid
+graph TD;
+  beheer(Beheer- en ontwikkeltaken);
+  subgraph not-for-profit;
+    standaard(Standaardisatie<br>organisaties);
+    research(Research<br>organisaties);
+    branch(Branch<br>organisaties);
+    eigen(Eigen<br>organisatie);
+  end;
+  subgraph for-profit;
+    commercieel(Commercieele<br>dienstverleners);
+  end;
+  beheer-- kunnen belegd worden bij -->not-for-profit;
+  beheer-- kunnen belegd worden bij -->for-profit;
+```
+  <figcaption>Beleggen van beheer- en ontwikkeltaken</figcaption>
+</figure>
 
 Het model maakt onderscheid tussen not-for-profit en profit
 organisaties. Dit onderscheid is relevant in het kader van openheid
