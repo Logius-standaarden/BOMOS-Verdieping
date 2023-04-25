@@ -66,6 +66,20 @@ vastgesteld worden en uitgebracht worden als nieuwe versie. De
 besluitvorming, wie (bestuur/werkgroep) bepaalt wat, moet helder
 geregeld zijn.
 
+<aside class="example" title="Informatiemodel Externe Veiligheid"> 
+Het Informatiemodel Externe Veiligheidsrisico's (IMEV) bevat afspraken over 
+de digitale structuur waarin overheden gegevens vastleggen over de opslag, 
+het transport en het gebruik van gevaarlijke stoffen. Al deze gegevens komen 
+bij elkaar in het Register Externe Veiligheidsrisico's van het ministerie van 
+Infrastructuur en Waterstaat. Op kaarten is vervolgens te zien waar externe 
+veiligheidsrisico’s van toepassing zijn. Geonovum beheert sinds 2021 het IMEV 
+in opdracht van het ministerie van Infrastructuur en Waterstaat. Het nieuwe 
+BOMOS verdieping heeft Geonovum en de opdrachtgever geholpen bij het inzichtelijk 
+maken van de organisatiestructuur. De sinds eind 2022 ingestelde adviesgroep 
+werkt conform deze structuur en heeft begin 2022 de leidraad voor komende 
+wijzigingen van het IMEV, het wijzigingsprotocol, vastgesteld. 
+</aside>
+
 Bij voorkeur wordt onderscheid gemaakt tussen verschillende zwaartes
 van wijzigingen in standaarden, zodat de lichtste wijzigingen door de
 betreffende werkgroep of de uitvoeringsorganisatie zelf kunnen worden
@@ -462,8 +476,7 @@ proces.
 </aside>
 
 <p class="comment" style="color:red">
-<aside class="example">
-<b>Template voor beheerdocument en rekenmodel van Geonovum</b>
+<aside class="example" title="Template voor beheerdocument en rekenmodel van Geonovum">
 
 Om opdrachtgevers meer inzicht te geven in de activiteiten in het
 beheerproces van standaarden, heeft Geonovum een generiek
