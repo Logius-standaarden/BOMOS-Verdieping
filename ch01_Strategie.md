@@ -343,6 +343,23 @@ domein standaardisatie organisatie worden opgepakt en andere taken
 door ander type organisaties, conform de beschrijving in deze
 paragraaf over het uitbesteden van taken.
 
+<aside class="example" title="Edustandaard">"
+Edustandaard is een platform waar alle publieke en private partijen binnen het onderwijsveld bij elkaar komen om afspraken te maken. Deze afspraken gaan bijvoorbeeld over het vindbaar maken van digitaal leermateriaal, of over het overbrengen van leerlinggegevens van het ene systeem naar het andere. Edustandaard ondersteunt publieke en private ketenpartijen in het onderwijs met standaarden en referentiearchitecturen om de informatiestromen in de onderwijsketens zo effectief mogelijk in te richten. Edustandaard beheert diverse standaarden en biedt overzicht en inzicht in de werking van (keten)processen. Ook wordt advies gegeven aan ketenpartijen in alle onderwijssectoren, van primair tot hoger onderwijs. 
+
+Edustandaard Standaardisatieraad
+De Edustandaard Standaardisatieraad vormt het bestuurlijke orgaan waarin besluitvorming plaatsvindt over vraagstukken rondom de governance en in beheer name of uitfasering van standaarden (afspraken). De raad bestaat uit bestuurders van de publieke en private brancheorganisaties in het onderwijs (primair tot en met hoger onderwijs). Het initiatief tot het ontwikkelen van een nieuwe afspraak of aanpassen van een bestaande afspraak ligt in het algemeen in het toepassingsdomein, maar uiteraard kan ook overheidsbrede wetgeving hiertoe aanleiding geven. Daarnaast heeft hij een belangrijke rol in het erkennen en adopteren van de afspraken in het veld. De Standaardisatieraad wordt door de Architectuurraad geadviseerd over standaarden en hun onderlinge samenhang. Via www.edustandaard.nl wordt overzicht geboden van alle afspraken die in het onderwijs worden beheerd.
+Meer info: https://www.edustandaard.nl/standaardisatieraad/ 
+
+Edustandaard Architectuurraad
+De Edustandaard Architectuurraad vormt het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA Ketenreferentiearchitectuur. De Architectuurraad vormt tevens het inhoudelijke beheer over de ROSA en het bevordert samenhang tussen de referentiearchitecturen in het onderwijs. Middels het instrument ROSA-architectuurscan wordt in kaart gebracht hoe nieuwe standaarden (afspraken), voorzieningen en andere ketenuitwisselingen zich verhouden tot de referentiearchitectuur voor ketenuitwisselingen. ROSA vormt dus ook het kader (de meetlat) waarlangs nieuwe architecturale ontwikkelingen worden getoetst middel de ROSA-architectuurscan.
+Meer info: https://www.edustandaard.nl/architectuurraad/ 
+
+Edustandaard Expertgroepen
+Edustandaard is een netwerkorganisatie die samenwerkt met ketenpartijen in het onderwijs, zoals Kennisnet, SURF, het ministerie van OCW, de Dienst Uitvoering Onderwijs, onderwijsinstellingen, uitgevers en leveranciers van software voor het onderwijs. Die samenwerking krijgt gestalte door verschillende expertgroepen met elk een andere rol. Edustandaard volgt hierbij de globale organisatiestructuur van BOMOS. Er zijn vier soorten expertgroepen binnen Edustandaard: adviesorgaan, bestuur, uitvoeringsorganisatie en werkgroep.
+In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang). Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
+Meer info: https://www.edustandaard.nl/standaard_werkgroepen/ 
+</aside>
+
 ### De organisatievorm
 
 Of het nu slechts een deel van de taken of alle taken door de nieuwe
