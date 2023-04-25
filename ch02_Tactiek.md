@@ -595,6 +595,22 @@ de Linked Data standaarden aan de open standaarden criteria, en een
 aantal zijn dan ook opgenomen op de pas-toe of leg-uit lijst van de
 Nederlandse Overheid.
 
+<aside class="example" title="Floricode en de uitzendbranche">
+Bij Floricode zien we door de jaren heen verschuivingen in aandacht 
+op basis van architectuurkeuzes. Zo is de aandacht van traditionele 
+berichten(uitwisseling) standaardisatie verschoven richting masterdata 
+voor sierteelt. 
+
+Eenzelfde ontwikkeling zien we ook in de uitzendbranche. Van oudsher biedt 
+de SETU gestandaardiseerde berichtspecificaties voor veelgebruikte en 
+generieke integratievraagstukken, zoals de Plaatsing, het Urenbriefje en de 
+Factuur. Om digitale integratie-uitdagingen op een moderne, flexibele en 
+kostenefficiënte manier op te blijven lossen, richt de SETU zich steeds meer 
+op het bieden van een gemeenschappelijke taal (ontologie). Deze SETU-taal is 
+opgebouwd uit concepten en relaties met bijbehorende terminologie en definities. 
+Deze concepten en relaties worden als bouwblokken gebruikt op bericht- en API 
+specificaties op te stellen in verschillende formaten. 
+</aside>
 
 ## Stimuleren van het gebruik van standaarden (Activiteit Adoptie & Erkenning)
 
