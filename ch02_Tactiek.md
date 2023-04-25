@@ -1276,7 +1276,7 @@ in het vakgebied. Bronhouders kunnen de basiskwaliteit van een
 rioleringsbestand controleren ten opzichte van in het 
 Gegevenswoordenboek Stedelijk Water vastgelegde conformiteitsklassen 
 (elke toepassing heeft eigen eisen). De generieke applicatie Nulmeting 
-is vrij beschikbaar op de GWSW-server (Https://apps.gwsw.nl). Aangezien 
+is vrij beschikbaar op de [GWSW-server](https://apps.gwsw.nl). Aangezien 
 rioleringsgegevens conform de GWSW-standaard in RDF (linked data) 
 uitgedrukt zijn, vindt de kwaliteitsmeting plaats met behulp van SHACL 
 (Shapes Constraint Language).
