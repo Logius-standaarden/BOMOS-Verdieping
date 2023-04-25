@@ -355,11 +355,18 @@ de hand liggen, te weten:
   wel donateurs hebben, maar die hebben geen zeggenschap. Een
   stichting kan ook vrijwilligers hebben.
 
-<aside class="example">
-_Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: 
-ophalen tijdens review._ Geonovum, Stichting Kwaliteitsborging Bodembeheer 
-(SIKB) en stichting RIONED zijn voorbeelden van stichtingen die (onder meer) 
-standaarden beheren.
+<aside class="example" title="Stichting RIONED">
+De standaard Gegevenswoordenboek Stedelijk Water wordt verder ontwikkeld, 
+maar is ook in beheer en wordt operationeel gebruikt. Transparantie en 
+kwaliteit in beheer zijn hierbij cruciaal voor de continuïteit en kwaliteit 
+van en het draagvlak voor de standaard. Stichting RIONED committeert zich 
+aan een zorgvuldig en transparant beheerproces met heldere procedures en een 
+duidelijke organisatie. Zodat leveranciers en gebruikers met vertrouwen de 
+standaard kunnen implementeren en gebruiken. De beheerprocedures en -organisatie 
+zijn gebaseerd op de BOMOS-standaard en kennen een programmerende lijn, een 
+uitvoerende lijn en een vaststellende lijn. Net als bij andere activiteiten van 
+Stichting RIONED geldt dat belanghebbenden desgewenst op allerlei manieren mogen 
+meedenken en meebeslissen.
 </aside>
 
 **De vereniging:** Een vereniging is een rechtspersoon voor de
@@ -421,9 +428,7 @@ vrijblijvendheid van de deelnemers in standaarden is zeker een serieus
 aandachtspunt in het kader van een duurzaam toegepaste standaard.
 
 <p class="comment" style="color:red">
-<aside class="example">
-<b>Het CCvD Datastandaarden</b>
-
+<aside class="example" title="Het CCvD Datastandaarden">
 Besluitvorming over wijzigingen op een standaard of over de strategie 
 voor een standaard zal over het algemeen bij de beheerorganisatie liggen. 
 Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan 
