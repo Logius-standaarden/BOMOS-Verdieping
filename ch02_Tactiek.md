@@ -1269,6 +1269,19 @@ dergelijks. Nu JSON dominant als uitwisselingsformaat defacto
 standaard is geworden kan validatie plaatsvinden door middel van SHACL
 validatiergels.
 
+<aside class="example" title="Validatie van GWSW">
+De kwaliteit van gemeentelijke data op het gebied van stedelijk water 
+en de daarvoor benodigde infrastructuur is een belangrijk aandachtpunt 
+in het vakgebied. Bronhouders kunnen de basiskwaliteit van een 
+rioleringsbestand controleren ten opzichte van in het 
+Gegevenswoordenboek Stedelijk Water vastgelegde conformiteitsklassen 
+(elke toepassing heeft eigen eisen). De generieke applicatie Nulmeting 
+is vrij beschikbaar op de GWSW-server (Https://apps.gwsw.nl). Aangezien 
+rioleringsgegevens conform de GWSW-standaard in RDF (linked data) 
+uitgedrukt zijn, vindt de kwaliteitsmeting plaats met behulp van SHACL 
+(Shapes Constraint Language).
+</aside>
+
 Daarnaast is verschil in harde (onbetwistbare en betekenisvol op het
 gebied van interoperabiliteit) toetsing en zachte toetsing
 (betwistbaar of betekenisloos op het gebied van interoperabiliteit.)
