@@ -899,9 +899,10 @@ impact hebben op de kwaliteit; op zijn minst zal de kwaliteit daardoor
 sterk verschillen per semantische standaard.
 
 <aside class="example">
-Floricode heeft dit kwaliteitsinstrument toegepast om 1 van hun standaarden 
-in de praktijk naar een hoger kwalitatief niveau te brengen. Het leverde een 
-uitgebreide analyse op, waarvan 4 pagina’s aan verbetersuggesties. 
+[Floricode](https://www.floricode.com/) heeft dit kwaliteitsinstrument 
+toegepast om 1 van hun standaarden in de praktijk naar een hoger 
+kwalitatief niveau te brengen. Het leverde een uitgebreide analyse op, 
+waarvan 4 pagina’s aan verbetersuggesties. 
 Sommige daarvan zijn strategischer van aard (bv. het transformeren van 
 Floricode (voor deze standaard) van een loket voor technische oplossingen 
 naar een bureau voor informatieoplossingen, gedreven door partijen in de 
