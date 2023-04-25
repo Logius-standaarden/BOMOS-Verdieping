@@ -413,6 +413,14 @@ en horizontale standaarden, en daarnaast worden ook andere
 (bv. technische) standaarden vaak samen toegevoegd om een totaal
 oplossing te bieden voor interoperabiliteit.
 
+<aside class="example" title="Metamodel voor Informatiemodellering">
+Om alle informatiemodellen in Nederland nog beter op elkaar aan te 
+laten sluiten is een metamodel ontwikkeld voor informatiemodellering 
+(MIM). Hierin komt de modelleringskennis van onder meer Geonovum, 
+Kadaster en VNG Realisatie samen. Met deze standaard wordt interoperabiliteit 
+tussen andere standaarden bevordert. 
+</aside>
+
 ### Sector overstijgende interoperabiliteit: Verzuiling
 
 Door de sector-specifieke aanpak van de semantische standaarden
@@ -898,7 +906,7 @@ ontwikkeld, en niet binnen grote standaardisatieorganisaties. Dit kan
 impact hebben op de kwaliteit; op zijn minst zal de kwaliteit daardoor
 sterk verschillen per semantische standaard.
 
-<aside class="example">
+<aside class="example" title="Floricode">
 [Floricode](https://www.floricode.com/) heeft dit kwaliteitsinstrument 
 toegepast om 1 van hun standaarden in de praktijk naar een hoger 
 kwalitatief niveau te brengen. Het leverde een uitgebreide analyse op, 
