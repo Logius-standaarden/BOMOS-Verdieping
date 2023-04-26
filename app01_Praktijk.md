@@ -17,12 +17,27 @@ Edustandaard is een netwerkorganisatie die samenwerkt met ketenpartijen in het o
 In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang). Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
 Meer info: https://www.edustandaard.nl/standaard_werkgroepen/ 
 
-## Logius en het GDI proces
+### Logius en het GDI proces
 
 Logius heeft de governance van het beheer van haar standaarden aangesloten op de 
 governance van de Generieke Data Infrastructuur (GDI) van de Nederlandse overheid.
 
-## Tools
+#### De Programmeringsraad GDI
+
+#### Programmeringstafels
+
+#### Het Technische Overleg
+
+Het Technisch Overleg is het operationele overleg van de Logius standaarden. De Technische Overleggen vallen 
+niet binnen de GDI overlegstructuur.
+
+## Gereedschap
+
+Voor de implementatie en ondersteuning van het beheerproces is (digitale) gereedschap 
+nodig. Wijzigingsvoorstellen moeten kunnen worden ingediend (bijvoorbeeld online)
+en gedocumenteerd. Documentatie moet (open) worden gepubliceerd, vragen en verzoeken 
+van stakeholders moeten behandeld en beantwoord en agenda's voor overleggen moeten 
+worden opgesteld. 
 
 ### Documentatie (en Publicatie) met Git en Respec
 
