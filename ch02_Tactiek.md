@@ -394,12 +394,13 @@ voor internationale standaarden. Wanneer tijdens de adoptiefase geen passende
 internationale standaard beschikbaar is kan een nationale standaard de enige 
 optie zijn. Maar dat kan veranderen. Een voorbeeld is de Digikoppeling standaard. 
 Digikoppeling omvat een koppelvlakspecificatie met hetzelfde doel en toepassing 
-als het Europese eDelivery. In het kader van standaardenbeheer zou ervoor gekozen 
-moeten worden de nationale standaard uit te faseren ten guncte van een meer 
-recente  internationale standaard. Ook hier zal een nationaal profiel op de 
-internationale standaard nuttig zijn. Voor de beheerorganisatie resulteert dit
-in een andere rol. De beheerorganisatie vertegenwoordigt de Nederlandse stakeholders 
-indien nodig in het beheer van de internaionale standaard.
+als het Europese eDelivery wat later vastgesteld is. In het kader van 
+standaardenbeheer zou ervoor gekozen moeten worden de nationale standaard uit 
+te faseren ten guncte van een meer recente  internationale standaard. 
+Ook hier zal een nationaal profiel op de internationale standaard nuttig zijn. 
+Voor de beheerorganisatie resulteert dit in een andere rol. De beheerorganisatie 
+vertegenwoordigt de Nederlandse stakeholders indien nodig in het beheer van de 
+internationale standaard.
 
 Belangrijk aandachtspunt bij internationale standaarden is dat in een situatie van
 bijvoorbeeld een internationale verticale standaard in combinatie met
