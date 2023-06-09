@@ -6,32 +6,91 @@
 
 #### Edustandaard Standaardisatieraad
 De Edustandaard Standaardisatieraad vormt het bestuurlijke orgaan waarin besluitvorming plaatsvindt over vraagstukken rondom de governance en in beheer name of uitfasering van standaarden (afspraken). De raad bestaat uit bestuurders van de publieke en private brancheorganisaties in het onderwijs (primair tot en met hoger onderwijs). Het initiatief tot het ontwikkelen van een nieuwe afspraak of aanpassen van een bestaande afspraak ligt in het algemeen in het toepassingsdomein, maar uiteraard kan ook overheidsbrede wetgeving hiertoe aanleiding geven. Daarnaast heeft hij een belangrijke rol in het erkennen en adopteren van de afspraken in het veld. De Standaardisatieraad wordt door de Architectuurraad geadviseerd over standaarden en hun onderlinge samenhang. Via www.edustandaard.nl wordt overzicht geboden van alle afspraken die in het onderwijs worden beheerd.
-Meer info: https://www.edustandaard.nl/standaardisatieraad/ 
+
+Meer info: [Standaardisatieraad](https://www.edustandaard.nl/standaardisatieraad/)
 
 #### Edustandaard Architectuurraad
 De Edustandaard Architectuurraad vormt het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA Ketenreferentiearchitectuur. De Architectuurraad vormt tevens het inhoudelijke beheer over de ROSA en het bevordert samenhang tussen de referentiearchitecturen in het onderwijs. Middels het instrument ROSA-architectuurscan wordt in kaart gebracht hoe nieuwe standaarden (afspraken), voorzieningen en andere ketenuitwisselingen zich verhouden tot de referentiearchitectuur voor ketenuitwisselingen. ROSA vormt dus ook het kader (de meetlat) waarlangs nieuwe architecturale ontwikkelingen worden getoetst middel de ROSA-architectuurscan.
-Meer info: https://www.edustandaard.nl/architectuurraad/ 
+
+Meer info: [Architectuurraad](https://www.edustandaard.nl/architectuurraad/)
 
 #### Edustandaard Expertgroepen
 Edustandaard is een netwerkorganisatie die samenwerkt met ketenpartijen in het onderwijs, zoals Kennisnet, SURF, het ministerie van OCW, de Dienst Uitvoering Onderwijs, onderwijsinstellingen, uitgevers en leveranciers van software voor het onderwijs. Die samenwerking krijgt gestalte door verschillende expertgroepen met elk een andere rol. Edustandaard volgt hierbij de globale organisatiestructuur van BOMOS. Er zijn vier soorten expertgroepen binnen Edustandaard: adviesorgaan, bestuur, uitvoeringsorganisatie en werkgroep.
-In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang). Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
-Meer info: https://www.edustandaard.nl/standaard_werkgroepen/ 
 
-### Logius en het GDI proces
+In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang). Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
+
+Meer info: [Werkgroepen](https://www.edustandaard.nl/standaard_werkgroepen/)
+
+### Logius standaarden governance
 
 Logius heeft de governance van het beheer van haar standaarden aangesloten op de 
 governance van de Generieke Data Infrastructuur (GDI) van de Nederlandse overheid.
 
 #### De Programmeringsraad GDI
 
+In de MIDO structuur heeft de Programmeringsraad GDI een rol in het strategisch 
+beheer van standaarden.
+
+Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
+adviezen van het technisch overleg, het tactisch overleg en het advies van de
+beheerorganisatie. Daarnaast keurt het strategisch overleg de door de 
+stakeholders voorgestelde richting goed die aan de beheerorganisatie voorgelegd
+wordt. Bijvoorbeeld een voorstel tot ingrijpende wijziging zoals het overgaan
+naar een nieuwe (onderliggende) standaard kan in het strategisch overleg
+goedgekeurd worden.
+
+De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
+een vast te stellen nieuwe versie.
+
 #### Programmeringstafels
+
+Dit overleg is verantwoordelijk voor het vaststellen van de
+doorontwikkel-roadmap, het vaststellen van major/minor releases van de
+standaard en dient als het voorportaal van het
+strategisch/besluitvormende gremium: de Programmeringsraad GDI.
+
+Binnen de MIDO structuur hebben de Programmeringstafels de rol van tactisch overleg. 
+Afhankelijk van het thema is die de Programmeringstafel Gegevensuitwisseling,
+Infrastructuur of Interactie.
+[Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
+die deel kan uitmaken van de agenda van het overleg.
 
 #### Het Technische Overleg
 
-Het Technisch Overleg is het operationele overleg van de Logius standaarden. De Technische Overleggen vallen 
-niet binnen de GDI overlegstructuur.
+Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de
+vragen en doorontwikkelwensen m.b.t. de standaard worden doorgenomen,
+geprioriteerd en worden uitgewerkt. Daarnaast wordt door de leden de
+releaseplanning en de roadmap opgesteld. Deelname aan het Technisch Overleg
+is vrij voor eenieder die een belang heeft bij de standaard
+(overheid, wetenschap en markt).
 
-## Gereedschap
+De agenda en stukken van het Technisch overleg zijn openbaar. De Technische Overleggen vallen niet binnen de GDI overlegstructuur maar maken wel deel uit van de governance 
+van de standaarden.
+
+## Architectuur
+
+#### Architectuur bij EduStandaard
+
+ROSA is de referentiearchitectuur voor ketenuitwisselingen in het primair tot aan hoger onderwijs. De ROSA valt bestuurlijk onder de verantwoordelijkheid van de Edustandaard Standaardisatieraad, inhoudelijk wordt ze beheerd door de Architectuurraad van Edustandaard.
+Architectuur ondersteunt bij de vertaling van visie naar inrichting. Het is een krachtig instrument, dat kaders biedt aan alle actoren in de sector. Het helpt schoolbesturen vanuit onderwijsambities hun behoeften te formuleren en biedt leveranciers structuur bij het ontwikkelen en leveren van diensten en voorzieningen. De gemeenschappelijke taal van de architectuur helpt om elkaar te begrijpen, gebaseerd op principes (uitgangspunten) op meerdere niveaus. Die principes staan voor waarden, die je wilt borgen. Het gaat daarbij om samenhang en balans tussen de verschillende behoeften van de diverse belanghebbenden in de sector zoals leerlingen, studenten, docenten, instellingen en sectorpartners.
+ROSA heeft tot doel: Bevorderen van ketensamenwerking ten aanzien van de informatievoorziening in het onderwijs in alle sectoren en op (onderwijs)sectoroverstijgende aspecten van informatievoorziening. 
+
+Meer info: [Ketenreferentie-architectuur ROSA](https://www.edustandaard.nl/rosa/)
+
+#### AMIGO-aanpak
+
+AMIGO staat voor Aanpak voor Modulair opgebouwde Interacties en Gegevensstructuren in het Onderwijs. De aanpak is bedoeld voor leveranciers van digitale diensten in het onderwijs: of ze nu publiek of privaat zijn. Zij kunnen met behulp van de AMIGO-aanpak stapsgewijs breed toepasbare afspraken maken over gegevensuitwisselingen in het onderwijs. Bijvoorbeeld afspraken over de gegevensuitwisseling tussen een leerlingadministratie en een toetssysteem rondom de eindtoetsen in het primair onderwijs. In die afspraken staat alle informatie die de betrokken dienstverleners nodig hebben om hun deel van een gegevensuitwisseling te realiseren. De AMIGO-aanpak valt onder de verantwoordelijkheid van de Standaardisatieraad van Edustandaard; adviseurs vanuit Kennisnet begeleiden bij het doorlopen van de stappen.
+
+Meer info: [AMIGO-aanpak: Stapsgewijs afspraken maken over gegevensuitwisseling in het onderwijs](https://www.edustandaard.nl/amigo/)
+
+
+#### ROSA-architectuurscan als input voor dialoog
+
+In de Standaardisatieraad is afgesproken dat elke grote vernieuwing of wijziging in een ketenvoorziening (ICT-systeem) of in een ketenafspraak wordt voorzien van een ROSA-architectuurscan. Op basis van deze architectuurscan, geeft de Architectuurraad in een vruchtbare dialoog advies aan de betreffende organisatie(s). Met de scan wordt de compliancy ten opzichte van de ROSA in beeld gebracht, en inzicht verkregen waarom er wordt afgeweken (t.b.v. Het leerproces van de ketens). Tevens draagt dit bij aan een gelijke informatiepositie van de ketenpartijen. Per jaar worden ca. 6 ROSA-scans uitgevoerd. Door deze werkwijze heeft de Architectuurraad een behoorlijk overzicht wat er aan vernieuwing in de onderwijsketens plaatsvindt. Met behulp van de ROSA-scan is Edustandaard in staat vroegtijdig de impact te bepalen van aanpassingen in de keten.
+
+Meer info: [Aanvragen van een ROSA-scan](https://www.edustandaard.nl/rosa/rosa-architectuurscan/)
+
+## Operationeel: Gereedschap voor standaardenbeheer
 
 Voor de implementatie en ondersteuning van het beheerproces is (digitale) gereedschap 
 nodig. Wijzigingsvoorstellen moeten kunnen worden ingediend (bijvoorbeeld online)

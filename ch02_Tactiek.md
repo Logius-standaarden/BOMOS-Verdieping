@@ -1393,12 +1393,12 @@ worden om interoperabiliteit in de keten te testen.
 De meeste beheerorganisaties bieden hulpmiddelen voor het valideren van het gebruik van standaarden, zoals:
 
 * Geonovum:  
-  [http://validatie.geostandaarden.nl](http://validatie.geostandaarden.nl/)
+  [Validatie services van Geonovum](http://validatie.geostandaarden.nl/)
 
 * Kennisnet:  
-  [https://testvoorziening.edustandaard.nl/](https://testvoorziening.edustandaard.nl/)
+  [Edustandaard Testvoorziening](https://testvoorziening.edustandaard.nl/)
 * SETU:  
-  [https://setu.semantic-treehouse.nl/#/ext/eValidator](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
+  [SETU Support tool](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
 (alleen toegankelijk voor deelnemers in SETU).
 
 Overigens is de techniek die validatie van semantische standaarden mogelijk maakt zeer generiek.

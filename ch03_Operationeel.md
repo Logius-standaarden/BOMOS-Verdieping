@@ -125,9 +125,14 @@ Een belangrijke eerste graadmeter is het reviewproces; Mocht tijdens het reviewp
 
 De leerpunten:
 Belangrijke leerpunten zijn:
-* Een pressure cooker is een prima middel om efficiënt een standaard te ontwikkelen. De kwaliteit moet zich nog bewijzen, maar de indruk is ontstaan dat de werkgroep bepalend is in de kwaliteit van de standaard.
-* Duidelijke scope; wat in standaardisatie-kringen bekend staat als “scope-creep” (verschuivende scope)  ligt sterker op de loer in een pressure cooker.
-* Niet te lang en te veel willen: Meer ervaringen zijn nodig om het optimum aan lengte en inhoud te kunnen bepalen, maar er is zeker sprake dat er een optimum is; op een gegeven moment is de magie uitgewerkt.
+- Een pressure cooker is een prima middel om efficiënt een standaard te ontwikkelen. 
+  De kwaliteit moet zich nog bewijzen, maar de indruk is ontstaan dat de werkgroep bepalend 
+  is in de kwaliteit van de standaard.
+- Duidelijke scope; wat in standaardisatie-kringen bekend staat als “scope-creep” 
+  (verschuivende scope)  ligt sterker op de loer in een pressure cooker.
+- Niet te lang en te veel willen: Meer ervaringen zijn nodig om het optimum aan lengte 
+  en inhoud te kunnen bepalen, maar er is zeker sprake dat er een optimum is; op een 
+  gegeven moment is de magie uitgewerkt.
 
 Het gebruik van de pressure cooker wordt in standaardisatie-land nog niet veel gebruikt, hoewel het idee wel afkomstig is van internationale standaardisatie-bijeenkomsten waarin de werkgroepleden zich ook soms ook een aantal dagen buigen over een standaard. Met een ‘pressure cooker’ kan hiermee de lengte van het standaardisatie-proces flink worden bekort. Daarnaast kan de ontwikkeling van standaarden hierdoor ook efficiënter – en dus: goedkoper - worden, en dat is natuurlijk mooi meegenomen.
 
