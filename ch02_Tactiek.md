@@ -337,6 +337,25 @@ om standaarden te maken, denk bijvoorbeeld aan de standaard UML, als
 taal om diagrammen te tekenen die bijvoorbeeld het proces en
 data-model van een standaard bevatten.
 
+### Life cycle van gelaagde standaarden
+
+Uit het toepassen van gelaagde familie van standaarden volgt een noodzaak 
+om actief te sturen op het toepassen van _actueele_ standaarden. Dit kan
+uitdagingen opleveren. Wanneer een onderliggende standaard overgaat
+naar een nieuwe versie kan het nodig zijn de bovenliggende standaard aan
+te passen op de onderliggende standaard.
+
+Zo is het van belang de een onderliggende standaard in _actief beheer_ beheer is.
+Alleen wanneer de gebruikte standaard beheerd wordt kunnen wijzigingsverzoeken 
+in behandeling genomen worden en kunnen eventueele fouten in die standaard
+gecorrigeerd worden. Wanneer een gelaagde standaard gebruikt maakt van een
+onderliggende standaard die _niet_ meer in beheer is zijn de mogelijkheiden om
+de standaard bij te werken beperkt. 
+
+Het is dus raadzaam om in het beheer van een (gelaagde) standaard de ontwikkelingen
+in de onderliggende standaard(en) actief te volgen om over te kunnen gaan naar 
+een nieuwe versie.
+
 ### De relatie met internationale standaarden
 
 Semantische standaarden kennen een ongekende complexiteit in
