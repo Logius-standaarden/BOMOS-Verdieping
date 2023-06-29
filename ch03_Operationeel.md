@@ -107,7 +107,7 @@ Het is van belang dit in het wijzigingsproces te onderkennen. Drie aspecten zijn
 *   Bij wijzigingen van de internationale/onderliggende standaard moet worden bepaald of dit impact heeft op eigen standaard.
 *   Er moet vastgelegd worden of en zo ja welke relatie er is tussen het releaseschema en versienummer van de eigen standaard en de onderliggende standaard.
 
-In een ander deel wordt dieper ingegaan op de relatie met andere standaarden.
+In sectie 3.2 Architectuur, wordt dieper ingegaan op de relatie met andere standaarden.
 
 ## Voorbeelden uit de operationele praktijk
 
