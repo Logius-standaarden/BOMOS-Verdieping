@@ -505,7 +505,7 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een [BOMOS rekenmodel](_HIER_LINK_NAAR_HET_REKENMODEL) ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](https://www.geonovum.nl/over-geonovum/actueel/transparantie-in-ontwikkeling-en-beheer-standaarden) ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
