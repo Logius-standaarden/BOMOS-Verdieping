@@ -348,6 +348,18 @@ we naar semantische standaarden kijken, gaat het echter nog een stap
 verder aangezien die grotendeels door een eigen organisatie ontwikkeld
 worden.
 
+<aside class="example" title="Semantische internationale harmonisatie van Aquo">
+   Voor het beheer van de Noordzee zijn internationaal uitwisselbare gegevens 
+   over zeewater noodzakelijk. De Aquo-standaard was alleen geschikt voor 
+   het Nederlands continentaal plat. Dat is maar een stukje van de Noordzee. 
+   Maar om (beleids-) vraagstukken over de hele Noordzee aan te pakken, moet 
+   Nederlandse beheerders data uitwisselen met bijvoorbeeld Engelse databeheerders. 
+   Daarvoor is een internationale standaard nodig. In de 1e fase zijn is het 
+   Informatiehuis Water met een consortium van relevante partijen een woordenboek 
+   aan het samenstellen. Dat is een tabel met enerzijds de Nederlandse Aquo-term 
+   en anderzijds de Engelse SeaDataNet/EMODnet-term.
+</aside>
+
 De praktijk laat zien dat alleen een onderscheid tussen horizontale en
 verticale standaarden te beperkt is. Internationale verticale
 standaarden hebben vaak nog een specifieke invulling nodig om
@@ -377,6 +389,16 @@ voor een bepaald toepassingsdomein moeten voorkomen. In de praktijk
 kan elke willekeurige combinatie voorkomen, afhankelijk van de
 situatie.
 
+<aside class="example" title="OGC Observations & measurements als basis voor IM Metingen">
+   IM Metingen is een standaard die door de bodembeheerders en waterbeheerders gezamenlijk 
+   is opgesteld om gegevensuitwisseling over de verschillende vakgebieden heen mogelijk te 
+   maken. Maar er is bij het ontwerp al rekening gehouden met internationale gegevensuitwisseling. 
+   IM Metingen is gebaseerd op de internationale standaard OpenGIS® Observations and Measurements 
+   (O&M). Observations and Measurements is een standaard voor het beschrijven van observaties en 
+   metingen. Deze observaties en metingen zijn weer gekoppeld aan een locatie. Met O&M is het 
+   mogelijk om observaties en metingen in een internationaal model te modelleren en uit te wisselen.
+</aside>
+
 Tijdens de adoptiefase is nog wel eens een gehoorde opmerking dat men
 alleen de internationale standaard wil adopteren in plaats van de
 nationale. De argumentatie is meestal dat men wereldwijd zaken doet,
@@ -396,6 +418,13 @@ gehanteerd om verwarring in de praktijk voorkomen.
 
 ### Voorbeelden van gelaagdheid van standaarden
 
+Tot slot, ook binnen de standaarden zelf kan weer gelaagdheid
+ontstaan, op verschillende manieren. Tussen verticalen sector modellen
+en horizontale standaarden, en daarnaast worden ook andere
+(bv. technische) standaarden vaak samen toegevoegd om een totaal
+oplossing te bieden voor interoperabiliteit.
+
+<aside class="example" title="XBRL">
 XBRL is een voorbeeld van een internationale verticale standaard (in
 de financiële sector) waarvoor nationale taxonomieën zijn opgesteld,
 bijvoorbeeld de US GAAP of in Nederland door het SBR programma.
@@ -406,12 +435,15 @@ vervolgens zelf een factuurmodel ontwikkeld om de vrijheidsgraden te
 beperken. Dus ook hier is er sprake van een nationaal
 toepassingsprofiel om uiteindelijk interoperabiliteit te kunnen
 bereiken.
+</aside>
 
-Tot slot, ook binnen de standaarden zelf kan weer gelaagdheid
-ontstaan, op verschillende manieren. Tussen verticalen sector modellen
-en horizontale standaarden, en daarnaast worden ook andere
-(bv. technische) standaarden vaak samen toegevoegd om een totaal
-oplossing te bieden voor interoperabiliteit.
+<aside class="example" title="Metamodel voor Informatiemodellering">
+Om alle informatiemodellen in Nederland nog beter op elkaar aan te 
+laten sluiten is een metamodel ontwikkeld voor informatiemodellering 
+(MIM). Hierin komt de modelleringskennis van onder meer Geonovum, 
+Kadaster en VNG Realisatie samen. Met deze standaard wordt interoperabiliteit 
+tussen andere standaarden bevordert. 
+</aside>
 
 ### Sector overstijgende interoperabiliteit: Verzuiling
 
@@ -587,6 +619,22 @@ de Linked Data standaarden aan de open standaarden criteria, en een
 aantal zijn dan ook opgenomen op de pas-toe of leg-uit lijst van de
 Nederlandse Overheid.
 
+<aside class="example" title="Floricode en de uitzendbranche">
+Bij Floricode zien we door de jaren heen verschuivingen in aandacht 
+op basis van architectuurkeuzes. Zo is de aandacht van traditionele 
+berichten(uitwisseling) standaardisatie verschoven richting masterdata 
+voor sierteelt. 
+
+Eenzelfde ontwikkeling zien we ook in de uitzendbranche. Van oudsher biedt 
+de SETU gestandaardiseerde berichtspecificaties voor veelgebruikte en 
+generieke integratievraagstukken, zoals de Plaatsing, het Urenbriefje en de 
+Factuur. Om digitale integratie-uitdagingen op een moderne, flexibele en 
+kostenefficiënte manier op te blijven lossen, richt de SETU zich steeds meer 
+op het bieden van een gemeenschappelijke taal (ontologie). Deze SETU-taal is 
+opgebouwd uit concepten en relaties met bijbehorende terminologie en definities. 
+Deze concepten en relaties worden als bouwblokken gebruikt op bericht- en API 
+specificaties op te stellen in verschillende formaten. 
+</aside>
 
 ## Stimuleren van het gebruik van standaarden (Activiteit Adoptie & Erkenning)
 
@@ -897,6 +945,20 @@ Semantische standaarden worden meestal door eigen organisaties
 ontwikkeld, en niet binnen grote standaardisatieorganisaties. Dit kan
 impact hebben op de kwaliteit; op zijn minst zal de kwaliteit daardoor
 sterk verschillen per semantische standaard.
+
+<aside class="example" title="Floricode">
+[Floricode](https://www.floricode.com/) heeft dit kwaliteitsinstrument 
+toegepast om 1 van hun standaarden in de praktijk naar een hoger 
+kwalitatief niveau te brengen. Het leverde een uitgebreide analyse op, 
+waarvan 4 pagina’s aan verbetersuggesties. 
+Sommige daarvan zijn strategischer van aard (bv. het transformeren van 
+Floricode (voor deze standaard) van een loket voor technische oplossingen 
+naar een bureau voor informatieoplossingen, gedreven door partijen in de 
+sierteeltketen). Tot aan hele praktische en concrete verbeteringen, bijvoorbeeld 
+voor de testomgeving (Maak checks in de test omgeving heel specifiek, geef duidelijk 
+aan welke tests worden uitgevoerd en hoe de resultaten van het test center moeten 
+worden geïnterpreteerd.) Al met al een waardevolle exercitie.
+</aside>
 
 #### Wat vinden de standaardisatieorganisaties zelf van de kwaliteit?
 
@@ -1393,6 +1455,19 @@ dergelijks. Nu JSON dominant als uitwisselingsformaat defacto
 standaard is geworden kan validatie plaatsvinden door middel van SHACL
 validatiergels.
 
+<aside class="example" title="Validatie van GWSW">
+De kwaliteit van gemeentelijke data op het gebied van stedelijk water 
+en de daarvoor benodigde infrastructuur is een belangrijk aandachtpunt 
+in het vakgebied. Bronhouders kunnen de basiskwaliteit van een 
+rioleringsbestand controleren ten opzichte van in het 
+Gegevenswoordenboek Stedelijk Water vastgelegde conformiteitsklassen 
+(elke toepassing heeft eigen eisen). De generieke applicatie Nulmeting 
+is vrij beschikbaar op de [GWSW-server](https://apps.gwsw.nl). Aangezien 
+rioleringsgegevens conform de GWSW-standaard in RDF (linked data) 
+uitgedrukt zijn, vindt de kwaliteitsmeting plaats met behulp van SHACL 
+(Shapes Constraint Language).
+</aside>
+
 Daarnaast is verschil in harde (onbetwistbare en betekenisvol op het
 gebied van interoperabiliteit) toetsing en zachte toetsing
 (betwistbaar of betekenisloos op het gebied van interoperabiliteit.)
@@ -1488,12 +1563,12 @@ worden om interoperabiliteit in de keten te testen.
 De meeste beheerorganisaties bieden hulpmiddelen voor het valideren van het gebruik van standaarden, zoals:
 
 * Geonovum:  
-  [http://validatie.geostandaarden.nl](http://validatie.geostandaarden.nl/)
+  [Validatie services van Geonovum](http://validatie.geostandaarden.nl/)
 
 * Kennisnet:  
-  [https://testvoorziening.edustandaard.nl/](https://testvoorziening.edustandaard.nl/)
+  [Edustandaard Testvoorziening](https://testvoorziening.edustandaard.nl/)
 * SETU:  
-  [https://setu.semantic-treehouse.nl/#/ext/eValidator](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
+  [SETU Support tool](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
 (alleen toegankelijk voor deelnemers in SETU).
 
 Overigens is de techniek die validatie van semantische standaarden mogelijk maakt zeer generiek.
