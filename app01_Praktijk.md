@@ -128,7 +128,7 @@ Zoals hierboven gezegd in
 kan _git_ gebruikt worden als een kanaal om gebruikers 
 wijzigingsvoorstellen in te laten dienen. Maar het kan ook goed 
 toegepast worden in de stappen daarna, tot en met besluitvorming toe. 
-Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
+Bij Logius wordt [github](https://www.github.com/) gebruikt in het hele 
 operationele proces. 
 
 Allereerst wordt alle documentatie gepubliceerd via github (zie [hierboven](#documentatie-en-publicatie-met-git-en-respec). Gebruikers 
