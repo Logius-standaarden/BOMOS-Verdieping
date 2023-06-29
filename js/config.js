@@ -31,8 +31,9 @@ var respecConfig = {
   previousMaturity: "DEF",
   previousPublishVersion: "2i",
   pubDomain: "bomos",
-  publishDate: "2022-06-07",
+  publishDate: "2023-06-29",
   publishVersion: "3.0.0",
+
   shortName: "verdieping",
   specStatus: "WV",
   specType: "HR"
