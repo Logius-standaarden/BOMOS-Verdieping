@@ -982,7 +982,7 @@ nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange
 tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er
 geen positieve business case voor de nieuwe/andere standaard is,
 zolang er geen interoperabiliteitsprobleem is. Eén van wereldwijd
-meest succesvolle standaard, [RosettaNet](https://en.wikipedia.org/wiki/RosettaNet),
+meest succesvolle standaard, [RosettaNet](https://www.gs1us.org/resources/rosettanet),
 illustreert dit ook: ondanks dat deze standaard al jaren een XML
 versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI
 versie, en lang een lage adoptie van de XML versie heeft gehad.
