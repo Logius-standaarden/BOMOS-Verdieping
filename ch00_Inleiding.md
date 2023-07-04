@@ -57,7 +57,7 @@ in [Deel 1](https://logius-standaarden.github.io/BOMOS-Fundament) en Deel 2
 beschreven. De aanvullende modules zijn wel duidelijk met BOMOS
 verbonden, maar hebben een eigen governance wat kan resulteren in een
 eigen naam, eigen doelgroep, eigen beheer, etc. In het
-[beheerproces van BOMOS](#het-beheer-en-ontwikkelmodel-onderwerpen-voor-ontwikkeling-en-beheer)
+[beheerproces van BOMOS](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/#het-beheer-en-ontwikkelmodel-onderwerpen-voor-ontwikkeling-en-beheer)
 wordt ook beschreven welke eisen er gesteld worden voordat
 iets opgenomen wordt als BOMOS aanvullende module.
 

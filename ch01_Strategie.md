@@ -355,7 +355,7 @@ diverse standaarden en biedt overzicht en inzicht in de werking van
 (keten)processen. Ook wordt advies gegeven aan ketenpartijen in alle 
 onderwijssectoren, van primair tot hoger onderwijs. 
 
-[De governance van de Edustandaard is beschreven in de bijlage](#Edustandaard-governance).
+[De governance van de Edustandaard is beschreven in de bijlage](#edustandaard-governance).
 </aside>
 
 ### De organisatievorm
@@ -568,7 +568,7 @@ Blind, K. (2004). The economics of standards; theory, evidence,
 policy):
 
 |  | Positive effects | Negative effects |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Compatability / interface | Network externalities | Monopoly |
 |  | Avoiding Lock-ins |  |
 |  | Increased variety of systems products |  |
@@ -591,7 +591,7 @@ Wel is het mogelijk om te kijken naar de mogelijke kostenposten en
 opbrengsten van het beheer van standaarden. De balans vat deze samen.
 
 | Debet | Credit |
-|  :--- |  :---  |
+|  --- |  ---  |
 | Ontwikkelkosten | Structureel begroting |
 | Beheerkosten | Projectfinanciering |
 | Communicatie | Lidmaatschapsgelden |
@@ -895,7 +895,7 @@ efficiënter gemaakt worden. Onderstaande tabel geeft als samenvatting
 een aantal suggesties weer om standaardisatie efficiënt in te vullen:
 
 | Onderdeel in standaardisatie proces: | Efficiënter te maken door: |
-| :--- | :--- |
+| --- | --- |
 | Formeren handvest | Een specifiek en gedetailleerd handvest wat strak bepaald wat in/uit scope van het standaardisatie initiatief is. |
 | Opzetten ontwikkel en beheerprocessen | Hergebruik van beschrijvingen (bv. gebruik van procedure document van andere standaardisatieorganisaties) |
 | Inrichting beheerorganisatie | Hergebruik van (validatie) tools, maar ook tools om standaarden te maken  |

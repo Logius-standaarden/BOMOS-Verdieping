@@ -27,7 +27,7 @@ standaard is verwerkt). Niet elk openheidsaspect is voor elke rol even
 interessant, zoals het model ook laat zien:
 
 |    |Eisen            | Ontwikkelaar | Implementator | Gebruiker |
-| :---: | :---         |     :---:    |     :---:     |   :---:   |
+| --- | ---         |     ---    |     ---     |   ---   |
 |  1 | Open meeting    |       X      |               |           |
 |  2 | Consensus       |       X      |               |           |
 |  3 | Due process     |       X      |               |           |
@@ -206,7 +206,7 @@ van Krechmer en is een hulpmiddel om de beheer-activiteiten op een
 open manier in te vullen.
 
 |       | Principe | Criteria |       | Variable | Toelichting | Score |
-| :---: |   :---   |   :---   | :---: |   :---   |    :---     | :---: |
+| --- |   ---   |   ---   | --- |   ---   |    ---     | --- |
 | 1 | Open meeting | Iedereen kan partiperen in het standaardisatieproces | 1 | Toegangsprijs | Is er een toegangsprijs voor standaardisatiebijeenkomsten? Is dat betaalbaar voor de verschillende deelnemers? Gratis (2 punten), Betaalbaar, laag of gediversifieerd tarief (1 punt) of kostbaar (0 punten) | 0/1/2 |
 |   |              |                                                      | 2 |  Bereikbare vergaderlocaties | Vergaderlocaties worden zodanig gekozen dat reiskosten voor iedereen geminimaliseerd zijn | 0/1/2 |
 |   |              |                                                      | 3 | Open voor iedereen | Elke organisatie of persoon kan in principe participeren in de ontwikkeling van de standaard | 0/1/2 |
@@ -586,7 +586,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 De strategieën:
 
 |  Strategie | Kenmerken |
-|     :---   |     :---  |
+|     ---   |     ---  |
 | Local Re-Use  | We hergebruiken de internationale standaard, maar passen het aan naar de behoeftes en creeren een nieuwe standaard |
 | Local Profiling | Een profiel (dat niet voldoet aan de internationale standaard) bovenop de internationale standaard, waarin alle aanpassingen verwerkt zijn. |
 | Compliant & Temporary Local Profiling | Een profiel waarin in principe alleen toegestane uitbreidingen in worden opgenomen, maar daarnaast tijdelijke oplossingen bevat van zaken die internationaal zijn ingebracht, maar die een tijdelijke oplossing rechtvaardigen. Deze tijdelijke oplossingen voldoen niet aan de internationale standaard. |
@@ -1582,7 +1582,7 @@ doelstellingen. De volgende tabel laat zien waar de verschillende
 concepten voor gebruikt kunnen worden.
 
 |    Middel    |    Wanneer geschikt                 | Risico/Inspanning/Opbrengst  |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Certificeren | De markt moet gaan bewegen.         | Risico: Hoog |
 |              | Ervaring is opgedaan met validatie. | Inspanning: Hoog |
 |              | Partijen zijn die compliancy claimen, maar het mogelijkerwijs niet zijn.	| Opbrengst: Continu |
