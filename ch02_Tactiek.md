@@ -1188,8 +1188,6 @@ hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete
 instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
 instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-<figure id="samenvatting_kwaliteitmodel">
-
 ```mermaid
 graph TD;
     kwaliteit(Kwaliteitsmodel van<br>semantische<br>standaard);
@@ -1216,6 +1214,8 @@ graph TD;
     praktijk-->acceptatie;
     praktijk--->interoperabiliteit;
 ```
+<!-- Buiten figure tags gehaald wegens schalingsprobleem -->
+<figure id="samenvatting_kwaliteitmodel">
   <figcaption>Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau</figcaption>
 </figure>
 

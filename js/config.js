@@ -36,5 +36,7 @@ var respecConfig = {
 
   shortName: "verdieping",
   specStatus: "WV",
-  specType: "HR"
+  specType: "HR",
+  
+  postProcess: [window.respecMermaid.createFigures],
 };
