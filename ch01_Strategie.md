@@ -211,6 +211,23 @@ CROW heeft de beheerorganisatie van het IMBOR daarom opgebouwd uit de volgende g
 - Gebruikerscommunity: de grote groep van gebruikers van IMBOR die regelmatig 
   worden geïnformeerd over het IMBOR en via de GitHub en bij tervisieleggingen 
   de gelegenheid krijgen om opmerkingen, suggesties en commentaar te geven.  
+
+De beheerorganisatie wordt vanuit CROW ondersteund door een IMBOR-team met 
+medewerkers die kennis hebben van openbare ruimte, BIM en data- en 
+informatiemanagement. De technisch experts in het IMBOR-team adviseren de 
+productmanager IMBOR over technische wijzigingen in het informatiemodel en 
+de ondersteunende techniek. Het IMBOR-team wordt aangestuurd door de 
+productmanager IMBOR. 
+
+De productmanager IMBOR wordt aangesteld door CROW. De productmanager vervult 
+een centrale rol in het beheer van IMBOR door samen met de beheerorganisatie IMBOR:
+1. Een open besluitvorming te faciliteren waarin alle belangen kunnen worden ingebracht;  
+2. Een zorgvuldig en transparantie beheerproces te waarborgen door o.a. bijbehorende 
+   documentatie volgens common creative licentie open beschikbaar te stellen (CC BY 4.0 Intl); 
+3. Voldoende contacten te onderhouden met gebruikers om de inbreng van wensen en 
+   behoeften waarborgen; 
+4. Het gebruik van de standaard te ondersteunen door o.a. aan te sturen dat vragen 
+   van gebruikers via de helpdesk beantwoord worden. 
 </aside>
 
 ### Rollen en activiteiten.
