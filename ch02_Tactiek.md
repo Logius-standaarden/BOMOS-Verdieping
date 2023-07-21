@@ -1491,3 +1491,30 @@ de standaard.
 Daardoor zijn er meerdere semantische standaardisatieorganisaties die
 certificering overwogen hebben, maar tot op heden wordt certificering
 weinig toegepast.
+
+<aside class="Example" title="Validatie en Certificatie bij Ketenstandaard Bouw">
+Een ondersteunende service die bijdraagt aan het correct implementeren 
+van een berichtenstandaard, data service of andere vorm van data API is 
+bieden van een validatieomgeving voor eindgebruikers en software ontwikkelaars. 
+Een dergelijke validator biedt de mogelijkheid om per versie van een 
+berichtstandaard een automatische validatie te configureren. Voor een 
+XML-implementatie gaat dat om een check op de XML-syntax, een check op 
+het XML-schema (XSD) en controle van de set van validatieregels uitgedrukt in 
+schematron. Software ontwikkelaars kunnen grotendeels zelf uit de voeten met 
+het gebruik van de validator en op technisch vlak hoeft de standaarden-organisatie 
+alleen nog vragen te beantwoorden in probleemgevallen of bij onduidelijkheden. 
+Dat is van meerwaarde voor de gebruiker én scheelt de beheerorganisatie tijd. 
+Ook fungeert een geautomatiseerde validatie als scheidsrechter wanneer partijen 
+verschil van mening hebben over interpretatie van de standaard.
+
+Dat validatie in dienst kan staan voor certificatie laat Ketenstandaard zien. 
+Deze stichting in de bouw- en installatiebranche beheert standaarden voor alle 
+fasen van het bouwproces. Zij maken daarbij gebruik van Semantic Treehouse, 
+de op BOMOS gebaseerde beheeromgeving ontwikkeld door TNO. Ketenstandaard biedt 
+via deze omgeving een validatietool aan haar gebruikers waarmee zij kunnen laten 
+zien dat hun berichten aan de standaard voldoen. In dat geval wordt het bedrijf 
+waar die gebruiker actief is opgenomen in een certificatenoverzicht op 
+datakwaliteit.nu, en kan de gebruiker een certificaat-label downloaden om te 
+plaatsen op de bedrijfswebsite. Zo kunnen leveranciers en klanten van elkaar 
+zien met wie er op een gestandaardiseerde manier data is te delen. 
+</aside>
