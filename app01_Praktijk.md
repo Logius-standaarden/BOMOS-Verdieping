@@ -21,6 +21,10 @@ In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteun
 
 Meer info: [Werkgroepen](https://www.edustandaard.nl/standaard_werkgroepen/)
 
+### IMBOR governance
+
+_Betere plek voor lange stuk over IMBOR?_
+
 ### Logius standaarden governance
 
 Logius heeft de governance van het beheer van haar standaarden aangesloten op de 
