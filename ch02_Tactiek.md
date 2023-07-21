@@ -318,6 +318,24 @@ domein ingevuld, vooral om gebruikers een complete
 interoperabiliteitsoplossing te kunnen bieden in combinatie met de
 semantische standaarden.
 
+<aside class="example" title="Gelaagdheid bij standaardisatie van e-facturatie">
+Bij het Standaardisatie Platform E-facturatie (STPE) zie je de gelaagdheid van 
+standaarden goed terug. Daar heeft men te maken met de EN 16931: een Europese 
+standaard dat een semantisch model voor de kernfactuur beschrijft 
+(Common Semantics). Dit model is uitgedrukt in twee Horizontal Languages: 
+UBL en UN/CEFACT Cross Industry Invoice (CII). Beide van deze talen bouwen 
+op XML als Common Syntax. De EN 16931 doet geen uitspraken over hoe de Technical 
+Interoperability ingericht dienen te worden. 
+
+Op het semantisch vlak eindigt de gelaagdheid niet met de Europese kernfactuur. 
+In Nederland heeft men een nationaal profiel op de EN 16931 gespecificeerd om 
+het gebruik van de norm in Nederland te bevordereren: de NL-CIUS (Core Invoice 
+Usage Specifcation). Er zijn zelfs brancheverenigingen die de NLCIUS weer verder 
+specificeren. Zo is de SETU Invoice een laag bovenop de NLCIUS met een aantal 
+inperkingen en instructies om het gebruik van de factuurnorm in het uitzenddomein 
+te bevorderen.
+</aside>
+
 Tot slot is de keuze voor de technische standaard JSON tegenwoordig
 voor de hand liggend. In het verleden was XML, en daarvoor EDI de
 aangewezen technologie. Deze wordt nog veel gebruikt in bestaande
