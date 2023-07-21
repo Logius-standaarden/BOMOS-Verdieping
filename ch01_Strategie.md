@@ -173,6 +173,46 @@ eenvoudiger als complexer. Welke structuur ook gekozen wordt, bij
 voorkeur worden de verslagen van de verschillende gremia openbaar ter
 beschikking gesteld.
 
+<aside class="Example" title="IMBOR beheerorganisatie">
+Het Informatiemodel Beheer Openbare Ruimte (IMBOR) is ontstaan vanuit 
+de behoefte van de beheerders en assetmanagers van overheden, zoals: 
+gemeenten, provincies en waterschappen om uniforme benamingen te gebruiken 
+voor beheergegevens van de objecten in de openbare ruimte. Met het IMBOR 
+wil CROW het werkveld beheer openbare ruimte een standaard ontologie bieden 
+om de dataregistratie van gegevens voor het beheer van de openbare ruimte 
+te uniformeren en verbeteren als basis voor een beter assetmanagement.
+
+CROW is de ontwikkelaar en beheerder van het Informatie Model Beheer 
+Openbare ruimte (IMBOR). Het IMBOR is ontwikkeld onder begeleiding van 
+een Projectgroep IMBOR, een IMBOR Klankbordgroep softwareleveranciers en 
+een groot aantal inhoudelijke werkgroepen per vakgebied. 
+
+In de beheerorganisatie van het IMBOR zijn vertegenwoordigd:
+- beheerders en assetmanagers bij lagere overheden,
+- softwareleveranciers die hen ondersteunen met beheerdatabases/beheerpakketten 
+  en assetmanagementapplicaties en dashboards,
+- vakinhoudelijk experts die voor specifieke vakgebieden kennis hebben van de 
+  informatie die nodig is voor het beheer van de openbare ruimte, 
+- samenwerkingspartners van gerelateerde standaarden,
+- belanghebbenden en financiers van het IMBOR.
+
+CROW heeft de beheerorganisatie van het IMBOR daarom opgebouwd uit de volgende groepen:
+- Stuurgroep IMBOR: Besluit op strategisch niveau over de aanvullingen en 
+  wijzigingen van het IMBOR en adviseert CROW over het beheer en de doorontwikkeling van het IMBOR.
+- Klankbordgroep softwareleveranciers: adviseert CROW over de toepasbaarheid van 
+  het IMBOR voor beheerdatabases/beheerpakketten, assetmanagementapplicaties en dashboards, 
+  en bevordert de implementatie door het IMBOR via hun software toepasbaar te maken bij 
+  eindgebruikers.
+- Diverse vakinhoudelijke expertgroepen: per vakgebied een groep deskundigen die 
+  adviseert welke informatie bij objecten moet worden opgeslagen.
+- Gebruikerscomité: adviseert CROW over de toepasbaarheid van het IMBOR door 
+  eindgebruikers, en bevordert de implementatie door  mee te werken aan de communicatie 
+  over de voordelen en praktijkervaringen. 
+- Gebruikerscommunity: de grote groep van gebruikers van IMBOR die regelmatig 
+  worden geïnformeerd over het IMBOR en via de GitHub en bij tervisieleggingen 
+  de gelegenheid krijgen om opmerkingen, suggesties en commentaar te geven.  
+</aside>
+
 ### Rollen en activiteiten.
 
 In [deel 1 zijn de rollen voor het ontwikkel- en beheerproces gedefinieerd](https://logius-standaarden.github.io/BOMOS-Fundament/index.html#activiteiten-en-rollen),
