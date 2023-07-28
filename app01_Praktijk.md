@@ -21,9 +21,62 @@ In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteun
 
 Meer info: [Werkgroepen](https://www.edustandaard.nl/standaard_werkgroepen/)
 
-### IMBOR governance
+### De IMBOR governance
 
-_Betere plek voor lange stuk over IMBOR?_
+Het Informatiemodel Beheer Openbare Ruimte (IMBOR) is ontstaan vanuit 
+de behoefte van de beheerders en assetmanagers van overheden, zoals: 
+gemeenten, provincies en waterschappen om uniforme benamingen te gebruiken 
+voor beheergegevens van de objecten in de openbare ruimte. Met het IMBOR 
+wil CROW het werkveld beheer openbare ruimte een standaard ontologie bieden 
+om de dataregistratie van gegevens voor het beheer van de openbare ruimte 
+te uniformeren en verbeteren als basis voor een beter assetmanagement.
+
+CROW is de ontwikkelaar en beheerder van het Informatie Model Beheer 
+Openbare ruimte (IMBOR). Het IMBOR is ontwikkeld onder begeleiding van 
+een Projectgroep IMBOR, een IMBOR Klankbordgroep softwareleveranciers en 
+een groot aantal inhoudelijke werkgroepen per vakgebied. 
+
+In de beheerorganisatie van het IMBOR zijn vertegenwoordigd:
+- beheerders en assetmanagers bij lagere overheden,
+- softwareleveranciers die hen ondersteunen met beheerdatabases/beheerpakketten 
+  en assetmanagementapplicaties en dashboards,
+- vakinhoudelijk experts die voor specifieke vakgebieden kennis hebben van de 
+  informatie die nodig is voor het beheer van de openbare ruimte, 
+- samenwerkingspartners van gerelateerde standaarden,
+- belanghebbenden en financiers van het IMBOR.
+
+CROW heeft de beheerorganisatie van het IMBOR daarom opgebouwd uit de volgende groepen:
+- Stuurgroep IMBOR: Besluit op strategisch niveau over de aanvullingen en 
+  wijzigingen van het IMBOR en adviseert CROW over het beheer en de doorontwikkeling van het IMBOR.
+- Klankbordgroep softwareleveranciers: adviseert CROW over de toepasbaarheid van 
+  het IMBOR voor beheerdatabases/beheerpakketten, assetmanagementapplicaties en dashboards, 
+  en bevordert de implementatie door het IMBOR via hun software toepasbaar te maken bij 
+  eindgebruikers.
+- Diverse vakinhoudelijke expertgroepen: per vakgebied een groep deskundigen die 
+  adviseert welke informatie bij objecten moet worden opgeslagen.
+- Gebruikerscomité: adviseert CROW over de toepasbaarheid van het IMBOR door 
+  eindgebruikers, en bevordert de implementatie door  mee te werken aan de communicatie 
+  over de voordelen en praktijkervaringen. 
+- Gebruikerscommunity: de grote groep van gebruikers van IMBOR die regelmatig 
+  worden geïnformeerd over het IMBOR en via de GitHub en bij tervisieleggingen 
+  de gelegenheid krijgen om opmerkingen, suggesties en commentaar te geven.  
+
+De beheerorganisatie wordt vanuit CROW ondersteund door een IMBOR-team met 
+medewerkers die kennis hebben van openbare ruimte, BIM en data- en 
+informatiemanagement. De technisch experts in het IMBOR-team adviseren de 
+productmanager IMBOR over technische wijzigingen in het informatiemodel en 
+de ondersteunende techniek. Het IMBOR-team wordt aangestuurd door de 
+productmanager IMBOR. 
+
+De productmanager IMBOR wordt aangesteld door CROW. De productmanager vervult 
+een centrale rol in het beheer van IMBOR door samen met de beheerorganisatie IMBOR:
+1. Een open besluitvorming te faciliteren waarin alle belangen kunnen worden ingebracht;  
+2. Een zorgvuldig en transparantie beheerproces te waarborgen door o.a. bijbehorende 
+   documentatie volgens common creative licentie open beschikbaar te stellen (CC BY 4.0 Intl); 
+3. Voldoende contacten te onderhouden met gebruikers om de inbreng van wensen en 
+   behoeften waarborgen; 
+4. Het gebruik van de standaard te ondersteunen door o.a. aan te sturen dat vragen 
+   van gebruikers via de helpdesk beantwoord worden. 
 
 ### Logius standaarden governance
 
