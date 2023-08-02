@@ -119,6 +119,23 @@ categorieën werkgroepen (bijv. 'gegevens') weer onderverdeeld worden
 in werkgroepen per probleemdomein (bijv. 'facturatie'), waarmee een
 combinatie van beide indelingen wordt gerealiseerd.
 
+<aside class="example" title="SETU organisatiestructuur">
+Bij de SETU is de organisatiestructuur als volgt: Het bestuur bestaat 
+uit vertegenwoordigers van uitzendondernemingen. Zij houden vier keer 
+per jaar een bestuursvergadering. In de bestuursvergaderingen rapporteert 
+de uitvoeringsorganisatie, momenteel werknemers van TNO en de ABU, over de 
+voortgang van de werkzaamheden voor de SETU. Alle werkzaamheden staan vermeld 
+in het jaarplan dat voorafgaand aan ieder kalenderjaar wordt vastgesteld, 
+inclusief bijbehorende begroting. Onder deze werkzaamheden valt onder andere 
+het organiseren van de werkgroepen. Aan werkgroepen mogen zowel vertegenwoordigers 
+van uitzendondernemingen, inleners en leveranciers deelnemen. Actuele werkgroepen 
+zijn de werkgroep Planningsgegevens, die de SETU Standard for Planning & Scheduling 
+ontwikkelt, en de werkgroep Trends & ontwikkelingen, waarin veranderingen en 
+behoeftes in de sector worden geïdentificeerd die (mogelijk) impact hebben op 
+digitalisering en data-uitwisseling. Bij SETU is geen sprake van een 
+leveranciersgroep en adviesorgaan. 
+</aside>
+
 Bijzondere aandacht verdienen de leveranciers. Dit is regelmatig een
 heet hangijzer bij non-profit beheerorganisaties. Voor het welslagen
 van een standaard (zonder juiste implementatie geen werkende

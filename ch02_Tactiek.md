@@ -318,6 +318,24 @@ domein ingevuld, vooral om gebruikers een complete
 interoperabiliteitsoplossing te kunnen bieden in combinatie met de
 semantische standaarden.
 
+<aside class="example" title="Gelaagdheid bij standaardisatie van e-facturatie">
+Bij het Standaardisatie Platform E-facturatie (STPE) zie je de gelaagdheid van 
+standaarden goed terug. Daar heeft men te maken met de EN 16931: een Europese 
+standaard dat een semantisch model voor de kernfactuur beschrijft 
+(Common Semantics). Dit model is uitgedrukt in twee Horizontal Languages: 
+UBL en UN/CEFACT Cross Industry Invoice (CII). Beide van deze talen bouwen 
+op XML als Common Syntax. De EN 16931 doet geen uitspraken over hoe de Technical 
+Interoperability ingericht dienen te worden. 
+
+Op het semantisch vlak eindigt de gelaagdheid niet met de Europese kernfactuur. 
+In Nederland heeft men een nationaal profiel op de EN 16931 gespecificeerd om 
+het gebruik van de norm in Nederland te bevordereren: de NL-CIUS (Core Invoice 
+Usage Specifcation). Er zijn zelfs brancheverenigingen die de NLCIUS weer verder 
+specificeren. Zo is de SETU Invoice een laag bovenop de NLCIUS met een aantal 
+inperkingen en instructies om het gebruik van de factuurnorm in het uitzenddomein 
+te bevorderen.
+</aside>
+
 Tot slot is de keuze voor de technische standaard JSON tegenwoordig
 voor de hand liggend. In het verleden was XML, en daarvoor EDI de
 aangewezen technologie. Deze wordt nog veel gebruikt in bestaande
@@ -1619,3 +1637,30 @@ de standaard.
 Daardoor zijn er meerdere semantische standaardisatieorganisaties die
 certificering overwogen hebben, maar tot op heden wordt certificering
 weinig toegepast.
+
+<aside class="Example" title="Validatie en Certificatie bij Ketenstandaard Bouw">
+Een ondersteunende service die bijdraagt aan het correct implementeren 
+van een berichtenstandaard, data service of andere vorm van data API is 
+bieden van een validatieomgeving voor eindgebruikers en software ontwikkelaars. 
+Een dergelijke validator biedt de mogelijkheid om per versie van een 
+berichtstandaard een automatische validatie te configureren. Voor een 
+XML-implementatie gaat dat om een check op de XML-syntax, een check op 
+het XML-schema (XSD) en controle van de set van validatieregels uitgedrukt in 
+schematron. Software ontwikkelaars kunnen grotendeels zelf uit de voeten met 
+het gebruik van de validator en op technisch vlak hoeft de standaarden-organisatie 
+alleen nog vragen te beantwoorden in probleemgevallen of bij onduidelijkheden. 
+Dat is van meerwaarde voor de gebruiker én scheelt de beheerorganisatie tijd. 
+Ook fungeert een geautomatiseerde validatie als scheidsrechter wanneer partijen 
+verschil van mening hebben over interpretatie van de standaard.
+
+Dat validatie in dienst kan staan voor certificatie laat Ketenstandaard zien. 
+Deze stichting in de bouw- en installatiebranche beheert standaarden voor alle 
+fasen van het bouwproces. Zij maken daarbij gebruik van Semantic Treehouse, 
+de op BOMOS gebaseerde beheeromgeving ontwikkeld door TNO. Ketenstandaard biedt 
+via deze omgeving een validatietool aan haar gebruikers waarmee zij kunnen laten 
+zien dat hun berichten aan de standaard voldoen. In dat geval wordt het bedrijf 
+waar die gebruiker actief is opgenomen in een certificatenoverzicht op 
+datakwaliteit.nu, en kan de gebruiker een certificaat-label downloaden om te 
+plaatsen op de bedrijfswebsite. Zo kunnen leveranciers en klanten van elkaar 
+zien met wie er op een gestandaardiseerde manier data is te delen. 
+</aside>
