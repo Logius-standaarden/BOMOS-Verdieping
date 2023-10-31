@@ -191,7 +191,7 @@ met de namen van de stakeholders/partijen wordt een helder inzicht
 gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN
 7522-2021)
 
-![Voorbeeld van toewijzing rollen aan stakeholders](images/nenactiviteiten3.png "Voorbeeld van toewijzing rollen aan stakeholders")
+![Voorbeeld van toewijzing rollen aan stakeholders](images/BOMOS-16_Toewijzing-rollen-aan-stakeholders-blanco.png "Voorbeeld van toewijzing rollen aan stakeholders")
 </aside>
 
 ### Beheertaken uitvoering
@@ -211,7 +211,7 @@ figuur](#fig-beleggen-van-ontwikkeltaken) noemt hier (andere)
 standaardisatieorganisaties, research-organisaties en
 brancheorganisaties.
 
-![Beleggen van ontwikkeltaken](images/BOMOS-3_Beleggen van beheer en ontwikkeltaken-blanco.png "Beleggen van ontwikkeltaken")
+![Beleggen van ontwikkeltaken](images/BOMOS-3_Beleggen-van-beheer-en-ontwikkeltaken-blanco.png "Beleggen van ontwikkeltaken")
 
 Het model maakt onderscheid tussen not-for-profit en profit
 organisaties. Dit onderscheid is relevant in het kader van openheid
@@ -961,7 +961,7 @@ situatie naar de toekomstscenario's duidelijk zijn.
 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
-![Scenarios juweliersbranche](images/BOMOS-5_Scenarios juweliersbranche-blanco.png "Scenarios juweliersbranche")
+![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco.png "Scenarios juweliersbranche")
 
 #### Stap 2 - Bepaal de kosten en baten in de keten op basis van het raamwerk.
 
@@ -972,7 +972,7 @@ zal dat redelijk gelijk zijn, vandaar dat gestart kan worden met het
 model uit de juweliersbranche, en deze vervolgens aan te passen waar
 nodig. Het model uit de juweliersbranche is hieronder weergegeven.
 
-![Batenmodel juweliersbranche](images/BOMOS-6_Batenmodel juweliersbranche-blanco.png "Batenmodel juweliersbranche")
+![Batenmodel juweliersbranche](images/BOMOS-6_Batenmodel-juweliersbranche-blanco.png "Batenmodel juweliersbranche")
 
 #### Stap 3- Verdeel de kosten en baten naar verschillende stakeholders.
 
