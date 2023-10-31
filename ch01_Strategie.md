@@ -66,6 +66,20 @@ vastgesteld worden en uitgebracht worden als nieuwe versie. De
 besluitvorming, wie (bestuur/werkgroep) bepaalt wat, moet helder
 geregeld zijn.
 
+<aside class="example" title="Informatiemodel Externe Veiligheid"> 
+Het Informatiemodel Externe Veiligheidsrisico's (IMEV) bevat afspraken over 
+de digitale structuur waarin overheden gegevens vastleggen over de opslag, 
+het transport en het gebruik van gevaarlijke stoffen. Al deze gegevens komen 
+bij elkaar in het Register Externe Veiligheidsrisico's van het ministerie van 
+Infrastructuur en Waterstaat. Op kaarten is vervolgens te zien waar externe 
+veiligheidsrisico’s van toepassing zijn. Geonovum beheert sinds 2021 het IMEV 
+in opdracht van het ministerie van Infrastructuur en Waterstaat. Het nieuwe 
+BOMOS verdieping heeft Geonovum en de opdrachtgever geholpen bij het inzichtelijk 
+maken van de organisatiestructuur. De sinds eind 2022 ingestelde adviesgroep 
+werkt conform deze structuur en heeft begin 2022 de leidraad voor komende 
+wijzigingen van het IMEV, het wijzigingsprotocol, vastgesteld. 
+</aside>
+
 Bij voorkeur wordt onderscheid gemaakt tussen verschillende zwaartes
 van wijzigingen in standaarden, zodat de lichtste wijzigingen door de
 betreffende werkgroep of de uitvoeringsorganisatie zelf kunnen worden
@@ -104,6 +118,23 @@ rekent. In de praktijk zullen bij complexere standaarden bepaalde
 categorieën werkgroepen (bijv. 'gegevens') weer onderverdeeld worden
 in werkgroepen per probleemdomein (bijv. 'facturatie'), waarmee een
 combinatie van beide indelingen wordt gerealiseerd.
+
+<aside class="example" title="SETU organisatiestructuur">
+Bij de SETU is de organisatiestructuur als volgt: Het bestuur bestaat 
+uit vertegenwoordigers van uitzendondernemingen. Zij houden vier keer 
+per jaar een bestuursvergadering. In de bestuursvergaderingen rapporteert 
+de uitvoeringsorganisatie, momenteel werknemers van TNO en de ABU, over de 
+voortgang van de werkzaamheden voor de SETU. Alle werkzaamheden staan vermeld 
+in het jaarplan dat voorafgaand aan ieder kalenderjaar wordt vastgesteld, 
+inclusief bijbehorende begroting. Onder deze werkzaamheden valt onder andere 
+het organiseren van de werkgroepen. Aan werkgroepen mogen zowel vertegenwoordigers 
+van uitzendondernemingen, inleners en leveranciers deelnemen. Actuele werkgroepen 
+zijn de werkgroep Planningsgegevens, die de SETU Standard for Planning & Scheduling 
+ontwikkelt, en de werkgroep Trends & ontwikkelingen, waarin veranderingen en 
+behoeftes in de sector worden geïdentificeerd die (mogelijk) impact hebben op 
+digitalisering en data-uitwisseling. Bij SETU is geen sprake van een 
+leveranciersgroep en adviesorgaan. 
+</aside>
 
 Bijzondere aandacht verdienen de leveranciers. Dit is regelmatig een
 heet hangijzer bij non-profit beheerorganisaties. Voor het welslagen
@@ -329,6 +360,21 @@ domein standaardisatie organisatie worden opgepakt en andere taken
 door ander type organisaties, conform de beschrijving in deze
 paragraaf over het uitbesteden van taken.
 
+<aside class="example" title="Edustandaard">"
+Edustandaard is een platform waar alle publieke en private partijen binnen
+het onderwijsveld bij elkaar komen om afspraken te maken. Deze afspraken 
+gaan bijvoorbeeld over het vindbaar maken van digitaal leermateriaal, of 
+over het overbrengen van leerlinggegevens van het ene systeem naar het andere. 
+Edustandaard ondersteunt publieke en private ketenpartijen in het onderwijs 
+met standaarden en referentiearchitecturen om de informatiestromen in de 
+onderwijsketens zo effectief mogelijk in te richten. Edustandaard beheert 
+diverse standaarden en biedt overzicht en inzicht in de werking van 
+(keten)processen. Ook wordt advies gegeven aan ketenpartijen in alle 
+onderwijssectoren, van primair tot hoger onderwijs. 
+
+[De governance van de Edustandaard is beschreven in de bijlage](#edustandaard-governance).
+</aside>
+
 ### De organisatievorm
 
 Of het nu slechts een deel van de taken of alle taken door de nieuwe
@@ -355,8 +401,18 @@ de hand liggen, te weten:
   wel donateurs hebben, maar die hebben geen zeggenschap. Een
   stichting kan ook vrijwilligers hebben.
 
-<aside class="example">
-Kader input: voorbeelden van beheerorganisaties en hun organisatievorm: ophalen tijdens review
+<aside class="example" title="Stichting RIONED">
+De standaard Gegevenswoordenboek Stedelijk Water wordt verder ontwikkeld, 
+maar is ook in beheer en wordt operationeel gebruikt. Transparantie en 
+kwaliteit in beheer zijn hierbij cruciaal voor de continuïteit en kwaliteit 
+van en het draagvlak voor de standaard. Stichting RIONED committeert zich 
+aan een zorgvuldig en transparant beheerproces met heldere procedures en een 
+duidelijke organisatie. Zodat leveranciers en gebruikers met vertrouwen de 
+standaard kunnen implementeren en gebruiken. De beheerprocedures en -organisatie 
+zijn gebaseerd op de BOMOS-standaard en kennen een programmerende lijn, een 
+uitvoerende lijn en een vaststellende lijn. Net als bij andere activiteiten van 
+Stichting RIONED geldt dat belanghebbenden desgewenst op allerlei manieren mogen 
+meedenken en meebeslissen.
 </aside>
 
 **De vereniging:** Een vereniging is een rechtspersoon voor de
@@ -417,6 +473,27 @@ de vrijblijvendheid reduceren of op zijn minst expliciteren. De
 vrijblijvendheid van de deelnemers in standaarden is zeker een serieus
 aandachtspunt in het kader van een duurzaam toegepaste standaard.
 
+<p class="comment" style="color:red">
+<aside class="example" title="Het CCvD Datastandaarden">
+Besluitvorming over wijzigingen op een standaard of over de strategie 
+voor een standaard zal over het algemeen bij de beheerorganisatie liggen. 
+Maar in bepaalde gevallen kan de strategie belegd zijn bij een orgaan 
+_naast_ de beheerorganisatie. Een voorbeeld is het Centraal College 
+van Deskundigen Datastandaarden (CCvD-Datastandaarden). Dit is een 
+gezamenlijk overleg met stakeholders waarin het Informatiehuis Water (IHW), 
+Stichting Kwaliteitsborging Bodembeheer (SIKB) en stichting RIONED 
+gezamenlijk de wijzigingen op hun standaarden en hun (strategische) plannen
+vaststellen. Hiervoor is gekozen omdat de standaarden en de gebruikersgemeenschappen
+sterk overlappen. Één standaard is zelfs in gezamenlijk beheer bij SIKB en IHW.
+Gezamenlijke vaststelling van nieuwe versies is in dit geval noodzakelijk.
+
+Nieuwe versies van de standaarden worden na vaststelling door het 
+CCvD Datastandaarden nog wel bekrachtigd door de besturen van de 
+beheerorganisaties. Het CCvD is immers geen _eigenaar_ van de standaarden 
+en kan geen nieuwe versie of strategie (formeel) vaststellen. 
+Boven het CCvD staan de besturen van de deelnemende beheerorganisaties. 
+</aside>
+
 <aside class="note">
 <b>Naast 'harde' invulling ook aandacht voor 'zachte' facetten</b>
 
@@ -427,12 +504,11 @@ groot belang voor het succes van een standaard. Het smeden van een
 consortium waarin partijen elkaar vertrouwen en constructief kunnen
 samenwerken zonder dat elk incident gelijk een bom legt onder het
 voort-bestaan van het consortium is een bijzonder sociaal en organisch
-proces.  </aside>
+proces.  
+</aside>
 
 <p class="comment" style="color:red">
-
-<aside class="example">
-<b>Template voor beheerdocument van Geonovum</b>
+<aside class="example" title="Template voor beheerdocument en rekenmodel van Geonovum">
 
 Om opdrachtgevers meer inzicht te geven in de activiteiten in het
 beheerproces van standaarden, heeft Geonovum een generiek
@@ -446,7 +522,7 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een BOMOS rekenmodel ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](https://www.geonovum.nl/over-geonovum/actueel/transparantie-in-ontwikkeling-en-beheer-standaarden) ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
@@ -500,7 +576,6 @@ informatie bekend uit literatuur is dat de opbrengsten van verkoop van
 ISO standaarden voor de helft voorziet in de kosten die ISO maakt in
 de ontwikkeling en beheer van de ISO standaarden.
 
-
 ### De baten van standaardisatie generiek
 
 Er mogen dan weinig cijfers beschikbaar zijn maar er is voldoende
@@ -510,7 +585,7 @@ Blind, K. (2004). The economics of standards; theory, evidence,
 policy):
 
 |  | Positive effects | Negative effects |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Compatability / interface | Network externalities | Monopoly |
 |  | Avoiding Lock-ins |  |
 |  | Increased variety of systems products |  |
@@ -533,7 +608,7 @@ Wel is het mogelijk om te kijken naar de mogelijke kostenposten en
 opbrengsten van het beheer van standaarden. De balans vat deze samen.
 
 | Debet | Credit |
-|  :--- |  :---  |
+|  --- |  ---  |
 | Ontwikkelkosten | Structureel begroting |
 | Beheerkosten | Projectfinanciering |
 | Communicatie | Lidmaatschapsgelden |
@@ -837,7 +912,7 @@ efficiënter gemaakt worden. Onderstaande tabel geeft als samenvatting
 een aantal suggesties weer om standaardisatie efficiënt in te vullen:
 
 | Onderdeel in standaardisatie proces: | Efficiënter te maken door: |
-| :--- | :--- |
+| --- | --- |
 | Formeren handvest | Een specifiek en gedetailleerd handvest wat strak bepaald wat in/uit scope van het standaardisatie initiatief is. |
 | Opzetten ontwikkel en beheerprocessen | Hergebruik van beschrijvingen (bv. gebruik van procedure document van andere standaardisatieorganisaties) |
 | Inrichting beheerorganisatie | Hergebruik van (validatie) tools, maar ook tools om standaarden te maken  |
@@ -924,7 +999,7 @@ nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange
 tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er
 geen positieve business case voor de nieuwe/andere standaard is,
 zolang er geen interoperabiliteitsprobleem is. Eén van wereldwijd
-meest succesvolle standaard, RosettaNet (www.rosettanet.org),
+meest succesvolle standaard, [RosettaNet](https://www.gs1us.org/resources/rosettanet),
 illustreert dit ook: ondanks dat deze standaard al jaren een XML
 versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI
 versie, en lang een lage adoptie van de XML versie heeft gehad.
