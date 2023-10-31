@@ -20,28 +20,7 @@ organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de
 scheiding tussen inhoudelijke activiteiten in de
 uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
-<figure id="samenvatting_kwaliteitmodel">
-
-```mermaid
-graph TB
-    bestuur(Bestuur)
-    advies(Adviesorgaan)
-    uitvoering(Uitvoeringsorganisatie)
-    leveranciers(Leveranciersgroep)
-    werkgroepA(Werkgroep A)
-    werkgroepZ(Werkgroep Z)
-
-    advies-- advies -->bestuur
-    bestuur-- opdracht -->uitvoering
-    uitvoering-- verantwoording -->bestuur
-    uitvoering-- voorstel -->advies
-    leveranciers-- overleg --> advies
-    uitvoering<-- advies -->leveranciers
-    uitvoering-- opdracht -->werkgroepA
-    uitvoering-- opdracht -->werkgroepZ
-```
-<figcaption>Organisatiestructuur</figcaption>
-</figure>
+![Organisatiemodel](images/BOMOS-1_Organisatiestructuur-blanco.png "Organisatiesmodel")
 
 Het bestuur geeft opdracht aan een (not-for-profit)
 uitvoeringsorganisatie die verantwoordelijk is voor een groot deel van
