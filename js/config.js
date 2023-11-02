@@ -34,9 +34,10 @@ var respecConfig = {
   publishDate: "2023-06-29",
   publishVersion: "3.0.0",
 
+
   shortName: "verdieping",
   specStatus: "WV",
   specType: "HR",
-  
+
   postProcess: [window.respecMermaid.createFigures],
 };
