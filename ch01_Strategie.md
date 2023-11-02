@@ -372,7 +372,7 @@ diverse standaarden en biedt overzicht en inzicht in de werking van
 (keten)processen. Ook wordt advies gegeven aan ketenpartijen in alle 
 onderwijssectoren, van primair tot hoger onderwijs. 
 
-[De governance van de Edustandaard is beschreven in de bijlage](#Edustandaard-governance).
+[De governance van de Edustandaard is beschreven in de bijlage](#edustandaard-governance).
 </aside>
 
 ### De organisatievorm
@@ -522,7 +522,8 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een [BOMOS rekenmodel](https://www.geonovum.nl/documents/geonovum-bomos-rekenmodel-publiek-v20zip) ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](https://www.geonovum.nl/documents/geonovum-bomos-rekenmodel-publiek-v20zip) 
+ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
@@ -585,7 +586,7 @@ Blind, K. (2004). The economics of standards; theory, evidence,
 policy):
 
 |  | Positive effects | Negative effects |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Compatability / interface | Network externalities | Monopoly |
 |  | Avoiding Lock-ins |  |
 |  | Increased variety of systems products |  |
@@ -608,7 +609,7 @@ Wel is het mogelijk om te kijken naar de mogelijke kostenposten en
 opbrengsten van het beheer van standaarden. De balans vat deze samen.
 
 | Debet | Credit |
-|  :--- |  :---  |
+|  --- |  ---  |
 | Ontwikkelkosten | Structureel begroting |
 | Beheerkosten | Projectfinanciering |
 | Communicatie | Lidmaatschapsgelden |
@@ -912,7 +913,7 @@ efficiënter gemaakt worden. Onderstaande tabel geeft als samenvatting
 een aantal suggesties weer om standaardisatie efficiënt in te vullen:
 
 | Onderdeel in standaardisatie proces: | Efficiënter te maken door: |
-| :--- | :--- |
+| --- | --- |
 | Formeren handvest | Een specifiek en gedetailleerd handvest wat strak bepaald wat in/uit scope van het standaardisatie initiatief is. |
 | Opzetten ontwikkel en beheerprocessen | Hergebruik van beschrijvingen (bv. gebruik van procedure document van andere standaardisatieorganisaties) |
 | Inrichting beheerorganisatie | Hergebruik van (validatie) tools, maar ook tools om standaarden te maken  |
@@ -999,7 +1000,7 @@ nauwelijks positief te krijgen. Daarom zullen er altijd een zeer lange
 tijd ook nog oude standaarden (bijv. EDI) in gebruik zien, omdat er
 geen positieve business case voor de nieuwe/andere standaard is,
 zolang er geen interoperabiliteitsprobleem is. Eén van wereldwijd
-meest succesvolle standaard, RosettaNet (www.rosettanet.org),
+meest succesvolle standaard, [RosettaNet](https://www.gs1us.org/resources/rosettanet),
 illustreert dit ook: ondanks dat deze standaard al jaren een XML
 versie heeft ontwikkeld is er nauwelijks migratie vanuit de oude EDI
 versie, en lang een lage adoptie van de XML versie heeft gehad.

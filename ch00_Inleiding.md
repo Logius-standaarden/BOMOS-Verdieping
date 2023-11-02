@@ -34,14 +34,15 @@ BOMOS bestaat uit:
 * BOMOS Deel 2: De Verdieping (dit document)
 * BOMOS Aanvullende modules: [Linked Data](https://logius-standaarden.github.io/BOMOS-LinkedData) en [Stelsels](https://logius-standaarden.github.io/BOMOS-Stelsels)
 
-De kern van BOMOS is het "Fundament". Dat bestaat uit een basis
+De kern van BOMOS is het [Fundament](https://logius-standaarden.github.io/BOMOS-Fundament). Dat bestaat uit een basis
 beschrijving van het Beheer- en Ontwikkelmodel, en een verdere
 verdieping op basis van literatuur of praktijkervaringen.  Het Beheer-
 en Ontwikkelmodel is in de basis een activiteitendiagram, daarnaast
 zijn rollen gedefinieerd die relevant zijn bij het beheer- en
 ontwikkelproces van standaarden.
 
-Daarnaast biedt BOMOS in deel 2 meer verdieping door het delen van met name best practices uit de standaardisatiewereld.
+Daarnaast biedt de _Verdieping (dit document) meer verdieping door het delen 
+van met name best practices uit de standaardisatiewereld.
 
 Deel 1 en Deel 2 samen vormen de basis van BOMOS.
 
@@ -56,7 +57,7 @@ in [Deel 1](https://logius-standaarden.github.io/BOMOS-Fundament) en Deel 2
 beschreven. De aanvullende modules zijn wel duidelijk met BOMOS
 verbonden, maar hebben een eigen governance wat kan resulteren in een
 eigen naam, eigen doelgroep, eigen beheer, etc. In het
-[beheerproces van BOMOS](#het-beheer-en-ontwikkelmodel-onderwerpen-voor-ontwikkeling-en-beheer)
+[beheerproces van BOMOS](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/#het-beheer-en-ontwikkelmodel-onderwerpen-voor-ontwikkeling-en-beheer)
 wordt ook beschreven welke eisen er gesteld worden voordat
 iets opgenomen wordt als BOMOS aanvullende module.
 

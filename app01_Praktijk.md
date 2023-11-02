@@ -121,31 +121,9 @@ releaseplanning en de roadmap opgesteld. Deelname aan het Technisch Overleg
 is vrij voor eenieder die een belang heeft bij de standaard
 (overheid, wetenschap en markt).
 
-De agenda en stukken van het Technisch overleg zijn openbaar. De Technische Overleggen vallen niet binnen de GDI overlegstructuur maar maken wel deel uit van de governance 
+De agenda en stukken van het Technisch overleg zijn openbaar. De Technische Overleggen vallen niet binnen de 
+GDI overlegstructuur maar maken wel deel uit van de governance 
 van de standaarden.
-
-## Architectuur
-
-#### Architectuur bij EduStandaard
-
-ROSA is de referentiearchitectuur voor ketenuitwisselingen in het primair tot aan hoger onderwijs. De ROSA valt bestuurlijk onder de verantwoordelijkheid van de Edustandaard Standaardisatieraad, inhoudelijk wordt ze beheerd door de Architectuurraad van Edustandaard.
-Architectuur ondersteunt bij de vertaling van visie naar inrichting. Het is een krachtig instrument, dat kaders biedt aan alle actoren in de sector. Het helpt schoolbesturen vanuit onderwijsambities hun behoeften te formuleren en biedt leveranciers structuur bij het ontwikkelen en leveren van diensten en voorzieningen. De gemeenschappelijke taal van de architectuur helpt om elkaar te begrijpen, gebaseerd op principes (uitgangspunten) op meerdere niveaus. Die principes staan voor waarden, die je wilt borgen. Het gaat daarbij om samenhang en balans tussen de verschillende behoeften van de diverse belanghebbenden in de sector zoals leerlingen, studenten, docenten, instellingen en sectorpartners.
-ROSA heeft tot doel: Bevorderen van ketensamenwerking ten aanzien van de informatievoorziening in het onderwijs in alle sectoren en op (onderwijs)sectoroverstijgende aspecten van informatievoorziening. 
-
-Meer info: [Ketenreferentie-architectuur ROSA](https://www.edustandaard.nl/rosa/)
-
-#### AMIGO-aanpak
-
-AMIGO staat voor Aanpak voor Modulair opgebouwde Interacties en Gegevensstructuren in het Onderwijs. De aanpak is bedoeld voor leveranciers van digitale diensten in het onderwijs: of ze nu publiek of privaat zijn. Zij kunnen met behulp van de AMIGO-aanpak stapsgewijs breed toepasbare afspraken maken over gegevensuitwisselingen in het onderwijs. Bijvoorbeeld afspraken over de gegevensuitwisseling tussen een leerlingadministratie en een toetssysteem rondom de eindtoetsen in het primair onderwijs. In die afspraken staat alle informatie die de betrokken dienstverleners nodig hebben om hun deel van een gegevensuitwisseling te realiseren. De AMIGO-aanpak valt onder de verantwoordelijkheid van de Standaardisatieraad van Edustandaard; adviseurs vanuit Kennisnet begeleiden bij het doorlopen van de stappen.
-
-Meer info: [AMIGO-aanpak: Stapsgewijs afspraken maken over gegevensuitwisseling in het onderwijs](https://www.edustandaard.nl/amigo/)
-
-
-#### ROSA-architectuurscan als input voor dialoog
-
-In de Standaardisatieraad is afgesproken dat elke grote vernieuwing of wijziging in een ketenvoorziening (ICT-systeem) of in een ketenafspraak wordt voorzien van een ROSA-architectuurscan. Op basis van deze architectuurscan, geeft de Architectuurraad in een vruchtbare dialoog advies aan de betreffende organisatie(s). Met de scan wordt de compliancy ten opzichte van de ROSA in beeld gebracht, en inzicht verkregen waarom er wordt afgeweken (t.b.v. Het leerproces van de ketens). Tevens draagt dit bij aan een gelijke informatiepositie van de ketenpartijen. Per jaar worden ca. 6 ROSA-scans uitgevoerd. Door deze werkwijze heeft de Architectuurraad een behoorlijk overzicht wat er aan vernieuwing in de onderwijsketens plaatsvindt. Met behulp van de ROSA-scan is Edustandaard in staat vroegtijdig de impact te bepalen van aanpassingen in de keten.
-
-Meer info: [Aanvragen van een ROSA-scan](https://www.edustandaard.nl/rosa/rosa-architectuurscan/)
 
 ## Operationeel: Gereedschap voor standaardenbeheer
 
@@ -207,7 +185,7 @@ Zoals hierboven gezegd in
 kan _git_ gebruikt worden als een kanaal om gebruikers 
 wijzigingsvoorstellen in te laten dienen. Maar het kan ook goed 
 toegepast worden in de stappen daarna, tot en met besluitvorming toe. 
-Bij Logius wordt [github](https://www.githubcom/) gebruikt in het hele 
+Bij Logius wordt [github](https://www.github.com/) gebruikt in het hele 
 operationele proces. 
 
 Allereerst wordt alle documentatie gepubliceerd via github (zie [hierboven](#documentatie-en-publicatie-met-git-en-respec). Gebruikers 
