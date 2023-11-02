@@ -355,6 +355,25 @@ om standaarden te maken, denk bijvoorbeeld aan de standaard UML, als
 taal om diagrammen te tekenen die bijvoorbeeld het proces en
 data-model van een standaard bevatten.
 
+### Life cycle van gelaagde standaarden
+
+Uit het toepassen van gelaagde familie van standaarden volgt een noodzaak 
+om actief te sturen op het toepassen van _actueele_ standaarden. Dit kan
+uitdagingen opleveren. Wanneer een onderliggende standaard overgaat
+naar een nieuwe versie kan het nodig zijn de bovenliggende standaard aan
+te passen op de onderliggende standaard.
+
+Zo is het van belang de een onderliggende standaard in _actief beheer_ beheer is.
+Alleen wanneer de gebruikte standaard beheerd wordt kunnen wijzigingsverzoeken 
+in behandeling genomen worden en kunnen eventueele fouten in die standaard
+gecorrigeerd worden. Wanneer een gelaagde standaard gebruikt maakt van een
+onderliggende standaard die _niet_ meer in beheer is zijn de mogelijkheiden om
+de standaard bij te werken beperkt. 
+
+Het is dus raadzaam om in het beheer van een (gelaagde) standaard de ontwikkelingen
+in de onderliggende standaard(en) actief te volgen om over te kunnen gaan naar 
+een nieuwe versie.
+
 ### De relatie met internationale standaarden
 
 Semantische standaarden kennen een ongekende complexiteit in
@@ -429,7 +448,20 @@ keus. Men zou zich moeten richten op de nationale standaard die zorg
 draagt voor aansluiting bij internationale standaarden en zorg draagt
 voor optimale toepassing in de Nederlandse context.
 
-Belangrijk aandachtspunt daarbij is dat in een situatie van
+Ook in de beheerfase van een standaard is het nuttig aandacht te houden 
+voor internationale standaarden. Wanneer tijdens de adoptiefase geen passende 
+internationale standaard beschikbaar is kan een nationale standaard de enige 
+optie zijn. Maar dat kan veranderen. Een voorbeeld is de Digikoppeling standaard. 
+Digikoppeling omvat een koppelvlakspecificatie met hetzelfde doel en toepassing 
+als het Europese eDelivery wat later vastgesteld is. In het kader van 
+standaardenbeheer zou ervoor gekozen moeten worden de nationale standaard uit 
+te faseren ten gunste van een meer recente  internationale standaard. 
+Ook hier zal een nationaal profiel op de internationale standaard nuttig zijn. 
+Voor de beheerorganisatie resulteert dit in een andere rol. De beheerorganisatie 
+vertegenwoordigt de Nederlandse stakeholders indien nodig in het beheer van de 
+internationale standaard.
+
+Belangrijk aandachtspunt bij internationale standaarden is dat in een situatie van
 bijvoorbeeld een internationale verticale standaard in combinatie met
 een nationaal toepassingsprofiel, dat voor beide een andere naam wordt
 gehanteerd om verwarring in de praktijk voorkomen.
