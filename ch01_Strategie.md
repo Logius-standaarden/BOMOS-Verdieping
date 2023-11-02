@@ -296,8 +296,8 @@ commerciële dienstverleners inschakelen. Dat laatste is wel op
 gespannen voet met de openheidprincipes. De eigen organisatie is de
 meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen
 domeinen kennen inmiddels eigen organisaties die kennis hebben van
-zowel het domein als standaardisatie, bijvoorbeeld (Geonovum,
-EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van
+zowel het domein als standaardisatie, bijvoorbeeld Geonovum,
+EduStandaard, CROW, Informatiehuis Water, SETU, etc. Tot de kern van
 hun werk behoren de strategische beheeractiviteiten zoals
 geïdentificeerd in het model, en in grote mate ook de tactische en
 operationele activiteiten. In deze situatie zijn bepaalde activiteiten
@@ -522,7 +522,8 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een [BOMOS rekenmodel](https://www.geonovum.nl/over-geonovum/actueel/transparantie-in-ontwikkeling-en-beheer-standaarden) ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](https://www.geonovum.nl/documents/geonovum-bomos-rekenmodel-publiek-v20zip) 
+ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
