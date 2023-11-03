@@ -29,10 +29,10 @@ var respecConfig = {
   maxTocLevel: 3,
   nl_markdownTableClass: "dkkvs",
   previousMaturity: "DEF",
-  previousPublishVersion: "2i",
+  previousPublishVersion: "3.0.0",
   pubDomain: "bomos",
-  publishDate: "2023-06-29",
-  publishVersion: "3.0.0",
+  publishDate: "2023-11-02",
+  publishVersion: "3.0.1",
 
   shortName: "verdieping",
   specStatus: "WV",
