@@ -298,7 +298,7 @@ Analysis of Standardization of Vertical Industry Languages.) laat dit
 zien; tussen haakjes staan engiszins verouderde voorbeelden van
 standaarden waarmee dit kan worden ingevuld.
 
-![alt_text](images/gelaagdheid_van_standaarden.png "De gelaagdheid van standaarden")
+![De gelaagdheid van standaarden](images/BOMOS-7_Gelaagdheid-van-standaarden.png "De gelaagdheid van standaarden")
 
 Voor technische interoperabiliteit moeten er keuzes gemaakt worden,
 waarbij vaak gekozen wordt voor een technische filosofie waarbij een
@@ -354,6 +354,25 @@ Om het nog complexer te maken zijn er standaarden die gebruikt worden
 om standaarden te maken, denk bijvoorbeeld aan de standaard UML, als
 taal om diagrammen te tekenen die bijvoorbeeld het proces en
 data-model van een standaard bevatten.
+
+### Life cycle van gelaagde standaarden
+
+Uit het toepassen van gelaagde familie van standaarden volgt een noodzaak 
+om actief te sturen op het toepassen van _actueele_ standaarden. Dit kan
+uitdagingen opleveren. Wanneer een onderliggende standaard overgaat
+naar een nieuwe versie kan het nodig zijn de bovenliggende standaard aan
+te passen op de onderliggende standaard.
+
+Zo is het van belang de een onderliggende standaard in _actief beheer_ beheer is.
+Alleen wanneer de gebruikte standaard beheerd wordt kunnen wijzigingsverzoeken 
+in behandeling genomen worden en kunnen eventueele fouten in die standaard
+gecorrigeerd worden. Wanneer een gelaagde standaard gebruikt maakt van een
+onderliggende standaard die _niet_ meer in beheer is zijn de mogelijkheiden om
+de standaard bij te werken beperkt. 
+
+Het is dus raadzaam om in het beheer van een (gelaagde) standaard de ontwikkelingen
+in de onderliggende standaard(en) actief te volgen om over te kunnen gaan naar 
+een nieuwe versie.
 
 ### De relatie met internationale standaarden
 
@@ -429,7 +448,20 @@ keus. Men zou zich moeten richten op de nationale standaard die zorg
 draagt voor aansluiting bij internationale standaarden en zorg draagt
 voor optimale toepassing in de Nederlandse context.
 
-Belangrijk aandachtspunt daarbij is dat in een situatie van
+Ook in de beheerfase van een standaard is het nuttig aandacht te houden 
+voor internationale standaarden. Wanneer tijdens de adoptiefase geen passende 
+internationale standaard beschikbaar is kan een nationale standaard de enige 
+optie zijn. Maar dat kan veranderen. Een voorbeeld is de Digikoppeling standaard. 
+Digikoppeling omvat een koppelvlakspecificatie met hetzelfde doel en toepassing 
+als het Europese eDelivery wat later vastgesteld is. In het kader van 
+standaardenbeheer zou ervoor gekozen moeten worden de nationale standaard uit 
+te faseren ten gunste van een meer recente  internationale standaard. 
+Ook hier zal een nationaal profiel op de internationale standaard nuttig zijn. 
+Voor de beheerorganisatie resulteert dit in een andere rol. De beheerorganisatie 
+vertegenwoordigt de Nederlandse stakeholders indien nodig in het beheer van de 
+internationale standaard.
+
+Belangrijk aandachtspunt bij internationale standaarden is dat in een situatie van
 bijvoorbeeld een internationale verticale standaard in combinatie met
 een nationaal toepassingsprofiel, dat voor beide een andere naam wordt
 gehanteerd om verwarring in de praktijk voorkomen.
@@ -598,8 +630,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 *   Zaken uit de standaard halen (Ommissions)
 *   Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
-
-![Adoptiepaden van een standaard](images/adoptiepaden_standaard.png "Adoptiepaden van een standaard")
+![Adoptiepaden van een standaard](images/BOMOS-8_Adoptiepaden.png "Adoptiepaden van een standaard")
 
 De strategieën:
 
@@ -781,7 +812,7 @@ tot adoptie van de standaard. Een lage individuele adoptiekans leidt
 doorgaans tot een juridisch middel. Zonder dwang zal een organisatie
 waarschijnlijk niet overgaan tot adoptie van de standaard.
 
-![alt_text](images/adoptiekeuzes.png "Adoptiekeuzes")
+![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco.png "Adoptiekeuzes")
 
 ### Plugfest
 
@@ -989,9 +1020,9 @@ figuren). Daarnaast vindt ook een zeer ruime meerderheid dat een
 verbetering in kwaliteit van hun standaarden zal bijdragen aan betere
 interoperabiliteit.
 
-![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/kwaliteit01.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
+![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
 
-![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/kwaliteit02.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
+![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
 
 #### Wat moet er dan gebeuren?
 
@@ -1206,36 +1237,7 @@ hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete
 instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
 instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-```mermaid
-graph TD;
-    kwaliteit(Kwaliteitsmodel van<br>semantische<br>standaard);
-    product(A. Product<br>kwaliteit);
-    proces(B. Proces<br>kwaliteit);
-    praktijk(C. Kwaliteit in<br>de praktijk);
-    functionaliteit(A1. Functionaliteit);
-    bruikbaarheid(A2. Bruikbaarheid);
-    duurzaamheid(A3. Duurzaamheid);
-    ontwikkeling(B1. Ontwikkeling<br>& onderhoud);
-    communicatie(B2. Communicatie);
-    organisatie(B3. Organisatie);
-    acceptatie(C1. Acceptatie);
-    interoperabiliteit(C2. Inter-<br>operabiliteit);
-    kwaliteit-->product;
-    kwaliteit-->proces;
-    kwaliteit-->praktijk;
-    product-->functionaliteit;
-    product--->bruikbaarheid;
-    product---->duurzaamheid;
-    proces-->ontwikkeling;
-    proces--->communicatie;
-    proces---->organisatie;
-    praktijk-->acceptatie;
-    praktijk--->interoperabiliteit;
-```
-<!-- Buiten figure tags gehaald wegens schalingsprobleem -->
-<figure id="samenvatting_kwaliteitmodel">
-  <figcaption>Samenvatting van het kwaliteitsmodel op een hoog abstractieniveau</figcaption>
-</figure>
+![Kwaliteitsinstrumenten](images/BOMOS-12_Kwaliteitsinstrumenten-blanco.png "Kwaliteitsinstrumenten")
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard 
 te bekijken. Maar het moet wel kosteneffectief worden ingezet. In veel gevallen is het 

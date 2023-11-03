@@ -20,7 +20,7 @@ organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de
 scheiding tussen inhoudelijke activiteiten in de
 uitvoeringsorganisatie en de besluitvorming door het bestuur.
 
-![Organisatiestructuur](images/organisatiestructuur.png "Organisatiestructuur")
+![Organisatiemodel](images/BOMOS-1_Organisatiestructuur-blanco.png "Organisatiesmodel")
 
 Het bestuur geeft opdracht aan een (not-for-profit)
 uitvoeringsorganisatie die verantwoordelijk is voor een groot deel van
@@ -222,7 +222,7 @@ met de namen van de stakeholders/partijen wordt een helder inzicht
 gecreerd in de wereld van deze zorg standaard. (bron voorbeeld: NEN
 7522-2021)
 
-![Voorbeeld van toewijzing rollen aan stakeholders](images/nenactiviteiten3.png "Voorbeeld van toewijzing rollen aan stakeholders")
+![Voorbeeld van toewijzing rollen aan stakeholders](images/BOMOS-16_Toewijzing-rollen-aan-stakeholders-blanco.png "Voorbeeld van toewijzing rollen aan stakeholders")
 </aside>
 
 ### Beheertaken uitvoering
@@ -242,7 +242,7 @@ figuur](#fig-beleggen-van-ontwikkeltaken) noemt hier (andere)
 standaardisatieorganisaties, research-organisaties en
 brancheorganisaties.
 
-![Beleggen van ontwikkeltaken](images/beleggen_ontwikkeltaken.png "Beleggen van ontwikkeltaken")
+![Beleggen van ontwikkeltaken](images/BOMOS-3_Beleggen-van-beheer-en-ontwikkeltaken-blanco.png "Beleggen van ontwikkeltaken")
 
 Het model maakt onderscheid tussen not-for-profit en profit
 organisaties. Dit onderscheid is relevant in het kader van openheid
@@ -296,8 +296,8 @@ commerciële dienstverleners inschakelen. Dat laatste is wel op
 gespannen voet met de openheidprincipes. De eigen organisatie is de
 meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen
 domeinen kennen inmiddels eigen organisaties die kennis hebben van
-zowel het domein als standaardisatie, bijvoorbeeld (Geonovum,
-EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van
+zowel het domein als standaardisatie, bijvoorbeeld Geonovum,
+EduStandaard, CROW, Informatiehuis Water, SETU, etc. Tot de kern van
 hun werk behoren de strategische beheeractiviteiten zoals
 geïdentificeerd in het model, en in grote mate ook de tactische en
 operationele activiteiten. In deze situatie zijn bepaalde activiteiten
@@ -522,7 +522,8 @@ uitgaand van het generieke beheerdocument.
 
 Om de kosten van beheer optimaal inzichtelijk te maken, heeft Geonovum
 op basis van het generieke en het specifieke beheermodel, onlangs ook
-een [BOMOS rekenmodel](https://www.geonovum.nl/over-geonovum/actueel/transparantie-in-ontwikkeling-en-beheer-standaarden) ontwikkeld. Op basis van een reeds bekende en
+een [BOMOS rekenmodel](https://www.geonovum.nl/documents/geonovum-bomos-rekenmodel-publiek-v20zip) 
+ontwikkeld. Op basis van een reeds bekende en
 beheerde standaard is de benodigde basis inzet berekend. Deze basis
 gebruiken we vervolgens om een gerichte inschatting te kunnen maken
 van meer- en minderwerk zoals beschreven in het specifieke
@@ -858,7 +859,7 @@ voorkomt, maar voor de toekomst niet uitgesloten moet worden is de
 donatie. Vooral structurele donaties zijn een prettige
 financieringsvorm. Dit leidt tot het volgende model:
 
-![Opbrengstenmodel](images/opbrengstenmodel.png "Opbrengstenmodel")
+![Opbrengstenmodel](images/BOMOS-4_Opbrengstmodel-blanco.png "Opbrengstenmodel")
 
 Overigens zijn de kosten van het beheren van een standaard ook niet
 gelijk door de jaren heen. Sommige kostenposten kunnen flink
@@ -1036,7 +1037,7 @@ situatie naar de toekomstscenario's duidelijk zijn.
 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
-![Scenarios juweliersbranche](images/scenarios-juweliers.png "Scenarios juweliersbranche")
+![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco.png "Scenarios juweliersbranche")
 
 #### Stap 2 - Bepaal de kosten en baten in de keten op basis van het raamwerk.
 
@@ -1047,7 +1048,7 @@ zal dat redelijk gelijk zijn, vandaar dat gestart kan worden met het
 model uit de juweliersbranche, en deze vervolgens aan te passen waar
 nodig. Het model uit de juweliersbranche is hieronder weergegeven.
 
-![Batenmodel juweliersbranche](images/model-juweliers.png "Batenmodel juweliersbranche")
+![Batenmodel juweliersbranche](images/BOMOS-6_Batenmodel-juweliersbranche-blanco.png "Batenmodel juweliersbranche")
 
 #### Stap 3- Verdeel de kosten en baten naar verschillende stakeholders.
 
