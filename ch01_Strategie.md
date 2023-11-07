@@ -360,7 +360,7 @@ domein standaardisatie organisatie worden opgepakt en andere taken
 door ander type organisaties, conform de beschrijving in deze
 paragraaf over het uitbesteden van taken.
 
-<aside class="example" title="Edustandaard">"
+<aside class="example" title="Edustandaard">
 Edustandaard is een platform waar alle publieke en private partijen binnen
 het onderwijsveld bij elkaar komen om afspraken te maken. Deze afspraken 
 gaan bijvoorbeeld over het vindbaar maken van digitaal leermateriaal, of 

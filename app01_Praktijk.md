@@ -17,7 +17,7 @@ Meer info: [Architectuurraad](https://www.edustandaard.nl/architectuurraad/)
 #### Edustandaard Expertgroepen
 Edustandaard is een netwerkorganisatie die samenwerkt met ketenpartijen in het onderwijs, zoals Kennisnet, SURF, het ministerie van OCW, de Dienst Uitvoering Onderwijs, onderwijsinstellingen, uitgevers en leveranciers van software voor het onderwijs. Die samenwerking krijgt gestalte door verschillende expertgroepen met elk een andere rol. Edustandaard volgt hierbij de globale organisatiestructuur van BOMOS. Er zijn vier soorten expertgroepen binnen Edustandaard: adviesorgaan, bestuur, uitvoeringsorganisatie en werkgroep.
 
-In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang). Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
+In een Edustandaard werkgroep vindt de ontwikkeling, het beheer en de ondersteuning van het gebruik van afspraken (standaarden) plaats. Er zijn meer dan 15 Edustandaard werkgroepen actief. Er zijn ook werkgroepen die zich richten op specifieke onderdelen van de ROSA, zoals de werkgroep Toegang. Edustandaard kent 2 adviesorganen, namelijk de Architectuurraad en het QA-team (QA = quality assurance). De Architectuurraad is het inhoudelijke adviesorgaan over ketenarchitectuur en standaarden (afspraken) op basis van de ROSA; het QA-team adviseert over de backlog en de roadmap van de ROSA. Bureau Edustandaard vormt de uitvoeringsorganisatie, daaronder valt ook het ROSA Beheerteam.
 
 Meer info: [Werkgroepen](https://www.edustandaard.nl/standaard_werkgroepen/)
 
@@ -50,8 +50,8 @@ CROW heeft de beheerorganisatie van het IMBOR daarom opgebouwd uit de volgende g
   wijzigingen van het IMBOR en adviseert CROW over het beheer en de doorontwikkeling van het IMBOR.
 - Klankbordgroep softwareleveranciers: adviseert CROW over de toepasbaarheid van 
   het IMBOR voor beheerdatabases/beheerpakketten, assetmanagementapplicaties en dashboards, 
-  en bevordert de implementatie door het IMBOR via hun software toepasbaar te maken bij 
-  eindgebruikers.
+  en bevordert de implementatie door het IMBOR via hun software toepasbaar te 
+  maken bij eindgebruikers.
 - Diverse vakinhoudelijke expertgroepen: per vakgebied een groep deskundigen die 
   adviseert welke informatie bij objecten moet worden opgeslagen.
 - Gebruikerscomité: adviseert CROW over de toepasbaarheid van het IMBOR door 
