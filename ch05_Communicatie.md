@@ -16,7 +16,7 @@ Een ander belangrijk onderdeel van communicatie is de publicatie-aanpak. Het is 
 Goede voorbeelden zijn:
 
 | Standaard                                      | Publicatiewijze                                 |
-| :--- | :--- |
+| --- | --- |
 | SETU                                           | Semantic Treehouse (webapplicatie)              |
 | Het Metamodel voor informatiemodellering (MIM) | Respec (Javascript library voor W3C-stijl HTML) |
 | API Design Rules                               | Respec (Javascript library voor W3C-stijl HTML) |

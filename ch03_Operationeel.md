@@ -61,7 +61,7 @@ Bij de beoordeling en besluitvorming moet gekeken worden naar tal van aspecten:
 Werkgroepen zijn een belangrijk instrument voor het verzamelen, voorbereiden en beoordelen van wijzigingsverzoeken. Ondanks openheid kan om praktische redenen de deelname aan werkgroepen gelimiteerd zijn. Daarbij wordt vaak onderscheid gemaakt in type stakeholder, mede omdat het verstandig is dat de werkgroep een goede afspiegeling bevat van de stakeholders. NEN gebruikt hiervoor een stakeholderanalyse waarin de stakeholders worden geïdentificeerd door gebruik te maken van een generieke waardeketen. Deze zijn de volgende:  
 
 |       | Stakeholders | Omschrijving |
-| :---: | :--- | :--- |
+| --- | --- | --- |
 | 1a | Directe gebruikers | Eindgebruiker van dienst, proces of product |
 | 1b | Brancheorganisaties directe gebruikers | Als groep, in de vorm van belangenorganisaties |
 | 2a | Voorwaarde scheppende organisaties / opdrachtgevers | Organisaties die de voorwaarden bepalen waaraan het product of dienst moet voldoen. Bijv. opdrachtgevers. Wetmatige voorwaarden worden door wetgevende instanties bepaald (zie onder 9). |
