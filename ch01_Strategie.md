@@ -15,7 +15,7 @@ organisaties. Het regelen van besluitvorming is cruciaal.
 In het BOMOS activiteitendiagram zijn de verschillende activiteiten
 opgesomd die kunnen plaatsvinden in een
 standaardisatiegemeenschap. [Onderstaande
-figuur](#fig-organisatiestructuur) schetst een globale
+figuur](#fig-organisatiesmodel) schetst een globale
 organisatiestructuur hiervoor. Een belangrijk uitgangspunt is de
 scheiding tussen inhoudelijke activiteiten in de
 uitvoeringsorganisatie en de besluitvorming door het bestuur.
@@ -148,7 +148,7 @@ werkgroepen waardoor het zeker aan te raden is om leveranciers toegang
 tot de werkgroepen te verlenen. Vaak heerst er angst dat leveranciers
 te nadrukkelijk een stempel gaan drukken op de standaard. Een aparte
 leveranciersgroep zoals aangegeven in [bovenstaande
-figuur](#fig-organisatiestructuur) is dan een optie waarmee de
+figuur](#fig-organisatiesmodel) is dan een optie waarmee de
 leveranciers enerzijds een platform wordt geboden terwijl ze
 anderzijds buiten de werkgroepen en bestuur kunnen worden
 gehouden. Softwareleveranciers zijn dan verenigd in een
