@@ -33,10 +33,8 @@ var respecConfig = {
   pubDomain: "bomos",
   publishDate: "2023-11-02",
   publishVersion: "3.0.1",
-
-
   shortName: "verdieping",
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "HR",
 
   postProcess: [window.respecMermaid.createFigures],
