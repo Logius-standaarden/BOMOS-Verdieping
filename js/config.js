@@ -4,13 +4,13 @@ var respecConfig = {
         "uri" : "BOMOS-Verdieping.pdf"
       } ],
   authors: [ { 
-        "company" : "Universiteit Twente",
+        "company" : "HAN University of Applied Sciences",
         "companyURL" : "https://www.utwente.nl/",
         "name" : "Erwin Folmer"
       } ],
   editors: [ 
       { 
-        "company" : "Universiteit Twente",
+        "company" : "HAN University of Applied Sciences",
         "companyURL" : "https://www.utwente.nl/",
         "name" : "Erwin Folmer"
       },
