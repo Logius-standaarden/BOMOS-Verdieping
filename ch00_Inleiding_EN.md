@@ -1,6 +1,6 @@
 # Introduction
 The BOMOS Substantiation discusses the components that make up BOMOS. In addition to operational, tactical and strategic layers, it also deals with implementation support and communication.
-The BOMOS documentation is divided into various sections (see [BOMOS structure](#structuur-bomos)).
+The BOMOS documentation is divided into various sections (see [[[#bomos-structure]]]).
 
 ## Purpose
 The purpose of this publication is to assist organisations in compiling and improving the management of standards. This publication provides answers among others to the following questions:
@@ -13,24 +13,24 @@ Thes specific questions were the original reason for drawing up the Management a
 
 ## BOMOS structure
 BOMOS consists of:
-* [BOMOS Part 1: The Foundation](https://logius-standaarden.github.io/BOMOS-Fundament)
+* BOMOS Part 1: [The Foundation](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/)
 * BOMOS Part 2: The Substantiation (this document)
-* BOMOS Supplementary modules: [Linked Data](https://logius-standaarden.github.io/BOMOS-LinkedData) en [Stelsels](https://logius-standaarden.github.io/BOMOS-Stelsels)
+* BOMOS Supplementary modules: [Linked Data](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/) en [Stelsels](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/)
 
-The heart of BOMOS is the [Foundation](https://logius-standaarden.github.io/BOMOS-Fundament). This consists of a basic description of the Management and Development Model and a further elaboration based on literature and experiences gained in practice.  In essence, the Management and Development Model is an activity diagram which also offers a definition of the roles relevant in the process of managing and developing standards.
+The heart of BOMOS is the [Foundation](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/). This consists of a basic description of the Management and Development Model and a further elaboration based on literature and experiences gained in practice.  In essence, the Management and Development Model is an activity diagram which also offers a definition of the roles relevant in the process of managing and developing standards.
 
-The _Substantiation (this document) offers further insight in particular by sharing best practices from the world of standardisation.
+The _Substantiation_ (this document) offers further insight in particular by sharing best practices from the world of standardisation.
 
 Together Part 1 and Part 2 form the basis for BOMOS.
 
 On top of this basic structure, the community has produced a number of BOMOS expansions which can be useful in deploying BOMOS in concrete situations, some of which may involve a slightly different context. We refer to these as the BOMOS Supplementary Modules or a Body of Knowledge, which will remain dynamic over time.
 
-When we talk about BOMOS, what we are actually referring to is the basis as described in [Part 1](https://logius-standaarden.github.io/BOMOS-Fundament) and Part 2. Although the supplementary modules are clearly linked to BOMOS, they have their own governance, which can result in their being given their own name, their own target group, their own management system, etc. The [BOMOS management process](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/#het-beheer-en-ontwikkelmodel-onderwerpen-voor-ontwikkeling-en-beheer) also describes the requirements that are imposed before something can be added as a BOMOS supplementary module.
+When we talk about BOMOS, what we are actually referring to is the basis as described in [Part 1](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/) and Part 2. Although the supplementary modules are clearly linked to BOMOS, they have their own governance, which can result in their being given their own name, their own target group, their own management system, etc. The [BOMOS management process](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#the-management-and-development-model-design-for-development-and-management) also describes the requirements that are imposed before something can be added as a BOMOS supplementary module.
 
  The first two supplementary modules are:
--	[Linked Data & Ontologieën](https://logius-standaarden.github.io/BOMOS-LinkedData):
+-	[Linked Data & Ontologieën](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/):
   the specific use of Linked Data for sematic standards.
--	Structure for [BOMOS for the management of trust framework](https://logius- standaarden.github.io/BOMOS-Stelsels): the use of BOMOS in the specific situation governing trust frameworks.
+-	Structure for [BOMOS for the management of trust framework](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/): the use of BOMOS in the specific situation governing trust frameworks.
 
 ## Reading guide
 If from your policy making or administrative role you are only interested in the primary level, the foundation (part 1) will offer sufficient
