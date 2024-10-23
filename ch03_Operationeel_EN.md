@@ -109,7 +109,7 @@ This must be recognised in the change process. There are three aspects:
 
 The relationship with other standards is discussed in more detail in section 3.2 Architecture.
 
-### Examples from operational practice
+## Examples from operational practice
 
 ### Pressure Cooker - a standard for the waste sector within one week
 
