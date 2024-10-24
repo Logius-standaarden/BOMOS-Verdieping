@@ -1,6 +1,6 @@
 # Introduction
 The BOMOS Substantiation discusses the components that make up BOMOS. In addition to operational, tactical and strategic layers, it also deals with implementation support and communication.
-The BOMOS documentation is divided into various sections (see [[[#bomos-structure]]]).
+The BOMOS documentation is divided into various sections (see [BOMOS-structure](#bomos-structure)).
 
 ## Purpose
 The purpose of this publication is to assist organisations in compiling and improving the management of standards. This publication provides answers among others to the following questions:
@@ -28,7 +28,7 @@ On top of this basic structure, the community has produced a number of BOMOS exp
 When we talk about BOMOS, what we are actually referring to is the basis as described in [Part 1](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/) and Part 2. Although the supplementary modules are clearly linked to BOMOS, they have their own governance, which can result in their being given their own name, their own target group, their own management system, etc. The [BOMOS management process](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#the-management-and-development-model-design-for-development-and-management) also describes the requirements that are imposed before something can be added as a BOMOS supplementary module.
 
  The first two supplementary modules are:
--	[Linked Data & Ontologieën](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/):
+-	[Linked Data & Ontologies](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/en/):
   the specific use of Linked Data for sematic standards.
 -	Structure for [BOMOS for the management of trust framework](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/): the use of BOMOS in the specific situation governing trust frameworks.
 
