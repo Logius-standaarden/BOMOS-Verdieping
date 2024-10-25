@@ -289,7 +289,7 @@ Once a standard reaches a high degree of maturity, characterised by broad adopti
 
 In summary, service provision will be a source of income that as the standard becomes more mature will offer more opportunities for generating income. A source of income that does not occur commonly but which should not be excluded in the future is the donation. Above all structural donations are an attractive form of funding. This results in the following model:
 
-![Opbrengstenmodel](images/BOMOS-4_Opbrengstmodel-blanco.png "Opbrengstenmodel")
+![Model for benefits](images/BOMOS-4_Opbrengstmodel-blanco_EN.png "Model for benefits")
 
 It should be remembered that the costs of managing a standard also change over time. Certain cost items can change considerably. Today we se such items as tactical management rising steadily, above all due to the relationships between the numerous (international) standards that require harmonisation. If a standard is successfully adopted, another item like implementation support can also rise considerably.
 
@@ -322,7 +322,7 @@ The different standardisation organisations in each sector also have a tendency 
 | Review of the standard | Efficient review process and use of templates for gathering comments. |
 | Adoption of the standard | Online tools for voting. |
 
-Savings achieved through innovative approaches to the development process can also be a pitfall. Face-to-face meetings are a large cost item. Savings on this particular item can often be achieved via online options such as online videoconferencing, forums, mailing lists, etc. In particular, the open source community believes that face-to-face meetings have become surplus to requirement and that asynchronous communication should be sufficient, also to allow worldwide operation, in all time zones. However, developing open source software is not the same thing as open standard development. In other words, using the same process represents a pitfall. Standards often involve complex material and functionality, in which mutual understanding and trust are of key importance. Direct face-to-face communication is essential. During the COVID pandemic, online developments advanced rapidly and became accepted; it is of course sensible to benefit from these changes. Efficiency means ensuring the correct balance between face-to-face and online meetings, and use of other online tools for communication and dealing with technical issues. In other words, innovative development approaches such as [de pressure cooker en gebruik van het Web](#voorbeelden-uit-de-operationele-praktijk) can generate savings, but will never replace costly face-to-face meetings. 
+Savings achieved through innovative approaches to the development process can also be a pitfall. Face-to-face meetings are a large cost item. Savings on this particular item can often be achieved via online options such as online videoconferencing, forums, mailing lists, etc. In particular, the open source community believes that face-to-face meetings have become surplus to requirement and that asynchronous communication should be sufficient, also to allow worldwide operation, in all time zones. However, developing open source software is not the same thing as open standard development. In other words, using the same process represents a pitfall. Standards often involve complex material and functionality, in which mutual understanding and trust are of key importance. Direct face-to-face communication is essential. During the COVID pandemic, online developments advanced rapidly and became accepted; it is of course sensible to benefit from these changes. Efficiency means ensuring the correct balance between face-to-face and online meetings, and use of other online tools for communication and dealing with technical issues. In other words, innovative development approaches such as [the pressure cooker about the Web](#voorbeelden-uit-de-operationele-praktijk) can generate savings, but will never replace costly face-to-face meetings. 
 ### The business case
 
 The business case for standardisation is a commonly discussed issue. Before the decision to invest is taken, an understanding of the business case must be gained. In reality it involves a number of different business cases:
@@ -356,13 +356,13 @@ The next step is to analyse the current situation; what are the starting positio
 
 This is demonstrated in the figure for the primary stakeholder, the jeweller, in this example. Of course the intention of the implementation is to ensure that as many parties as possible arrive at future scenario 1 or 2, and start to use the standard.
 
-![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco.png "Scenarios juweliersbranche")
+![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios juweliersbranche")
 
 #### Step 2 - Determine the costs and benefits in the chain based on the framework.
 
 In step 2, a cost-benefit model is drawn up. In generic terms, what are the one-off investments, the operating costs and the benefits in relation to the standard? For many standards they will be relatively equal. This makes it possible to start with the model from the jewellery sector, in which the necessary adjustments can be made. The model for the jewellery sector is reproduced below.
 
-![Batenmodel juweliersbranche](images/BOMOS-6_Batenmodel-juweliersbranche-blanco.png "Batenmodel juweliersbranche")
+![Benefits jewelers sector](images/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits juwelers sector")
 
 #### Step 3 - Allocate the costs and benefits to the various stakeholders.
 
