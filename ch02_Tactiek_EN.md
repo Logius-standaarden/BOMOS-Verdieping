@@ -371,7 +371,7 @@ Where there is a high likelihood of individual adoption, the best choice is gene
 
 As a rule, an average likelihood of individual adoption will result in a financial tool. The organisation needs a gentle nudge to encourage adoption of the standard. Where the likelihood of individual adoption is low, the most successful choice is a legal tool. Unless required to do so, the organisation is unlikely to take the decision to adopt the standard.
 
-![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco.png "Adoptiekeuzes")
+![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco_EN.png "Adoptiekeuzes")
 
 ### Plugfest
 
@@ -464,9 +464,9 @@ Some of these suggestions are more strategic in nature (e.g. transforming Floric
 
 A study among 37 management organisations for standards (including international standards such as XBRL, HR-XML, ACORD and HL7 and national standards such as SETU, StUF and Aquo) reveals that more than 90 percent of the consulted developers of standards believe that the quality of their standard can be improved (see the figures below). A very large majority also believes that improving the quality of their standards would contribute to better interoperability.
 
-![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
+![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces_EN.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
 
-![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
+![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit_EN.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
 
 #### So what needs to be done?
 
@@ -486,7 +486,7 @@ The quality model we offer with BOMOS is based on the PhD research work of Erwin
 
 The quality model as presented here is not the complete quality model. The complete quality model goes one level deeper with quality concepts, as well as providing suggestions for conducting the measurements, right through to a process model for the use of the quality model, so it can be deployed as an instrument. The complete quality model (and instrument) are part of the thesis [[[folmer2012]]].
 
-<figure id="kwaliteitmodel">
+<figure id="qualitymodel">
 
 ```mermaid
 graph TD;
@@ -494,9 +494,9 @@ graph TD;
     product(A. Product quality);
     process(B. Process quality);
     practice(C. Quality in practice);
-    standard((Maatregel in<br>inhoud,<br><i>de standaard</i>));
-    organisation((Maatregel in<br>ontwikkeling en<br>onderhoud,<br><i>de organisatie</i>));
-    implementation((Maatregel in<br>toepassing,<br><i>de implementatie</i>));
+    standard((Measure within<br>content<br><i>the standard</i>));
+    organisation((Measure in<br>development and<br>maintenance<br><i>de organisatie</i>));
+    implementation((Measure in<br>application,<br><i>de implementatie</i>));
     quality-->product;
     quality-->process;
     quality-->practice;
@@ -601,7 +601,7 @@ The relationship between interoperability and standards is that of the end and t
 
 The quality model summarised in the figure below can be a valuable tool in that process. If you choose to use it, we strongly recommend studying the complete instrument [[[folmer2012]]], and even considering preparing a tailor-made instrument by making a careful selection from the quality model. 
 
-![Kwaliteitsinstrumenten](images/BOMOS-12_Kwaliteitsinstrumenten-blanco.png "Kwaliteitsinstrumenten")
+![Kwaliteitsinstrumenten](images/BOMOS-12_Kwaliteitsinstrumenten-blanco_EN.png "Kwaliteitsinstrumenten")
 
 The quality model is a starting point to be used for evaluating the quality of a standard. Nevertheless, the model must be deployed in a cost-effective manner. In many cases, the wish is to carry out a quality measurement in just a few hours. In that case, the costs are fairly limited and the benefits will quickly exceed the costs. 
 
