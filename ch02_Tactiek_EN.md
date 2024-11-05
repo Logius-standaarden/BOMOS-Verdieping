@@ -716,7 +716,7 @@ An advantage but at the same time a disadvantage of certification is the impact 
 
 Validation can above all be used for realising the interoperability objective and is something that is already commonly used by many management organisations. The appropriate tooling is available, with few obstacles.
 
-A plugfest can be used to demonstrate interoperability in the chain by showing that the multiple systems that are plugged together are able to cooperate. A plugfest which is organised in order to encourage adoption is a public demonstration of interoperability by multiple suppliers, as well as being a form of public validation in which the results are a form of certification; at the end of the day, the winner will broadcast the victory in its commercial messages. The objective of both certification and the plugfest is to generate transparency for the market, with a view to setting the market in motion. At the same time, a plugfest can also be used for an interoperability objective. In this case, the plugfest takes on a closed character and the results are not published. [Voor meer informatie over plugfests zie sectie Plugfest](#plugfest).
+A plugfest can be used to demonstrate interoperability in the chain by showing that the multiple systems that are plugged together are able to cooperate. A plugfest which is organised in order to encourage adoption is a public demonstration of interoperability by multiple suppliers, as well as being a form of public validation in which the results are a form of certification; at the end of the day, the winner will broadcast the victory in its commercial messages. The objective of both certification and the plugfest is to generate transparency for the market, with a view to setting the market in motion. At the same time, a plugfest can also be used for an interoperability objective. In this case, the plugfest takes on a closed character and the results are not published. [For more information see section Plugfest](#plugfest).
 
 Validation also considers individual systems but without the objective of creating transparency for the market. The objective here is to provide support to organisations and projects. A final option is to organise pilot projects to test interoperability in the chain.
 
@@ -726,10 +726,10 @@ Validation also considers individual systems but without the objective of creati
 The majority of management organisations offer tools for validating the use of standards for example:
 
 * Geonovum:  
-  [Validatie services van Geonovum](http://validatie.geostandaarden.nl/)
+  [Validation services of Geonovum](http://validatie.geostandaarden.nl/)
 
 * Kennisnet:  
-  [Edustandaard Testvoorziening](https://testvoorziening.edustandaard.nl/)
+  [Edustandaard Testservice](https://testvoorziening.edustandaard.nl/)
 * SETU:  
   [SETU Support tool](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
 (only available to participants in SETU).
