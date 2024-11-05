@@ -123,7 +123,6 @@ There is a risk that this accelerated process will be to the detriment of qualit
 
 An important first yardstick is the review process; if it emerges during the review process that many fundamental choices need to be rediscussed, and those choices lead to changes to the intended standard, this is not a positive indicator for the quality of the standard under review. It should however be remembered that the first version of a standard is never perfect. New insights are always discovered during implementations, and errors regularly emerge whether the pressure cooker method is used or not. At the end of the day, a perfect standard is not the objective: instead, a workable standard that helps solve problems.
 
-Learning points:
 Important learning points are:
 - A pressure cooker is an excellent tool for efficiently developing a standard. 
   The quality still has to be proven, but there is a clear impression that the quality of the working group is decisive 
