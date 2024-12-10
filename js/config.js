@@ -1,7 +1,7 @@
 var respecConfig = {
   alternateFormats: [ { 
         "label" : "pdf",
-        "uri" : "BOMOS-Substantiation.pdf"
+        "uri" : "BOMOS-Elaboration.pdf"
       } ],
   authors: [ { 
         "company" : "HAN University of Applied Sciences",
