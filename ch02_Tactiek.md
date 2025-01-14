@@ -211,17 +211,17 @@ open manier in te vullen.
 |   |              |                                                      | 2 |  Bereikbare vergaderlocaties | Vergaderlocaties worden zodanig gekozen dat reiskosten voor iedereen geminimaliseerd zijn | 0/1/2 |
 |   |              |                                                      | 3 | Open voor iedereen | Elke organisatie of persoon kan in principe participeren in de ontwikkeling van de standaard | 0/1/2 |
 |   |              |                                                      | 4 | Open kalender | Is de vergaderagenda  online beschikbaar en actueel? Ruim van tevoren? | 0/1/2 |
-| 2 | Consensus | De basis van een standaard is consensus | 1 | Open proces | The proces van standaardisatie is openbaar zodat er voor iedereen duidelijk is hoe zken besloten zijn | 0/1/2 |
+| 2 | Consensus | De basis van een standaard is consensus | 1 | Open proces | Het proces van standaardisatie is openbaar zodat er voor iedereen duidelijk is hoe zaken besloten zijn | 0/1/2 |
 |   |           |                                         | 2 | Procedure bij geen consensus | Er is een procedure voor het geval geen consensus bereikt kan worden | 0/1/2 |
 |   |           |                                         | 3 | Gelijke stem | Alle stakeholders hebben in de besluitvorming een even grote stem. Dit voorkomt de aanwezigheid van dominante stakeholders. | 0/1/2 |
-|   |           |                                         | 4 | Externe review | De resultaten van de standaardisatie-bijeenkomsten worden gepubliceerd waardoor externe organisaties en personen de mogelijkheid hebben om resultaten te reviewen. Dit ook omm kwaliteit te verhogen. | 0/1/2 |
+|   |           |                                         | 4 | Externe review | De resultaten van de standaardisatie-bijeenkomsten worden gepubliceerd waardoor externe organisaties en personen de mogelijkheid hebben om resultaten te reviewen. Dit ook om kwaliteit te verhogen. | 0/1/2 |
 | 3 | Eerlijk standaardisatieproces | Vastgelegde procedures om gedurende het standaardisatieproces consensus te garanderen | 1 | Open agenda | Voor elke stakeholder is het mogelijk om agendapunten aan te leveren | 0/1/2 |
 |   |   |   | 2 | Procesmanagement          | Is er sprake van een reglement waarin de procedures en protocollen van het standaardisatieproces zijn vastgelegd (manier van stemmen, beroepsmogelijkheden etc.) | 0/1/2 |
 |   |   |   | 3 | Onafhankelijke voorzitter | Worden de standaardisatiebijeenkomsten door een onafhankelijk persoon voorgezeten zodat de belangen van alle stakeholders de juiste aandacht krijgen? | 0/1/2 |
 |   |   |   | 4 | Mogelijkheid tot beroep   | Wanneer men ontevreden is over de besluitvorming in een standaardisatiebijeenkomst is er de mogelijkheid om een klacht in te dienen bij een hoger orgaan? Dit orgaan bekijkt de situatie en heeft de bevoegdheid om in te grijpen | 0/1/2 |
 | 4 | Open IPR | Intellectuele eigendomsrechten m.b.t. standaard zijn zo open mogelijk | 1 | Rechten gepubliceerd | De manier waarop juridische zaken rondom de standaard zijn geregeld dient openbaar te zijn | 0/1/2 |
 |   |   |   | 2 | Juridische belemmeringen | Hoe minder juridische belemmeringenvoor het gebruik van de standaard, hoe opener de standaard is | 0/1/2 |
-|   |   |   | 3 | Wederzijdse licenties | Op aanpassingenvan de standaard rusten automatisch dezelfde licenties als op het origineel, zodat aangepaste standaarden niet voorzien kunnen worden van allerlei juridische belemmeringen | 0/1/2 |
+|   |   |   | 3 | Wederzijdse licenties | Op aanpassingen van de standaard rusten automatisch dezelfde licenties als op het origineel, zodat aangepaste standaarden niet voorzien kunnen worden van allerlei juridische belemmeringen | 0/1/2 |
 | 5 | One world | De standaard kan voor hetzelfde doel wereldwijd gebruikt worden | 1 | Harmonisatie | In hoeverre sluit de standaard aan op gerelateerde standaarden? | 0/1/2 |
 |   |   |   | 2 | Lokatie onafhankelijkheid | In hoeverre bevat de standaard elementen die uniek zijn voor een specifieke geografische lokatie? Een open standaard dient zo min mogelijk van dit soort elementen te bevatten zodat de toepasbaarheid groter wordt | 0/1/2 |
 | 6 | Open documenten | Documenten m.b.t. de standaard zijn openbaar | 1 | Open concepten | De concept-documenten met betrekking tot de standaard zijn openbaar | 0/1/2 |
@@ -996,7 +996,8 @@ impact hebben op de kwaliteit; op zijn minst zal de kwaliteit daardoor
 sterk verschillen per semantische standaard.
 
 <aside class="example" title="Floricode">
-[Floricode](https://www.floricode.com/) heeft dit kwaliteitsinstrument 
+
+[Floricode](https://www.floricode.com/) heeft dit kwaliteitsinstrument
 toegepast om 1 van hun standaarden in de praktijk naar een hoger 
 kwalitatief niveau te brengen. Het leverde een uitgebreide analyse op, 
 waarvan 4 pagina’s aan verbetersuggesties. 
@@ -1467,22 +1468,23 @@ plek is ingevuld. Immers als Amsterdam de waarde is van het element
 'Achternaam' en 'Jansen' de waarde van het element 'Woonplaats', dan
 zal dit technisch prima valideren (tenzij woonplaats een waarde moet
 bevatten uit een lijst), maar toch voldoet het hoogstwaarschijnlijk
-niet aan de standaard. Deze semantische validatie is een lastig uit te
+niet aan de standaard. Deze semantische validatie is lastig uit te
 voeren. Voorgaand voorbeeld was misschien helder, maar stel dat het
 zou gaan om de elementen 'geboorteplaats' en 'woonplaats', dan is
 correct gebruik niet te controleren zonder bewijsstukken of iets
 dergelijks. Nu JSON dominant als uitwisselingsformaat defacto
 standaard is geworden kan validatie plaatsvinden door middel van SHACL
-validatiergels.
+validatieregels.
 
 <aside class="example" title="Validatie van GWSW">
+
 De kwaliteit van gemeentelijke data op het gebied van stedelijk water 
 en de daarvoor benodigde infrastructuur is een belangrijk aandachtpunt 
 in het vakgebied. Bronhouders kunnen de basiskwaliteit van een 
 rioleringsbestand controleren ten opzichte van in het 
 Gegevenswoordenboek Stedelijk Water vastgelegde conformiteitsklassen 
 (elke toepassing heeft eigen eisen). De generieke applicatie Nulmeting 
-is vrij beschikbaar op de [GWSW-server](https://apps.gwsw.nl). Aangezien 
+is vrij beschikbaar op de [GWSW-server](https://apps.gwsw.nl). Aangezien
 rioleringsgegevens conform de GWSW-standaard in RDF (linked data) 
 uitgedrukt zijn, vindt de kwaliteitsmeting plaats met behulp van SHACL 
 (Shapes Constraint Language).
