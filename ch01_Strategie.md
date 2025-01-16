@@ -689,7 +689,7 @@ betalen voor het standaardisatiedocument, ongeacht het bedrag. Dit is
 wel het huidige business model dat het NEN hanteert voor haar
 normen. Ook in het kader van openheid (zie hoofdstuk 8) is het niet
 verstandig om geld te vragen voor de documenten. 
-oe beperkt het bedrag ook moge zijn, de standaarden worden
+Hoe beperkt het bedrag ook moge zijn, de standaarden worden
 er op zijn minst minder open door. In de praktijk worden dan ook
 regelmatig draft versies van deze standaarden gebruikt, omdat deze nog
 gratis verspreid mogen worden.
