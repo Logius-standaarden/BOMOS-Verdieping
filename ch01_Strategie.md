@@ -680,15 +680,16 @@ voor opname op de pas-toe of leg-uit lijst met open standaarden van
 het Forum Standaardisatie.
 
 Andere potentiële opbrengsten zijn gerelateerd aan de standaard
-zelf. Het is mogelijk om geld te vragen voor zowel het downloaden van
-de documenten met specificaties, of het kan gekoppeld worden aan het
-gebruik van de standaard. Beide vormen zijn niet bevorderlijk voor de
-adoptie van de standaard. In de praktijk is veel weerstand tegen het
+zelf. Het is mogelijk om een nominale bijdrage te vragen voor zowel het downloaden van
+de documenten met specificaties, alsook voor het verlenen van een afzonderlijk 
+recht om die specificatiedocumenten vervolgens te mogen kopiëren, aan derden 
+beschikbaar te stellen, en te laten gebruiken. 
+In de praktijk is veel weerstand tegen het
 betalen voor het standaardisatiedocument, ongeacht het bedrag. Dit is
 wel het huidige business model dat het NEN hanteert voor haar
 normen. Ook in het kader van openheid (zie hoofdstuk 8) is het niet
-verstandig om geld te vragen voor de documenten of het gebruik van de
-standaard. Hoe beperkt het bedrag ook moge zijn, de standaarden worden
+verstandig om geld te vragen voor de documenten. 
+Hoe beperkt het bedrag ook moge zijn, de standaarden worden
 er op zijn minst minder open door. In de praktijk worden dan ook
 regelmatig draft versies van deze standaarden gebruikt, omdat deze nog
 gratis verspreid mogen worden.
