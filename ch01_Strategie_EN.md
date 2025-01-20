@@ -358,13 +358,13 @@ The next step is to analyse the current situation; what are the starting positio
 
 This is demonstrated in the figure for the primary stakeholder, the jeweller, in this example. Of course the intention of the implementation is to ensure that as many parties as possible arrive at future scenario 1 or 2, and start to use the standard.
 
-![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios juweliersbranche")
+![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios jewellery sector")
 
 #### Step 2 - Determine the costs and benefits in the chain based on the framework.
 
 In step 2, a cost-benefit model is drawn up. In generic terms, what are the one-off investments, the operating costs and the benefits in relation to the standard? For many standards they will be relatively equal. This makes it possible to start with the model from the jewellery sector, in which the necessary adjustments can be made. The model for the jewellery sector is reproduced below.
 
-![Benefits jewelers sector](images/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits juwelers sector")
+![Benefits jewelers sector](images/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits jewellery sector")
 
 #### Step 3 - Allocate the costs and benefits to the various stakeholders.
 
