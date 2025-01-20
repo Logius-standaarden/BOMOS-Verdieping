@@ -124,7 +124,7 @@ A complex set of standards is needed to achieve interoperability (exchangeabilit
 
 When it comes to achieving technical interoperability, choices will have to be made. In many cases, a technical philosophy is chosen, which relates to a family of standards; In truth, there are not many possible choices. For example the internet is the most obvious communication mechanism based on the standards TCP/IP, HTTP, etc. When it comes to the messaging (transport) mechanism, there may be more choice, but for some time the obvious choice has been the Web Services family, whereby REST APIs have recently de facto become the standard. The choice of Web services brings with it a choice in favour of individual standards (such as SOAP, WSDL, etc.). It should however be remembered that it is not enough to simply opt for these technical standards. To achieve real interoperability, other profiles are generally also needed over and above these standards, which describe how the options should be structured within the standards. Although not domain specific as such, the structure is often created for each domain, above all as a means of offering users a complete interoperability solution in combination with the semantic standards.
 
-<aside class="example" title="Gelaagdheid bij standaardisatie van e-facturatie">
+<aside class="example" title="Stratification of standards concerning electronic invoicing">
 The stratification of standards is excellently demonstrated in the Standardisation Platform E-invoicing (STPE). In this case, the standard in question is the EN 16931: a European standard that describes a semantic model for the core invoice (Common Semantics). This model is expressed in two Horizontal Languages: UBL and UN/CEFACT Cross Industry Invoice (CII). Both of these languages are built on XML as Common Syntax. The EN 16931 standard issues no statements about how the Technical Interoperability should be structured. 
 
 In semantic terms, the stratification does not end with the European core invoice. In the Netherlands, a national profile of the EN 16931 standard has been specified, to promote use of the standard in the Netherlands: the  NL-CIUS (Core Invoice Usage Specification). There are even sectoral associations which in turn further specify the NLCIUS. The SETU Invoice for example is a further layer on top of the NLCIUS with a number of restrictions and instructions aimed at promoting the use of the invoice standard in the temporary employment domain.
@@ -147,7 +147,7 @@ In other words, it is advisable when managing a stratified standard to actively 
 
 Compared with other standards, semantic standards are incredibly complex and are developed and managed in a different way. The majority of IT standards are already developed outside the official standardisation organisations (such as ISO and NEN), in so-called industrial consortia such as W3C and OASIS. However, when we look at semantic standards, we must go a step further, because for the most part these are developed internally within the own organisation.
 
-<aside class="example" title="Semantische internationale harmonisatie van Aquo">
+<aside class="example" title="Semantic international harmonisation of Aquo">
  The management of the North Sea requires international exchangeable data about seawater. The Aquo standard was only suitable for the Dutch Continental Shelf. And that represents just part of the North Sea. However, in order to tackle (policy) issues relating to the entire North Sea, Dutch managers must be able to exchange data for example with English data managers. That in turn requires an international standard. In the first phase, the Informatiehuis Water is working to compile a dictionary, together with a consortium of relevant parties. The dictionary is a table with on the one hand the Dutch Aquo term and on the other the English SeaDataNet/EMODnet term.
 </aside>
 
@@ -162,7 +162,7 @@ This is also reflected in the organisations: HL7 is the international standard, 
 
 Whatever their form, be they an international horizontal standard or a national code list, they all have to be developed and managed! This does not however mean that all four classifications must be present in a specific application domain. In practice, depending on the situation, any combination may occur.
 
-<aside class="example" title="OGC Observations & measurements als basis voor IM Metingen">
+<aside class="example" title="OGC Observations & measurements as a foundation of IM Metingen">
 IM Metingen is a standard prepared jointly by soil managers and water authorities to facilitate data exchange across the different specialist fields. However, even at the design stage, the possibility of international data exchange was taken into account. 
 IM Metingen is based on the international standard OpenGIS® Observations and Measurements (O&M). Observations and Measurements is a standard for describing observations and measurements. These observations and measurements are in turn linked to a location. Using O&M, it is possible to model and to exchange observations and measurements, in an international model.
 </aside>
@@ -183,7 +183,7 @@ XBRL is an example of an international vertical standard (in the financial secto
 In the framework of e-invoicing, the Dutch government opted for an international horizontal standard (UBL) after which an invoicing model was developed internally, to restrict the degrees of freedom. Here, too, we see a national application profile with the eventual aim of achieving interoperability.
 </aside>
 
-<aside class="example" title="Metamodel voor Informatiemodellering">
+<aside class="example" title="Metamodel for Informationmodelling">
 To ensure a better match between all information models in the Netherlands, a metamodel was developed for information modelling. This model brings together all the modelling knowledge of Geonovum, the Land Registry and VNG Realisie. This standard helps promote interoperability between other standards. 
 </aside>
 
@@ -254,7 +254,7 @@ Linked Data has already come a long way, to the situation in which it has become
 
 Linked Data results in changes to the sematic standardisation discipline described by BOMOS. It is not merely a question of using new technologies and tools. Linked Data means a different approach to semantic interoperability: the emphasis is shifted from standardisation of messages (or ‘transactions’) to the standardisation of the underlying domain description; the language. The language in a domain is standardised using vocabularies and ontologies but it also becomes possible to create links between domain ontologies in such a way that Linked Data can break down the barriers between sectors, until it becomes a tool for cross-domain interoperability. In addition, Linked Data standards satisfy the open standards criteria, and a number have already been included in the apply or explain list published by the Dutch government.
 
-<aside class="example" title="Floricode en de uitzendbranche">
+<aside class="example" title="Floricode and the temporary employment sector">
 Over time we have seen shifts in attention within Floricode, based on architecture choices. The attention for traditional message (exchange) standardisation, for example, has shifted towards master data for horticulture. 
 
 We see a similar development in the temporary employment sector. Traditionally, SETU has offered standardised message specifications for widely used and generic integration issues, such as Placement, the Time sheet and the Invoice. To make it possible to continue to solve digital integration challenges in a more modern, flexible and cost-efficient manner, SETU is increasingly shifting towards offering a common language (ontology). This SETU language consists of concepts and relationships with the related terminology and definitions. These concepts and relationships are used as building blocks for creating message and API specifications in different formats. 
@@ -371,7 +371,7 @@ Where there is a high likelihood of individual adoption, the best choice is gene
 
 As a rule, an average likelihood of individual adoption will result in a financial tool. The organisation needs a gentle nudge to encourage adoption of the standard. Where the likelihood of individual adoption is low, the most successful choice is a legal tool. Unless required to do so, the organisation is unlikely to take the decision to adopt the standard.
 
-![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco_EN.png "Adoptiekeuzes")
+![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco_EN.png "Choices for adoption")
 
 ### Plugfest
 
@@ -464,9 +464,9 @@ Some of these suggestions are more strategic in nature (e.g. transforming Floric
 
 A study among 37 management organisations for standards (including international standards such as XBRL, HR-XML, ACORD and HL7 and national standards such as SETU, StUF and Aquo) reveals that more than 90 percent of the consulted developers of standards believe that the quality of their standard can be improved (see the figures below). A very large majority also believes that improving the quality of their standards would contribute to better interoperability.
 
-![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces_EN.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
+![Results of a user research study into the standardisation process](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces_EN.png "results of a user research study into the standardisation process")
 
-![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit_EN.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
+![Results of a user research study into the quality of standardisation](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit_EN.png "Results of a user research study into the quality of standardisation")
 
 #### So what needs to be done?
 
@@ -504,7 +504,7 @@ graph TD;
     process-->organisation;
     practice->implementation;
 ```
-  <figcaption>Het kwaliteitmodel</figcaption>
+  <figcaption>The quality model</figcaption>
 </figure>
 
 The quality model makes an important distinction between product quality, process quality and quality in use (in practice). Product quality relates to the products/deliverables of the standardisation process, and as such can be measured in the content of those products, in particular the standard specification document, but also in its technical derivatives. This then is the intrinsic quality of the standard. First and foremost, process quality relates to the process of creating the standard, followed by the management process. Process quality is measured in the management organisation of the standard (often referred to as the SDO (Standard Development Organization) or SSO (Standard Setting Organization). Finally, it is important to know whether the standard offers an implementable and workable solution in practice; this is part of the quality in use.
@@ -601,7 +601,7 @@ The relationship between interoperability and standards is that of the end and t
 
 The quality model summarised in the figure below can be a valuable tool in that process. If you choose to use it, we strongly recommend studying the complete instrument [[[folmer2012]]], and even considering preparing a tailor-made instrument by making a careful selection from the quality model. 
 
-![Kwaliteitsinstrumenten](images/BOMOS-12_Kwaliteitsinstrumenten-blanco_EN.png "Kwaliteitsinstrumenten")
+![Quality instruments](images/BOMOS-12_Kwaliteitsinstrumenten-blanco_EN.png "Quality instruments")
 
 The quality model is a starting point to be used for evaluating the quality of a standard. Nevertheless, the model must be deployed in a cost-effective manner. In many cases, the wish is to carry out a quality measurement in just a few hours. In that case, the costs are fairly limited and the benefits will quickly exceed the costs. 
 
@@ -684,7 +684,7 @@ There must also be an appeals procedure in which one party acts as contact perso
 
 Conformance with a standard is not a trivial issue. Many semantic standards are expressed in XML Schema. To be able to issue statements regarding conformance it is not enough to check whether the XML body conducts a technical validation in respect of the XML Schema. Although a technical validation is perfectly possible (even though several XML Schema validators will have to be used to deliver sound results), it says nothing about whether the right information is provided in the right place. For example, if Amsterdam is the value entered for the element ‘Surname’ and ‘Jansen’ the element for the ‘Place of residence’, the technical validation will still run smoothly (unless place of residence is required to contain a value from a list); nevertheless, it is unlikely to conform with the standard. The semantic validation is difficult to implement. Although the example above may have been clear, imagine the element in question were ‘place of birth’ and ‘place of residence’. In that situation, correct use cannot be checked without documentary evidence of some similar requirement. Now that JSON has emerged as the de facto dominant exchange format, validation can be carried out by means of SHACL validation rules.
 
-<aside class="example" title="Validatie van GWSW">
+<aside class="example" title="Validation of GWSW">
 The quality of municipal data relating to urban water and the necessary infrastructure is an important focus point in the field. Source holders are able to check the basic quality of a sewage system file in relation to the conformity class recorded in the Data Dictionary Urban Water (each application has its own requirements). The generic application Nulmeting (Baseline measurement) is freely available on the [GWSW-server](https://apps.gwsw.nl). Since sewage system data according to the GWWS standard are expressed in RDF (linked data), the quality measurement is carried out using SHACL (Shapes Constraint Language).
 </aside>
 
@@ -721,7 +721,7 @@ A plugfest can be used to demonstrate interoperability in the chain by showing t
 Validation also considers individual systems but without the objective of creating transparency for the market. The objective here is to provide support to organisations and projects. A final option is to organise pilot projects to test interoperability in the chain.
 
 <aside class="note">
-<b>Validatie</b>
+<b>Validation</b>
 
 The majority of management organisations offer tools for validating the use of standards for example:
 
@@ -765,8 +765,8 @@ Although validation is very common, the same can certainly not be said for certi
 
 As a result, although several standardisation organisations have considered certification, to date, application of the certification procedure remains rare.
 
-<aside class="Example" title="Validatie en Certificatie bij Ketenstandaard Bouw">
+<aside class="Example" title="Validation and Certification for Construction Supply Chain Standard">
 Offering a validation environment for end users and software developers represents a supporting service that contributes to the correct implementation of a messaging standard, data service or other form of data API.  validator of this kind offers an opportunity to configure an automatic validation for each version of a messaging standard. For an XML implementation, it involves a check on the XML syntax, a check on the XML schema (XSD) and a check on the set of validation rules expressed in schematron. For the most part, software developers themselves can manage the use of the validator, and in terms of technical issues, the standards organisation is only required to answer questions in the case of problems or uncertainties. This offers added value for the user and saves time for the management organisation. Automated validation also acts as an adjudicator if parties have a difference of opinion concerning the interpretation of the standard.
 
-Ketenstandaard? shows that validation can support certification. The Ketenstandaard foundation in the building and system installation sector manages standards for all phases of the building process. In doing this, they use Semantic Treehouse, the management environment developed by TNO, based on BOMOS. Via this environment, Ketenstandaard offers a validation tool to its users that helps them show that their messages comply with the standard. In that case, the company where the user is active is added to the certificates list on datakwaliteit.nu, and the user is able to download a certificate label for use on its company website. This enables suppliers and customers to identify that those parties with whom data can be shared in a standardised manner. 
+The Supply chain standard shows that validation can support certification. The Ketenstandaard foundation The [Ketenstandaard foundation](https://ketenstandaard.nl/) in the building and system installation sector manages standards for all phases of the building process. In doing this, they use Semantic Treehouse, the management environment developed by TNO, based on BOMOS. Via this environment, Ketenstandaard offers a validation tool to its users that helps them show that their messages comply with the standard. In that case, the company where the user is active is added to the certificates list on datakwaliteit.nu, and the user is able to download a certificate label for use on its company website. This enables suppliers and customers to identify that those parties with whom data can be shared in a standardised manner. 
 </aside>
