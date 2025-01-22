@@ -11,7 +11,7 @@ The purpose of this publication is to assist organisations in compiling and impr
 
 Thes specific questions were the original reason for drawing up the Management and Development Model for Open Standards (BOMOS) with its best practice guidelines for an open structure for management. Since that time, BOMOS has been used in practice, and users have expressed the need to share more knowledge and experience with the management of standards.  Other issues such as improving interoperability based on standards, transparency and the manageability of standards have been added. Finally BOMOS is now used as the common language in the world of standardisation.
 
-## BOMOS structure
+## BOMOS Structure
 BOMOS consists of:
 * BOMOS Part 1: [The Foundation](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/)
 * BOMOS Part 2: The Elaboration (this document)
@@ -32,7 +32,7 @@ When we talk about BOMOS, what we are actually referring to is the basis as desc
   the specific use of Linked Data for sematic standards.
 -	Structure for [BOMOS for the management of trust framework](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/en/): the use of BOMOS in the specific situation governing trust frameworks.
 
-## Reading guide
+## Reading Guide
 If from your policy making or administrative role you are only interested in the primary level, the foundation (part 1) will offer sufficient
 background and context. If however you are personally active in standardisation communities, you can seamlessly continue with reading part 2: The elaboration with best practices, which includes more background and practical tips for standardisation.
 

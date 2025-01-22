@@ -1,7 +1,7 @@
 # Strategy
  This section looks in more detail at subjects related to strategic subjects from the Management and Development Model.
 
-## The development and management organisation (Activity Governance) 
+## The Development and Management Organisation (Activity Governance) 
 This activity includes laying down policy on your own administrative organisation (such as the legal form); the bylaws (charter) and forming alliances with other organisations. The regulation of the decision-making process is crucial.
 
 ### Organisation structure 
@@ -42,7 +42,7 @@ Decision making within the working group can be dependent on the possible partic
 
 The figure offers a simplified basic structure from the governing body, implementing organisation and working groups. Alternatively, an advisory body and/or supplier group can be added. In addition to these suggested possibilities, there are numerous other alternatives, both more simple and more complex. Whatever structure you choose, the reports of the various forums should preferably be made public.
 
-### Roles and activities 
+### Roles and Activities 
 [Part 1  describes the necesarry roles in the Management and Development Model](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#Activities-and-Roles),and linked to the main activities of BOMOS. We will now look in more detail in the opposite direction. Starting with the roles, the table below identifies the BOMOS activities in which they are involved; this also demonstrates that a 1-on-1 connection between role and activity cannot work.
 
 | Role | BOMOS activity |
@@ -83,7 +83,7 @@ The healthcare domain is a complex situation with stakeholders and parties all o
 ![Example assign roles to stakeholders](images/BOMOS-16_Toewijzing-rollen-aan-stakeholders-blanco_EN.png "Example assign roles to stakeholders")
 </aside>
 
-### Management tasks in implementation
+### Management Tasks in Implementation
 
 For the way in which management tasks are developed in an organisation structure, there are a number of different possibilities ranging from entrusting them to a standardisation organisation through to fully developing the structure within your own organisation. Creating and managing your own development organisation for every standard is not a goal in and of itself. Practice shows that few existing organisations are equipped to fulfil the complete package of tasks so that many standardisation communities have in fact decided to create their own organisation. A number of the tasks are then entrusted to their own organisation, but a number of other tasks can be entrusted to other types of organisations. The [figure below](#fig-beleggen-van-ontwikkeltaken_EN) lists other standardisation organisations, research organisations and sectoral organisations.
 
@@ -128,24 +128,24 @@ Edustandaard is a platform that brings together all public and private parties w
 .
 </aside>
 
-### The organisation form
+### The Organisation Structure
 
-Whether just a selection of the tasks or all tasks are to be undertaken by the new organisation, the new organisation must in all circumstances be established, according to a legal form. There are many different legal forms for organisations in the Netherlands. The openness of the standard is an absolutely essential operating principle. The definition of openness specifies that the (decision making of the) standard must be entrusted to a not-for-profit organisation. This automatically excludes a large proportion of the possible organisation forms, leaving only a few viable options, namely:
+Whether just a selection of the tasks or all tasks are to be undertaken by the new organisation, the new organisation must in all circumstances be established, according to a legal structure. There are many different legal structures for organisations in the Netherlands. The openness of the standard is an absolutely essential operating principle. The definition of openness specifies that the (decision making of the) standard must be entrusted to a not-for-profit organisation. This automatically excludes a large proportion of the possible organisation forms, leaving only a few viable options, namely:
 
 1. Foundation.
 2. Association.
 3. Government organisation (as collective term).
 
-**The foundation:** 
+**The Foundation:** 
   A foundation is a legal entity established by notarial deed by one or more natural persons or legal entities. As a rule, its governing board has a chair, a secretary and a treasurer. The governing board is the only compulsory body within a foundation. There can also be a supervisory board that supervises the board of the foundation. Unlike an association, a foundation has no members. A foundation can have donors, but they have no say in the operation of the foundation. A foundation can also have volunteers.
 
 <aside class="example" title="Stichting RIONED">
 The standard Data Dictionary Urban Water is currently under further development, but is also under management and is used for operational purposes. Transparency and quality of management are crucial for continuity, quality and support for the standard. Stichting RIONED is committed to a careful and transparent management process with clear procedures and a transparent organisation. This ensures that suppliers and users can implement and use the standard, with confidence. The management procedures and organisation are based on the BOMOS standard and feature a programming line, an operational line and an adopting line. As with the other activities of the Stichting RIONED, all stakeholders can contribute ideas and are jointly responsible for decisions in many different ways, as required.
 </aside>
 
-**The association:** An association is a legal entity under Dutch law. An association is generally established by a civil-law notary who executes the appropriate deed. This is not necessary, but without the civil-law notary, the association has limited legal authority (the directors are jointly and severally liable). If an association is established by notarial deed, it must also have articles. These at least state the objective of the association, the obligations of the members, the convocation of the general meeting (of members) and the appointment/dismissal of the directors. As association has an objective that is aimed for. This objective may not be the distribution of profit among the members. This does not mean that no profit may be made, but any profit generated must be allocated to a specific purpose (such as the objective of the association, knowledge sharing, quality improvement, charitable acts, etc.). An association has members. These are people who are members of the association because they support the objective. Generally the members pay a contribution to keep the association running. Members can influence the policy of the association via a general meeting (of members) (AGM). Meetings of this kind are held at least once a year, and every member is invited and has voting rights. The AGM has all authorities not laid down by law or the articles, and as such is the highest body within the association.
+**The Association:** An association is a legal entity under Dutch law. An association is generally established by a civil-law notary who executes the appropriate deed. This is not necessary, but without the civil-law notary, the association has limited legal authority (the directors are jointly and severally liable). If an association is established by notarial deed, it must also have articles. These at least state the objective of the association, the obligations of the members, the convocation of the general meeting (of members) and the appointment/dismissal of the directors. As association has an objective that is aimed for. This objective may not be the distribution of profit among the members. This does not mean that no profit may be made, but any profit generated must be allocated to a specific purpose (such as the objective of the association, knowledge sharing, quality improvement, charitable acts, etc.). An association has members. These are people who are members of the association because they support the objective. Generally the members pay a contribution to keep the association running. Members can influence the policy of the association via a general meeting (of members) (AGM). Meetings of this kind are held at least once a year, and every member is invited and has voting rights. The AGM has all authorities not laid down by law or the articles, and as such is the highest body within the association.
 
-**The government organisation:** Because of the possible variety of government organisations, a brief discussion is not possible. A government organisation could be deployed in one of several ways: a single government organisation as a management organisation for all standards related to government, or a single government organisation for each individual standard. Alternatively, a single government organisation could take responsibility for implementing the management tasks, but equally multiple government organisations could join forces. For example as an association. The choice of legal form must be taken with due care, also taking account of such issues as the simplicity of the establishment process. For foundations, one possible stumbling block is that it is difficult for government parties to take part in a foundation, and that a foundation is not permitted to have any members. With an association, a key issue is the considerable power wielded by the AGM. It is simple for a foundation or an association to demonstrate openness. For both the foundation and the association, the articles are essential; effectively, they regulate the mandate of the roles in the organisation.
+**The Government Organisation:** Because of the possible variety of government organisations, a brief discussion is not possible. A government organisation could be deployed in one of several ways: a single government organisation as a management organisation for all standards related to government, or a single government organisation for each individual standard. Alternatively, a single government organisation could take responsibility for implementing the management tasks, but equally multiple government organisations could join forces. For example as an association. The choice of legal form must be taken with due care, also taking account of such issues as the simplicity of the establishment process. For foundations, one possible stumbling block is that it is difficult for government parties to take part in a foundation, and that a foundation is not permitted to have any members. With an association, a key issue is the considerable power wielded by the AGM. It is simple for a foundation or an association to demonstrate openness. For both the foundation and the association, the articles are essential; effectively, they regulate the mandate of the roles in the organisation.
 
 Although a foundation is not permitted to have members, at HL7, the term members is used although in strict formal situations the term _associates_ is used. SETU has no members but participants. A collaborative venture without legal form can work well in practice for management, but for more practical issues can be a disadvantage because the collaborative venture as such has no authority to enter into agreements; in that situation, one of the partners will always be required to enter into the agreement in question. Possible disadvantages of this construction are the loss of identity; being bound by the rules and restrictions of the partner; less effectiveness, etc. The advantage of this form of organisation is that it is easily established and terminated, without legal consequences. The organisation structure can to a certain degree reduce or at least make explicit the non-committal nature. The non-committal nature of the participants in terms of standards is certainly a serious point for attention in the framework of a permanently applied standard.
 
@@ -179,11 +179,11 @@ This same structure can be used by other organisations: to make use of the calcu
 
 Developing a substantive vision on the direction for the standard in the context: The spot on the horizon for the long term. A compact  translation for example into a fact sheet on this vision can also be extremely valuable in communication regarding the standard and promoting adoption of the standard. There must also be specific attention for innovation; many organisation use specific tools for this purpose, such as a radar or specifically a tech radar in which innovative developments are plotted on a radar screen based on time and impact. Tools of this kind are also applicable in this case. The vision for a standard is in essence no different from the vision for a business/product, etc. Hence the decision by BOMOS to not provide a specific structure for standards. The further detailing of the innovation subjects referred to in the vision will often take place at tactical level, for example as an element of the Architecture.
 
-## Costs and revenue (Activity: Financing)
+## Costs and Revenue (Activity: Financing)
 
 The primary objective of this particular activity is to draw up a financial model for the long term that guarantees revenue in line with demand. Developing and managing a standard is a structural expense. The amount it costs depends heavily on the context and dynamism of the standard, and it is not simple to make any generic statements on those costs. The first developments often start with projects which begin with budgets of 30,000 euro and upwards (sometimes many times greater). In addition, an initial project will not directly result in a standard (instead, it investigates the possibilities and scope of a standard, in a working group). Following this initial development, the standard must be structurally managed and further developed. There are known cases in which the management has been organised with budgets in the order of 250,000 to 900,000 euros (per year). Until now, little research has been conducted into this aspect, with the exception of the Ethernet standard: this  technical standard cost $10 million dollars to develop. Other information obtained from literature suggests that the revenue from the sale of IOS standards covers around half of the costs incurred by ISO in the development and management of its ISO standards.
 
-### The benefits of generic standardisation
+### The Benefits of Generic Standardisation
 
 Although few figures are available, sufficient economic research has been conducted into the advantages and disadvantages of standardisation. The table below provides a summary based on Blind, K. (2004). The economics of standards; theory, evidence, policy):
 
@@ -205,7 +205,7 @@ The following are particularly relevant for (semantic) domain standards:
 * Economies of scale.
 * Lower transaction costs.
 
-### Costs and revenue
+### Costs and Revenue
 
 It is nevertheless possible to examine the potential cost items and revenue for the management of standards. These are summarised in the balance sheet below.
 
@@ -241,7 +241,7 @@ In addition to structural financing from the budget of a key stakeholder, the mo
 
 It is easier to generate income from a mature standard, from the standard itself or from related services, but caution should be exercised to avoid creating resistance to the standard. A standard that is able to fund itself from its income, for example membership fees and licence income, can still be an open standard. Making a profit is not done. To avoid this happening, the organisation form can play an important role. In practice it is difficult to successfully tackle the problem of free riders (profiting from the standard without paying a contribution).
 
-### Suitability of revenue sources
+### Suitability of Revenue Sources
 
 The previous section created a picture of potential revenue. The choice of which sources of revenue should be tapped into depends on the situation, but this section attempts to offer support in making the right choices for suitable sources of revenue.
 
@@ -266,7 +266,7 @@ We also operate three critical principles:
 
 Based on these principles, licences have a dubious status because of the way that they restrict openness but above all because they tend to hinder adoption. The same applies to paying for the specification document and paying for the use of the standard. Given the desire for openness, this is not viewed as a potential source of revenue for an open standard.
 
-#### Re 1. Distinction between development and management.
+#### Re 1. Distinction between Development and Management.
 
 A distinction between initial development and current management is relevant because the first is generally easier to finance than the second. In most cases, clients are willing to fund a project relating to a specific problem in which a standard offers the solution. Once the standard is developed, in the project, it becomes far more difficult to find continuous funding for management. The initial clients regularly step back, or at least require more convincing of the value and necessity of continuous funding. It is also important to explain the scope of current management: adapting the standard to the changing environment. For example changes to legislation, changes to dependent standards and technical innovations. Current management can result in a new version of a standard. (in some situations for example by the NEN, management is more strictly defined as keeping the standard available on a website in which situation management cannot lead to a new version of a standard).
 
@@ -279,13 +279,13 @@ Potential benefits of membership lie in two areas:
 
 Some standardisation organisations make a distinction in their rates between governing members and participating members. Here doubts start to emerge in terms of openness. Some organisations also attempt to generate much revenue from their suppliers, but this can harm adoption of the standard.
 
-#### Re 2. Degree of maturity
+#### Re 2. Degree of Maturity
 
 Once a standard reaches a high degree of maturity, characterised by broad adoption of the standard, service provision by the management organisation is another potential source of income. For example various forms of service provision:
 
-* certification
-* training
-* implementation support
+* Certification
+* Training
+* Implementation support
 
 [Certification](#roles-and-activities) can be employed in several different ways, also as a means of generating financial revenue. In the framework of training, for example, possibilities include offering training days  through to complete courses about the standard. The margin on the course can be a source of income, certainly if combined with certificates (making completion of the training compulsory for the certificate). Finally, implementation support is a tool possibly used in a more modest form by providing paid advice on correct use of the standard right through to providing complete implementation processes. This in turn makes the management organisation a market party, and that too has negative aspects.
 
@@ -295,7 +295,7 @@ In summary, service provision will be a source of income that as the standard be
 
 It should be remembered that the costs of managing a standard also change over time. Certain cost items can change considerably. Today we se such items as tactical management rising steadily, above all due to the relationships between the numerous (international) standards that require harmonisation. If a standard is successfully adopted, another item like implementation support can also rise considerably.
 
-### Cost savings in standardisation
+### Cost Savings in Standardisation
 
 The question has of course also arisen whether there are not cheaper ways of developing and managing standards. This is not easy because standardisation initiatives, in particular in respect of industrial standardisation, have the following characteristics:
 
@@ -325,7 +325,7 @@ The different standardisation organisations in each sector also have a tendency 
 | Adoption of the standard | Online tools for voting. |
 
 Savings achieved through innovative approaches to the development process can also be a pitfall. Face-to-face meetings are a large cost item. Savings on this particular item can often be achieved via online options such as online videoconferencing, forums, mailing lists, etc. In particular, the open source community believes that face-to-face meetings have become surplus to requirement and that asynchronous communication should be sufficient, also to allow worldwide operation, in all time zones. However, developing open source software is not the same thing as open standard development. In other words, using the same process represents a pitfall. Standards often involve complex material and functionality, in which mutual understanding and trust are of key importance. Direct face-to-face communication is essential. During the COVID pandemic, online developments advanced rapidly and became accepted; it is of course sensible to benefit from these changes. Efficiency means ensuring the correct balance between face-to-face and online meetings, and use of other online tools for communication and dealing with technical issues. In other words, innovative development approaches such as [the pressure cooker about the Web](#voorbeelden-uit-de-operationele-praktijk) can generate savings, but will never replace costly face-to-face meetings. 
-### The business case
+### The Business Case
 
 The business case for standardisation is a commonly discussed issue. Before the decision to invest is taken, an understanding of the business case must be gained. In reality it involves a number of different business cases:
 
@@ -339,7 +339,7 @@ Quantitative studies into the business case of standardisation are difficult to 
 
 Business case type 3 deserves particular attention: Replacement standard/ new version. The fact of being a replacement or new version makes it relatively simple to draw up the business case, but it cannot be made positive, in practice. For example, the business case for e-invoicing: If an organisation already uses UBL or SETU for e-invoicing, it is difficult if not impossible to make the business case for a new standard (UN/CEFACT Cross Industry Invoice) positive. For that reason, old standards will still continue to be used for a long time (for example EDI), because there is no positive business case for the new/different standard, as long as there is no interoperability problem. One of the world’s most successful standards, [RosettaNet](https://www.gs1us.org/resources/rosettanet), illustrates this fact: despite the fact that an XML version of this standard was developed years ago, there is almost no migration from the old EDI version, and adoption of the XML version has remained low, for a long time. 
 
-### Drawing up a business case
+### Drawing up a Business Case
 
 Despite the difficulties outlined above and the various attempts already made, we will still attempt to sketch out an approach that can offer insight into the business case. The approach described in this section has been used to draw up a business case for a semantic standard in the jewellery sector. Step-by-step plan:
 
@@ -350,7 +350,7 @@ Despite the difficulties outlined above and the various attempts already made, w
 The first three steps are explained:
 
 
-#### Step 1 - Describe current situations and future scenarios and identify stakeholders.
+#### Step 1 - Describe current situations and future scenarios and identify Stakeholders.
 
 The first step starts with analysing stakeholders; what parties have a relationship with the interoperability problem for which a standard could offer a solution. To identify the stakeholders, the NEN stakeholder analysis can be used ([zie sectie Werkgroep en stakeholders](#werkgroepen-en-stakeholders)).
 
@@ -360,13 +360,13 @@ This is demonstrated in the figure for the primary stakeholder, the jeweller, in
 
 ![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios jewellery sector")
 
-#### Step 2 - Determine the costs and benefits in the chain based on the framework.
+#### Step 2 - Determine the Costs and Benefits in the Chain based on the Framework.
 
 In step 2, a cost-benefit model is drawn up. In generic terms, what are the one-off investments, the operating costs and the benefits in relation to the standard? For many standards they will be relatively equal. This makes it possible to start with the model from the jewellery sector, in which the necessary adjustments can be made. The model for the jewellery sector is reproduced below.
 
 ![Benefits jewelers sector](images/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits jewellery sector")
 
-#### Step 3 - Allocate the costs and benefits to the various stakeholders.
+#### Step 3 - Allocate the Costs and Benefits to the various Stakeholders.
 
 The various costs and benefits will not apply to all stakeholders, and the degree of relevance will also differ. In this step, the costs and benefits from the framework in step 2 are specified one level deeper, and allocated to a stakeholder with a defined relationship.
 

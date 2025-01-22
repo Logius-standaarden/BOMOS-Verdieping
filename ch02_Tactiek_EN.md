@@ -1,11 +1,11 @@
 # Tactical
 This section looks in more detail at subjects related to tactical subjects from the Management and Development Model.
 
-## The open structure of a standard (Activity Community)
+## The Open Structure of a Standard (Activity Community)
 
 Openness is an important aspect of a sustainable standard. But what does it mean for the management organisation? We can consider this is more detail by considering a definition or model of an open standard. However, over time there has been a great deal of discussion about the definition of openness. The discussion is often focused on the availability (free of charge or nominal amount for purchase), user rights (whether or not to allow Intellectual Property Rights (IPR)/Royalty Free and the standardisation process (free participation yes or no). The model developed by Krechmer provides a neutral and broad vision on openness, which is why we use in the BOMOS.
 
-### Krechmer’s open standards model '10 requirements'
+### Krechmer’s Open Standards Model '10 requirements'
 
 Ken Krechmer developed a model that clearly describes the elements of openness and that allows him to compare standardisation organisations. In the model, he distinguishes between the various aspects of openness (requirements) and the different points of view for standards. For his points of view/roles, he has selected the developer of the standard, the implementer of the standard in a product and the user of the standard (product in which the standard is embedded). Not all aspects of openness are equally relevant for each role, as shown by the model:
 
@@ -45,7 +45,7 @@ For the management organisation, these 10 criteria for open standards have the f
 
 Many discussions about openness today consider just two aspects of openness, namely ‘One World’ and above all ‘Open IPR’. As a consequence, the other aspects often remain underexposed. When it comes to achieving a maximally open standardisation organisation, every little helps. To date there is not a single organisation that is known to be fully open on every point. Complete openness on all these points is a utopian idea, but each point is worthy of attention and can support the thinking process in achieving greater openness in standardisation. It is also worth realising that in many cases, formal standardisation organisations fail to (or only partially) comply with aspects 6-10.
 
-### Specific tips for openness
+### Specific Advice for Openness
 
 Based on the above, we can offer a number of specific tips: Make decision making open by:
 
@@ -60,7 +60,7 @@ Based on the above, we can offer a number of specific tips: Make decision making
 * Explicitly laying down the rights; the intellectual property rights to the standards, copyrights to documents, the contribution by individuals in working groups and in the establishment of the standards. Documenting version management: how to deal with backwards and forwards compatibility and how to record support on the basis of the lifecycle of a standard.
 * Recording the development and management aspects in a document.
 
-### Making the model assessable
+### Making the Model Assessable
 
 Krechmer’s model is an ideal starting point but in order to offer more practical tips, it can be added to. We have therefore further elaborated the criteria into variables for each criterion. These variables can be better related to the situation in practice. Eventually, scores can then be allocated for each variable; this in turn makes it possible to compare openness between standards. In theory, it should then be possible to define a minimum score for a standard to be described as open. However, this does no justice to the fact that certain variables are more important than others.
 
@@ -102,7 +102,7 @@ The model on the next page is based on the 10 criteria identified by Krechmer, a
 
 The Standardisation Forum assesses standards among others for openness for inclusion on the apply or explain list. Krechmer’s criteria are also included in this broader assessment. The model presented here is a more in-depth assessment, intended as a guideline for designing for openness, and not to be used in the formal process for inclusion on the apply or explain list. For more information about the assessment criteria, visit [the website of Forum Standaardisatie](https://www.forumstandaardisatie.nl/node/229).
 
-### Open structure with Open Source Software
+### Open Structure with Open Source Software
 
 Part of the activity diagram is _module development_. This refers to the ability of the organisation to (commission the) development of software in which the standard is implemented. It is dangerous for a standardisation organisation to do this itself on a ‘commercial’ basis, because this would make the standardisation organisation a competitor for other suppliers on the market. This would rapidly reduce support for the standard by other suppliers. This risk can partly be obviated by using open source for the development. The open source module in which the standard is processed is made freely available which allows commercial suppliers to continue with the process so that in the long term, the standardisation organisation itself can withdraw from the development process, entirely. As such, it is above all a means (incentive) to get the market moving.
 
@@ -110,11 +110,11 @@ Furthermore, Open Source Software is an excellent alternative for closed source 
 
 Open Source Software should never be confused with open standards. They are fundamentally different concepts according to which, from the point of interoperability, only open standards are essential.
 
-## Relationship with other standards (Activity Architecture)
+## Relationship with other Standards (Activity Architecture)
 
 As previously outlined, interoperability is the objective and standards are the means of achieving it. This section discusses the relationship between different standards.
 
-## The stratification of standards
+## The Stratification of Standards
 
 A complex set of standards is needed to achieve interoperability (exchangeability) between organisations or systems. This makes the subject extremely complex, because it is no longer a question of selecting or managing a single standard, but a whole set of standards that are very closely related in certain areas. It is possible to make a distinction between standards for technical matters and standards for the semantics of information exchange. This is demonstrated by the interoperability framework (based on Jian, H., & Zhao, H. (2003). A Conceptual Model for Comparative Analysis of Standardization of Vertical Industry Languages); the examples between brackets are somewhat outdated examples of standards that can be used for this structure.
 
@@ -136,14 +136,14 @@ Even if the technical standards set the parameters, the real challenge lies with
 
 To make this situation even more complex, there are standards that are used to make standards, for example the UML standard which is used as a language for drawing diagrams that contain the process and data model for a standard.
 
-## The lifecycle of stratified standards
+## The Lifecycle of Stratified Standards
 
 The use of a stratified family of standards makes it necessary to actively work towards applying _up-to-date_ standards. This can represent a challenge. When an underlying standard transitions to a new version, it may be necessary to adapt the overlying standard to the underlying standard.
 
 It is therefore important that the underlying standard be managed by _active management_ . Only if the standard in use is managed is it possible to accept requests for change and correct possible mistakes in the standard. If a stratified standard makes use of an underlying standard which is _not_ managed any longer, the possibilities for updating the standard are limited. 
 In other words, it is advisable when managing a stratified standard to actively monitor developments in the underlying standard(s) if you wish to be able to switch to a new version.
 
-### The relationship with international standards
+### The Relationship with International Standards
 
 Compared with other standards, semantic standards are incredibly complex and are developed and managed in a different way. The majority of IT standards are already developed outside the official standardisation organisations (such as ISO and NEN), in so-called industrial consortia such as W3C and OASIS. However, when we look at semantic standards, we must go a step further, because for the most part these are developed internally within the own organisation.
 
@@ -173,7 +173,7 @@ It is also useful in the management phase of a standard to continue to focus att
 
 One vital point for attention in relation to international standards is that in the case of an international  vertical standard combined with a national application profile, for example, a different name must be applied to each, in order to avoid confusion in practice.
 
-### Examples of stratification of standards
+### Examples of Stratification of Standards
 
 Finally, even within the standards themselves, stratification can occur in different ways. For example between vertical and sector models and horizontal standards, in addition to which other (e.g. technical) standards are often combined to offer a total solution for interoperability.
 
@@ -187,7 +187,7 @@ In the framework of e-invoicing, the Dutch government opted for an international
 To ensure a better match between all information models in the Netherlands, a metamodel was developed for information modelling. This model brings together all the modelling knowledge of Geonovum, the Land Registry and VNG Realisie. This standard helps promote interoperability between other standards. 
 </aside>
 
-### Cross-sectoral interoperability: Compartmentalisation
+### Cross-sectoral Interoperability: Compartmentalisation
 
 The sector-specific approach to semantic standards raises the fear of compartmentalisation between sectors. The question of cross-sectoral interoperability is not solved and may even be exacerbated. The potential problem is widely recognised and solutions have been conceived, but to date they all collapse with very low adoption and lack of grassroots support. There are two possible causes:
 
@@ -195,7 +195,7 @@ The sector-specific approach to semantic standards raises the fear of compartmen
 2. The proposed technical solutions are often extremely complex. One technically attractive solution for example is the UN-CEFACT Core Components standard. Although more than ten years old, this standard has never enjoyed broad adoption.
 The core of the solution is probably not a technical one, but lies with the management organisations active in the various domains. They all have to adopt a less fragmented approach and work better together with their fellow management organisations from related sectors. There have been improvements in this respect in the past few years. In part this is due to ‘open’ thinking because in a _one world_ ([see section about openess](#the-open-structure-of-a-standard-activity-community)) there are no competitive standards and the standards match perfectly together.
 
-### The relationship with formal standards
+### The Relationship with Formal Standards
 
 The previous sections are clear indications that in most cases semantic standards are stratified and as such build on or make use of other standards. One interesting problem that is generic to the development of standards, but that becomes abundantly clear in the pressure cooker, is interaction with formal (e.g. ISO, CEN, NEN) standards. The basic underlying principle is that as far as possible, existing standards should be reused, rather than constantly reinventing the wheel.
 
@@ -215,7 +215,7 @@ The second option is particularly useful if the formal standard has a far broade
 
 **The costs for the implementation:** If reference is made to an existing formal standard, every supplier wishing to implement this standard will be required to purchase the formal standard in question. Even if their own standard is open and freely available, by referring to an existing standard, we unavoidably create an obstacle to adoption with the potential risk that the standard will be incorrectly implemented because the decision is taken during implementation to not purchase the formal standard. In other words, all implementing parties are saddled with costs thereby creating an obstacle to adoption and interoperability, which was never intended.
 
-### Strategies for dealing with localisation profiles
+### Strategies for Dealing with Localisation Profiles
 
 If we wish to use an international standard in a national, sector-specific context, we automatically create an important dependency. Depending on the context and the strategy chosen, the relationship between the national and the international standard can be implemented in different ways. Ideally, the international standard is fully adopted, but as we know from practical experience, an international standard can almost never be simply copied, one on one; in some cases the changes are limited; just a small number of extra issues have to be added for the specific national context in order to achieve interoperability.
 
@@ -248,7 +248,7 @@ The strategies:
 
 In particular if the intention is to achieve international interoperability, the best solution is as far as possible to remain in line with the international standards and to select a strategy on the right-hand side of the figure, if possible compliant profiling. However, this requires harmonisation with the international standard, which involves costs for example due to attending the international standardisation meetings. If your aim is to achieve interoperability in an international context this is essential.
 
-### The Linked Data standards for semantic modelling
+### The Linked Data Standards for Semantic Modelling
 
 Linked Data has already come a long way, to the situation in which it has become the de facto standard for semantic modelling. The standards and technologies covered by Linked Data -- such as RDF, SPARQL en OWL -- are becoming increasingly widely used in practice. It started in the academic world but over the past few years has spread into both the public and the private sector.
 
@@ -260,11 +260,11 @@ Over time we have seen shifts in attention within Floricode, based on architectu
 We see a similar development in the temporary employment sector. Traditionally, SETU has offered standardised message specifications for widely used and generic integration issues, such as Placement, the Time sheet and the Invoice. To make it possible to continue to solve digital integration challenges in a more modern, flexible and cost-efficient manner, SETU is increasingly shifting towards offering a common language (ontology). This SETU language consists of concepts and relationships with the related terminology and definitions. These concepts and relationships are used as building blocks for creating message and API specifications in different formats. 
 </aside>
 
-### Promoting the use of standards (Activity Adoption & Recognition)
+### Promoting the Use of Standards (Activity Adoption & Recognition)
 
 Many standardisation organisations are looking for opportunities to encourage the use of their standard. This can be achieved in several different ways. The related strategy is referred to as an adoption strategy.
 
-### Success factors for the adoption of a standard
+### Success Factors for the Adoption of a Standard
 
 Working groups at the Standardisation Forum have identified a number of critical success factors that played a role in the adoption of various standards:
 
@@ -278,7 +278,7 @@ Working groups at the Standardisation Forum have identified a number of critical
 8. There must be funding for support, training, remuneration, etc.
 9. Use a good mix of adoption tools.
 
-### Choosing the right tools
+### Choosing the right Tools
 
 Selecting the ideal strategy for promoting the adoption of a standard is no easy task. Sometimes there is no need for such a strategy, because the standard is fully ‘supported’ by parties in the field. However, in many cases, a standard is part of a broader development. For example a standard for the digitalisation of a chain. The introduction of the standard relates to the question of whether an organisation intends to start the process of digitalisation.
 
@@ -337,7 +337,7 @@ Examples of adoption tools:
     * Imposing the standard via the list of open standards for ‘apply or explain’.
     * Legal compulsion.
 
-### Step-by-step plan
+### Step-by-step Plan
 Below we describe five steps for making the right choices to encourage adoption by specific sector organisations:
 
 #### Step 1: Suitability
@@ -349,7 +349,7 @@ There must be a clear match between the standard and the questions within the se
 
 Adoption can only be successful if the match is sufficient.
 
-#### Step 2: Individual business case
+#### Step 2: Individual Business Case
 The next step is to investigate the precise nature of the target group:
 
 * Which parties are involved?
@@ -359,12 +359,12 @@ The next step is to investigate the precise nature of the target group:
 
 This provides a clear picture of the business case for each (type of) organisation in the network. The stronger the individual business case the higher the likelihood of individual adoption.
 
-#### Step 3: Collective analysis
+#### Step 3: Collective Analysis
 As well as developing individual business cases, we must also consider a collective business case. What benefits does the standard offer for the whole network of organisations?
 
 The stronger the collective business case the greater the likelihood of collective adoption.
 
-#### Step 4: Tool selection and planning
+#### Step 4: Tool Selection and Planning
 The next step is to identify the most appropriate tools for the likelihood of individual and collective adoption.
 
 Where there is a high likelihood of individual adoption, the best choice is generally a communication tool. After all, whatever the case, it is likely that the organisation will decide to adopt the standard.
@@ -390,11 +390,11 @@ From the point of a standardisation organisation, organising a plugfest can make
 
 **adoption:** by participating in a plugfest, suppliers can boost their presence. By inviting an audience, the standard can also be brought to the attention of end users.
 
-#### An example: plugfests in educational practice
+#### An example: Plugfests in Educational Practice
 
 In the field of education, a plugfest was organised focused on the standards for digital teaching materials. The plugfest was attended by both suppliers and end users. There was close contact with the participating suppliers prior to the plugfest, and they were asked to supply teaching materials in advance. These materials were then assessed by Kennisnet and based on the results, the suppliers were given a second opportunity to submit an improved package of teaching materials. The scores from the second assessment were announced during the event. During the plugfest, suppliers were given the opportunity to show how well they were able to use teaching materials stored in the standard, in their software. There was also an opportunity for users to assess whether their own material worked in the various applications from different suppliers. Almost all suppliers who took part during the first round also participated in round two. The second event in fact even attracted new suppliers. The winners of the plugfest included the result of the event in their company’s promotional materials.
 
-#### Learning points, focus points, dos and don’ts
+#### Learning points, Focus points, dos and don’ts
 
 **Choose**: A plugfest focused on interoperability is a completely different event from a plugfest focused on adoption/transparency. A plugfest for interoperability, for example, can be a closed event focused on support for suppliers and appropriate to the early life phase of a standard. A plugfest for adoption is very open in nature, with publicity, aimed at transparency and appropriate to the mature life phase of a standard. It is necessary to make a choice.
 
@@ -406,7 +406,7 @@ In the field of education, a plugfest was organised focused on the standards for
 **Ensure sufficient expertise during the plugfest.** These can assist in implementing the standard. They may be employees of the standardisation organisation, but could equally be external experts.  
 **We advise against working with a panel,** since this delivers subjective scores and takes a great deal of preparation time.  
 
-#### Factors for adoption
+#### Factors for Adoption
 
 Another way of looking at the adoption of a standard is by analysing the factors that contribute to the adoption process. For each of these factors, there are tools which could improve adoption rates:
 
@@ -429,7 +429,7 @@ One important but often forgotten factor is community ideology. Having a strong 
 
 Due to network effects, wider use will have a self-reinforcing effect. It can be used as part of the adoption strategy. For example by attracting a large organisation to use the standard, by organising partnerships, by offering free implementations or by organising a plugfest.
 
-### Adoption within user organisations
+### Adoption within User Organisations
 
 As a rule, standardisation organisations have above all a network perspective on the adoption of their open standards. Another perspective is that of the individual organisation. The individual organisation is required to make choices with regard to the standards to be used. The governance tools for specifically focusing an organisation on the adoption of open standards include:
 
@@ -447,7 +447,7 @@ For a standardisation organisation, these are the approach points for encouragin
 
 ** Quality policy and benchmarking
 
-### Quality of standards
+### Quality of Standards
 
 Many organisations strive for interoperability in which semantic standards are a means of achieving this objective. Numerous semantic standards have indeed been introduced over the past few years. Nevertheless, little is known about the quality of semantic standards. This is remarkable, given that the quality of those standards will undoubtedly impact on the extent to which the interoperability objective can be achieved.
 
@@ -460,7 +460,7 @@ Generally speaking semantic standards are developed in-house by an organisation 
 Some of these suggestions are more strategic in nature (e.g. transforming Floricode (for this standard) from a counter for technical solutions into an agency for information solutions, driven by parties in the horticulture chain). Others were very practical and concrete improvements, for example for a test environment (make checks in the test environment very specific, clearly indicate which tests have been undertaken and how the result of the test centre must be interpreted). All in all a valuable exercise.
 </aside>
 
-#### What do standardisation organisations themselves think of quality?
+#### What do Standardisation Organisations themselves think of Quality?
 
 A study among 37 management organisations for standards (including international standards such as XBRL, HR-XML, ACORD and HL7 and national standards such as SETU, StUF and Aquo) reveals that more than 90 percent of the consulted developers of standards believe that the quality of their standard can be improved (see the figures below). A very large majority also believes that improving the quality of their standards would contribute to better interoperability.
 
@@ -478,7 +478,7 @@ It is extremely probable that there is a relationship between the budget and the
 
 Another possible reason is the lack of standardisation expertise, since standardisation is still insufficiently recognised as a ‘specialist skill’. The desire to please everyone within the standardisation working groups also does not make a positive contribution. All too often, too many options are included in standards with a view to satisfying the wishes of all the participants in the working groups. The result is an overly complex standard which is poorly implementable in practice, and which results in non-interoperable implementations, all of which still do satisfy the standard.
 
-#### The quality instrument
+#### The Quality Instrument
 
 So what would an instrument for measuring the quality of a standard actually look like? A quality instrument for standards is a complex subject; it first requires us to know: what is a good quality standard? Which quality aspects have an impact, and how can they be measured? But also with regard to the subject itself: what is a semantic standard? What components make up a semantic standard? It is these aspects that the quality thermometer will have to examine. It is not only important to know what the quality thermometer should look like, but also where it should be inserted.
 
@@ -595,7 +595,7 @@ layers for quality in use, including definitions and explanatory notes.
 | **C2.2 Correctness**        | Extent to which an implementation of a standard satisfies its specifications and fulfils the user's mission objectives. (McCall et al., 1977) | Also called "Free of Error". |
 | **C2.3 Cost & Benefits**    | The extent to which the benefits cover the costs of standardization.  | Although not necessary for all stakeholders, the total use of the standard should have a positive business case.  |
 
-#### Using the quality instrument
+#### Using the Quality Instrument
 
 The relationship between interoperability and standards is that of the end and the means. Without taking account of the quality aspect, standards are far too often seen as a holy grail. The standard becomes the end in itself, rather than a means of effectively and efficiently achieving interoperability. Shifting attention to the quality of standards prevents standards becoming an end in and of themselves, thereby reinforcing the relationship between standards and interoperability.
 
@@ -617,13 +617,13 @@ It is useful for a standardisation developer to consider their standard with a f
 
 In its complete form, the quality instrument is a measuring instrument (like a thermometer) for standards; in other words a complete system including ‘tool’ and ‘user guide’. Nevertheless, if well-founded, the quality model on its own can be used as a ‘viewfinder’ according to which standards can be tested in practice. 
 
-### Quality of implementations
+### Quality of Implementations
 
 No matter how good the quality of a standard is, if the quality of the implementations is below par, it will still not result in interoperability. This section considers the possible forms of certification, compliancy testing, validation and other forms of assessment for the application of the standard and the possible resultant reward. We will use the term certification as a container term for all these forms.
 
 After a standard has been developed and adopted to some extent by the market, the question that almost always emerges is that of certification. Sometimes it is the suppliers, as early adopters of the standard, who wish to positively stand out on the market in the form of a quality standard (in other words they are keen for some return on their investment as early adopter). On other occasions, the call for certification for guaranteeing interoperability is raised by the fact that some implementations turned out not to be interoperable, in practice. These differences alone show that certification can be deployed in different ways as a means of answering different questions.
 
-#### The purpose of certification
+#### The Purpose of Certification
 
 From the point of view of a standardisation organisation, certification can make a positive contribution to:
 
@@ -640,7 +640,7 @@ In summary, certification can be used as an:
 - Adoption instrument
 - Financial instrument
 
-#### Who or what can be certified?
+#### Who or what can be Certified?
 
 In any certification process, someone or something in always certified. It can be a natural person, an organisation, an implementation process, a product or even a project. However, a choice will have to be made. It is not possible to issue the same certificate (for example) both to a person and to a package.
 
@@ -658,7 +658,7 @@ In any certification process, someone or something in always certified. It can b
 
 The awarding of a certificate generally also includes using a logo issued by the management organisation. Openness and avoiding intellectual property rights does not prohibit the use of a protected logo. After all, a protected logo in no way forms an obstacle to openness.
 
-#### On what basis can certification be awarded?
+#### On what Basis can Certification be Awarded?
 
 There is a clear area of tension between the number of different types of certificate that can be awarded, and the scale of the requirements imposed for each certificate. On the one hand, there is a wish to limit the number of different types of certificate to avoid an organisation having to work through a whole series of certification processes (in addition to which the value of a certificate  decreases as the number of different certificate types rises). On the other hand, it is undesirable if an organisation has to be able to support every aspect of the standards to be developed in order to be certified. A general certificate can prove too vague while if there are twenty specific certificates, there is a risk that no one will understand what is going on.
 
@@ -668,7 +668,7 @@ If the objective of certification is adoption, introducing a large number of cer
 
 There is however still the risk of overshooting the mark: for example if new versions of a standard have to be released in order to bring the funding of the management organisation back onto an even keel.
 
-#### Who issues the certificate and who carries out the assessment?
+#### Who issues the Certificate and who carries out the Assessment?
 
 There are obvious logical candidates for issuing the certificate: the standardisation management organisation, the sector organisation, formal standardisation organisations (NEN), independent knowledge organisations (like TNO for example), certification bodies (e.g. DNV) or other interest groups. There is an important distinction between the assessor and the issuer. Both roles can be entrusted to the same party but can equally be divided between different parties as a means of guaranteeing independence and reliability. The latter option is recommended, since the reliability of a certificate is of such vital importance. The issuer bears final responsibility and issues the certificates as well as drawing up the assessment framework. The implementation of the assessment (based on the assessment framework) can then be undertaken by a different or even several different parties. This approach will impose certain demands on the assessment framework since irrespective of the assessor, the result of the assessment must be the same.
 
@@ -701,12 +701,12 @@ For the certification of an organisation there are other variations, for example
 
 Certain certificates require a number of instances (examples) to be submitted, which are then validated. This of course demands that you carefully consider what represents a good number of examples, as well as realising that it is not possible to guarantee the source of the examples: for example they may not be taken from the system to be certified but may instead have been manually produced.
 
-#### Tool for choices relating to certificates
+#### Tool for choices relating to Certificates
 
 So far in this section, we have shown that certification is a complex process and that a number of different choices can be made. 
 The figure shows relatively simply that in terms of adoption and financing, objectives can to some extent be combined, but that in particular when the objective is interoperability, certification must be structured differently as compared with the structure for the other objectives.
 
-#### Other forms of certification
+#### Other forms of Certification
 
 An advantage but at the same time a disadvantage of certification is the impact it has on the market. This means for example that legal issues have to be taken into account (for example a supplier who sues the management organisation because it also wants a certificate) and also that the management organisation can lose its independence and ultimately its support. Or that as a starting point or in order to avoid taking risks, an alternative is often used. In addition to certification, there is also a validation process. Effectively, certification is the process of rubber stamping following successful validation. However, if the objective of certification falls by the wayside, the requirements imposed on validation can be lowered. Despite the loss of the ‘rubber stamp’, validation can still in part be used to achieve the same objectives:
 

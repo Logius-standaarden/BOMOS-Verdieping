@@ -1,7 +1,7 @@
 # Operational
 This section looks in more detail at subjects related to strategic subjects from the Management and Development Model.
 
-## Process for the development and management of a standard (Main activity: Operational)
+## Process for the Development and Management of a Standard (Main activity: Operational)
 
 The primary standardisation activity is the operational process: How is the standard eventually created?
 
@@ -11,7 +11,7 @@ This involves a number of important aspects:
 * How are decisions taken about proposals for change?
 * How are the different versions of a standard dealt with?
 
-### Gathering wishes and requirements
+### Gathering Wishes and Requirements
 Perhaps the most important step is to gather the relevant wishes and requirements. This must be done both when a new standard is drawn up and when an existing standard is amended.
 
 The reference for an open standard is that everyone is able to submit his or her wishes. In the ideal situation, this group is as large as possible - since this increases support for the standard. It is possible that the governing body of the standardisation organisation will lay down certain directions, which may introduce some restrictions. These restrictions may for example relate to the overall functional scope of the standard. There are different possibilities for gathering wishes and requirements:
@@ -26,7 +26,7 @@ Gathering wishes and requirements is an ongoing process. It can sometimes be mea
 
 When drawing up a new standard, a _pressure cooker_ process can be followed, in which the initial step towards a new standard can be taken in a short time, with a number of key players.
 
-### Preparing proposals for change
+### Preparing Proposals for Change
 Not every idea or wish will automatically result in a proposal for change to the standard. Broadly speaking the following possibilities emerge:
 
 * The idea is more a question specific to implementation at a particular party. For example when an organisation still has little experience with the standard. In such a case, the community or the management organisation can offer support in solving the problem. It is then not necessary to change the standard.
@@ -42,10 +42,10 @@ Depending on the structure of the management organisation, a secretariat or supp
 
 By entrusting this task to a secretariat or support experts, the eventual evaluation can be completed more quickly. It is however important that the management organisation adopts a primarily neutral role: in the case of an open standard, it is eventually the standardisation community that decides. There may sometimes be wishes or requirements that are beyond the scope of the operational process or which require decision making at tactical or strategic level by the governing body of the standardisation organisation. These issues can then be directed straight to the governing body.
 
-### Evaluation and decision making
+### Evaluation and Decision making
 The list of _requests for change_ must be periodically examined. In that process, the requests for change must be evaluated and a decision reached on whether or not a change will be made to the standard.
 
-### Method of decision making
+### Method of Decision making
 There are different ways in which decision making can be organised. An open standard requires a majority decision or a consensus. In a consensus, everyone must agree on the proposed change. With majority decision making, at least half plus one must agree to the proposed change.
 
 Decisions can sometimes be taken by a working group and sometimes by a more senior body. In that case, a working group will generally provide important advice about the change. This may rely on advice from technical and substantive experts by submitting a proposal for change to technical and substantive working groups before putting the changes on the agenda for decision making. At the end of the day, the essence is that every stakeholder has an opportunity to be involved in the decision-making process.
@@ -57,7 +57,7 @@ During the evaluation and decision making, numerous aspects must be taken into a
 * The impact of the change on existing systems and processes.
 * The added value of the change (in ITIL terms the business justification): what is the benefit in relation to the costs?
 
-### Working groups and stakeholders
+### Working Groups and Stakeholders
 Working groups are important instruments for gathering, preparing and evaluating proposals for change. Despite openness, participation in working groups may be limited, for practical reasons. Distinctions are often made between types of stakeholders, also because it is worthwhile for the working group to be a good representation of the stakeholders. For this purpose, NEN uses a stakeholder analysis, in which the stakeholders are identified by using a generic value chain. As follows:  
 
 |       | Stakeholders | Description |
@@ -98,7 +98,7 @@ This cycle can be identified using version numbers. Based on the example of thre
 
 Tip: minimise the number of changes. Ideally, the number of changes should be restricted. After all, a change can mean that users have to adapt the standard systems or processes. The fact that a maximum number of changes is laid down per year does not necessarily mean that that same number of new versions needs to be released.
 
-### Relationship with other standards
+### Relationship with other Standards
 In many cases, there is a relationship with another standard. For example an international standard for which an application profile has been developed. As well as changes from within their own community, in such cases, account must also be taken of changes to the underlying (international) standard.
 
 This must be recognised in the change process. There are three aspects:
@@ -109,9 +109,9 @@ This must be recognised in the change process. There are three aspects:
 
 The relationship with other standards is discussed in more detail in section 3.2 Architecture.
 
-## Examples from operational practice
+## Examples from Operational Practice
 
-### Pressure Cooker - a standard for the waste sector within one week
+### Pressure Cooker - a Standard for the waste sector within one week
 
 One widely made comment is that developing standards is a slow process that can take years. This is a traditional mode of thinking, but who says that it is necessary to follow the old, traditional route to standardisation?
 
