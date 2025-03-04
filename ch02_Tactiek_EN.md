@@ -77,7 +77,7 @@ The model on the next page is based on the 10 criteria identified by Krechmer, a
 |   |           |                                         | 3 | Equal vote | All stakeholders have an equal vote in the decision making. This prevents the presence of dominant stakeholders. | 0/1/2 |
 |   |           |                                         | 4 | External review | The results of the standardisation meetings are published which gives external organisations and individuals an opportunity to review the results. This also increases quality. | 0/1/2 |
 | 3 | Fair standardisation process | Documented procedures to guarantee consensus during the standardisation process | 1 | Open agenda | It is possible for any stakeholder to submit agenda items | 0/1/2 |
-, |   |   |   | 2 | Process management          | Are there regulations that record the procedures and protocols of the standardisation process (method of voting, possibilities for appeal, etc.) | 0/1/2 |
+|    |   |   | 2 | Process management          | Are there regulations that record the procedures and protocols of the standardisation process (method of voting, possibilities for appeal, etc.) | 0/1/2 |
 |   |   |   | 3 | Independent chairperson | Are the standardisation meetings chaired by an independent person so that the interests of all stakeholders receive due attention? | 0/1/2 |
 |   |   |   | 4 | Possibility for appeal   | If you are dissatisfied with the decision making at a standardisation meeting, is it possible to submit a complaint to a higher body? This body considers this situation and has the authority to intervene | 0/1/2 |
 | 4 | Open IPR | Intellectual property rights for the standard are as open as possible | 1 | Rights are published | The way in which legal issues regarding the standard are organised must be public | 0/1/2 |
@@ -445,7 +445,7 @@ For a standardisation organisation, these are the approach points for encouragin
 3. Financial resources can boost priority for migration to a standard in the portfolio management process.
 4. Finally, for example by providing model specifications, adoption can be accelerated in relation to purchasing.
 
-** Quality policy and benchmarking
+## Quality policy and benchmarking
 
 ### Quality of Standards
 
@@ -456,7 +456,8 @@ Unlike other disciplines such as software engineering, little literature or know
 Generally speaking semantic standards are developed in-house by an organisation and not within large standardisation organisations. This can impact on their quality; at the very least, it means that for each semantic standard, the quality can vary widely. 
 
 <aside class="example" title="Floricode">
-[Floricode](https://www.floricode.com/) used this quality instrument to raise one of their standards to a higher level of quality, in practice. It resulted in an extensive analysis, including four pages of suggestions for improvements. 
+
+[Floricode](www.floricode.com) used this quality instrument to raise one of their standards to a higher level of quality, in practice. It resulted in an extensive analysis, including four pages of suggestions for improvements. 
 Some of these suggestions are more strategic in nature (e.g. transforming Floricode (for this standard) from a counter for technical solutions into an agency for information solutions, driven by parties in the horticulture chain). Others were very practical and concrete improvements, for example for a test environment (make checks in the test environment very specific, clearly indicate which tests have been undertaken and how the result of the test centre must be interpreted). All in all a valuable exercise.
 </aside>
 
