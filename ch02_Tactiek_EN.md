@@ -457,7 +457,7 @@ Generally speaking semantic standards are developed in-house by an organisation 
 
 <aside class="example" title="Floricode">
 
-[Floricode](www.floricode.com) used this quality instrument to raise one of their standards to a higher level of quality, in practice. It resulted in an extensive analysis, including four pages of suggestions for improvements. 
+<a href="https://www.floricode.com/">Floricode</a> used this quality instrument to raise one of their standards to a higher level of quality, in practice. It resulted in an extensive analysis, including four pages of suggestions for improvements. 
 Some of these suggestions are more strategic in nature (e.g. transforming Floricode (for this standard) from a counter for technical solutions into an agency for information solutions, driven by parties in the horticulture chain). Others were very practical and concrete improvements, for example for a test environment (make checks in the test environment very specific, clearly indicate which tests have been undertaken and how the result of the test centre must be interpreted). All in all a valuable exercise.
 </aside>
 
