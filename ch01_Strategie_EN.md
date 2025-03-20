@@ -47,7 +47,7 @@ Decision making within the working group can be dependent on the possible partic
 The figure offers a simplified basic structure from the governing body, implementing organisation and working groups. Alternatively, an advisory body and/or supplier group can be added. In addition to these suggested possibilities, there are numerous other alternatives, both more simple and more complex. Whatever structure you choose, the reports of the various forums should preferably be made public.
 
 ### Roles and Activities 
-[Part 1  describes the necesarry roles in the Management and Development Model](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#Activities-and-Roles),and linked to the main activities of BOMOS. We will now look in more detail in the opposite direction. Starting with the roles, the table below identifies the BOMOS activities in which they are involved; this also demonstrates that a 1-on-1 connection between role and activity cannot work.
+[Part 1  describes the necesarry roles in the Management and Development Model](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#Activities-and-Roles),and linked to the main activities of BOMOS. We will now look in more detail in the opposite direction. Starting with the roles, the table below identifies the BOMOS activities in which they are involved; this also demonstrates that a 1-on-1 connection between role and activity cannot work.
 
 | Role | BOMOS activity |
 |-----|------------------|
@@ -104,16 +104,16 @@ Nevertheless, substantive knowledge will always have to be organised internally.
 One option is to create your own organisation, or to call in commercial service providers. This second option flies in the face of government principles. Creating your own organisation is the most often chosen option for the core task of developing management tasks. Many domains now have their own organisations that have knowledge of both the domain and standardisation, for example Geonovum, EduStandaard, CROW, Informatiehuis Water, SETU, etc. The heart of their work involves  strategic management activities as identified in the model and to a considerable extent also tactical and operational activities. In this situation, certain activities can be easily and sometimes better outsourced.
 
 A number of suggestions: 
-[**Module development**](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#the-subjects-from-the-model);
+[**Module development**](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#the-subjects-from-the-model);
 Module development is a risky business if you undertake it within the development and management organisation. Selecting this option makes you also a supplier and competitor to parties in the community. It is better to encourage module development outside the development and management organisation, possibly in the form of open source software. This decision can also encourage other suppliers to support the standard and/or become involved in its development. The best approach depends on the characteristics of the community.
 
-[**Certification**](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#de-onderwerpen-uit-het-model);
+[**Certification**](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#de-onderwerpen-uit-het-model);
 The independence of the certifying body is essential to certification. Standard practice is for the development and management organisation to draw up the assessment framework, before outsourcing the actual assessment process (based on the assessment framework) to external parties specifically specialised in assessment and certification.
 
-[**Architecture/Roadmapping/Benchmarking**](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#de-onderwerpen-uit-het-model);
+[**Architecture/Roadmapping/Benchmarking**](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#de-onderwerpen-uit-het-model);
 Support and implementation of these aspects are ideal for a research organisation in the broadest sense (in addition to knowledge institutions, also such organisations as Statistics Netherlands (CBS) for benchmarking). In particular when it comes to benchmarking, it is better to entrust this task to an external organisation.
 
-[**Communication**](https://logius-standaarden.github.io/BOMOS-Fundament/en/index.html#de-onderwerpen-uit-het-model);
+[**Communication**](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/#de-onderwerpen-uit-het-model);
 Often appropriate for a sectoral organisation that has already established a communication structure. It goes without saying that there must also be a sectoral organisation that ties in seamlessly with the standard and that is willing to include communication as a core task. Communication regarding the management and development process for a standard demands specific knowledge of that management and serves a specific target group such as software suppliers. This fact must be recognised by a sectoral organisation. Other options are communication departments of other partner organisations.
 
 At primary level, therefore, we can conclude that the choice is to entrust the development and management tasks to:
