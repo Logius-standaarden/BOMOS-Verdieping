@@ -7,7 +7,7 @@ This activity includes laying down policy on your own administrative organisatio
 ### Organisation structure 
 The BOMOS activities diagram summarises the various activities that can take place in a standardisation community. The [figure below](#fig-organisationmodel) illustrates the outline organisation structure. One key starting point is the division between substantive activities in the implementing organisation and decision making by the governing body.
 
-![Organisationmodel](images/BOMOS-1_Organisatiestructuur-blanco_EN.png "Organisationmodel")
+![Organisationmodel](media/BOMOS-1_Organisatiestructuur-blanco_EN.png "Organisationmodel")
 
 It is the task of the governing body to commission a (not-for-profit) implementing organisation that is responsible for the majority of the management tasks. The governing body brings together the needs in terms of management expressed by its grassroots and has the mandate on behalf of those grassroot players to reach decisions on issues relating to the standards in question. The governing body and implementing organisation preferably work together with a single contact point at each organisation. The governing body is primarily charged with the task of ‘decision making’. In practice, the governing body meets a couple of times a year, a fact that should not obstruct the desired decision-making process. The governing body must grant the implementing organisation sufficient mandate. In practice we do see certain decisions being submitted to members of the governing body in writing (email) for approval or that the responsibility for specific activities (for example communication) is entrusted to a single member. This makes it easier to hold bilateral discussions between the implementing organisation and the member of the governing body who is responsible and to reach interim decisions (this approach can also serve as an alternative for the single contact point at each organisation).
 
@@ -84,14 +84,14 @@ The figure offers a simplified basic structure from the governing body, implemen
 
 The healthcare domain is a complex situation with stakeholders and parties all of whom have an interest in the development of standardisation. By establishing relationships between the roles and the way in which those roles are implemented with the names of the stakeholders/parties, a clear insight is created into the world of this healthcare standard. (source example: NEN 7522-2021)
 
-![Example assign roles to stakeholders](images/BOMOS-16_Toewijzing-rollen-aan-stakeholders-blanco_EN.png "Example assign roles to stakeholders")
+![Example assign roles to stakeholders](media/BOMOS-16_Toewijzing-rollen-aan-stakeholders-blanco_EN.png "Example assign roles to stakeholders")
 </aside>
 
 ### Management Tasks in Implementation
 
 For the way in which management tasks are developed in an organisation structure, there are a number of different possibilities ranging from entrusting them to a standardisation organisation through to fully developing the structure within your own organisation. Creating and managing your own development organisation for every standard is not a goal in and of itself. Practice shows that few existing organisations are equipped to fulfil the complete package of tasks so that many standardisation communities have in fact decided to create their own organisation. A number of the tasks are then entrusted to their own organisation, but a number of other tasks can be entrusted to other types of organisations. The [figure below](#fig-assigning-of-maintance-and-development-tasks) lists other standardisation organisations, research organisations and sectoral organisations.
 
-![Assigning of maintance and development tasks](images/BOMOS-3_Beleggen-van-beheer-en-ontwikkeltaken-blanco_EN.png "Assigning of maintance and development tasks")
+![Assigning of maintance and development tasks](media/BOMOS-3_Beleggen-van-beheer-en-ontwikkeltaken-blanco_EN.png "Assigning of maintance and development tasks")
 
 The model makes a distinction between not-for-profit and profit-making organisations. This distinction is relevant in the framework of openness (see  [[[#the-open-structure-of-a-standard-activity-community]]]). If the management of a standard is entrusted to a profit-making organisation, then by definition that open standard cannot be open! This does not mean that commercial organisations are unable to develop open standards on behalf of a governing body (organisation) or donate their standard to a not-for-profit management organisation after it has been developed. The development and management of standards need not always take place on a not-for-profit basis although a not-for-profit organisation is the most obvious choice.
 
@@ -294,7 +294,7 @@ Once a standard reaches a high degree of maturity, characterised by broad adopti
 
 In summary, service provision will be a source of income that as the standard becomes more mature will offer more opportunities for generating income. A source of income that does not occur commonly but which should not be excluded in the future is the donation. Above all structural donations are an attractive form of funding. This results in the following model:
 
-![Model for benefits](images/BOMOS-4_Opbrengstmodel-blanco_EN.png "Model for benefits")
+![Model for benefits](media/BOMOS-4_Opbrengstmodel-blanco_EN.png "Model for benefits")
 
 It should be remembered that the costs of managing a standard also change over time. Certain cost items can change considerably. Today we see such items as tactical management rising steadily, above all due to the relationships between the numerous (international) standards that require harmonisation. If a standard is successfully adopted, another item like implementation support can also rise considerably.
 
@@ -361,13 +361,13 @@ The next step is to analyse the current situation; what are the starting positio
 
 This is demonstrated in the figure for the primary stakeholder, the jeweller, in this example. Of course the intention of the implementation is to ensure that as many parties as possible arrive at future scenario 1 or 2, and start to use the standard.
 
-![Scenarios juweliersbranche](images/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios jewellery sector")
+![Scenarios juweliersbranche](media/BOMOS-5_Scenarios-juweliersbranche-blanco_EN.png "Scenarios jewellery sector")
 
 #### Step 2 - Determine the Costs and Benefits in the Chain based on the Framework.
 
 In step 2, a cost-benefit model is drawn up. In generic terms, what are the one-off investments, the operating costs and the benefits in relation to the standard? For many standards they will be relatively equal. This makes it possible to start with the model from the jewellery sector, in which the necessary adjustments can be made. The model for the jewellery sector is reproduced below.
 
-![Benefits jewelers sector](images/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits jewellery sector")
+![Benefits jewelers sector](media/BOMOS-6_Batenmodel-juweliersbranche-blanco_EN.png "Benefits jewellery sector")
 
 #### Step 3 - Allocate the Costs and Benefits to the various Stakeholders.
 

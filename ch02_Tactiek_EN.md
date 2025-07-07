@@ -118,7 +118,7 @@ As previously outlined, interoperability is the objective and standards are the 
 
 A complex set of standards is needed to achieve interoperability (exchangeability) between organisations or systems. This makes the subject extremely complex, because it is no longer a question of selecting or managing a single standard, but a whole set of standards that are very closely related in certain areas. It is possible to make a distinction between standards for technical matters and standards for the semantics of information exchange. This is demonstrated by the interoperability framework (based on Jian, H., & Zhao, H. (2003). A Conceptual Model for Comparative Analysis of Standardization of Vertical Industry Languages); the examples between brackets are somewhat outdated examples of standards that can be used for this structure.
 
-![The stratification of standards](images/BOMOS-7_Gelaagdheid-van-standaarden_EN.png "The stratification of standards")
+![The stratification of standards](media/BOMOS-7_Gelaagdheid-van-standaarden_EN.png "The stratification of standards")
 
 
 
@@ -234,7 +234,7 @@ Generally speaking, in these situations, the following activities can be underta
 * Remove items from the standard (Omissions)
 * Temporarily adapt the standard (we make the necessary adaptations to the international standard, but only need a solution that is temporary, until the international standard is adapted) Temporary Adaptations)  
 
-![Adoption paths of a standard](images/BOMOS-8_Adoptiepaden_EN.png "Adoption paths of a standard")
+![Adoption paths of a standard](media/BOMOS-8_Adoptiepaden_EN.png "Adoption paths of a standard")
 
 The strategies:
 
@@ -371,7 +371,7 @@ Where there is a high likelihood of individual adoption, the best choice is gene
 
 As a rule, an average likelihood of individual adoption will result in a financial tool. The organisation needs a gentle nudge to encourage adoption of the standard. Where the likelihood of individual adoption is low, the most successful choice is a legal tool. Unless required to do so, the organisation is unlikely to take the decision to adopt the standard.
 
-![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco_EN.png "Choices for adoption")
+![alt_text](media/BOMOS-9_Adoptiekeuzes-blanco_EN.png "Choices for adoption")
 
 ### Plugfest
 
@@ -465,9 +465,9 @@ Some of these suggestions are more strategic in nature (e.g. transforming Floric
 
 A study among 37 management organisations for standards (including international standards such as XBRL, HR-XML, ACORD and HL7 and national standards such as SETU, StUF and Aquo) reveals that more than 90 percent of the consulted developers of standards believe that the quality of their standard can be improved (see the figures below). A very large majority also believes that improving the quality of their standards would contribute to better interoperability.
 
-![Results of a user research study into the standardisation process](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces_EN.png "results of a user research study into the standardisation process")
+![Results of a user research study into the standardisation process](media/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces_EN.png "results of a user research study into the standardisation process")
 
-![Results of a user research study into the quality of standardisation](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit_EN.png "Results of a user research study into the quality of standardisation")
+![Results of a user research study into the quality of standardisation](media/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit_EN.png "Results of a user research study into the quality of standardisation")
 
 #### So what needs to be done?
 
@@ -503,7 +503,7 @@ graph TD;
     quality-->practice;
     product-->standard;
     process-->organisation;
-    practice->implementation;
+    practice-->implementation;
 ```
   <figcaption>The quality model</figcaption>
 </figure>
@@ -602,7 +602,7 @@ The relationship between interoperability and standards is that of the end and t
 
 The quality model summarised in the figure below can be a valuable tool in that process. If you choose to use it, we strongly recommend studying the complete instrument [[[folmer2012]]], and even considering preparing a tailor-made instrument by making a careful selection from the quality model. 
 
-![Quality instruments](images/BOMOS-12_Kwaliteitsinstrumenten-blanco_EN.png "Quality instruments")
+![Quality instruments](media/BOMOS-12_Kwaliteitsinstrumenten-blanco_EN.png "Quality instruments")
 
 The quality model is a starting point to be used for evaluating the quality of a standard. Nevertheless, the model must be deployed in a cost-effective manner. In many cases, the wish is to carry out a quality measurement in just a few hours. In that case, the costs are fairly limited and the benefits will quickly exceed the costs. 
 
