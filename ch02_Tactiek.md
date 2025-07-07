@@ -298,7 +298,7 @@ Analysis of Standardization of Vertical Industry Languages.) laat dit
 zien; tussen haakjes staan engiszins verouderde voorbeelden van
 standaarden waarmee dit kan worden ingevuld.
 
-![De gelaagdheid van standaarden](images/BOMOS-7_Gelaagdheid-van-standaarden.png "De gelaagdheid van standaarden")
+![De gelaagdheid van standaarden](media/BOMOS-7_Gelaagdheid-van-standaarden.png "De gelaagdheid van standaarden")
 
 Voor technische interoperabiliteit moeten er keuzes gemaakt worden,
 waarbij vaak gekozen wordt voor een technische filosofie waarbij een
@@ -630,7 +630,7 @@ Algemeen gesproken kunnen dan de volgende activiteiten ondernomen worden:
 *   Zaken uit de standaard halen (Ommissions)
 *   Passen de standaard tijdelijk aan (we brengen de gewenste aanpassingen in bij de internationale standaard, maar hebben nu een oplossing nodig die tijdelijk is, totdat de internationale standaard is aangepast) (Temporary Adaptations)  
 
-![Adoptiepaden van een standaard](images/BOMOS-8_Adoptiepaden.png "Adoptiepaden van een standaard")
+![Adoptiepaden van een standaard](media/BOMOS-8_Adoptiepaden.png "Adoptiepaden van een standaard")
 
 De strategieën:
 
@@ -812,7 +812,7 @@ tot adoptie van de standaard. Een lage individuele adoptiekans leidt
 doorgaans tot een juridisch middel. Zonder dwang zal een organisatie
 waarschijnlijk niet overgaan tot adoptie van de standaard.
 
-![alt_text](images/BOMOS-9_Adoptiekeuzes-blanco.png "Adoptiekeuzes")
+![alt_text](media/BOMOS-9_Adoptiekeuzes-blanco.png "Adoptiekeuzes")
 
 ### Plugfest
 
@@ -1021,9 +1021,9 @@ figuren). Daarnaast vindt ook een zeer ruime meerderheid dat een
 verbetering in kwaliteit van hun standaarden zal bijdragen aan betere
 interoperabiliteit.
 
-![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](images/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
+![Resultaten van een gebruikersonderzoek naar het standaardisatieproces](media/BOMOS-10_Resultaten-van-een-gebruikersonderzoek-naar-proces.png "Resultaten van een gebruikersonderzoek naar het standaardisatieproces")
 
-![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](images/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
+![Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden](media/BOMOS-11_Resultaten-van-een-gebruikersonderzoek-naar-kwaliteit.png "Resultaten van een gebruikersonderzoek naar kwaliteit van standaarden")
 
 #### Wat moet er dan gebeuren?
 
@@ -1238,7 +1238,7 @@ hulpmiddel zijn. Bij toepassing is het sterk aan te raden om het complete
 instrument te bestuderen [[[folmer2012]]], en zelfs te overwegen om een maatwerk 
 instrument te maken door slechts een selectie uit het kwaliteitsmodel mee te nemen. 
 
-![Kwaliteitsinstrumenten](images/BOMOS-12_Kwaliteitsinstrumenten-blanco.png "Kwaliteitsinstrumenten")
+![Kwaliteitsinstrumenten](media/BOMOS-12_Kwaliteitsinstrumenten-blanco.png "Kwaliteitsinstrumenten")
 
 Het kwaliteitsmodel is een startpunt om te gebruiken om de kwaliteit van een standaard 
 te bekijken. Maar het moet wel kosteneffectief worden ingezet. In veel gevallen is het 
