@@ -1092,23 +1092,7 @@ zodat het inzetbaar als instrument is.  Het volledige kwaliteitsmodel
 (en instrument) is onderdeel van het proefschrift [[[folmer2012]]].
 
 <figure id="kwaliteitmodel">
-
-```mermaid
-graph TD;
-    kwaliteit(Kwaliteitsmodel van semantische standaard);
-    product(A. Product kwaliteit);
-    proces(B. Proces kwaliteit);
-    praktijk(C. Kwaliteit in de praktijk);
-    standaard((Maatregel in<br>inhoud,<br><i>de standaard</i>));
-    organisatie((Maatregel in<br>ontwikkeling en<br>onderhoud,<br><i>de organisatie</i>));
-    implementatie((Maatregel in<br>toepassing,<br><i>de implementatie</i>));
-    kwaliteit-->product;
-    kwaliteit-->proces;
-    kwaliteit-->praktijk;
-    product-->standaard;
-    proces-->organisatie;
-    praktijk-->implementatie;
-```
+  <div class="mermaid" data-figure-name="kwaliteitmodel.mermaid"></div>
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
 
