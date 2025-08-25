@@ -1,4 +1,7 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+import { generateMermaidFigures } from "https://logius-standaarden.github.io/publicatie/respec/plugins/mermaid.mjs";
+
+loadRespecWithConfiguration({
   alternateFormats: [ { 
         "label" : "pdf",
         "uri" : "BOMOS-Verdieping.pdf"
@@ -44,5 +47,5 @@ var respecConfig = {
   specStatus: "WV",
   specType: "HR",
 
-  postProcess: [window.respecMermaid.createFigures],
-};
+  postProcess: [ generateMermaidFigures ],
+});
