@@ -27,6 +27,11 @@ loadRespecWithConfiguration({
         "company" : "TNO",
         "companyURL" : "https://www.tno.nl/nl/",
         "name" : "Wouter van den Berg"
+      },
+      { 
+        "company" : "TNO",
+        "companyURL" : "https://www.tno.nl/nl/",
+        "name" : "Wouter van den Berg"
       }
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
@@ -39,6 +44,7 @@ loadRespecWithConfiguration({
 
 
   shortName: "verdieping",
+  specStatus: "DEF",
   specStatus: "DEF",
   specType: "HR",
 
