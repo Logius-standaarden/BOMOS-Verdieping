@@ -729,8 +729,8 @@ Voor een volwassen standaard is het eenvoudiger om inkomsten te
 genereren uit de standaard zelf of aanverwante diensten, maar daarbij
 moet men voorzichtig te werk gaan om zo min mogelijk weerstand tegen
 de standaard te creëren. Een standaard die zichzelf kan financieren
-uit inkomsten, bijvoorbeeld door lidmaatschapsgeld en
-licentie-inkomsten, kan nog steeds een open standaard zijn. Winst
+uit inkomsten, bijvoorbeeld door lidmaatschapsgeld (op vrijwillige basis),
+kan nog steeds een open standaard zijn. Winst
 maken is uit den boze. Om dit te voorkomen kan de organisatievorm een
 belangrijke rol spelen. In de praktijk is het lastig om het free
 riders (wel meeprofiteren zonder bijdrage) probleem goed te
