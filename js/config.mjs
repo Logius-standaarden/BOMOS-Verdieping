@@ -2,10 +2,6 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 import { generateMermaidFigures } from "https://logius-standaarden.github.io/publicatie/respec/plugins/mermaid.mjs";
 
 loadRespecWithConfiguration({
-  alternateFormats: [ { 
-        "label" : "pdf",
-        "uri" : "BOMOS-Verdieping.pdf"
-      } ],
   authors: [ { 
         "company" : "HAN University of Applied Sciences",
         "companyURL" : "https://www.han.nl/",
@@ -35,16 +31,15 @@ loadRespecWithConfiguration({
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   maxTocLevel: 3,
-  nl_markdownTableClass: "dkkvs",
   previousMaturity: "DEF",
-  previousPublishVersion: "3.0.0",
+  previousPublishVersion: "3.0.1",
   pubDomain: "bomos",
-  publishDate: "2023-11-02",
-  publishVersion: "3.0.1",
+  publishDate: "2025-09-19",
+  publishVersion: "3.1.0",
 
 
   shortName: "verdieping",
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "HR",
 
   postProcess: [ generateMermaidFigures ],
