@@ -1572,7 +1572,7 @@ De meeste beheerorganisaties bieden hulpmiddelen voor het valideren van het gebr
   [Validatie services van Geonovum](http://validatie.geostandaarden.nl/)
 
 * Kennisnet:  
-  [Edustandaard Testvoorziening](https://testvoorziening.edustandaard.nl/)
+  _Edustandaard Testvoorziening_
 * SETU:  
   [SETU Support tool](https://setu.semantic-treehouse.nl/#/ext/eValidator)  
 (alleen toegankelijk voor deelnemers in SETU).
