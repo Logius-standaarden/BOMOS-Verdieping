@@ -36,7 +36,7 @@ loadRespecWithConfiguration({
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   maxTocLevel: 3,
-  previousMaturity: "DEF",
+  previousMaturity: "WV",
   previousPublishVersion: "3.0.1",
   pubDomain: "bomos",
   publishDate: "2025-09-19",
