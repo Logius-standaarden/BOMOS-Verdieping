@@ -36,16 +36,13 @@ loadRespecWithConfiguration({
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Verdieping",
   maxTocLevel: 3,
-  previousMaturity: "WV",
   previousPublishVersion: "3.0.1",
   pubDomain: "bomos",
   publishDate: "2025-09-19",
   publishVersion: "3.1.0",
 
-
   shortName: "verdieping",
-  specStatus: "DEF",
-  specStatus: "DEF",
+  specStatus: "WV",
   specType: "HR",
 
   postProcess: [ generateMermaidFigures ],
